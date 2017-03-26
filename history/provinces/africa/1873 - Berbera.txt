@@ -1,0 +1,8 @@
+trade_goods = cotton
+life_rating = 15terrain = semi_desert_hills
+1914.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 3
+	naval_base = 4
+}

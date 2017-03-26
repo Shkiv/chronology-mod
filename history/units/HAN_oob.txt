@@ -1,0 +1,71 @@
+leader = {
+	name = "Õüş Õàëêåòò"
+	picture = han_gen_halkett
+	date = 1835.1.1
+	type = land
+	personality = earnest
+	background = school_of_offense
+}
+leader = {
+	name = "Êàğë Àâãóñò ôîí Àëüòåí"
+	picture = han_gen_alten
+	date = 1812.1.1
+	type = land
+	personality = spirited
+	background = old_school
+}
+leader = {
+	name = "Ãåîğã ôîí Áåğèíã"
+	picture = han_gen_baring
+	date = 1834.1.1
+	type = land
+	personality = resolute
+	background = school_of_defense
+}
+leader = {
+	name = "Şëèóñ ôîí Ãàğòìàí"
+	picture = han_gen_hartmann
+	date = 1818.1.1
+	type = land
+	personality = spirited
+	background = artillerist
+}
+
+army = {
+	name = "Hannöversche Heer"
+	location = 534
+	regiment = {
+		name= "1. Hannöversche Infanteriebrigade"
+		type = infantry
+		home = 534
+	}
+
+	regiment = {
+		name= "2. Hannöversche Infanteriebrigade"
+		type = infantry
+		home = 535
+	}
+
+	regiment = {
+		name= "3. Hannöversche Infanteriebrigade"
+		type = infantry
+		home = 531
+	}
+
+	regiment = {
+		name= "1. Hannöversche Artilleriebrigade"
+		type = artillery
+		home = 532
+	}
+}
+
+army = {
+	name = "Korps Göttingen"
+	location = 537
+	
+	regiment = {
+		name = "4. Hannöversche Infanteriebrigade"
+		type = infantry
+		home = 537
+	}	
+}

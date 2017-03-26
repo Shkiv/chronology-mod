@@ -1,0 +1,14 @@
+
+add_core = CHI
+trade_goods = grain
+life_rating = 35
+terrain = desert
+owner = CHI
+controller = CHI
+1914.1.1 = {
+	add_core = XIN
+}
+1923.1.1 = {
+	owner = XIN
+	controller = XIN
+}

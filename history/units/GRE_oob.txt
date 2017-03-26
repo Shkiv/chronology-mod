@@ -1,0 +1,93 @@
+leader = {
+	name = "Геннадиос Колокотронис"
+	picture = gre_gen_kolokotronis
+	date = 1833.1.1
+	type = land
+	personality = aweless
+	background = powerful_friends
+}
+leader = {
+	name = "Деметриос Калергис"
+	picture = gre_gen_kalergis
+	date = 1836.1.1
+	type = land
+	personality = impetuous
+	background = cavalry_school
+}
+
+army = {
+	name = "Stratуs Thessalнas"
+	location = 836
+	regiment = {
+		name= "1. Taxiarchia Pezikou"
+		type = infantry
+		home = 834
+	}
+
+	regiment = {
+		name= "2. Taxiarchia Pezikou"
+		type = infantry
+		home = 836
+	}
+
+	regiment = {
+		name= "3. Taxiarchia Pezikou"
+		type = infantry
+		home = 835
+	}
+
+	regiment = {
+		name= "4. Taxiarchia Pezikou"
+		type = infantry
+		home = 838
+	}
+
+	regiment = {
+		name= "5. Taxiarchia Pezikou"
+		type = infantry
+		home = 845
+	}
+}
+
+army = {
+	name = "Stratуs Epeнrou"
+	location = 837
+	regiment = {
+		name= "6. Taxiarchia Pezikou"
+		type = infantry
+		home = 837
+	}
+
+	regiment = {
+		name= "7. Taxiarchia Pezikou"
+		type = infantry
+		home = 841
+	}
+
+	regiment = {
+		name= "8. Taxiarchia Pezikou"
+		type = infantry
+		home = 842
+	}
+}
+
+navy = {
+	name = "Hellenic Navy"
+	location = 834
+	ship = {
+		name= "Amalia"
+		type = frigate
+	}
+
+	ship = {
+		name= "Loudovikos"
+		type = frigate
+	}
+
+	ship = {
+		name= "Leda"
+		type = clipper_transport
+	}
+
+}
+

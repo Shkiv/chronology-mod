@@ -1,0 +1,114 @@
+#Holy Alliance
+alliance = {
+	first = "RUS"
+	second = "PRU"
+	start_date = 1830.1.1
+	end_date = 1915.9.14
+}
+alliance = {
+	first = "RUS"
+	second = "AUS"
+	start_date = 1830.1.1
+	end_date = 1915.9.14
+}
+alliance = {
+	first = "AUS"
+	second = "PRU"
+	start_date = 1830.1.1
+	end_date = 1915.9.14
+}
+
+alliance=
+	{
+		first="BOL"
+		second="PEU"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}
+# Антанта
+alliance = {
+	first = "RUS"
+	second = "FRA"
+	start_date = 1891.7.11
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "ENG"
+	second = "FRA"
+	start_date = 1904.4.8
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "ENG"
+	second = "RUS"
+	start_date = 1907.8.18
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "RUS"
+	second = "SER"
+	start_date = 1891.7.11
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "ENG"
+	second = "SER"
+	start_date = 1891.7.11
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "FRA"
+	second = "SER"
+	start_date = 1891.7.11
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "FRA"
+	second = "GRE"
+	start_date = 1891.7.11
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "RUS"
+	second = "ROM"
+	start_date = 1891.7.11
+	end_date = 1918.1.1
+}
+
+# Центральные державы
+alliance = {
+	first = "GER"
+	second = "KUK"
+	start_date = 1882.5.20
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "GER"
+	second = "BUL"
+	start_date = 1914.1.1
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "GER"
+	second = "TUR"
+	start_date = 1914.1.1
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "KUK"
+	second = "BUL"
+	start_date = 1914.1.1
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "KUK"
+	second = "TUR"
+	start_date = 1914.1.1
+	end_date = 1918.1.1
+}
+alliance = {
+	first = "BUL"
+	second = "TUR"
+	start_date = 1914.1.1
+	end_date = 1918.1.1
+}

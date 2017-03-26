@@ -1,0 +1,14 @@
+add_core = USA
+trade_goods = cattle
+life_rating = 33
+colonial = 2
+terrain = dry_forest_mountains
+1861.1.1 = {
+owner = USA
+controller = USA
+add_core = USA
+}
+1914.1.1 = {
+	railroad = 2
+	trade_goods = precious_metal
+}

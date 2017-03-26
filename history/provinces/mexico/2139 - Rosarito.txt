@@ -1,0 +1,11 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = CAL
+add_core = SPA
+trade_goods = fruit
+life_rating = 40
+terrain = semi_desert_hills
+1836.1.1 = {
+	remove_core = SPA
+}

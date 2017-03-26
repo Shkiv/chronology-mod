@@ -1,0 +1,24 @@
+owner = AUS
+controller = AUS
+add_core = AUS
+add_core = HUN
+add_core = MOL
+add_core = ROM
+add_core = UKR
+add_core = SIE
+trade_goods = cattle
+life_rating = 35
+terrain = conifer_forest_mountains
+1914.1.1 = {
+	owner = KUK
+	controller = KUK
+	add_core = KUK
+	remove_core = AUS
+	railroad = 3
+}
+1923.1.1 = {
+	owner = ROM
+	controller = ROM
+	remove_core = KUK
+	remove_core = HUN
+}

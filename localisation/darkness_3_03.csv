@@ -1,0 +1,13 @@
+GIVE_UNIT_COMMAND_BUTTON;Командование войсками;;Kontrolliere Einheiten;;;;;;;;x
+GIVE_UNIT_COMMANDTITLE;Командование войсками;;Kontrolliere Einheiten;;;;;;;;x
+GIVE_UNIT_COMMAND_DESC;Во время совместного ведения войны, владелец сателлита может взять командование ее армией на себя.;;Wдhrend sie gemeinsam einen Krieg bestreiten, darf der Herrscher die Kontrolle ьber die Einheiten seiner Marionetten ьbernehmen.;;;;;;;;x
+GIVE_UNIT_COMMAND_OK;Попросить сателлита предоставить контроль над их войсками.;;Frage deine Marionette, ob sie die Kontrolle ьber ihre Einheiten zurьckerlangen will.;;;;;;;;x
+GIVE_UNIT_COMMAND_CANT_CONTROL;Вы можете командовать войсками ваших §Yсателлитов§! только когда вы воюете вместе.;;Sie kцnnen die Einheiten Ihrer §YMarionetten§! nur dann kontrollieren, wenn Sie gemeinsam einen Krieg bestreiten.;;;;;;;;x
+GIVE_UNIT_COMMAND_ALREADY_CONTROL;Их подразделения уже контролируются вами.;;Sie kontrollieren schon ihre Einheiten.;;;;;;;;x
+CANCEL_UNIT_COMMAND_BUTTON;Вернуть войска;;Einheiten zurьckgeben;;;;;;;;x
+CANCEL_UNIT_COMMANDTITLE;Вернуть войска;;Einheiten zurьckgeben;;;;;;;;x
+CANCEL_UNIT_COMMAND_DESC;Вернуть войска;;Einheiten zurьckgeben;;;;;;;;x
+CANCEL_UNIT_COMMAND_OK;Вернуть их войска.;;Geben Sie ihnen ihre Einheiten zurьck.;;;;;;;;x
+CANCEL_UNIT_COMMAND_NOT_IN_CONTROL;Вы не командуете этими войсками.;;Sie kontrollieren diese Einheit nicht.;;;;;;;;x
+cut_down_to_size_boxer_setup;Заставить Китай заплатить за преступления боксеров.;;Zwinge China, fьr die Verbrechen der Boxer-Rebellen zu bьЯen.;;;;;;;;x
+cut_down_to_size_boxer_short;Заставить Китай заплатить за преступления боксеров.;;Zwinge China, fьr die Verbrechen der Boxer zu bьЯen.;;;;;;;;x

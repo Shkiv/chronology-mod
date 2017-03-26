@@ -1,0 +1,172 @@
+capital = 1745
+primary_culture = misri
+religion = sunni
+government = absolute_monarchy
+plurality = 0.0
+nationalvalue = nv_order
+literacy = 0.03
+
+ruling_party = EGY_conservative
+upper_house = {
+	fascist = 0
+	liberal = 10
+	conservative = 72
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+foreign_navies = yes_foreign_navies
+military_constructions = yes_military_constructions
+
+
+
+flintlock_rifles = 1
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+oob = "/1816/EGY_oob.txt"
+1836.1.1 = {
+literacy = 0.05
+
+
+taxation_reform = tax_farmers
+admin_reform = yes_admin_reform
+army_schools = yes_army_schools
+
+napoleonic_thought = 1
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+muzzle_loaded_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+iron_muzzle_loaded_artillery = 1
+military_staff_system = 1
+army_command_principle = 1
+army_professionalism = 1
+nelsonian_thought = 1
+the_command_principle = 1
+joint-stock_companies = 1
+no_standard = 1
+division_of_labour = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+water_wheel_power = 1
+manufactories = 1
+
+oob = "EGY_oob.txt"
+
+}
+1861.1.1 = {
+	oob = "/1861/EGY_oob.txt"
+	prestige = 5
+	literacy = 0.10
+	non_state_culture_literacy = 0.05
+
+	#Economic Reforms
+	land_reform = yes_land_reform
+	finance_reform = yes_finance_reform
+	finance_reform = finance_reform_two #International Debt
+
+	#Military Reforms
+	foreign_training = yes_foreign_training
+	foreign_weapons = yes_foreign_weapons
+
+	#Technology
+	private_banks = 1
+
+}
+
+slavery = yes_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = jefferson_method
+political_parties = underground_parties
+immigration_policy = nobody_gets_out
+conscription = mandatory_service
+minorities = oppression
+
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+pollution = no_controls
+child_labor = child_labor_legal
+education = elite
+arts_endowment = no_endowment
+
+1923.1.1 = {
+
+civilized = yes
+
+decision = sign_the_geneva_convention
+
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+water_wheel_power = 1
+publishing_industry = 1
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+army_professionalism = 1
+private_banks = 1
+stock_exchange = 1
+no_standard = 1
+freedom_of_trade = 1
+guild_based_production = 1
+organized_factories = 1
+classicism_n_early_romanticism = 1
+romanticism = 1
+late_enlightenment_philosophy = 1
+idealism = 1
+enlightenment_thought = 1
+water_wheel_power = 1
+publishing_industry = 1
+mechanical_production = 1
+experimental_railroad = 1
+early_railroad = 1
+post_nelsonian_thought = 1
+alphabetic_flag_signaling = 1
+the_command_principle = 1
+military_staff_system = 1
+
+napoleonic_thought = 1
+nelsonian_thought = 1
+steamers_with_paddle_wheel = 1
+marine_engineering_basics = 1
+marine_chronometers = 1
+naval_academies = 1
+joint-stock_companies = 1
+bimetallism = 1
+physiocracy = 1
+state_mercantilism = 1
+division_of_labour = 1
+sentimentalism = 1
+fundamentals_of_psychology = 1
+manufactories = 1
+animal-powered_railroad = 1
+thermodynamics = 1
+
+oob = "/1923/EGY_oob.txt"
+}

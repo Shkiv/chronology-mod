@@ -1,0 +1,176 @@
+color = { 116  107  140 }
+graphical_culture = EuropeanGC
+
+party = {
+	name = "BUL_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "BUL_conservative"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "BUL_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "BUL_reactionary"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "BUL_anarcho_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "BUL_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "BUL_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+	"София"
+	"Варна"
+	"Бургас"
+	"Пловдив"
+	"Стара"
+	"Загора"
+}
+
+
+	ironclad = {
+	"Крум"
+	"Иван"
+	"Александар"
+	"Левски"
+	"Ботев"
+	"Александров"
+}
+
+
+	manowar = {
+	"Любен"
+	"Каравелов"
+	"Стойков"
+	"Раковски"
+	"Панайот"
+	"Хитов"
+	"Каравело"
+	"Стефан"
+	"Караджа"
+}
+
+
+	cruiser = {
+	"Марица"
+	"Искар"
+	"Вит"
+	"Осам"
+	"Янтра"
+}
+
+
+	frigate = {
+	"Мусала"
+	"Руи"
+	"Беласика"
+	"Вра"
+	"Ботева"
+	"Било"
+}
+
+
+	monitor = {
+	"Константинов"
+	"Дальчев"
+	"Дебелянов"
+	"Войкиков"
+	"Вазов"
+}
+
+
+	
+	
+	commerce_raider = {
+	"Калиакра"
+	"Враца"
+	"Велико"
+	"Тырново"
+	"Сливен"
+	"Коприва"
+}
+
+
+}

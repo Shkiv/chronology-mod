@@ -1,0 +1,18 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = AZB
+add_core = TCR
+#terrain = city_1102
+terrain = hills
+trade_goods = grain
+life_rating = 35
+1914.1.1 = {
+	trade_goods = oil
+}
+1923.1.1 = {
+	owner = SOV
+	controller = SOV
+	add_core = SOV
+	remove_core = RUS
+}

@@ -1,0 +1,17 @@
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = tobacco
+life_rating = 35
+terrain = deciduous_forest_mountains
+1861.1.1 = {
+	owner = CSA
+	controller = CSA
+	add_core = CSA
+}
+1914.1.1 = {
+	railroad = 5
+	owner = USA
+	controller = USA
+	remove_core = CSA
+}

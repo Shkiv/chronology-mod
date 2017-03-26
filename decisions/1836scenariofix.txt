@@ -1,0 +1,112 @@
+political_decisions = {	
+
+	japan_sakoku = {
+		potential = {
+			is_greater_power = no
+			is_greater_power = yes
+		}
+		allow = {
+		}
+		effect = {
+			set_country_flag = sakoku_applied
+			add_country_modifier = {
+				name = imperious_autocrat
+				duration = -1
+			}
+			any_pop = {
+				ideology = {
+					value = conservative
+					factor = 0.6
+				}
+				ideology = {
+					value = reactionary
+					factor = 0.4
+				}
+			}
+			aristocrats = {
+				ideology = {
+					value = reactionary
+					factor = 0.4
+				}
+			}
+			add_country_modifier = {
+				name = sakoku
+				duration = -1
+			}
+		}
+	}
+	japan_rangoku = {
+		potential = {
+			is_greater_power = no
+			is_greater_power = yes
+		}
+		allow = {
+		}
+		effect = {
+			set_country_flag = rangaku_applied
+			random_owned = {
+				limit = {
+					owner = { tag = SAT }
+				}
+				owner = {		
+					add_country_modifier = {
+						name = visionary_thinker
+						duration = -1
+					}
+				}
+			}
+			random_owned = {
+				limit = {
+					owner = { NOT = { tag = SAT } }
+				}
+				owner = {		
+					add_country_modifier = {
+						name = military_man
+						duration = -1
+					}
+				}
+			}
+			any_pop = {
+				ideology = {
+					value = conservative
+					factor = 0.5
+				}
+				ideology = {
+					value = reactionary
+					factor = 0.1
+				}
+			}
+			add_country_modifier = {
+				name = sayings_of_the_dutch
+				duration = -1
+			}
+			random_owned = {
+				limit = { province_id = 1661 }
+				any_pop = {
+					ideology = {
+						value = liberal
+						factor = 0.2
+					}
+				}
+				add_province_modifier = {
+					name = foreign_trading_post
+					duration = -1
+				}
+			}
+		}
+	}
+	rename_1836 = {
+		potential = {
+			is_greater_power = no
+			is_greater_power = yes
+		}
+		allow = {
+		}
+		effect = {
+			set_country_flag = rangaku_applied
+			1049 = {
+				change_province_name = "Новороссийск"
+			}
+		}
+	}
+}

@@ -1,0 +1,42 @@
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = fish
+life_rating = 35
+terrain = forested_farmland
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = steamer_shipyard
+		upgrade = yes
+	}
+}
+1861.1.1 = { railroad = 3 }
+1914.1.1 = {
+	railroad = 5
+	state_building = {
+		level = 10
+		building = regular_clothes_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 10
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 10
+		building = electric_gear_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 10
+		building = aeroplane_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 10
+		building = machine_parts_factory
+		upgrade = yes
+	}
+}

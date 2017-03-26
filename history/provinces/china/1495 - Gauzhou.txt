@@ -1,0 +1,15 @@
+add_core = CHI
+trade_goods = silk
+life_rating = 35
+add_core = GNG
+owner = CHI
+controller = CHI
+terrain = forested_farmland
+1914.1.1 = {
+	owner = CHI
+	controller = CHI
+}
+1923.1.1 = {
+	owner = GNG
+	controller = GNG
+}

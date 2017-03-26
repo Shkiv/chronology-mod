@@ -1,0 +1,15 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = coal
+life_rating = 35
+terrain = deciduous_forest_hills
+1914.1.1 = {
+	owner = CHI
+	controller = CHI
+}
+1923.1.1 = {
+	owner = FJN
+	controller = FJN
+	add_core = FJN
+}

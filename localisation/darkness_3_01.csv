@@ -1,0 +1,288 @@
+DIPLOMACY_AI_ACCEPTANCE;§Y$COUNTRY_ADJ$§W ответ: §Y$ODDS$§W;;§Y$COUNTRY$§Ws Antwort: §Y$ODDS$§W;;;;;;;;x;;;
+TOO_SOON_FOR_REFORM;Мы должны ждать до §Y$DATE$§W чтобы провести новую реформу.;;Wir mьssen bis §Y$DATE$§W warten, bevor wir eine weitere Reform erlassen kцnnen.;;;;x;;;;;;;
+SIEGE_EXTRA_ATTR;§R+$VAL$%§W истощение от сопротивления оккупации;;§R+$VAL$%§W Zermьrbung durch Widerstand gegen die Besetzung;;;;x;;;;;;;
+NO_SEPARATE_PEACE_CRISIS;Мы не можем заключать сепаратный мир в кризисной войне;;Wir kцnnen in einem Konfliktkrieg keinen separaten Frieden verhandeln ;;;;;;;;;;;x
+CRISIS_RESOLUTION_EFFECTS;Урегулирование кризиса в этой ситуации даст вам $VAL$ престижа.;;Die Beilegung des Konflikts auf diese Weise wird Euch $VAL$ Prestige geben.;;;;;;;;;;;x
+CRISIS_RESOLUTION_RELATIONS;Отношения со следующими странами изменятся:;;Die Beziehungen mit folgenden Lдndern werden sich дndern:;;;;;;;;;;;x
+flintlock_rifle_armament;Кремнёвое стрелковое вооружение;;Steinschlossgewehr-Aufrьstung;;;;;;;;;;;x
+flintlock_rifle_armament_desc;Появившееся в начале XVII века, оружие с кремнёвым замком быстро вытеснило старые типы зажигательных механизмов, таких как самопал или колесцовый замок. Оно по-прежнему находится в общем пользовании более двух столетий, в течении этого времени был заменён пистон, а позже добавлена магазинная система.  Хоть кремнёвое оружие и вышло из массового производства, оно продолжает пользоваться популярностью у любителей пороховой стрельбы.;;Das Steinschloss wurde im frьhen 17. Jahrhundert eingefьhrt und ersetzte schnell die дlteren Auslцsemechanismen fьr Schusswaffen, wie z.B. das Schnappschloss, Luntenschloss oder Radschloss. Es war mehr als zwei Jahrzehnte im Einsatz, bevor es vom Zьndhьtchen und spдter, Anfang bis Mitte des 19. Jahrhunderts, von patronenbasierten Systemen abgelцst wurde. Auch wenn sie schon lange von modernen Feuerwaffen verdrдngt wurden, erfreuen sich Steinschlosswaffen bei Schwarzpulver-Liebhabern immer noch groЯer Beliebtheit.;;;;;;;;;;;x
+post_napoleonic_army_doctrine;Посленаполеоновская военная доктрина;;Post-Napoleonische Armee-Doktrin;;;;;;;;;;;x
+post_napoleonic_army_doctrine_desc;Французская революция и Наполеоновские войны, вызвали также революцию в военной стратегии. Влияние этого периода ощущалось как американской гражданской войне, так и на ранних этапах Первой Мировой. С появлением дешевого стрелкового оружия и высоким ростом населения, армия быстро росла в размерах, что привело к изменению в ее структуре. Потребовалось разделить армию сначала на дивизии, а затем и на корпуса. Наряду с пехотными подразделениями также появилась дивизионная артиллерия - легкие, мобильные пушки с огневым диапазоном и мощью. Жесткая формация пикенеров и мушкетеров, стрелявших массивными залпами, дала путь легкой пехоте, участвовавшей в небольших стычках.;;Die franzцsische Revolution und die nachfolgenden Napoleonischen Kriege revolutionierten militдrische Strategien. Der Einfluss dieser Periode war noch im amerikanischen Bьrgerkrieg und den Anfangsphasen des ersten Weltkriegs spьrbar. Mit dem Aufstieg billiger Handfeuerwaffen und der zum Kriegsdienst verpflichteten Bьrger, wuchsen die Armeen stark zu Massenformationen an. Dies machte es erforderlich, Armeen zunдchst in Divisionen und spдter inKorps aufzuteilen. Mit den Divisionen kam die Divisionsartillerie: leichte, mobile Kanonen mit groЯer Reichweite und Feuerkraft. Rigide Formationen von Pikenieren und Musketieren feuerten massive Salven ab und machten der leichten Infanterie in den Schьtzenlinien den Weg frei.;;;;;;;;;;;x
+muzzle_loaded_rifle_armament;Дульнозарядное стрелковое вооружение;;Vorderlader-Aufrьstung;;;;;;;;;;;x
+muzzle_loaded_rifle_armament_desc;Дульнозарядное ружье - это оружие, в котором снаряд и метательный заряд загружается с дула, в отличии от казеннозарядных винтовок. Первое ручное дульнозарядное оружие появилось в 40-х годах XV века. Самым известным дульнозарядным ружьем стала Винтовка Кентукки, которая на самом деле была создана в Пенсильвании. Это американская винтовка за основу которой взят немецкий "Jager".;;Vorderlader sind Waffen, deren Projektile und Ladungen durch den Lauf geladen werden, im Gegensatz zu den Hinterladern. Handgewehre waren in den 1740ern weit entwickelt. Ein bekannter Vorderlader ist das Kentucky-Gewehr, das in Pennsylvania entwickelt wurde. Das amerikanische Langgewehr wurde vom deutschen Jagdgewehr weiterentwickelt.;;;;;;;;;;;x
+breech_loaded_rifle_armament;Казеннозарядное стрелковое вооружение;;Hinterlader-Aufrьstung;;;;;;;;;;;x
+breech_loaded_rifle_armament_desc;Казеннозарядное оружие - это огнестрельное оружие, в которое патрон или снаряд заряжается в специальную камеру в задней части ствола. Несмотря на то, что казеннозарядное оружие было разработаны еще в конце XIV века, повсеместное его использование началось с появлением точного машиностроения в XIX веке.;;Ein Hinterlader ist eine Feuerwaffe, die mit Patronen oder Granaten in einer Kammer am hinteren Lauf der Waffe geladen wird. Auch wenn Hinterlader schon im spдten 14. Jahrhundert entwickelt wurden, wurden sie erst mit Verbesserungen in der Prдzision und ihrer Bauweise im 19. Jahrhundert erfolgreicher.;;;;;;;;;;;x
+bolt_action_rifle_armament;Скользящий затвор;;Kammerverschluss-Aufrьstung;;;;;;;;;;;x
+bolt_action_rifle_armament_desc;Скользящий затвор - механизм огнестрельного стрелкового оружия, обеспечивающий открывание и закрывание канала ствола путём прямолинейного поступательного движения затвора вдоль оси ствола. Впервые был применен в 1824 году Иоганном Николаусом фон Дрейзе в одноименной винтовке. Европейские армии продолжали совершенствовать этот механизм  вплоть до конца XIX века, и в 1898 году появилась Винтовка Маузера, одна из самых удачных и совершенных систем такого оружия.;;Beim Kammerverschluss wird der Waffenbolzen manuell durch das Цffnen und SchlieЯen des Hinterladerlaufs, mithilfe eines kleinen Hebels, betдtigt. Das erste Gewehr mit Kammerverschluss wurde 1824 von Johann Nikolaus von Dreyse bei seiner Arbeit an Hinterlader-Gewehren hergestellt. Europдische Armeen entwickelten diese Gewehre im spдten 19. Jahrhundert weiter und ihre Verwendung fand im ersten Weltkrieg ihren Hцhepunkt, als alle kriegsbeteiligten Nationen ihre Truppen mit verschiedenen Entwicklungen dieses Designs ausrьsteten.;;;;;;;;;;;x
+machine_gun_armament;Пулеметное вооружение;;Maschinengewehr-Aufrьstung;;;;;;;;;;;x
+machine_gun_armament_desc;"Пушка Гатлинга, запатентованная в 1861 году Ричардом Джорданом Гатлингом, была первым оружием, которое производило контролируемый последовательный огонь с автоматической загрузкой. Однако во время американской гражданской войны у этого оружия были выявлены серьезные недостатки, и впоследствии оно было усовершенствовано и широко использовано во франко-прусской войне и северо-западном восстании. Данное оружие активно использовалось вплоть до начала XX века. Первым же пулеметом с автономным питанием стал изобретенный в 1885 году сэром Хайрам Максимом ""Пулемет Максим"". Он использовал энергию отдачи оружия, которая до этого никак не использовалась, позволяя значительно увеличить темп стрельбы, чем это было возможно в более ранних конструкциях.";;Das Repetiergeschьtz wurde 1861 von Richard Jordan Gatling patentiert und bot als erstes die Mцglichkeit kontrollierter, aufeinanderfolgender Feuersalven mit automatischem Nachladen. Zu einem ersten, begrenzten Einsatz kam das Gewehr im amerikanischen Bьrgerkrieg. Es wurde fortlaufend weiterentwickelt und kam auch im Deutsch-Franzцsischen Krieg und im Nordwest-Widerstand zum Einsatz. Viele Gewehre wurden im spдten 19. Jahrhundert an andere Armeen verkauft und bis ins frьhe 20. Jahrhundert hinein verwendet. Das erste selbstladende Maschinengewehr wurde 1885 von Sir Hiram Maxim erfunden. Das Maxim-Maschinengewehr nutzte die Energie des RьckstoЯes zuvor abgeschossener Kugeln zum Nachladen, keinen Handantrieb, und erlaubte eine hцhere Feuerrate als frьhere Entwicklungen, wie z.B. das Nordenfelt und das Gatling-Gewehr.;;;;;;;;;;;x
+cuirassier_activation;Кирасиры;;Kьrassiere;;;;;;;;;;;x
+cuirassier_activation_desc;Кирасиры - конные войска, оснащенные броней и оружием, впервые появились в конце XV века в Европе. Первый кирасиры были хорошо защищены и использовали огнестрел в качестве основного оружия. Важное значение они получили в ходе наполеоновских войн, а в последний раз использовались на начальных этапах Первой Мировой Войны. Сейчас же кирасиры являются неотъемлемым атрибутом торжественных военных парадов во многих странах мира.;;Kьrassiere waren berittene Kavalleriesoldaten, ausgerьstet mit Rьstung und Feuerwaffen, und tauchten erstmals im spдten 15. Jahrhundert in Europa auf. Die ersten Kьrassiere waren das Ergebnis gepanzerter Kavallerie, wie z.B. den Landsknechten und Halb-Ulanen, die ihre Lanzen ablegten und Pistolen als ihre Hauptwaffen wдhlten. Sie gewannen durch die Napoleonischen Kriege groЯe Prominenz und wurden zuletzt zu Beginn des ersten Weltkrieges auf den Kriegsschauplдtzen gesehen. Kьrassiere werden bei vielen Lдndern weiterhin als zeremonielle Truppen eingesetzt.;;;;;;;;;;;x
+dragoon_activation;Драгуны;;Dragoner;;;;;;;;;;;x
+dragoon_activation_desc;Словом драгун первоначально называли конную пехоту - солдат, которые прошли обучение как верховой езде, так и навыкам пехоты. Тем не менее, использование этого термина в течении XVIII века изменилось, и драгуны превратились в обычную легкую кавалерию. Драгунские полки были созданы в большинстве европейских армий в конце XVII и начале XVII веков.;;Das Wort Dragoner bezog sich ursprьnglich auf berittene Infanterie, die sowohl im Reiten als auch in Kampfkьnsten der Infanterie  ausgebildet wurden. Mit der Zeit дnderte sich die Anwendung, sodass sich Dragoner im 18. Jahrhundert zu konventionellen, leichten Kavallerieeinheiten und Besatzungen entwickelten. Dragoner-Regimenter etablierten sich im spдten 17. und frьhen 18. Jahrhundert in den meisten Armeen Europas. In den Napoleonischen Kriegen ьbernahmen Dragoner vorwiegend eine Kavallerie-Rolle, waren allerdings eine leichtere Klasse berittener Truppen als die gepanzerten Kьrassiere.;;;;;;;;;;;x
+hussar_activation;Гусары;;Husaren;;;;;;;;;;;x
+hussar_activation_desc;Гусары относятся к одному из видов легкой кавалерии, которая возникла в Венгрии в XV веке. Название и необычная форма этих всадников получили впоследствии широкое распространение в европейских и других кавалерийских полках. Гусары играли заметную роль как кавалерия в наполеоновских войнах. В свете того что они являются кавалеристами на быстрых конях, они могут использоваться для молниеносных атак и для разведки.;;Husaren sind eine leichte Kavallerie-Einheit, die ihren Ursprung im 15. Jahrhundert in Ungarn hat. Ihre Bezeichnung und die charakteristische Kleidung dieser Reiter wurde in der Folgezeit weitgehend von leichten Kavallerie-Regimentern in Europa und anderen Armeen ьbernommen. Die Husaren spielten als Kavallerie in den Napoleonischen Kriegen eine wichtige Rolle. Diese leichte Kavallerie auf schnellen Pferden wurde in Gefechten und zur Erkundung eingesetzt.;;;;;;;;;;;x
+military_aviation;Военная авиация;;Militдrische Luftfahrt;;;;;;;;;;;x
+military_aviation_desc;Военная авиация - это использование воздушных судов и других летательных аппаратов при ведении войны. Целесообразность применения  более тяжелых, чем воздух воздушных судов стала очевидной сразу после их появления. Модель Райт была приобретена в 1909 году на вооружение армии США, а в 1911 году итальянцы использовали различные типы самолетов для разведки, фото-разведки и бомбардировки целей в рамках итало-турецкой войны. В ходе Первой Мировой Войне военная авиация получила мощный толчок в развитии, появилось множество специализированных типов самолетов, таких как разведчики, истребители и бомбардировщики.;;Militдrische Luftfahrt bedient sich Flugzeugen und anderen Fluggerдten zum Zwecke der Kriegsfьhrung. Luftfahrzeuge, die schwerer als Luft sind, wurden schon frьh als militдrische Hilfsmittel erkannt. Das Wright Model A wurde 1909 von der U.S. Armee Nachrichtentruppe gekauft und 1911 nutzte Italien mehrere Luftfahrzeuge verschiedenster Art zur Erkundung, Foto-Aufklдrung und Bombardierung im Italienisch-Tьrkischen Krieg. Im ersten Weltkrieg kamen in der militдrischen Luftfahrt viele spezialisierte Fluggerдte zum Einsatz, z.B. als Aufklдrer, Artilleriebeobachter, Kampfflugzeuge und Bomber.;;;;;;;;;;;x
+SIEGE;Осада;;Belagerung;;;;;;;;;;;x
+TRANSFER_SUB_ALL;§GShift + LMB§! Переместить все юниты этого типа;;§GUmschalttaste + LMT§!, um alle vom selben Typ zu transferieren.;;;;x;;;;;;;
+OBSOLETE_UNIT_TECH;§Y$UNIT$§W стал устаревшим из-за технологии §Y$TECH$§W;;§Y$UNIT$§W wurde durch §Y$TECH$§W hinfдllig;;;;;;;;;;;x
+ARMY_RECON_TOOLTIP;Эффективность рекогносцировки: §Y$VAL$§!%;;Aufklдrungs-Effizienz: §Y$VAL$§!%;;;;;;;;;;;x
+ARMY_RECON_DELAYED_TOOLTIP;Эффективностью рекогносцировки является способность наших разведчиков сокращать бонус окапывания вражеской армии и ускорять осады.\n\nЭта армия имеет §Y$RECONUNITS$§! разведбригад из необходимых §Y$RECONMAXUNITS$§!, дающих эффективность рекогносцировки §Y$VAL$%§!;;Aufklдrungs-Effizienz ist die Fдhigkeit der Spдher dieser Armee, den Eingraben-Bonus feindlicher Armeen zu reduzieren und Belagerungen zu beschleunigen.\n\nDiese Armee enthдlt §Y$RECONUNITS$§! Aufklдrungs-Einheiten von benцtigten §Y$RECONMAXUNITS$§! und gibt eine Aufklдrungs-Effizienz von §Y$VAL$%§!.;;;;;;;;;;;x
+ARMY_ENGINEER_TOOLTIP;Эффективность осады: §Y$VAL$§!%;;Belagerungs-Effizienz: §Y$VAL$§!%;;;;;;;;;;;x
+ARMY_ENGINEER_DELAYED_TOOLTIP;Эффективностью осады является способность наших инженеров и танков снижать эффективность противника в защите крепостей при осаде.\n\nЭта армия имеет §Y$ENGINEERUNITS$§! инженеров и танков из необходимых §Y$ENGINEERMAXUNITS$§!, дающих эффективность осады §Y$VAL$%§!.;;Die Belagerungs-Effizienz ist die Fдhigkeit der Ingenieure und Panzer dieser Armee, die Effektivitдt feindlicher Festungen bei Angriffen und Belagerungen zu reduzieren.\n\nDiese Armee enthдlt §Y$ENGINEERUNITS$§! Ingenieurs- und Panzereinheiten von benцtigten §Y$ENGINEERMAXUNITS$§! und gibt eine Belagerungs-Effizienz von §Y$VAL$%§!.;;;;;;;;;;;x
+TENSION_DECAY;Базовый спад: §Y$VAL$§!;;Basis-Zerfall: §Y$VAL$§!;;;;;;;;;;;x
+TENSION_FROM_GP_WARS;Великие державы, находящиеся в состоянии войны: §Y$VAL$§!;;Im Krieg befindliche GroЯmдchte: §Y$VAL$§!;;;;;;;;x;;;
+TENSION_FROM_GP_DISARMED;Разоруженные Великие державы: §Y$VAL$§!;;Entwaffnete GroЯmдchte:  §Y$VAL$§!;;;;;;;;x;;;
+TENSION_FROM_GP_RANK;Мощность Великих держав: §Y$VAL$§!;;GroЯmдchte-Wertung: §Y$VAL$§!;;;;;;;;x;;;
+HAS_NOT_CULTURAL_SPHERE;Не имеет культурной сферы;;besitzt KEINEN kulturellen Einflussbereich;;;;;;;;x;;;
+HAS_CULTURAL_SPHERE;Имеет культурную сферу;;besitzt einen kulturellen Einflussbereich;;;;;;;;x;;;
+UCA;СПЦА;;Die USCA;;;;;;;;x;;;
+LOAD_SAVEGAME_FAIL;Не удалось загрузить сохраненную игру.;;Laden des gespeicherten Spielstandes fehlgeschlagen.;;;;;;;;x;;;
+NEWS_TOOLTIP_UNREAD;У вас §G$NUM$§! Непрочитанных газет из §G$MAX$§! напечатанных.;;Ihr habt §G$NUM$§! ungelesene Zeitungen von §G$MAX$§! verцffentlichten.;;;;;;;;x;;;
+NEWS_TOOLTIP_NO_NEW;У вас нет непрочитанных газет.;;Es gibt keine neuen, ungelesenen Zeitungen.;;;;;;;;x;;;
+become_independent_desc;Объявление независимости от вашего сюзерена силой оружия;;Erklдrt mit Waffengewalt Eure Unabhдngigkeit von Eurem Herrscher;;;;;;;;x;;;
+CRISIS_DAYS_UNTIL_WAR;Если дипломатическое решение не найдено, через §Y$DAYS$§! дней начнется война;;In §Y$DAYS$§! Tag(en) wird Krieg ausbrechen, wenn keine diplomatische Lцsung gefunden wird.;;;;;;;;x;;;
+REMOVEFROMSPHERE_COST_NO_INFAMY;Это будет стоить §R$PRESTIGE$§! престижа;;Dies wird Euch §R$PRESTIGE$§! Prestige kosten;;;;;;;;x;;;
+REMOVEFROMSPHERE_COST;Это будет стоить §R$PRESTIGE$§! престижа и увеличит ваше бесчестие на §R$INFAMY$§! ;;Dies wird §R$PRESTIGE$§! Prestige kosten und Euch §R$INFAMY$§! Infamie einbringen;;;;;;;;x;;;
+REMOVEFROMSPHERE_DESC;Удалить нацию из сферы влияния державы §YGreat Power§W;;Entfernt die Nation aus dem Einflussbereich einer §YGroЯmacht§W.;;;;;;;;x;;;
+CRISIS_INTEREST;Их интересы: §Y$VAL$§!;;Ihre Zinsen: §Y$VAL$§!;;;;;;;;x;;;
+CRISIS_MAKE_OFFER_INVALID;Вы должны предложить им что-то!;;Ihr mьsst ihnen etwas anbieten!;;;;;;;;x;;;
+CRISIS_MAKE_OFFER_NOT_LEADER;Вы должны быть лидером в кризисе чтобы делать предложения.;;Ihr mьsst der Anfьhrer in diesem Konflikt sein, um Angebote machen zu kцnnen.;;;;;;;;x;;;
+CRISIS_MAKE_OFFER;Сделать предложение государству §Y$COUNTRY$§! чтобы побудить их вернуться на нашу сторону.;;Macht §Y$COUNTRY$§! ein Angebot, um sie zu kцdern, Euch Rьckhalt zu geben. ;;;;;;;;x;;;
+CRISIS_AI_WANTS_TO_BACK_1;еще не решила, на чьей она стороне.;;hat noch nicht entschieden, welche Seite sie unterstьtzen.;;;;;;;;x;;;
+CRISIS_AI_WANTS_TO_BACK_2;склоняется к поддержке;;neigt zur Unterstьtzung von;;;;;;;;x;;;
+CRISIS_AI_WANTS_TO_BACK_3;открыто поддерживает державу;;neigt stark zur Unterstьtzung von;;;;;;;;x;;;
+CRISIS_AI_INTEREST;Их заинтересованность в поддержке державы;;Ihr Interesse zur Unterstьtzung von;;;;;;;;x;;;
+unification_release_puppet_cb_setup;Освободить державу $THIRD$ от $RECIPIENT$ и добавить их в нашу сферу влияния;;Befreit $THIRD$ von $RECIPIENT$ und fьgt sie Eurem Einflussbereich hinzu;;;;;;;;x;;;
+unification_release_puppet_cb_desc;Освободить наших братьев от чужеземного контроля и добавить их в свою сферу влияния;;Befreit unsere kulturelle Sippschaft aus der Kontrolle der Fremden und fьgt sie Eurem Einflussbereich hinzu;;;;;;;;x;;;
+unification_release_puppet_cb;Освободить братьев по культуре;;Befreit kulturelle Sippschaft;;;;;;;;x;;;
+unification_release_puppet_cb_short;$THIRD$ освобождена;;$THIRD$ wurde befreit;;;;;;;;x;;;
+AIREASON_STRATEGIC_INTERESTS;Стратегические интересы;;Strategische Interessen;;;;;;;;x;;;
+AIREASON_BACKED_BY_ALLY;Поддержан союзником;;Durch Bьndnispartner unterstьtzt;;;;;;;;x;;;
+AIREASON_ALLY;Союзник;;Bьndnispartner;;;;;;;;x;;;
+AIREASON_TOO_EARLY_IN_CRISIS;Начало кризиса;;Zu frьh im Konflikt;;;;;;;;x;;;
+AIREASON_TOO_MANY_CRISIS_WARGOALS;Слишком много военных целей;;Zu viele Kriegsziele;;;;;;;;x;;;
+AIREASON_CRISIS_OFFER;$WARGOAL$:;;$WARGOAL$:;;;;;;;;x;;;
+AIREASON_ATTACKING_ALLY;Атака союзников;;Greift Bьndnispartner an;;;;;;;;x;;;
+AIREASON_ATTACKING_FRIENDS;Атака друзей;;Greift Freunde an;;;;;;;;x;;;
+AIREASON_ATTACKING_ENEMIES;Атака врагов;;Greift Feinde an;;;;;;;;x;;;
+AIREASON_COMMON_FOE;Общий враг;;Gemeinsamer Feind;;;;;;;;x;;;
+AIREASON_WAR_WITH_SPHERE_LEADER;Война с лидером сферы;;Krieg mit dem Einflusssphдren-Anfьhrer;;;;;;;;x;;;
+AIREASON_CONSTRUCTING_CB;Стратегические интересы;;Strategische Interessen;;;;;;;;x;;;
+AIREASON_HELD_CORES;Наши национальные провинции;;Besitzt Kernprovinzen;;;;;;;;x;;;
+AIREASON_NEGATIVE_RELATIONS;Плохие отношения;;Negative Beziehungen;;;;;;;;x;;;
+AIREASON_THREATS;Угрозы;;Drohungen;;;;;;;;x;;;
+AIREASON_TOO_MANY_GP_ALLIES;Слишком много Великих Держав в союзниках;;Zu viele GroЯmacht-Bьndnispartner;;;;;;;;x;;;
+AIREASON_DESIRES_GP_ALLY;Стремится к союзу с Великой Державой;;Mцchte ein GroЯmacht-Bьndnispartner;;;;;;;;x;;;
+AIREASON_ALLY_OF_ALLY;Союзник союзника;;Bьndnispartner von Bьndnispartner;;;;;;;;x;;;
+AIREASON_TOO_MANY_ALLIANCES;Слишком много союзов;;Zu viele Bьndnisse;;;;;;;;x;;;
+AIREASON_RELATIVE_ARMY_STRENGTH;Сила армии;;Truppen-Stдrke;;;;;;;;x;;;
+AIREASON_RELATIVE_NAVY_STRENGTH;Сила флота;;Flotten-Stдrke;;;;;;;;x;;;
+AIREASON_CURRENT_WARS;Текущие войны;;Aktuelle Kriege;;;;;;;;x;;;
+AIREASON_OUR_CASUS_BELLI;Наш КБ;;Unser Kriegsgrund;;;;;;;;x;;;
+AIREASON_YOUR_CASUS_BELLI;Ваш КБ;;Euer Kriegsgrund;;;;;;;;x;;;
+AIREASON_CIV_VS_UNCIV;Цивилизованные против нецивилизованных;;Ziviliziert gegen Unzivilisiert;;;;;;;;x;;;
+AIREASON_DIPLOMATIC_GOALS;Политические соображения;;Politische Ьberlegungen;;;;;;;;x;;;
+AIREASON_DISTANCE;Дистанция;;Distanz;;;;;;;;x;;;
+AIREASON_DIFFERENT_GOVTYPES;Форма правления;;Regierungsart;;;;;;;;x;;;
+AIREASON_OUR_SPHERE;Наша сфера;;Unsere Einflusssphдre;;;;;;;;x;;;
+AIREASON_OTHER_SPHERE_LEADER;В чужой сфере влияния;;Andere Einflusssphдren-Anfьhrer;;;;;;;;x;;;
+AIREASON_OTHER_SPHERE;Другая сфера;;Andere Einflusssphдre;;;;;;;;x;;;
+AIREASON_OVERLORD;Сюзерен;;Herrscher;;;;;;;;x;;;
+AIREASON_BADBOY;Бесчестие;;Infamie;;;;;;;;x;;;
+AIREASON_RELATIONS;Отношения;;Beziehungen;;;;;;;;x;;;
+AIREASON_GP_RELATIONS;Мнение;;Meinung;;;;;;;;x;;;
+AIREASON_BASE_RELUCTANCE;Базовое нежелание;;Basis-Zurьckhaltung;;;;;;;;x;;;
+AI_DIPLOMATIC_VALUE;Дипломатическое значение;;Diplomatischer Wert;;;;;;;;x;;;
+AI_DIPLO_NO;Они НЕ примут это предложение;;Sie werden nicht akzeptieren;;;;;;;;x;;;
+AI_DIPLO_YES;Они примут это предложение;;Sie werden akzeptieren;;;;;;;;x;;;
+SHIP_BUILD_MIN_BASE_LEVEL_WARNING;§RНе может быть построен в этом порту. Требуется уровень §Y$LVL$§R или выше.§!;;§RKann in diesem Marinehafen nicht gebaut werden. Erfordert Stufe §Y$LVL$§R oder besser.§!;;;;;;;;x;;;
+NAVAL_BASE_OVERSEAS_LIMIT;§RКорабли высшего класса не могут быть построены в заморских провинциях.§!;;§RGroЯkampfschiffe kцnnen nicht in Ьbersee-Provinzen gebaut werden.§!;;;;;;;;x;;;
+NAVAL_COMBAT_DAMAGE_DESC_TITLE;Расчетная мощность огня §G$POWER$§!:;;Die geschдtzte Feuerkraft betrдgt §G$POWER$§!:;;;;;;;;x;;;
+NAVAL_COMBAT_DAMAGE_DESC_BASE;§Y$UNIT$§! Базовая атака: §G$VAL$§!;;§Y$UNIT$§! Grundangriff: §G$VAL$§!;;;;;;;;x;;;
+NAVAL_COMBAT_DAMAGE_DESC_TORP;Торпедная атака: §G$VAL$§!;;Torpedo-Angriff: §G$VAL$§!;;;;;;;;x;;;
+NAVAL_COMBAT_DAMAGE_DESC_LUCK;Удача и решения: §Y$VAL$%§!;;Glьck und Entscheidungen: §Y$VAL$%§!;;;;;;;;x;;;
+NAVAL_COMBAT_DAMAGE_DESC_HULL;Сократился благодаря прочности корпуса противника (§R$HULL$§!): §R$VAL$%§!;;Durch gegnerischen Rumpf (§R$HULL$§!) reduziert um: §R$VAL$%§!;;;;;;;;x;;;
+NAVAL_COMBAT_DAMAGE_DESC_EXP;Сократился благодаря опыту оппонента (§R$EXP$%§!): §R$VAL$%§!;;Durch gegnerische Erfahrung (§R$EXP$%§!) reduziert um: §R$VAL$%§!;;;;;;;;x;;;
+NAVAL_COMBAT_DAMAGE_DESC_NOORG;Противник дезорганизован: §Y$VAL$%§!;;Gegner besitzt keine Organisation: §Y$VAL$%§!;;;;;;;;x;;;
+NAVAL_COMBAT_DAMAGE_DESC_STR;Сократился благодаря нашей силе: §R$VAL$%§!;;Durch unsere Stдrke reduziert: §R$VAL$%§!;;;;;;;;x;;;
+NAVAL_COMBAT_HIT_CHANCE_DESC;Шанс попадания: §Y$VAL$%§!;;Trefferchance: §Y$VAL$%§!;;;;;;;;x;;;
+NAVAL_COMBAT_HIT_CHANCE_DESC_EVA;(сократился за счет уклонения противника §R$VAL$%§!);;(Durch gegnerische Ausweichrate §R$VAL$%§! reduziert);;;;;;;;x;;;
+MOBILIZATION_PROGRESS_PAUSED;В провинции §Y$PROV$§! Скоро начнется мобилизация.;;Rekrutierungs-Mobilisierung in §Y$PROV$§! beginnt in Kьrze.;;;;;;;;x;;;
+MOBILIZATION_PROGRESS_PENDING;Текущий прогресс мобилизации: §Y$PROG$%§!;;Aktueller Mobilisierungsfortschritt: §Y$PROG$%§!;;;;;;;;x;;;
+MOBILIZATION_PROGRESS_NOT_MOBILIZED;Мобилизация займет некоторое время, но развитая сеть железных дорог ускорит процесс.;;Die Mobilisierung wird einige Zeit in Anspruch nehmen, doch ein Ausbau des Schienennetzwerks wird den Prozess beschleunigen.;;;;;;;;x;;;
+COLONY_ADD_INFLUENCE;Расширить колониальное влияние;;Kolonialen Einfluss hinzufьgen;;;;;;;;x;;;
+EVTNAME20100;Напряжение, связанное с регионом $STATE$;;Spannungen in $STATE$;;;;;;;;x;;;
+EVTDESC20100;В последние годы международное сообщество предъявляет нам все больше претензий по поводу положения людей в регионе $STATE$. Они утверждают, что мы давно их угнетали и притесняли, и теперь они хотят стать свободными от нашей власти. Конечно, мы не потерпим вмешательства в наши внутренние дела и в дела региона $STATE$.;;Vor Kurzem wurde die internationale Gemeinschaft zunehmend auf das angebliche Flehen der armen, unterdrьckten Bevцlkerung in $STATE$ aufmerksam. Es wird behauptet, dass wir sie seit langem unterdrьcken und dass sie die Befreiung von unserer wohlwollenden Herrschaft herbeisehnen. Wir werden natьrlich keine Stцrung unserer Herrschaft in $STATE$ tolerieren.;;;;;;;;x;;;
+EVTOPTA20100;Конечно не потерпим!;;Natьrlich nicht!;;;;;;;;x;;;
+EVTOPTB20100;Возможно нам стоит обсудить это...;;Vielleicht sollten wir darьber reden…;;;;;;;;x;;;
+EVTNAME20101;Напряжение, связанное с регионом $STATE$;;Spannungen in $STATE$;;;;;;;;x;;;
+EVTDESC20101;В последние годы международное сообщество предъявляет нам все больше претензий по поводу положения людей в регионе $STATE$. Они утверждают, что мы не имеем законного права на власть в этой области, а ближайшие Великие Державы уже начинают строить планы относительно этих земель. ;;Vor Kurzem wurde die internationale Gemeinschaft zunehmend auf das angebliche Flehen der armen, unterdrьckten Bevцlkerung in $STATE$ aufmerksam. Es wird behauptet, dass wir kein Recht zur Herrschaft in dieser Gegend hдtten und benachbarte GroЯmдchte beginnen, ihr Interesse an diesen Behauptungen zu zeigen;;;;;;;;x;;;
+EVTOPTA20101;Регион $STATE$ наш!;;Besteht darauf, dass $STATE$ uns gehцrt!;;;;;;;;x;;;
+EVTOPTB20101;Выслушать их точку зрения;;Rдumt ihren Anspruch ein.;;;;;;;;x;;;
+EVTNAME20102;$CRISISAREA$ кризис;;Der $CRISISAREA$ Konflikt;;;;;;;;x;;;
+EVTDESC20102;Спор вокруг региона $CRISISAREA$ перерос в международный кризис. $CRISISTAKER$ провозгласила эту землю неотъемлемой своей частью, в то время как $CRISISTARGET$ настаивает на том, что регион должен оставаться под их контролем. На недавней конференции, посвященной этому вопросу наш посол сделал несколько довольно воинственных выпадов, что значительно повысило градус напряжения между участниками.\nХотите, чтобы мы поддержали его позицию или принесли извенения и тем самым немного разрядили обстановку?;;Der Disput ьber $CRISISAREA$ ist zu einem internationalen Konflikt eskaliert. $CRISISTAKER$ beansprucht die Gegend als einen integralen Bestandteil ihrer Nation, wдhrend $CRISISTARGET$ diesen Anspruch verneint und darauf besteht, dass das Land unter ihrer Kontrolle verbleiben sollte. In einer kьrzlichen Konferenz zu dieser Angelegenheit machte unser Botschafter einige recht militante Bemerkungen, die die Stimmung aller Anwesenden aufheizte.\nSollten wir seine Position unterstьtzen, oder uns fьr sein Handeln entschuldigen und uns von seinen ДuЯerungen distanzieren?;;;;;;;;x;;;
+EVTOPTA20102;Он совершенно прав, только война решит этот спор!;;Er hat absolut recht, Krieg ist die einzige Lцsung!;;;;;;;;x;;;
+EVTOPTB20102;Не слушайте его!;;Hцrt nicht auf ihn!;;;;;;;;x;;;
+EVTNAME20103;Судьба державы $CRISISTAKER$;;Das Schicksal von $CRISISTAKER$;;;;;;;;x;;;
+EVTDESC20103;Судьба $CRISISTAKER_ADJ$ народа сейчас волнует многие умы цивилизованного мира. В то время как $CRISISTARGET$ в настоящее время контролирует спорный регион, $CRISISTAKER_ADJ$ повстанцы и патриоты делают значительные усилия, чтобы освободиться от $ CRISISTARGET_ADJ $ власти. Как великая держава, мы, конечно, направили посла, чтобы обсудить судьбу державы $CRISISTAKER$, но к сожалению, на последней встрече он оказался  более пьяным, чем обычно, и заявил, что мы готовы к решению вопроса, а если другие делегаты не последуют нашему примеру, он устроит им темную. Естественно, после этого ситуация обострилась, хотя мы все еще можем отступить, осудив его действия, но тем самым поставив себя в неловкое положение.;;Das Schicksal des $CRISISTAKER_ADJ$en Volkes weitete sich vor Kurzem zu einem internationalen Konflikt aus. Zur Zeit kontrolliert $CRISISTARGET$ die Gegend und die $CRISISTAKER_ADJ$en Rebellen und Patrioten bemьhen sich verzweifelt, sich von der $CRISISTARGET_ADJ$en Herrschaft zu befreien. Als GroЯmacht haben wir natьrlich einen Botschafter entsandt, um das Schicksal von $CRISISTAKER$ zu diskutieren, leider hat dieser beim letzten Gipfeltreffen, betrunkener als fьr gewцhnlich, behauptet, dass wir darauf vorbereitet sind, dieses Problem zu beseitigen, indem er allen anderen Teilnehmern Prьgel androhte, wenn sie nicht auf unserer Seite wдren. Natьrlich sich die Situation dadurch zugespitzt, doch wir kцnnen noch zurьckrudern und uns von ihm distanzieren, auch wenn das sehr beschдmend wдre.;;;;;;;;x;;;
+EVTOPTA20103;Где моя сабля?;;Lasst unsere Sдbel rasseln!;;;;;;;;x;;;
+EVTOPTB20103;Выгнать дурака!;;Entlasst diesen Narren!;;;;;;;;x;;;
+EVTNAME20104;Кризис вокруг региона $CRISISAREA$ ;;Der $CRISISAREA$ Konflikt;;;;;;;;x;;;
+EVTDESC20104;Спор вокруг региона $CRISISAREA$ перерос в международный кризис. Все Великие Державы определились с тем, на чьей они стороне. Ставки как никогда высоки... Стоит ли нам выставить свои требования, или лучше попытаться смягчить противоречия?;;Der Disput ьber $CRISISAREA$ ist zu einem nationalen Konflikt eskaliert. GroЯmдchte beziehen Stellung und es steht nun deutlich mehr auf dem Spiel. Sollten wir unsere Ansprьche mit Nachdruck einfordern oder versuchen, die Situation zu beruhigen?;;;;;;;;x;;;
+EVTOPTA20104;Время переговоров прошло!;;Es gehцrt uns!;;;;;;;;x;;;
+EVTOPTB20104;Мы открыты для переговоров.;;Wir sind offen fьr Diskussionen.;;;;;;;;x;;;
+EVTNAME20105;Кризис вокруг региона $CRISISAREA$ ;;Der $CRISISAREA$ Konflikt;;;;;;;;x;;;
+EVTDESC20105;$CRISISTAKER_ADJ$ повстанцы пытаются выйти из состава нашей страны и обрести независимость, а держава $CRISISATTACKER$ активно их поддерживает, мы надеемся, что $CRISISDEFENDER$ сможет оказать нам поддержку в этом вопросе. Как поступить нашему послу в державе $CRISISDEFENDER$ ? Потребовать решить конфликт силовым методом или намекнуть, что мы открыты для переговоров?;;Die  $CRISISTAKER_ADJ$en Rebellen kдmpfen, um sich von unserer Nation zu befreien, und $CRISISATTACKER$ unterstьtzt sie. Wir kцnnen nur hoffen, dass die Streitmдchte von $CRISISDEFENDER$ uns in unserer Sache unterstьtzen kцnnen. Sollte unser Botschafter $CRISISDEFENDER$ um deren absoluten Rьckhalt bitten, oder sollten wir andeuten, dass wir einem verhandelten Vergleich nicht im Wege stehen.;;;;;;;;x;;;
+EVTOPTA20105;Предъявите им наши претензии!;;Besteht auf unserem Anspruch!;;;;;;;;x;;;
+EVTOPTB20105;Давайте не будем из-за этого лесть в драку.;;Lasst uns nicht deswegen kдmpfen.;;;;;;;;x;;;
+COLONIZE_PHASE_INTEREST;Заинтересоваться колонией;;Interesse etablieren;;;;;;;;x;;;
+COLONIZE_PHASE_INTEREST_DESC;Конкурировать с влиянием колониальной власти. Если кто-то достигнет уровня $LEVELS$, первые две державы переходят на следующий этап колониальной гонки.;;Investiert in den Wettstreit Kolonialmacht. Die zwei besten Lдnder treten in die nдchste Phase des Wettstreits ein, sobald jemand $LEVELS$ Stufen Vorsprung hat.;;;;;;;;x;;;
+COLONIZE_PHASE_INFLUENCE;Колониальная гонка;;Einfluss sichern;;;;;;;;x;;;
+COLONIZE_PHASE_INFLUENCE_DESC;Колониальная гонка между двумя державами будет продолжаться до тех пор, пока одна из них не сочтёт этот проект слишком затратным. До тех пор, пока продолжается гонка, напряжённость в регионе будет расти и в итоге это может привести к международному кризису.;;Zwei Lдnder wettstreiten mit Einsatz von Kolonialmacht, bis eine Seite dem Einfluss nichts mehr entgegenzusetzen hat. Mit jeder Investition steigt die Spannung im Staat und wenn die Stimmung zu sehr hochkocht, bricht ein Konflikt aus.;;;;;;;;x;;;
+COLONIZE_PHASE_COLONIZATION;Колонизация;;Kolonisierung;;;;;;;;x;;;
+COLONIZE_PHASE_COLONIZATION_DESC;У победителя предыдущих этапов есть $MONTHS$ месяцев, чтобы преобразовать колонию или потерять ее;;Der Gewinner der vorhergehenden Phasen hat  $MONTHS$ Monate, um eine Kolonie zu konvertieren, oder er verliert alle Investitionen.;;;;;;;;x;;;
+TICKING_WARSCORE_DESC_GRACE;$VAL$ (Осталось §Y$DAY$§! дней).;;$VAL$ (§Y$DAY$§! Tag(e) verbleiben).;;;;;;;;x;;;
+TICKING_WARSCORE_DESC_GRACE_EXPLAIN;Если регион, являющийся целью войны, захвачен как минимум на §G$MIN$%§!, военный счет напавшей стороны будет постепенно пополняться. \n Если такой регион не будет захвачен §Yв течение $DAYS$ дней§!, то увеличиваться будет счет обороняющейся стороны. В случае, если регион сначала был захвачен, а потом освобожден, военный счет будет постепенно падать до §Y0§!.;;Territoriale Kriegsziele, die wenigstens zu §G$MIN$%§! erfьllt sind, geben dem Anspruchsteller mit der Zeit Kriegspunkte.\nWenn ein Kriegsziel nach einer §YFrist von $DAYS$ Tag(en)§! nicht erfьllt ist, so erhдlt der Besitzer Kriegspunkte. Ein vom Anspruchssteller besetztes und vom Besitzer zurьckerobertes Ziel wird auf beiden Seiten schrittweise die Punkte auf §Y0§! zurьcksetzen.;;;;;;;;x;;;
+TICKING_WARSCORE_FULFILL_TERRITORY_WG;§GВыполнено, когда оккупировано по крайней мере $MIN$% провинций из региона, который является нашей военной целью.§!;;§GIst erfьllt, wenn mindestens $MIN$% der Provinzen der Zielstaaten dieses Kriegsziels eingenommen wurden.§!;;;;;;;;x;;;
+TICKING_WARSCORE_FULFILL_TERRITORY_ANY;§GВыполнено, когда оккупировано по крайней мере $MIN$% провинций, принадлежащих нации, являющейся нашей военной целью.§!;;§GIst erfьllt, wenn mindestens $MIN$% der Provinzen im Besitz der Zielnation eingenommen wurden.§!;;;;;;;;x;;;
+TICKING_WARSCORE_FULFILL_BATTLE;§GВыполнено, когда по крайней мере §G$BAT$§! военных очков от сражений в Мировой войне.§!;;§GIst erfьllt, wenn wir einen hцhere Kriegswertung durch Gefechte bekommen, sobald mindestens §G$BAT$§! gekдmpft wurden.§!;;;;;;;;x;;;
+CREATE_PROTECTORATE;Установить протекторат;;Protektorat erstellen;;;;;;;;x;;;
+JAN;Ян-Майен;Jan Mayen;Jan Mayen;;Jan Mayen;;;;;;;x;;
+JAN_ADJ;Ян-Майенск.;Jan Mayen;Jan Mayen;;Jan Mayen;;;;;;;x;;
+JAN_liberal;Венстре;Venstre;Venstre;;Venstre;;;;;;;;;x
+JAN_conservative;Консервативная партия;Hшyre;Hшyre;;Hшyre;;;;;;;;;x
+JAN_socialist;Рабочая партия;Arbeiderparti;Arbeiderparti;;Arbeiderparti;;;;;;;;;x
+JAN_anarcho_liberal;Радикальная партия;Radicaux;Radikale;;Radicales;;;;;;;;;x
+JAN_communist;Коммунистическая партия;Communistes;Kommunisten;;Comunistas;;;;;;;;;x
+JAN_fascist;Национальное единение;Nasjonal Samling;Nasjonal Samling;;Nasjonal Samling;;;;;;;;;x
+COUNTRYALERT_NO_Colonial;Ни одна из наших колоний не требует внимания;;Nichts in unseren Kolonien bedarf unserer Aufmerksamkeit.;;;;;;;;x;;;
+COUNTRYALERT_NO_Crisis;В данный момент нет кризисов.;;Kein aktueller Konflikt.;;;;;;;;x;;;
+COUNTRYALERT_Crisis;Текущий уровень напряженности §Y$TEMPERATURE$§!;;Aktuelle Konflikttemperatur: §Y$TEMPERATURE$§!;;;;;;;;x;;;
+HAS_GOODS_IN_STATE;Производство товара $GOODS$ в регионе.;;Produziert $GOODS$ im Staat.;;;;;;;;x;;;
+HAS_NO_GOODS_IN_STATE;Нет производства товара $GOODS$ в регионе.;;Produziert kein(e) $GOODS$ im Staat.;;;;;;;;x;;;
+MILITARY_MOBILIZE_CRISIS_IMPACT;§RМобилизация в державе, которая является одной из сторон в кризисе может вовысить напряженность и привести к войне§!;;§RWдhrend man sich auf einer Seite in einem Konflikt befindet, wird die Mobilisierung die Temperatur erhцhen und zum Krieg fьhren!§!;;;;;;;;x;;;
+NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST$ Война за $COUNTRY_ADJ$ свободу;$ORDER$$FIRST$ guerre de libйration $COUNTRY_ADJ$;$ORDER$$FIRST$-$COUNTRY_ADJ$er Freiheitskrieg;;$ORDER$ Guerra $FIRST$ de liberaciуn $COUNTRY_ADJ$;;;;;;;;;x
+AGRESSION_WAR_LIBERATE_NAME;$ORDER$$FIRST$ Война за $COUNTRY_ADJ$ освобождение;;$ORDER$$FIRST$-$COUNTRY_ADJ$er Befreiungskrieg;;;;;;;;x;;;
+CANT_COLONIZE;§RНе удается колонизировать:§!;;§RKolonisierung nicht mцglich:§!;;;;;;;;x;;;
+COLONIZE_LAST_INVESTMENT;Мы только что вложились в эту область. Следующую партию инвестиций можно отправить после §Y$DATE$§!;;Wir haben gerade erst in diese Gegend investiert. Nдchste Investition mцglich nach §Y$DATE$§! ;;;;;;;;x;;;
+COLONY_INVEST_COST;Стоимость инвестиций: §Y$COST$§! колониальных очков;;Investitionskosten: §Y$COST$§! Kolonialmacht;;;;;;;;x;;;
+COLONY_INVEST_COST_LACK;Стоимость инвестиций: §R$COST$§! колониальных очков;;Investitionskosten: §R$COST$§! Kolonialmacht;;;;;;;;x;;;
+COLONIAL_INVESTMENT;В настоящее время инвестировано: §R$VALUE$§!;;Aktuell investiert: §R$VALUE$§!;;;;;;;;x;;;
+COLONIAL_MAINTENANCE;Содержание колоний: §R$VALUE$§!;;Durch Versorgung gebundene Kolonialmacht: §R$VALUE$§!;;;;;;;;x;;;
+AVAILABLE_COLONIAL_POWER;Доступно: §Y$VALUE$§!;;Verfьgbar: §Y$VALUE$§!;;;;;;;;x;;;
+PW_PROTECTORATE;Протекторат;;Protektorat;;;;;;;;x;;;
+D01;Королевство $REGION$;;Das Kцnigreich von $REGION$;;;;;;;;x;;;
+D01_ADJ;Королевск.;;kцnigstreu;;;;;;;;x;;;
+D02;Конфедерация $REGION$;;Die Konfцderation von $REGION$;;;;;;;;x;;;
+D02_ADJ;Конфедеративн.;;konfцderiert;;;;;;;;x;;;
+D03;Содружество $REGION$;;Commonwealth von $REGION$;;;;;;;;x;;;
+D03_ADJ;Объединенн.;;Commonwealth-;;;;;;;;x;;;
+D04;Республика $REGION$;;Die Republik von $REGION$;;;;;;;;x;;;
+D04_ADJ;Республиканск.;;republikanisch;;;;;;;;x;;;
+D05;Федеративная Республика $REGION$;;Der $REGION$-Staat;;;;;;;;x;;;
+D05_ADJ;Республиканск.;;staatlich;;;;;;;;x;;;
+D06;Народная Республика $REGION$;;Die Volksrepublik von $REGION$;;;;;;;;x;;;
+D06_ADJ;Республиканск.;;republikanisch;;;;;;;;x;;;
+D07;Свободное Государство $REGION$;;Der Freistaat von $REGION$;;;;;;;;x;;;
+D07_ADJ;Республиканск.;;freistaatlich;;;;;;;;x;;;
+D08;Свободная Республика $REGION$;;Der GroЯstaat von $REGION$;;;;;;;;x;;;
+D08_ADJ;Республиканск.;;groЯstaatlich;;;;;;;;x;;;
+D09;Государство $REGION$;;Der Staat von $REGION$;;;;;;;;x;;;
+D09_ADJ;Республиканск.;;staatlich;;;;;;;;x;;;
+D10;Княжество $REGION$;;Das Fьrstentum von $REGION$;;;;;;;;x;;;
+D10_ADJ;Княжеск.;;fьrstlich;;;;;;;;x;;;
+D11;Демократическая Республика $REGION$;;Die Demokratische Republik von $REGION$;;;;;;;;x;;;
+D11_ADJ;Республиканск.;;depublikanisch;;;;;;;;x;;;
+D12;Свободно ассоциированное государство $REGION$;;Die $REGION$-Union;;;;;;;;x;;;
+D12_ADJ;Республиканск.;;Unions-;;;;;;;;x;;;
+D13;Федерация $REGION$;;Das $REGION$-Kцnigreich;;;;;;;;x;;;
+D13_ADJ;Федеральн.;;kцnigstreu;;;;;;;;x;;;
+D14;Доминион $REGION$;;Das Dominion von $REGION$;;;;;;;;x;;;
+D14_ADJ;Республиканск.;;Dominions-;;;;;;;;x;;;
+D15;Великое Герцогство $REGION$;;Das GroЯherzogtum von $REGION$;;;;;;;;x;;;
+D15_ADJ;Герцогск.;;groЯherzogstreu;;;;;;;;x;;;
+D16;Народная Демократическая Республика $REGION$;;Die $REGION$-Nation;;;;;;;;x;;;
+D16_ADJ;Республиканск.;;national;;;;;;;;x;;;
+D17;Священый Союз $REGION$;;Die $REGION$-Fцderation;;;;;;;;x;;;
+D17_ADJ;Республиканск.;;Fцderations-;;;;;;;;x;;;
+D18;Народный Союз $REGION$;;Die Vereinigten Staaten von $REGION$;;;;;;;;x;;;
+D18_ADJ;Республиканск.;;Unions-;;;;;;;;x;;;
+D19;Демократический союз $REGION$;;Die Demokratische Union von $REGION$;;;;;;;;x;;;
+D19_ADJ;Республиканск.;;Unions-;;;;;;;;x;;;
+D20;Земля $REGION$;;Das Fьrstentum von $REGION$;;;;;;;;x;;;
+D20_ADJ;Республиканск.;;fьrstlich;;;;;;;;x;;;
+D21;Светлейшая республика $REGION$;;Die Union von $REGION$;;;;;;;;x;;;
+D21_ADJ;Республиканск.;;Unions-;;;;;;;;x;;;
+D22;Комунна $REGION$;;Die Demokratische Volksrepublik von $REGION$;;;;;;;;x;;;
+D22_ADJ;Республиканск.;;demokratisch-republikanisch;;;;;;;;x;;;
+D23;Рабочий Союз $REGION$;;Das $REGION$-Gebiet;;;;;;;;x;;;
+D23_ADJ;Республиканск.;;ortsansдssig;;;;;;;;x;;;
+D24;Графство $REGION$;;Die Glorreiche Union von $REGION$;;;;;;;;x;;;
+D24_ADJ;Графск.;;glorreich;;;;;;;;x;;;
+D25;Малое княжество $REGION$;;Das mдchtige Gebiet von $REGION$;;;;;;;;x;;;
+D25_ADJ;Княжеск.;;mдchtig;;;;;;;;x;;;
+D26;$REGION$;;Der $REGION$-Freistaat;;;;;;;;x;;;
+D26_ADJ;Республиканск.;;freistaatlich;;;;;;;;x;;;
+D27;$REGION$;;$REGION$-Commonwealth;;;;;;;;x;;;
+D27_ADJ;Республиканск.;;Commonwealth-;;;;;;;;x;;;
+D28;$REGION$;;Die $REGION$-Konfцderation;;;;;;;;x;;;
+D28_ADJ;Республиканск.;;konfцderiert;;;;;;;;x;;;
+D29;$REGION$;;Das Freie Volk von $REGION$;;;;;;;;x;;;
+D29_ADJ;Республиканск.;;frei;;;;;;;;x;;;
+D30;$REGION$;;Die $REGION$-Republik;;;;;;;;x;;;
+D30_ADJ;Республиканск.;;republikanisch;;;;;;;;x;;;
+D31;$REGION$;;Die Heilige Union von $REGION$;;;;;;;;x;;;
+D31_ADJ;Республиканск.;;zelotisch;;;;;;;;x;;;
+D32;$REGION$;;Die Volks-Union von $REGION$;;;;;;;;x;;;
+D32_ADJ;Республиканск.;;Unions-;;;;;;;;x;;;
+D33;$REGION$;;Die Fцderationsstaaten von $REGION$;;;;;;;;x;;;
+D33_ADJ;Республиканск.;;Fцderations-;;;;;;;;x;;;
+D34; $REGION$;;Der $REGION$-Fцderationsstaat;;;;;;;;x;;;
+D34_ADJ;Республиканск.;;Fцderations-;;;;;;;;x;;;
+D35;$REGION$;;Die $REGION$-Konfцderation;;;;;;;;x;;;
+D35_ADJ;Республиканск.;;konfцderiert;;;;;;;;x;;;
+D36;$REGION$;;Die $REGION$-Fцderation;;;;;;;;x;;;
+D36_ADJ;Республиканск.;;Fцderations-;;;;;;;;x;;;
+D37;$REGION$;;Die Fromme Union von $REGION$;;;;;;;;x;;;
+D37_ADJ;Республиканск.;;fromm;;;;;;;;x;;;
+D38;$REGION$;;$REGION$-Land;;;;;;;;x;;;
+D38_ADJ;Республиканск.;;Landes-;;;;;;;;x;;;
+D39;$REGION$;;Die Republik der Ruhe von $REGION$;;;;;;;;x;;;
+D39_ADJ;Республиканск.;;ruhig;;;;;;;;x;;;
+D40;$REGION$;;Das Geheime Kцnigreich von $REGION$;;;;;;;;x;;;
+D40_ADJ;Республиканск.;;geheim;;;;;;;;x;;;
+D41;$REGION$;;Die Kommune von $REGION$;;;;;;;;x;;;
+D41_ADJ;Республиканск.;;kommunistisch;;;;;;;;x;;;
+D42;$REGION$;;Die $REGION$-Kommune;;;;;;;;x;;;
+D42_ADJ;Республиканск.;;kommunistisch;;;;;;;;x;;;
+D43;$REGION$;;Die Arbeiter-Union von $REGION$;;;;;;;;x;;;
+D43_ADJ;Республиканск.;;Arbeiter-;;;;;;;;x;;;
+D44;$REGION$;;Die Landgrafschaft von $REGION$;;;;;;;;x;;;
+D44_ADJ;Республиканск.;;landgrafschaftlich;;;;;;;;x;;;
+D45;$REGION$;;Die Nation von $REGION$;;;;;;;;x;;;
+D45_ADJ;Республиканск.;;national;;;;;;;;x;;;
+D46;$REGION$;;Die Heilige Region von $REGION$;;;;;;;;x;;;
+D46_ADJ;Республиканск.;;zelotisch;;;;;;;;x;;;
+D47;$REGION$ ;;Das $REGION$-Dominion;;;;;;;;x;;;
+D47_ADJ;Республиканск.;;beherrschend;;;;;;;;x;;;
+D48;$REGION$;;Der Volksstaat von $REGION$;;;;;;;;x;;;
+D48_ADJ;Республиканск.;;vцlkisch;;;;;;;;x;;;
+D49;$REGION$;;Das Hohe Kцnigreich von $REGION$;;;;;;;;x;;;
+D49_ADJ;Республиканск.;;hochkцniglich;;;;;;;;x;;;
+D50;$REGION$;;Das Kleinere Fьrstentum von $REGION$;;;;;;;;x;;;
+D50_ADJ;Республиканск.;;fьrstlich;;;;;;;;x;;;
+dominion_conservative;Консервативная партия;;Die Konservative Partei;;;;;;;;x;;;
+dominion_reactionary;Старая гвардия;;Die Alte Garde;;;;;;;;x;;;
+dominion_liberal;Либеральная партия;;Die Liberale Partei;;;;;;;;x;;;
+dominion_anarcho_liberal;Партия свободы;;Die Freiheitspartei;;;;;;;;x;;;
+dominion_socialist;Социалистическая партия;;Die Sozialistische Partei;;;;;;;;x;;;
+dominion_communist;Коммунистическая партия;;Die Kommunistische Partei;;;;;;;;x;;;
+dominion_fascist;Имперская партия;;Die Imperiale Partei;;;;;;;;x;;;
+PW_UPGRADE_TO_COLONY;Нажмите, чтобы улучшить колонию. Вам необходимо §Y$VALUE$§! Колониальных очков чтобы сделать это.;;Klickt, um eine Kolonie zu konvertieren und aufzuwerten. Ihr benцtigt §Y$VALUE$§! verfьgbare Kolonialmacht, um dies tun zu kцnnen.;;;;;;;;x;;;
+PW_CANT_UPGRADE_TO_COLONY;Улучшение колонии обойдется в §R$VALUE$§! колониальных очков.;;Die Aufwertung zur Kolonie kostet §R$VALUE$§! Punkte Kolonialmacht.;;;;;;;;x;;;
+PW_CANT_UPGRADE_TO_STATE;Превращение в полноценный регион обойдется §R$VALUE$§! колониальных очков.;;Die Einfьhrung als Staat kostet §R$VALUE$§! Punkte Kolonialmacht.;;;;;;;;x;;;
+CREATE_DOMINION;Создать доминион;;Dominion entlassen;;;;;;;;x;;;
+CANT_CREATE_PROTECTORATE_COST;Вам нужно §R$VALUE$§! Колониальных очков чтобы создать протекторат.;;Ihr benцtigt  §R$VALUE$§! verfьgbare Kolonialmacht-Punkte, um ein Protektorat zu erschaffen.;;;;;;;;x;;;
+torpedo_attacks_desc;Торпеда является самодвижущимся оружием с фугасной боеголовкой, запускаемым над водой или под ее поверхностью. Движущиеся под водой, торпеды детонируют при контакте с целью, либо в непосредсвенной близости от нее. Запущенная с маленького судна торпеда может быть смертельно опасна даже для самых крупных военных кораблей.;;Ein Torpedo ist eine Waffe mit Eigenantrieb mit einem explosiven Sprengkopf, die ьber oder unter Wasser abgefeuert werden kann und unter Wasser auf ein Ziel zuschieЯt. Sie explodiert entweder bei Kontakt mit dem Ziel oder in unmittelbarer Nдhe. Diese von einem kleinen Schiff abfeuerbare Waffe kann selbst fьr die grцЯten Kampfschiffe tцdlich sein.;;;;;;;;x;;;

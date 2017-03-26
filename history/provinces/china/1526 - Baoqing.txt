@@ -1,0 +1,13 @@
+add_core = CHI
+trade_goods = timber
+life_rating = 35
+terrain = deciduous_forest_hills
+owner = CHI
+controller = CHI
+1914.1.1 = {
+	add_core = HNN
+}
+1923.1.1 = {
+	owner = HNN
+	controller = HNN
+}

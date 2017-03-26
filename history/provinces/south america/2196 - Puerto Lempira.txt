@@ -1,0 +1,20 @@
+owner = MEX
+controller = MEX
+add_core = UCA
+add_core = HON
+add_core = SPA
+add_core = MEX
+trade_goods = timber
+life_rating = 30
+terrain = jungle
+1836.1.1 = {
+	owner = UCA
+	controller = UCA
+	remove_core = SPA
+	remove_core = MEX
+}
+1861.1.1 = {
+	owner = HON
+	controller = HON
+	remove_core = UCA
+}

@@ -1,0 +1,12 @@
+owner = DUB
+controller = DUB
+add_core = DUB
+trade_goods = grain
+life_rating = 35
+terrain = semi_desert_hills
+1914.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 3
+	trade_goods = oil
+}

@@ -1,0 +1,13 @@
+owner = BUN
+controller = BUN
+add_core = NAG
+add_core = HND
+trade_goods = grain
+life_rating = 35
+colonial = 2
+terrain = dry_forest_hills
+1914.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 3
+}

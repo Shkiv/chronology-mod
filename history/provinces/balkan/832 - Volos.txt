@@ -1,0 +1,27 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = GRE
+trade_goods = grain
+life_rating = 35
+terrain = hilly_farmland
+1914.1.1 = {
+	owner = GRE
+	controller = GRE
+	remove_core = TUR
+	state_building = {
+		level = 3
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = furniture_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = liquor_distillery
+		upgrade = yes
+	}
+}

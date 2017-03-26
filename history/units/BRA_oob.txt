@@ -1,0 +1,18 @@
+leader = {
+	name = "Вильгельм VIII"
+	picture = bra_gen_wilhelmviii
+	date = 1830.1.1
+	type = land
+	personality = soldierly
+	background = aristocrat
+}
+
+army = {
+	name = "Braunschweigische Armee"
+	location = 536
+	regiment = {
+		name= "1. Braunschweigische Infanterie-Brigade"
+		type = infantry
+		home = 536
+	}	            
+}

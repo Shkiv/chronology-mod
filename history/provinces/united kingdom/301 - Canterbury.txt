@@ -1,0 +1,16 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = ENL
+trade_goods = coal
+life_rating = 35
+naval_base = 2 #Chatham
+fort = 1
+terrain = good_farmland
+1861.1.1 = { railroad = 3 }
+1914.1.1 = {
+	railroad = 5
+	naval_base = 5
+}
+
+

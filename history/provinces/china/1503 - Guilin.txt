@@ -1,0 +1,16 @@
+add_core = CHI
+add_core = GXI
+trade_goods = cotton
+life_rating = 35
+terrain = deciduous_forest_mountains
+owner = CHI
+controller = CHI
+1914.1.1 = {
+	owner = CHI
+	controller = CHI
+}
+1923.1.1 = {
+	owner = GXI
+	controller = GXI
+	add_core = GXI
+}

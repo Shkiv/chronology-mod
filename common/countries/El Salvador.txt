@@ -1,0 +1,249 @@
+color = { 228  229  221 }
+graphical_culture = Generic
+
+party = {
+	name = "ELS_conservative"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ELS_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ELS_reactionary"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "ELS_anarcho_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ELS_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "ELS_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "ELS_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+	"Амапала"
+	"Конститусьон"
+	"Эль Сальвадор"
+	"Франсиско Дуэньяс"
+	"Харардо Барриос"
+	"Хуан Хосе Гусман"
+	"Насьон"
+	"Президенте"
+	"Кинсе де Септьембре"
+	"Тома Регаладо"
+}
+
+
+	ironclad = {
+	"Кара Сукия"
+	"Эль Потреро"
+	"Гоаскоран"
+	"Гранде"
+	"Хальпонга"
+	"Хибоа"
+	"Лемпа"
+	"Пас"
+	"Пулулуя"
+	"Сенсунапан"
+}
+
+
+	manowar = {
+	"Аудас"
+	"Креадор"
+	"Нептуно"
+	"Сан-Франциско"
+	"Сан-Хосе"
+	"Сан-Хуан"
+	"Санто-Томас"
+	"Тэррор"
+	"Тесоро"
+	"Вальенте"
+}
+
+
+	cruiser = {
+	"Каторсе Фамильяс"
+	"Сентроамерика"
+	"Конкистадор"
+	"Криольо"
+	"Дескубридор"
+	"Индепенденсия"
+	"Интенденсия"
+	"Ленка"
+	"Либертад"
+	"Пипиль"
+}
+
+
+	frigate = {
+	"Ауачапан"
+	"Чалатенанго"
+	"Кохутепеке"
+	"Сан-Франсиско Готера"
+	"Сан-Сальвадор"
+	"Санта-Текла"
+	"Сенсунтепеке"
+	"Сонсонате"
+	"Усулатан"
+	"сакатеколука"
+}
+
+
+	monitor = {
+	"Апанека"
+	"Чинамека"
+	"Эль Тигре"
+	"Гуасапа"
+	"Сан-Мигель"
+	"Сан-Висенте"
+	"Санта-Ана"
+	"Табурете"
+	"Текапа"
+	"Унгидо"
+}
+
+
+	clipper_transport = {
+	"Алегре"
+	"Аманесер"
+	"Антигуа"
+	"Фервороса"
+	"Фидединья"
+	"Голоса"
+	"Хас"
+	"Индепендьенте"
+	"Интангибле"
+	"Льяма"
+	"Лусесита"
+	"Оксиденталь"
+	"Пасифика"
+	"Поблада"
+	"Серена"
+	"Сирена"
+	"Транспортиста"
+	"Тритон"
+	"Вирхен"
+	"Воладора"
+}
+
+
+	steam_transport = {
+	"Алегре"
+	"Аманесер"
+	"Антигуа"
+	"Фервороса"
+	"Фидединья"
+	"Голоса"
+	"Хас"
+	"Индепендьенте"
+	"Интангибле"
+	"Льяма"
+	"Лусесита"
+	"Оксиденталь"
+	"Пасифика"
+	"Поблада"
+	"Серена"
+	"Сирена"
+	"Транспортиста"
+	"Тритон"
+	"Вирхен"
+	"Воладора"
+}
+
+
+	commerce_raider = {
+	"Ас де лос Марес"
+	"Каньонеро"
+	"Фаро дель Пасифико"
+	"Фрустиферо"
+	"Герреро"
+	"Уракан"
+	"Сальвадореньо"
+	"Семпитерно"
+	"Викториосо"
+	"Волькан"
+}
+
+
+}

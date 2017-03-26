@@ -1,0 +1,192 @@
+leader = {
+	name = "Антонио де Санта-Анна"
+	picture = mex_gen_santaanna
+	type = land
+	date="1821.1.1"
+	personality = wrathful
+	background = warmonger
+}
+
+leader = {
+	name = "Мартин де Кос"
+	picture = mex_gen_cos
+	type = land
+	date="1833.1.1"
+	personality = impulsive
+	background = aristocrat
+}
+
+leader = {
+	name = "Хосе де Урреа"
+	picture = mex_gen_urrea
+	type = land
+	date="1835.1.1"
+	personality = able
+	background = school_of_offense
+}
+
+leader = {
+	name = "Висенте Филисона"
+	picture = mex_gen_filisola
+	type = land
+	date="1822.1.1"
+	personality = indifferent
+	background = war_college
+}
+
+leader = {
+	name = "Анастасио Бустаманте"
+	picture = mex_gen_bustamante
+	type = land
+	date="1822.1.1"
+	personality = bigoted
+	background = politician
+}
+
+leader = {
+	name = "Мариано Артиста"
+	picture = mex_gen_arista
+	type = land
+	date="1830.1.1"
+	personality = inefficient
+	background = cavalry_school
+}
+
+leader = {
+	name = "Хуан Альварес"
+	picture = mex_gen_alvarez
+	type = land
+	date="1830.1.1"
+	personality = mediocre
+	background = expert_raider
+}
+
+leader = {
+	name = "Валентин Каналисо"
+	picture = mex_gen_canalizo
+	type = land
+	date="1835.1.1"
+	personality = brutish
+	background = yesman
+}
+
+leader = {
+	name = "Хосе Хоакин де Эррера"
+	picture = mex_gen_herrera
+	type = land
+	date="1821.1.1"
+	personality = calm
+	background = gifted_administrator
+}
+
+leader = {
+	name = "Хосе Мариано Салас"
+	picture = mex_gen_salas
+	type = land
+	date="1836.1.1"
+	personality = unruly
+	background = war_college
+}
+
+leader = {
+	name = "Мариано Паредес"
+	picture = mex_gen_paredes
+	type = land
+	date="1832.1.1"
+	personality = undisciplined
+	background = politician
+}
+
+leader = {
+	name = "Адриан Волл"
+	picture = mex_gen_woll
+	type = land
+	date="1832.1.1"
+	personality = indifferent
+	background = exranker
+}
+
+army = {
+	name = "Ejйrcito del Norte"
+	location = 2146
+	regiment = {
+		name= "1.Division Cos"
+		type = irregular
+		home = 2174
+	}
+
+	regiment = {
+		name= "2.Division Cos"
+		type = irregular
+		home = 2174
+	}
+
+	regiment = {
+		name= "3.Division Cos"
+		type = irregular
+		home = 2174
+	}
+
+}
+
+army = {
+	name = "Activo Oajaca"
+	location = 2177
+	regiment = {
+		name= "1.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2177
+	}
+
+	regiment = {
+		name= "2.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2177
+	}
+
+	regiment = {
+		name= "3.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2177
+	}
+
+}
+
+army = {
+	name = "Ejйrcito del Ciudad Mejico"
+	location = 2172
+	regiment = {
+		name= "1.Division Comonfort"
+		type = infantry
+		home = 2176
+	}
+
+	regiment = {
+		name= "2.Division Comonfort"
+		type = irregular
+		home = 2176
+	}
+
+	regiment = {
+		name= "3.Division Comonfort"
+		type = irregular
+		home = 2176
+	}
+
+}
+
+navy = {
+	name = "Armada de Mexico"
+	location = 2162
+	ship = {
+		name= "Vencedor del Alamo"
+		type = frigate
+	}
+
+	ship = {
+		name= "Matilda"
+		type = clipper_transport
+	}
+
+}
+

@@ -1,0 +1,357 @@
+KEYNAME;TEXT;;TEXT;;;;;;;;;;;x
+news1;Правительство державы $TAG_2_0$ предложило перемирие на следующих условиях : $STRING_0_1$;;Die Regierung von $TAG_2_0$ bot unter folgenden Bedingungen Frieden an: $STRING_0_1$;;;;;;;;;;;x
+battle_we_win_title_large;БЛЕСТЯЩАЯ ПОБЕДА В  $STRING_0_3$!;;GLORREICHER SIEG IN $STRING_0_3$!;;;;;;;;;;;x
+battle_we_win_large;$DATE_LONG_0$ наша непобедимая армия снова одержала победу в $STRING_0_3$! $VALUE_INT_0_1$ наших людей храбро сражались с $VALUE_INT_0_3$ ;;Am $DATE_LONG_0$ war unsere ungeschlagene Armee in der Schlacht von $STRING_0_3$ erneut siegreich! $VALUE_INT_0_1$ unserer tapferen Mдnner gaben $VALUE_INT_0_3$ $TAG_0_3_ADJ$ Truppen Saures und auch wenn $VALUE_INT_0_2$ unserer tapferen Mannen ihr Leben lieЯen, wurden mehr als $VALUE_INT_0_4$ $TAG_0_3_ADJ$ Schurken getцtet. Nach einer solchen Niederlage, wird $TAG_0_3$ sicherlich um Frieden ersuchen!;;;;;;;;;;;x
+battle_we_win_title_medium;Победа в  $STRING_0_3$!;;Sieg in $STRING_0_3$!;;;;;;;;;;;x
+battle_we_win_medium;$DATE_LONG_0$ мы победили $VALUE_INT_0_3$ солдат державы $TAG_0_3_ADJ$  в  $STRING_0_3$, ценой $VALUE_INT_0_2$ человеческих жизней.;;Am $DATE_LONG_0$ besiegten wir $VALUE_INT_0_3$ $TAG_0_3_ADJ$ Truppen in $STRING_0_3$, zum Preis von $VALUE_INT_0_2$ Leben.;;;;;;;;;;;x
+battle_we_win_title_small;Победа!;;Sieg!;;;;;;;;;;;x
+battle_we_win_small;$DATE_LONG_0$ мы победили $VALUE_INT_0_3$ солдат державы $TAG_0_3_ADJ$  в  $STRING_0_3$.;;Am $DATE_LONG_0$ besiegten wir $VALUE_INT_0_3$ $TAG_0_3_ADJ$ Truppen in $STRING_0_3$.;;;;;;;;;;;x
+battle_we_lose_title_large;ВОЕННАЯ ОШИБКА ПРИВОДИТ К КАТАСТРОФЕ В $STRING_0_3$!;;MILITДRISCHER PATZER FЬHRT ZU DESASTER IN $STRING_0_3$!;;;;;;;;;;;x
+battle_we_lose_large;$DATE_LONG_0$ некомпетентное командование опрометчиво отправило $VALUE_INT_0_4$ наших храбрых солдат на смерть в  $STRING_0_3$ ;;Am $DATE_LONG_0$ sendete unser unfдhiges Oberkommando schockierenderweise $VALUE_INT_0_4$ unserer tapferen Soldaten in $STRING_0_3$ gegen die Truppen von $TAG_0_2$ in den Tod. $VALUE_INT_0_3$ feine Soldaten stellten sich $VALUE_INT1$ $TAG_0_2_ADJ$ Mann und konnten trotz schlechter Fьhrung und der Hinterlist des Gegners $VALUE_INT_0_2$ Opfer mit sich nehmen. Wir bringen unsere groЯe Sorge ьber die Richtung des Oberkommandos in diesem Krieg zum Ausdruck und fordern die Regierung dazu auf, das Ruder herumzureiЯen, bevor es zu spдt ist!;;;;;;;;;;;x
+battle_we_lose_title_medium;Поражение в $STRING_0_3$;;Niederlage in $STRING_0_3$;;;;;;;;;;;x
+battle_we_lose_medium;$DATE_LONG_0$ мы проиграли битву в  $STRING_0_3$, потеряли $VALUE_INT_0_4$ жизней и  $TAG_0_2$ теперь контролирует эту территорию.;;Am $DATE_LONG_0$ verloren wir die Schlacht von $STRING_0_3$, $VALUE_INT_0_4$ Mдnner und die Kontrolle des Feldes an $TAG_0_2$.;;;;;;;;;;;x
+battle_we_lose_title_small;Катастрофа в $STRING_0_3$;;Desaster in $STRING_0_3$;;;;;;;;;;;x
+battle_we_lose_small;$DATE_LONG_0$ мы проиграли битву в $STRING_0_3$, потеряли $VALUE_INT_0_4$ жизней и  $TAG_0_2$ теперь контролирует эту территорию.;;Am $DATE_LONG_0$ verloren wir die Schlacht von $STRING_0_3$, $VALUE_INT_0_4$ Mдnner und die Kontrolle des Feldes an $TAG_0_2$.;;;;;;;;;;;x
+gwar_we_win_large_title;$TAG_3_0_UPPER$ СДАЕТСЯ!;;$TAG_3_0_UPPER$ GIBT AUF!;;;;;;;;;;;x
+gwar_we_win_large_desc;$DATE_LONG_1$ Великая Война между державами $TAG_0_0$ и $TAG_1_0$ закончилась нашей великой победой. Война, известная как $STRING_0_0$, началась $DATE_SHORT_0$ и длилась до $STRING_9_0$, результатом стало $STRINGS_LIST_4$.;;Am $DATE_LONG_1$ endete der GroЯe Krieg zwischen $TAG_0_0$ und $TAG_1_0$ mit unserem glorreichen Sieg. Der Krieg, bekannt als $STRING_0_0$, wьtete von $DATE_SHORT_0$ ьber $STRING_9_0$, an dessen Ende das Ergebis feststand: $STRINGS_LIST_4$.;;;;;;;;;;;x
+gwar_we_win_medium_title;ПОДПИСАНО ПЕРЕМИРИЕ!\n ПОБЕДА!;;WAFFENRUHE UNTERZEICHNET!\n SIEG!;;;;;;;;;;;x
+gwar_we_win_medium_desc;$DATE_LONG_1$ Великая Война между державами $TAG_0_0$ и $TAG_1_0$ закончилась нашей великой победой. Война, известная как $STRING_0_0$, началась $DATE_SHORT_0$ и длилась до $STRING_9_0$;;Am $DATE_LONG_1$ endete der GroЯe Krieg zwischen $TAG_0_0$ und $TAG_1_0$ mit unserem glorreichen Sieg. Der Krieg, bekannt als $STRING_0_0$, wьtete von $DATE_SHORT_0$ ьber $STRING_9_0$.;;;;;;;;;;;x
+gwar_we_win_small_title;Победа над державой $TAG_3_0$!;;Sieg ьber $TAG_3_0$!;;;;;;;;;;;x
+gwar_we_win_small_desc;$STRING_0_0$ закончилась поражением $TAG_3_0$.;;$STRING_0_0$ endete mit der Niederlage von $TAG_3_0$.;;;;;;;;;;;x
+gwar_we_lose_large_title;ДЕНЬ ПОЗОРА.\n МИР С ДЕРЖАВОЙ $TAG_2_0_UPPER$ ПОДПИСАН!;;EIN TAG DER SCHANDE.\nFRIEDEN MIT $TAG_2_0_UPPER$ UNTERZEICHNET!;;;;;;;;;;;x
+gwar_we_lose_large_desc;$DATE_LONG_1$ Великая Война против державы $TAG_2_0$ закончилась нашим позорным поражением. Война, известная как $STRING_0_0$, длилась с $DATE_SHORT_0$ до $STRING_9_0$, и результатом ее стало $STRINGS_LIST_4$.;;Am $DATE_LONG_1$ endete der  Krieg gegen $TAG_2_0$ mit unserer schдndlichen Niederlage. Der Krieg, $STRING_0_0$, wьtete von $DATE_SHORT_0$ ьber $STRING_9_0$ und am Ende stand $STRINGS_LIST_4$.;;;;;;;;;;;x
+gwar_we_lose_medium_title;ПЕРЕМИРИЕ С ДЕРЖАВОЙ $TAG_2_0_UPPER$!;;FRIEDEN MIT $TAG_2_0_UPPER$!;;;;;;;;;;;x
+gwar_we_lose_medium_desc;$DATE_LONG_1$ Великая Война между державами $TAG_0_0$ и $TAG_1_0$ закончилась нашим позорным поражением. Война, известная как $STRING_0_0$, бушевала с $DATE_SHORT_0$ до $STRING_9_0$.;;Am $DATE_LONG_1$ endete der Krieg zwischen $TAG_0_0$ und $TAG_1_0$ mit unserem Sieg. Der Krieg, bekannt als $STRING_0_0$, wьtete von $DATE_SHORT_0$ ьber $STRING_9_0$.;;;;;;;;;;;x
+gwar_we_lose_small_title;Мир с державой $TAG_2_0$;;Frieden mit $TAG_2_0$;;;;;;;;;;;x
+gwar_we_lose_small_desc;$STRING_0_0$ закончилась нашим поражение от рук $TAG_2_0$;;$STRING_0_0$ endete mit unserer Niederlage durch $TAG_2_0$;;;;;;;;;;;x
+war_we_win_large_title;ПОДПИСАНО ПЕРЕМИРИЕ\n $TAG_3_0_UPPER$ СДАЕТСЯ;;WAFFENRUHE!\n $TAG_3_0_UPPER$ GIBT AUF;;;;;;;;;;;x
+war_we_win_large_desc;$DATE_LONG_1$  война между $TAG_0_0$ и $TAG_1_0$ закончилась нашей славной победой. Война, известная как $STRING_0_0$, длилась с $DATE_SHORT_0$ до $STRING_9_0$, и результатом стало $STRINGS_LIST_4$.;;Am $DATE_LONG_1$ endete der Krieg zwischen $TAG_0_0$ und $TAG_1_0$ mit unserem glorreichen Sieg. $STRING_0_0$ wьtete von $DATE_SHORT_0$ ьber $STRING_9_0$, das Ende war $STRINGS_LIST_4$.;;;;;;;;;;;x
+war_we_win_medium_title;ПЕРЕМИРИЕ ПОДПИСАНО!\n ПОБЕДА!;;WAFFENRUHE!\n SIEG!;;;;;;;;;;;x
+war_we_win_medium_desc;$DATE_LONG_1$ война между $TAG_0_0$ и $TAG_1_0$ закончилась нашей славной победой. Война, известная как $STRING_0_0$, длилась с $DATE_SHORT_0$ до $STRING_9_0$.;;Am $DATE_LONG_1$ endete der Krieg zwischen $TAG_0_0$ und $TAG_1_0$ mit unserem Sieg. $STRING_0_0$ ging von $DATE_SHORT_0$ ьber $STRING_9_0$ und am Ende stand $STRINGS_LIST_4$.;;;;;;;;;;;x
+war_we_win_small_title;Победа над державой $TAG_3_0$!;;Sieg gegen $TAG_3_0$!;;;;;;;;;;;x
+war_we_win_small_desc;$STRING_0_0$ закончилась поражением державы $TAG_3_0$.;;$STRING_0_0$ endete mit der Niederlage von $TAG_3_0$.;;;;;;;;;;;x
+war_we_lose_large_title;ПОЗОРНЫЙ ДЕНЬ.\n МИР С ДЕРЖАВОЙ $TAG_2_0_UPPER$ ПОДПИСАН!;;SCHANDE.\nFRIEDEN MIT $TAG_2_0_UPPER$ SPRUCHREIF!;;;;;;;;;;;x
+war_we_lose_large_desc;$DATE_LONG_1$ война против $TAG_2_0$ закончилась нашим позорным поражением. Война, известная как $STRING_0_0$, длилась с $DATE_SHORT_0$ до $STRING_9_0$, результатом стало $STRINGS_LIST_4$.;;Am $DATE_LONG_1$ endete der Krieg mit $TAG_2_0$ in schдmlicher Niederlage. $STRING_0_0$ wьtete seit $DATE_SHORT_0$ ьber $STRING_9_0$, das Ergebnis war $STRINGS_LIST_4$.;;;;;;;;;;;x
+war_we_lose_medium_title;ПОЗОРНЫЙ МИР ПОДПИСАН!;;FRIEDEN UNTERZEICHNET!;;;;;;;;;;;x
+war_we_lose_medium_desc;$DATE_LONG_1$, война между державами $TAG_0_0$ и $TAG_1_0$ закончилась нашим позорным поражением. Война, известная как $STRING_0_0$, длилась с $DATE_SHORT_0$ до $STRING_9_0$, держава $TAG_2_0$ стала победителем.;;Am $DATE_LONG_1$ endete der GroЯe Krieg zwischen $TAG_0_0$ und $TAG_1_0$ siegreich fьr uns. Der als $STRING_0_0$ bekannte Krieg dauerte seit $DATE_SHORT_0$ ьber $STRING_9_0$ an und endete mit $TAG_2_0$ als Sieger.;;;;;;;;;;;x
+war_we_lose_small_title;Мир с державой $TAG_2_0$;;Frieden mit $TAG_2_0$;;;;;;;;;;;x
+war_we_lose_small_desc;$STRING_0_0$ закончилась нашим поражением от рук державы $TAG_2_0$;;$STRING_0_0$ endete mit unserer Niederlage durch $TAG_2_0$;;;;;;;;;;;x
+rebels_win_small_title;Революция!;;Revolution!;;;;;;;;;;;x
+rebels_win_small_desc;$STRING_0_0$ закончилось победой над державой $TAG_0_0$ , это почти разрушило страну, что же  $STRING_0_3$ $STRING_0_4$ будет делать теперь?;;$STRING_0_0$ haben $TAG_0_0$ besiegt und das Land liegt in Trьmmern, was wird $STRING_0_3$ $STRING_0_4$ nun tun?;;;;;;;;;;;x
+KEYNAME;TEXT;;TEXT;;;;;;;;;;;x
+some_fake_1836_title_1;Опиумная лихорадка!;;Neues vom Opium!;;;;;;;;;;;x
+some_fake_1836_1;Китай охватило опиумное безумие, торговцы говорят, что дорога долгая, но оно того стоит.;;Opiumwelle in China, Hдndler sagen, die weite Reise lohnt sich.;;;;;;;;;;;x
+some_fake_1836_title_2;Увлечение Эфиром;;Дther-Wahnsinn;;;;;;;;;;;x
+some_fake_1836_2;Популярность эфира достигла высшей точки, эксперты же говорят :"Это газ!”.;;Дther immer populдrer, Experten behaupten: “Es ist ein Gas!”;;;;;;;;;;;x
+some_fake_1836_title_3;Сладкие сны;;SьЯe Trдume;;;;;;;;;;;x
+some_fake_1836_3;Первое использование общей анестезии в операции, хирург в США усыпляет пациента на время удаления опухоли.;;Erster Einsatz von Anдsthesie bei Operation, Arzt in den USA lдЯt Patienten Tumor-Entfernung verschlafen.;;;;;;;;;;;x
+some_fake_1836_title_4;Кодовые слова;;Codewцrter;;;;;;;;;;;x
+some_fake_1836_4;Первое телеграфное сообщение было отправлено в США Сэмюэлем Морзе.;;Erste elektr. telegrafische Nachricht der Welt von Samuel Morse in den USA gesendet.;;;;;;;;;;;x
+some_fake_1836_title_5;Филателисты, радуйтесь!;;Philatelisten jauchzet!;;;;;;;;;;;x
+some_fake_1836_5;В Великобритании появилась почтовая марка, называющаяся "Черный Пенни”. На ней изображена молодая королева Виктория.;;"Neue Briefmarke Penny Black"", mit dem Antlitz der jungen Kцnigin Victoria im Vereinigten Kцnigreich im Umlauf.""";;;;;;;;;;;x
+some_fake_1836_title_6;Уже в продаже!;;Jetzt neu!;;;;;;;;;;;x
+some_fake_1836_6;“Мертвые души”, выпущеннные в России, критики утверждаюст, что книга слишком сложна для понимания.;;“Die Seelen der Toten” aus Russland, Kritiker: zu kompliziert.;;;;;;;;;;;x
+some_fake_1836_title_7;Духовой или латунный?;;Holzblдser oder Blech?;;;;;;;;;;;x
+some_fake_1836_title_8;Золотая лихорадка!;;Goldrausch!;;;;;;;;;;;x
+some_fake_1836_8;В Калифорнии было обнаружено золото. В связи с этим туда начался массовый наплыв золотоискателей!;;Gold in Kalifornien entdeckt, Goldsucher ьberrennen das Land!;;;;;;;;;;;x
+some_fake_1836_title_9;Ворон опубликован;;“Der Rabe” verцffentlicht;;;;;;;;;;;x
+some_fake_1836_9;Последняя мрачная новелла Алана Эдгара По заставит ваши волосы подняться на затылке.;;Eine dьstere Glanzleistung, Poes neueste Kurzgeschichte sorgt fьr Gдnsehaut.;;;;;;;;;;;x
+some_fake_1836_title_10;Пышные женские формы;;Die ьppige Form der Frau;;;;;;;;;;;x
+some_fake_1836_10;(Читателю рекомендуется быть осмотрительным) Были обозначены минимальные и максимальные значения обхвата женских талии и бедер. Продолжение на странице 5;;(Explizite Inhalte) Weibliche Taillen und HьftgrцЯen scheinbar so schmal und auch breit wie nie zuvor. Mehr auf Seite 5;;;;;;;;;;;x
+some_fake_1836_title_11;Колонка Шеф-редактора:;;Redaktionelles;;;;;;;;;;;x
+some_fake_1836_11;Либерализм уничтожит западную цивилизацию. Без сильной власти люди вернутся назад к варварству, чтобы выжить и прокормить своих детей. (смотри стр. 10);;Liberalismus zerstцrt westliche Zivilisation (mehr auf Seite 10)…;;;;;;;;;;;x
+some_fake_1850_title_1;Наши предки?;;Unsere Vorfahren?;;;;;;;;;;;x
+some_fake_1850_1;Ученые шокированы останками Неандертальца, найденными в Германии.;;Forscher begeistert in Deutschland entdecktem Neandertaler-Fossil.;;;;;;;;;;;x
+some_fake_1850_title_2;Колонка Шеф-редактора:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1850_2;Проверенное мнение, что животный жир-лучшее средство для смазки оружия. Узнай, как мы это установили (см. стр. 10);;Tierfette perfekt fьr das Einfetten von Patronenhьlsen (siehe Seite 10)…;;;;;;;;;;;x
+some_fake_1850_title_3;Каналы в упадке;;Kanдle zerfallen;;;;;;;;;;;x
+some_fake_1850_3;Система каналов, когда-то бывшая гордостью нашего народа, близка к разрушению. Что можно сделать? Продолжение на странице 4.;;Einstmals stolzes Kanalsystem unserer Nation zerfдllt rapide. Was kann man tun? Weiter auf Seite 4;;;;;;;;;;;x
+some_fake_1860_title_1;Линкольн убит;;Anschlag auf Lincoln;;;;;;;;;;;x
+some_fake_1860_1;Авраам Линкольн убит в театре Форда Джоном Уилкисом Бутом. Застрелен с близкого расстояния.;;Abraham Lincoln in Ford's Theatre von John Wilkes Booth ermordet, Todesschuss aus kurzer Distanz.;;;;;;;;;;;x
+some_fake_1860_title_2;Линкольн в порядке;;Lincoln wohlauf;;;;;;;;;;;x
+some_fake_1860_2;Неудавшаяся попытка убийства Авраама Линкольна. Президент сбрасывает нападавшего с балкона в театре Форда.;;Attentat auf Abraham Lincoln durch John Wilkes Booth fehlgeschlagen, Prдsident stцЯt Attentдter vom Balkon im Ford's Theatre.;;;;;;;;;;;x
+some_fake_1860_title_3;Неспортивный;;Unsportlich;;;;;;;;;;;x
+some_fake_1860_3;Военные субмарины были признанны нечестным вооружением и их использование бессрочно запрещено.;;"Militдrisches U-Boot erfunden, weltweit als “unfair eingestuft und fьr alle Zeiten verboten.""";;;;;;;;;;;x
+some_fake_1860_title_4;Здравоохраниение;;Gesundheitswesen;;;;;;;;;;;x
+some_fake_1860_4;Флоренс Найтингейл основывает школу для медсестер в больнице Святого Томаса в Лондоне.;;Florence Nightingale grьndet Schwesternschule am St Thomas' Hospital, London.;;;;;;;;;;;x
+some_fake_1860_title_5;Элементы упорядоченны;;Elemente geordnet;;;;;;;;;;;x
+some_fake_1860_5;Дмитрий Менделеев изобрел периодическую систему, где упорядочены  все 56 известных элементов.;;Dmitri Mendeleev erfindet Periodensystem, alle 56 Elemente aufgelistet.;;;;;;;;;;;x
+some_fake_1860_title_6;Увлечение ездой;;Rad-Trend nimmt zu;;;;;;;;;;;x
+some_fake_1860_6;Увелечение велосипедной ездой охватывает запад, велосипед - обязательное имущество!;;Zweirad-Wahn erfasst westl. Welt, Stahlrцsser sind ein Muss!;;;;;;;;;;;x
+some_fake_1860_title_7;Ширина на все времена;;Sombreros breit wie nie;;;;;;;;;;;x
+some_fake_1860_7;Сообщено, что средняя ширина сомбреро бандита в Мексике выросла до невероятных 57 дюймов.;;Laut Meldungen ist die durchschnittl. Sombrero-Breite von Banditen in Mexiko auf unglaubliche 56 Zoll angewachsen.;;;;;;;;;;;x
+some_fake_1860_title_8;Созданны пожарные части;;Brandwache eingerichtet;;;;;;;;;;;x
+some_fake_1860_8;Это ново, но это хорошо;;Neu und unglaublich gut.;;;;;;;;;;;x
+some_fake_1860_title_9;Футбол набирает популярность;;FuЯball immer beliebter;;;;;;;;;;;x
+some_fake_1860_9;Посещаемость футбольных матчей очень выросла в последнее время, доказана их популярность у рабочих и низшего класса.;;Besucherzahlen im Vereins-FuЯballsport wachsen, Spektakel besonders beliebt bei Arbeitern und Erwerbslosen.;;;;;;;;;;;x
+some_fake_1860_title_10;Колонка Шеф-редактора:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1860_10;Опасайтесь женщин бисексуалок. Женщины в открытых машинах, юбки небрежно развеваются на ветру, лодыжки у всех на виду, так легко поддаться безумию. (стр. 10);;Vorsicht vor weiblicher Rad-Amazone (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1860_title_11;Помпеи и Геркуланум снова при жизни;;Pompeji und Herculaneum offengelegt;;;;;;;;;;;x
+some_fake_1860_11;Новые методы раскопок позволят вернуться в мир городов, разрушенных извержением Везувия в 79 году н.э.;;Neue Ausgrabungsmethoden bringen die 79 AD vom Vesuv zerstцrten Stдdte der Welt zurьck.;;;;;;;;;;;x
+some_fake_1870_title_1;Колонка Шеф-редактора:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1870_1;Африканские народы жаждут нашего управления. Подобно тому, как ирландцы приветствовали британское господство, черная раса не откажется от направляющей руки белых. (стр. 10);;Rьckstдndige Vцlker Afrikas ersehnen unsere gьtige Fьhrung (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1870_title_2;Литература:;;Literatur:;;;;;;;;;;;x
+some_fake_1870_2;Вокруг Света за 80 дней, отзывы для наших читателей.;;Um die Welt in 80 Tagen, fьr LesespaЯ und Bildung unserer Leser rezensiert.;;;;;;;;;;;x
+some_fake_1870_title_3;Обмороки из-за корсета;;Ohnmacht durch Korsett;;;;;;;;;;;x
+some_fake_1870_3;Небывало высокий уровень! В очередной раз больницы нашей страны заполнены жертвами чрезмерного затягивания корсета.;;Rekordzahlen! Erneut werden die Bдder, Hospitдle und Chaiselongues von Opfern zu eng geschnьrter Korsetts ьberrannt.;;;;;;;;;;;x
+some_fake_1880_title_1;Воздушно-десантные успехи!;;Erfolge der Luftfahrt!;;;;;;;;;;;x
+some_fake_1880_1;La France, французский военный дирижабль, становится первым электрифицированным дирижаблем, способным на кругосветный перелет.;;"Franz. Militдr-Luftschiff La France"" erstes Luftschiff mit Motorantrieb auf erfolgreicher Rundfahrt.""";;;;;;;;;;;x
+some_fake_1880_title_2;Высотные здания;;Hochhдuser;;;;;;;;;;;x
+some_fake_1880_2;Небоскребы в Америке, массивные стальные гиганты. ;;“Sky-Scraper” in Amerika, massive stahl-ummantelte Hochhдuser ьberragen ihre Umgebung.;;;;;;;;;;;x
+some_fake_1880_title_3;Монетный двор джулепы спасен!;;Mint Julep gerettet!;;;;;;;;;;;x
+some_fake_1880_3;С. Марвин Стоун (США)  изобретает соломинку.;;Marvin C. Stone, USA, erfindet den “Strohhalm”.;;;;;;;;;;;x
+some_fake_1880_title_4;Ничто не может пойти не так ;;Da kann nichts schiefgehen;;;;;;;;;;;x
+some_fake_1880_4;Лекарство от морфиевой зависимости обнаружено в США!;;Heilung fьr Morphium-Sucht in USA entdeckt: Koka-Wein!;;;;;;;;;;;x
+some_fake_1880_title_5;Бисмарк подает в отставку;;Bismarck tritt zurьck;;;;;;;;;;;x
+some_fake_1880_5;Бисмарк покидает пост канцлера Германии, немецкая машина осталась без пилота.;;Bismarck tritt als Kanzler Deutschlands zurьck, Schiff des Staates ohne Kapitдn.;;;;;;;;;;;x
+some_fake_1880_title_6;Колонка Шеф-редактора:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1880_6;Социализм уничтожит западную цивилизацию. Она хочет расширить возможности рабочего класса, позволяет им поверить, что они так же хороши и достойны, как богатые. Нелепица! (стр. 10);;Sozialismus wird westliche Zivilisation zerstцren (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1880_title_7;Должно ли американское правительство действовать?;;Sollte die Regierung Amerikas handeln?;;;;;;;;;;;x
+some_fake_1880_7;Линчевание представителей негритянской расы стало обычным явлением в самом сердце Америки. Редакция этого издания спрашивает: Должно ли государство вмешаться, чтобы прекратить это?;;Lynchmorde unter den Schwarzen nehmen in den mittleren Staaten Amerikas zu. Wir stellen die Frage: Sollte der Staat eingreifen und dem ein Ende setzen?;;;;;;;;;;;x
+some_fake_1890_title_1;Вверх!;;Abheben!;;;;;;;;;;;x
+some_fake_1890_1;Ader Eole, воздушный корабль с паровым двигателем, делает короткие перелеты недалеко от Парижа.;;Die Ader Eole, ein dampfgetriebenes Gefдhrt schwerer als Luft, absolviert kurzen Flug nahe Paris.;;;;;;;;;;;x
+some_fake_1890_title_2;Успешный полет!;;Erfolgreicher Flug!;;;;;;;;;;;x
+some_fake_1890_2; Derwitzer Glider становится первым успешно пилотируемым самолетом в мире, полет которого возможен на расстояние около 80 фунтов. ;;Derwitzer Glider wird erstes erfolgreiches, bemanntes Fluggerдt der Welt und ьberwindet bis zu 80 FuЯ Distanz bei Derwitz in Brandenburg.;;;;;;;;;;;x
+some_fake_1890_title_3;Двигающиеся картинки!;;Bewegte Bilder!;;;;;;;;;;;x
+some_fake_1890_3;Кинетоскоп поражает зрителей, показывая движущиеся изображения в Бруклинском институте искусств и наук.;;Kinetoskop beeindruckt Publikum im Brooklyn Insitute of Arts and Sciences mit bewegten Bildern.;;;;;;;;;;;x
+some_fake_1890_title_4;Ура! Поколение 90-ых;;Hurra! Hier sind die wilden 90er;;;;;;;;;;;x
+some_fake_1890_4;"Времени веселее, чем сейчас, конечно, никогда не было и никогда больше не будет", редакция почтительно предлагает фразу парни 90-х годов внести в наш повседневный лексикон.;;Eine wildere Zeit als diese hat es noch nie gegeben und wird es wohl nie wieder geben. Wir schlagen daher vor, den Begriff “Die Wilden 90er” ins Lexikon aufzunehmen.;;;;;;;;;;;x
+some_fake_1890_title_5;Сможет ли человек когда-нибудь летать?;;Kann der Mensch eines Tages fliegen?;;;;;;;;;;;x
+some_fake_1890_5;Среди людей ходят слухи, они мечтают, что однажды человек сможет воспарить в небо с помощью механических приспособлений.;;Landesweit hoffen Trдumer, dass der Mensch eines Tages mithilfe mechanischer Gerдte den Himmel erobern wird.;;;;;;;;;;;x
+some_fake_1890_title_6;Колонка Шеф-редактора:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1890_6;"Если бы Он пожелал, чтобы человек летал, он дал бы нам крылья" - комментарий, данный владельцем корабля и основным акционером этой газеты Чарльзом O'Лигархом. (см. стр. 10.);;Wenn Gott wollte, das wir fliegen, hдtte er uns Flьgel gegeben (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1890_title_7;Прежде всего, не с того конца;;Falsches Ende gibt Ton an;;;;;;;;;;;x
+some_fake_1890_7;Известных палеонтолог Г.Ч. Марш показал сегодня, что знаменитый Elasmosaurus собран профессором Коупом, по сути, имеет голову, надетую на хвост. Профессор отказался давать какие-либо комментарии.;;Angesehener Palдontologe O.C. Marsh enhьllt, dass der von Professor Cope zusammengesetzte Elasmosaurus seinen Kopf am Schwanz befestigt hat. Cope war nicht fьr einen Kommentar zu erreichen.;;;;;;;;;;;x
+some_fake_1900_title_1;Легче воздуха;;Leichter als Luft;;;;;;;;;;;x
+some_fake_1900_1;Первый полет дирижабля произошел на Боденском озеро вблизи Фридрихсхафена, Германия.;;Der erste Zeppelinflug  ьber dem Bodensee in Deutschland, nahe Friedrichshafen.;;;;;;;;;;;x
+some_fake_1900_title_2;Катастрофа!;;Desaster!;;;;;;;;;;;x
+some_fake_1900_2;Мощный ураган прокатился по Галвестону, штат Техас, США и убил около 8000 человек;;Zerstцrerischer Orkan trifft Galveston, Texas, USA und tцtet 8.000 Menschen.;;;;;;;;;;;x
+some_fake_1900_title_3;Катастрофа!;;Desaster!;;;;;;;;;;;x
+some_fake_1900_3;На Мартинике началось извержение вулкана Мон-Пеле, разрушен город Сен-Пьер и погибло более 30 000.;;Mount Pelйe in Martinique ausgebrochen, Stadt Saint-Pierre vollstдndig zerstцrt, ьber 30.000 Tote.;;;;;;;;;;;x
+some_fake_1900_title_4;Катастрофа!;;Desaster!;;;;;;;;;;;x
+some_fake_1900_4;Извержение Везувия опустошило Неаполь!;;Der Vesuv ist ausgebrochen, Neapel in Schutt und Asche.;;;;;;;;;;;x
+some_fake_1900_title_6;Катастрофа!;;Desaster!;;;;;;;;;;;x
+some_fake_1900_6;Землетрясение и цунами обрушились на Мессины и Калабрии на Сицилии, убив более 70 000 человек.;;Erdbeben und Tsunami treffen Messina unnd Kalabrien in Sizilien, mehr als 70.000 tot.;;;;;;;;;;;x
+some_fake_1900_title_7;Капитан;;Der Hauptmann von Kцpenick;;;;;;;;;;;x
+some_fake_1900_7;Самозванцу под видом немецкого офицера удалось обмануть солдат в Берлине и украсть более 4000 марок из-за недочетов бухгалтерии. У него была квитанция.;;Hochstapler gibt sich als deutscher Militдroffizier aus, trickst Soldaten in Berlin aus und stiehlt mehr als 4000 Mark wegen angeblich falscher Buchfьhrung. Er gab eine Quittung.;;;;;;;;;;;x
+some_fake_1910_title_1;Катастрофа!;;Desaster!;;;;;;;;;;;x
+some_fake_1910_1;Титаник, самый большой корабль, когда-либо построенный человеком, затонул после столкновения с айсбергом в Северной Атлантике во время своего первого рейса, более 1500 человек погибли в результате этого столкновения.;;RMS Titanic, grцЯtes jemals gebautes Schiff, nach ZusammenstoЯ mit Eisberg auf ihrer Jungfernfahrt im Nord-Atlantik gesunken. Mehr als 1.500 Tote erwartet.;;;;;;;;;;;x
+some_fake_1910_title_2;Катастрофа!;;Desaster!;;;;;;;;;;;x
+some_fake_1910_2;В Нидерландах, из-за шторма в Северном Море, затоплены низменности. 10 000 человек считаются погибшими.;;Sturm ьber der Nordsee setzt Holland unter Wasser, 10.000 Tote erwartet.;;;;;;;;;;;x
+some_fake_1910_title_3;Открытие!;;Entdeckung!;;;;;;;;;;;x
+some_fake_1910_3;Хирам Бингхэм открыл Мачу-Пикчу, ранее неизвестный город инков.;;Hiram Bingham entdeckt Machu Pichu wieder, eine vormals unbekannte Inka-Stadt.;;;;;;;;;;;x
+some_fake_1910_title_4;Курильщики, радуйтесь!;;Raucher frohlocket!;;;;;;;;;;;x
+some_fake_1910_4;Гидеон Сундбэк запатентовал молнию!;;Gideon Sundback erfindet ReiЯverschluss.;;;;;;;;;;;x
+some_fake_1910_title_5;Завтрак остается.;;Frьhstьck gesichert;;;;;;;;;;;x
+some_fake_1910_5;Чарльз Страйт изобретает приспособление для жарки хлеба - тостер.;;Charles Strite erfindet den Brotrцster.;;;;;;;;;;;x
+some_fake_1910_title_6;Континентальный дрейф предполагается ;;Kontinentaldrift angenommen;;;;;;;;;;;x
+some_fake_1910_6;Альфред Вегенер, видный немецкий ученый, выдвинул теорию, что континенты, на которых мы живем, могут свободно смещаться по поверхности Земли.;;Bekannter deutscher Wissenschaftler Alfred Wegener entwickelt Theorie, dass die Kontinente, auf denen wir wandeln, auf der Erdoberflдche schwimmen kцnnten.;;;;;;;;;;;x
+some_fake_1910_title_7;Общая теория относительности;;Relativitдtstheorie;;;;;;;;;;;x
+some_fake_1910_7;Альберт Эйнштейн опубликовал свою теорию относительности, запутаннй и сложный набор формул, который стремится объяснить отношения между пространством, временем, гравитацией и множество других сил.;;Albert Einstein verцffentlicht Relativitдtstheorie, eine verwirrende und komplexe Formelsammlung, die Zusammenhдnge in Raum, Zeit, Schwerkraft und einer Vielzahl anderer Krдfte erklдren soll.;;;;;;;;;;;x
+some_fake_1910_title_8;Колонка Шеф-редактора:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1910_8;Феминизм уничтожит западную  цивилизацию. Равенство полов порочно, ни один цивилизованный человек не допустит такой мысли. К чему может привести феминизм? (стр. 10);;Der Feminismus wird westl. Zivilisation zerstцren (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1910_title_9;Бесплатно внутри:;;Kostenlose Beilage:;;;;;;;;;;;x
+some_fake_1910_9;Кроссворд-головоломка, причудливое времяпрепровождение, которое позволит читателю продемонстрировать смекалку и прозорливость.;;Ein 'Kreuzwort-Rдtsel', ein netter Zeitvertreib, mit dem unsere Leser ihren Scharfsinn demonstrieren kцnnen.;;;;;;;;;;;x
+some_fake_1910_title_10;Споры: конец Шерлока Холмса;;Kontroverse zum Ende von Sherlock Holmes;;;;;;;;;;;x
+some_fake_1910_10;После массивных выступлений фанатов против горькой смерти знаменитого сыщика, автор сэр Артур Конан Дойл решает вернуть его из мертвых, предоставление разъяснений и закрытие.;;Nach massivem Aufschrei der Fans zum bittersьЯen Ende des berьhmten Detektivs, entschlieЯt sich Sir Arthur Conan Doyle ihn wiederzubeleben und verspricht Klarheit und Abschluss.;;;;;;;;;;;x
+some_fake_1920_title_1;Запись полета;;Flugrekord;;;;;;;;;;;x
+some_fake_1920_1;Чарльз Линдберг стал первым человеком, самостоятельно перелетевшим через Атлантический океан (20-21 мая 1927), это был беспосадочный перелет из Нью-Йорка в Париж.;;Charles Lindbergh ьberfliegt als erster Mann solo und nonstop den Atlantischen Ozean von New York nach Paris (20.-21. Mai 1927);;;;;;;;;;;x
+some_fake_1920_title_2;К звездам!;;Zu den Sternen!;;;;;;;;;;;x
+some_fake_1920_2;Первый в мире полет на  ракете Роберта Годдарда.;;Weltweit erster Raketenflug mit Flьssigtreibstoff von Robert Goddard.;;;;;;;;;;;x
+some_fake_1920_title_3;Конец бородам?;;Das Ende der Bдrte?;;;;;;;;;;;x
+some_fake_1920_3;Первая электрическая бритва запатентована американским производителем, полковником Джейкобом Шиком.;;Erster elektr. Rasierer vom amerikanischen Hersteller Col. Jacob Schick patentiert.;;;;;;;;;;;x
+some_fake_1920_title_4;Будущее музыки;;Zukunftsmusik;;;;;;;;;;;x
+some_fake_1920_4;Первый Музыкальные автомат с возможностью выбора введен Автоматизированной Компанией Музыкальных инструментов.;;Erster Musikautomat mit Musikwahl von Automated Musical Instrument Company vorgestellt.;;;;;;;;;;;x
+some_fake_1920_title_5;Мы не знаем почему;;Wir wissen nicht warum;;;;;;;;;;;x
+some_fake_1920_5;Волна сокращений проносится по Западному миру.;;Pfahlsitzen-Marotte erobert westl. Welt.;;;;;;;;;;;x
+some_fake_1920_title_6;Колонка Шеф-редактора:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1920_6;"Телевидение действительно уничтожит западную цивилизацию. Сегодня бездушные куклы, завтра ужасающие пьяные и похотливые люди за двадцать?" (см. стр. 10).;;Fernseher werden westliche Zivilisation vernichten (mehr auf Seite 10);;;;;;;;;;;x
+some_fake_1920_title_7;Колонка Шеф-редактора:;;Redaktionelles:;;;;;;;;;;;x
+some_fake_1920_7;Джаз уничтожит западную цивилизацию. Никогда еще в истории музыки не было такого развращающего ритма. Музыке джунглей нет места в нашем цивилизованном обществе (стр. 10) ;;Jazz wird westl. Zivilisation vernichten (weiter auf Seite 10);;;;;;;;;;;x
+some_fake_1920_title_8;Невероятное увлечение джазом!;;Der Jazz-Wahn!;;;;;;;;;;;x
+some_fake_1920_8;Новая мода пробудила страстное влечение людей к новой музыке. Неистовый танец, поощрение распущенности и смешение рас являются побочными продуктами этого далеко неправильного музыкального жанра.;;Musikliebhaber von neuer Marotte erfasst: Frenetische Tдnze, Zuchtlosigkeit und Rassenvermischung sind Nebenprodukte dieser falschen Musikform.;;;;;;;;;;;x
+some_fake_1920_title_9;Литературный дайджест: Улисс;;Literatur-Ьbersicht: Ulysees;;;;;;;;;;;x
+some_fake_1920_9;Написанная ирландским человеком с неплохой репутацией Джеймсом Джойсом, "Улисс" описывает один день из жизни главного героя. Он живет в Дублине, в нормальном режиме, изо всех сил ... (Продолжение на стр. 19);;Bekannter Ire James Joyce beschreibt in Ulysees einen Tag im Leben eines Protagonisten in Dublin und seinen Widrigkeiten (mehr auf Seite 19);;;;;;;;;;;x
+some_fake_1920_title_10;В Египет!;;Auf nach Дgypten!;;;;;;;;;;;x
+some_fake_1920_10;Поразительное археологическое открытие произошло сегодня в районе Нила, международная непреодолимая тяга к восточной ... (Продолжение на стр. 2);;Weitere erstaunliche, archдologische Entdeckungen in der Nil-Region befeuern Faszination mit dem Orientalischen … (weiter auf Seite 2);;;;;;;;;;;x
+some_fake_1920_title_11;Баухауз архитектура;;Bauhaus-Architektur;;;;;;;;;;;x
+some_fake_1920_11;Футуристический новый художественный стиль архитектуры, известный как Баухауз, можно увидеть в городах Веймар, Берлин и Дессау.;;Futuristischer, neuer Kunst-Architekturstil, bekannt als Bauhaus, erobert die Stдdte Weimar, Berlin und Dessau.;;;;;;;;;;;x
+some_fake_1920_title_12;Дуэт чудаков вылвал хаос;;Verrьcktes Duo erzeugt Chaos;;;;;;;;;;;x
+some_fake_1920_12;Двое мужчин, один толстый, другой худой, попали в суд в роли обвиняемых из-за общего мелкого вредительства и шутовства. В связи с тяжестью преступления, которое повлекло за собой снос дома, обвинители, как ожидается, будут требовать смертной казни.;;Zwei Mдnner, einer dick, einer dьnn, stehen wegen groben Unfugs und grober Clownerei vor Gericht. Aufgrund der Schwere der Vorwьrfe, die die Zerstцrung eines Hauses und Diebstahl umfassen, wird die Forderung der Todesstrafe durch Anklдger erwartet.;;;;;;;;;;;x
+some_fake_ANY_title_1;Собака укусила ребенка.;;Hund beiЯt Kind.;;;;;;;;;;;x
+some_fake_ANY_1;Жестокое нападение животного повергает сообщество в шок, родители обеспокоены безопасностью своих  детей.;;Brutale Tierattacken schockieren Gemeinde, Eltern fьrchten um die Sicherheit ihrer Kinder und fordern Taten.;;;;;;;;;;;x
+some_fake_ANY_title_2;Глобальное похолодание.;;Globale Abkьhlung.;;;;;;;;;;;x
+some_fake_ANY_2;Ученые предупреждают: новый ледниковый период можете начаться, так как температура падает из года в год.;;Forscher warnen vor neuer Eiszeit, da Temperaturen jдhrlich fallen.;;;;;;;;;;;x
+some_fake_ANY_title_3;Потерявшийся ребенок найден;;Vermisstes Kind gefunden;;;;;;;;;;;x
+some_fake_ANY_3;Он прятался в сарае! Пропавший ребенок найден после усиленного  поиска местными добровольцами, он скрывался в соседнем заброшенном здании.;;Versteckt in einer Scheune! Der Fall eines vermissten Kindes fand gutes Ende, nachdem engagierte Suchmannschaften es in einem nahen, verlassenen Gebдude fanden.;;;;;;;;;;;x
+some_fake_ANY_title_5;Девушка зверски убита!;;Maid brutal ermordet;;;;;;;;;;;x
+some_fake_ANY_5;Ужасающе изуродованный труп девушки был обнаружена вчера, привязанным к поезду. Рекомендуется быть начеку, разыскивается человек с большими усами, в цилиндре и черном плаще.;;Entsetzlich entstellter Kцrper einer jungen Maid wurde gestern, an Eisenbahnschienen gefesselt, gefunden. Fahndung nach Mann mit Schnauzbart, Zylinder und schwarzem Umhang lдuft.;;;;;;;;;;;x
+some_fake_ANY_title_6;Появление кролика из шляпы;;Der Hase aus dem Hut;;;;;;;;;;;x
+some_fake_ANY_6;Мужчина, утверждавший, что обладает мистической силой, был замечен запихивающим кролика в шляпу. В настоящее время ведется расследование по подозрению в нечестной практике.;;Ein Mann mit angeblich mystischen Krдften wurde gestern gesehen, als er einen Hasen aus dem Hut zauberte. Untersuchungen mit Verdacht auf unnatьrliche Praktiken im Gange.;;;;;;;;;;;x
+some_fake_ANY_title_7;Взгляд в 2000-ный год;;Ein Blick in das Jahr 2000;;;;;;;;;;;x
+some_fake_ANY_7;Известный футуролог предоставил своё видение далекого 2000 года во время разговора с нашим корреспондентом, он сказал: "К 2000 году каждый землевладелец будет иметь не менее 5 воздушных шаров".;;Ein bekannter Zukunftsforscher gibt Einblick in das ferne Jahr 2000 A.D. Er sagt: “Im Jahr 2000 besitzt jeder Gentleman wenigstens 5 HeiЯluftballons”.;;;;;;;;;;;x
+some_fake_ANY_title_8;Поддельные новости!;;Gefдlschte Nachrichten!;;;;;;;;;;;x
+some_fake_ANY_8;Ирландец, поляк и пруссы были арестованы вчера в рамках проводимого расследования. Они  придумывали новости и представляли их как достоверные.;;Festnahmen gegen einen Iren, Polen und PreuЯen im Rahmen der Untersuchung einer Schattenorganisation, die der Erstellung falscher Nachrichten und deren Verkauf als Fakten verdдchtigt werden.;;;;;;;;;;;x
+some_fake_ANY_title_9;12 жертв!;;12 aufgespieЯt!;;;;;;;;;;;x
+some_fake_ANY_9;Вчера разъяренный бык забодал до смерти пятерых мужчин и семерых женщин, хотя ранее за ним агрессии не наблюдалось.  Животное было обезглавлено случайно оказавшимся рядом трубочистом. ;;Wьtender Bulle tцtete gestern 5 Mдnner und 7 Frauen. Das vormals als sanft bekannte Tier wurde von einem vorbeikommendem Schornsteinfeger enthauptet.;;;;;;;;;;;x
+some_fake_ANY_title_10;Обрушение моста!;;Brьcke eingestьrzt!;;;;;;;;;;;x
+some_fake_ANY_10;Происшествие унесло жизнь мясника, жившего в пригороде столицы. При жизни он имел сомнительную репутацию и оставил после себя брата - пекаря, и сына, который производит и продает свечи.;;Ein Metzger wurde auЯerhalb unserer Hauptstadt in den Tod gerissen. Der lokal bekannte Metzger hinterlдsst seinen Bruder, einen Bдcker und einen Sohn, der Kerzenhalter herstellt und verkauft.;;;;;;;;;;;x
+some_fake_ANY_title_11;Тишина на Балканах.;;Ruhe im Balkan;;;;;;;;;;;x
+some_fake_ANY_11;Сербы, хорваты, боснийцы, турки, болгары, румыны, албанцы и греки собрались в минувшее воскресенье, чтобы отметить долгий мир, которой держится в данный момент на Балканах.;;Serben, Kroaten, Bosnier, Tьrken, Bulgaren, Rumдnen, Albaner und Griechen feierten letzten Sonntag den groЯen Frieden, der zur Zeit im Balkan herrscht.;;;;;;;;;;;x
+some_fake_ANY_title_12;Письмо в редакцию;;Brief an den Herausgeber;;;;;;;;;;;x
+some_fake_ANY_12;Читатель обращает внимание на небрежное вождение паромщиков, которые, развивая высокую скорость и совершая безрассудные маневры, подвергают опасности жизни пассажиров;;Ein Leser warnt vor leichtsinnigen Fдhrenkapitдnen, die mit rьcksichtsloser Geschwindigkeit und riskanten Manцvern das Leben ihrer Passagiere riskieren.;;;;;;;;;;;x
+some_fake_ANY_title_13;Прогноз погоды:;;Das Wetter;;;;;;;;;;;x
+some_fake_ANY_13;Прогноз на следующую неделю: облачно, дождливо, ветер северный и северо-восточный, похолодание.  ;;Aussichten fьr nдchste Woche: Wolkig und Regen, mit Winden aus Nord und Nordost und niedrigen Temperaturen.;;;;;;;;;;;x
+some_fake_ANY_title_14;Городской пожар;;Tragisches Feuer in Stadt;;;;;;;;;;;x
+some_fake_ANY_14;Пожарных обвинили в недостатке дисциплины и эффективности, так как они позволили огню серьезно распространится, в результате чего мы наблюдали самый серьезный пожар за всю историю города.;;Feuerwache wegen fehlender Disziplin und Effizienz fьr das Ausbreiten eines Feuers ьber mehrere Hдuser verantwortlich gemacht, das zum grцЯten Brand aller Zeiten in der Stadt fьhrte.;;;;;;;;;;;x
+some_fake_ANY_title_15;Ограблены рыболовом!;;Angel-Raub;;;;;;;;;;;x
+some_fake_ANY_15;В полицию сообщили о грабителе, которому удалось украсть крупную сумму денег прямо из под носа кассира с помощью рыболовного крючка и удочки. Его сообщник в это время отвлекал жертву.;;Die Polizei berichtet vom Raub eines beachtlichen Geldbetrags in lokaler Bank unter Verwendung eines Angelhakens und Stockes, wдhrend Komplize den Kassenbeamten ablenkte.;;;;;;;;;;x;
+some_fake_ANY_title_16;Пусть они скачут!;;Lasst sie springen!;;;;;;;;;;;x
+some_fake_ANY_16;Заставлять детей вести неподвижный образ жизни нельзя, считают ученые. Активность тела является выражением эмоций в юном возрасте.;;Forscher bezeichnen das Stillsitzen mьssen von Kindern Folter. Ausdauernde Bewegung ist wichtig zum Ausdruck von Freude fьr kleine Kinder und sollte nicht unterdrьckt werden.;;;;;;;;;;;x
+some_fake_ANY_title_17;Деревянные тротуары;;Hцlzerne Bьrgersteige;;;;;;;;;;;x
+some_fake_ANY_17;Открытые химические процессы позволяют повысить прочность древесины. А что если в городе появятся деревянные тротуары.;;Neue Untersuchung enthьllt chemische Prozesse zur Hдrtung von Holz im Bauwesen. Sollte die Stadt StraЯen mit Holz pflastern?;;;;;;;;;;;x
+some_fake_ANY_title_18;Жизнь без еды?;;Leben ohne Nahrung?;;;;;;;;;;;x
+some_fake_ANY_18;Человек утверждает, что может воздерживаться от пищи в течении как минимум 30 дней и сохранять физическое и психическое здоровье. Врачи предлложили ему протестировать способности.;;Ein Mann behauptet, 30 Tage ohne Nahrung bei voller kцrperlicher und geistiger Stдrke ьberleben zu kцnnen, und fordert Forscher heraus, ihn zu testen.;;;;;;;;;;;x
+some_fake_ANY_title_19;Смертельно опасная лихорадка;;Fatales Fieber;;;;;;;;;;;x
+some_fake_ANY_19;Два матроса, вернувшись из тропиков, погибли от неизвестной формы лихорадки. Они до смерти были в бреду, мучались от озноба и жажды.;;Zwei aus den Tropen heimkehrende Seefahrer sind an einem unbekannten Fieber gestorben. Die Symptome reichen von Schьttelfrost ьber extremen Durst bis hin zu Wahnvorstellungen.;;;;;;;;;;;x
+some_fake_ANY_title_20;Искусственные алмазы;;Kьnstliche Diamanten;;;;;;;;;;;x
+some_fake_ANY_20;Европейскому химику удалось сделать искусственный алмаз, во всех отношениях напоминающий настоящий бриллиант. Пока процесс известен только ему самому.;;Europдischer Chemiker behauptet, mit einem nur ihm bekannten Prozess einen normalen Kristall mit Material ummantelt zu haben, der ihn in allen Aspekten zum Diamanten macht.;;;;;;;;;;;x
+some_fake_ANY_title_22;Письмо от Бога;;Brief von Gott;;;;;;;;;;;x
+some_fake_ANY_22;Малообеспеченный член общества получил письмо с благотворительностью, помеченное как «от Бога». Он ответил благодарностью за полученные деньги, но предупреждает сотрудников почты не взимать налог с писем, помеченных как «от Бога».;;Ein armes Mitglied unserer Gesellschaft dankt dem Sender eines Almosenbriefes “von Gott” fьr erhaltenes Geld, warnt Sender jedoch vor Steuerforderungen und Briefraub.;;;;;;;;;;;x
+some_fake_ANY_title_23;Новости медицины;;Medizin-Neuheiten;;;;;;;;;;;x
+some_fake_ANY_23;Лучшие европейские врачи предположили, что заводской дым может быть виновником роста числа дыхательных заболеваний среди детей.;;Fьhrende europдische Дrzte verdдchtigen Rauch aus Fabrikschloten als Ursache fьr Zunahme von Atemstцrungen unter Kindern.;;;;;;;;;;;x
+some_fake_ANY_title_24;Вампирская истерия;;Vampir-Hysterie;;;;;;;;;;;x
+some_fake_ANY_24;Новая вспышка вампирской истерии произошла в румынских землях. Суеверные крестьяне вышли с чесноком на шее в попытке защититься от гнусных упырей.;;Ein neuer Fall von Vampir-Hysterie in Rumдnien. Aberglдubische Passanten schmieren Nacken mit Knoblauch ein, zum Schutz vor bцsartigen Ghulen.;;;;;;;;;;;x
+some_fake_ANY_title_25;Волки загрызли четверых;;Wцlfe tцten vier;;;;;;;;;;;x
+some_fake_ANY_25;Стая волков напали на сибирскую деревню на прошлой неделе, и убили четырех человек. Вооруженные полицейские были направлены в этот район, чтобы найти логово зверей.;;Ein Wolfsrudel ьberfiel letzte Woche ein Dorf in Sibirien und tцtete vier Einwohner. Bewaffnete Polizeikrдfte jagen die Bestien.;;;;;;;;;;;x
+some_fake_ANY_title_26;Ужасающие куклы;;Schreckliche Puppen;;;;;;;;;;;x
+some_fake_ANY_26;Куклы стали общепринятой частью повседневной жизни. Последние страшные мерзости - это улыбающийся деревянный мальчик с фиксированной улыбкой в стиле Бимбо.;;Schreckliche Puppen finden mehr Akzeptanz. Neueste Abartigkeit ist ein debil grinsender Holzjunge im Bimbo-Stil.;;;;;;;;;;;x
+some_fake_ANY_title_27;Конкурс пьяниц;;Trinkwettbewerb;;;;;;;;;;;x
+some_fake_ANY_27;Ирландец Билл Уилан взял верх над соперниками из России и Шотландии в потреблении алкоголя в Нью-Йорке на прошлой неделе. Он объяснил свою победу «чистой любовью к выпивке на больничной койке».;;Der Ire Bill Whelan schlдgt in New York Rivalen aus Russland und Schottland in einem Alkohol-Trinkwettbewerb. Den Sieg schrieb er vom Krankenbett aus der “Liebe zum Fusel” zu.;;;;;;;;;;;x
+some_fake_ANY_title_28;Старейший человек;;Дltester Mann;;;;;;;;;;;x
+some_fake_ANY_28;Господин Джимми Уильямс был назван самым старым живым человеком. Уильямс, родившийся в глубоких южноамериканских землях, вежливо попросил журналистов этой статьи не называть  заглавие его именем.;;Der respektierte Gentleman Jimmy Williams wurde zum дltesten lebenden Mann ernannt. Williams, aus dem tiefsten Sьden Amerikas, bat unsere Reporter hцflich, sein Land zu verlassen.;;;;;;;;;;;x
+some_fake_ANY_title_29;ОГРАБЛЕНИЕ БАНКА!;;BANKRAUB!;;;;;;;;;;;x
+some_fake_ANY_29;Местный банк в провинции «$ANYPROVINCE$» был ограблен бандой людей в масках. Полиция ищет преступников и обещает вознаграждение за любую информацию, связанную с бандитами.;;Lokale Bank in $ANYPROVINCE$ von maskierter Gang ьberfallen. Die Fahndung nach den Kriminellen lдuft, eine Belohnung fьr Informationen, die zur Ergreifung fьhren, wurde ausgesprochen.;;;;;;;;;;;x
+some_fake_ANY_title_30;Гастроли кота пианиста;;Klavierkatze auf Tour;;;;;;;;;;;x
+some_fake_ANY_30;Известный кот-пианист на этой неделе прибудет в $OURCAPITAL$. Кот сыграет множество классических произведений.;;Die als Klavierkatze berьhmte Katzenpianistin wird diese Woche in $OURCAPITAL$ ankommen. Sie soll eine Reihe klassischer Stьcke spielen.;;;;;;;;;;;x
+some_fake_ANY_title_31;Специальные лекции;;Spezial-Vorlesungen;;;;;;;;;;;x
+some_fake_ANY_31;Совет науки провинции $OURCAPITAL$ обещает провести лекции о происхождении цивилизации. Специальный показ глиняной посуды из Тира отменяется.;;Der Wissenschaftsrat von $OURCAPITAL$ wird eine Reihe von Spezial-Vorlesungen zu den Ursprьngen der Zivilisation im Fruchtbaren Halbmond halten. Eine Prдsentiation von Tonscherben aus Tyros ist eingeplant.;;;;;;;;;;;x
+some_fake_ANY_title_32;Обратите внимание!;;ACHTUNG! ACHTUNG!;;;;;;;;;;;x
+some_fake_ANY_32;Приближается мощная буря. Инструкция от чиновников безопасности: не чистить дымоходы во время бури. Если это предупреждение будет проигнорировано, может возникнуть аварийная ситуация.;;Ein Sturm von gigantischem AusmaЯ wird erwartet. Offizielle der цffentlichen Sicherheit raten: Reinigt keine Kamine wдhrend des Sturms, andernfalls drohen Unfдlle.;;;;;;;;;;;x
+some_fake_ANY_title_34;Торговый саммит;;Handels-Gipfeltreffen;;;;;;;;;;;x
+some_fake_ANY_34;Текущие европейские и международные тарифы, а также практики протекционизма будут обсуждаться в следующий четверг в $OURCAPITAL$.;;Aktuelle europдische und internationale Zцlle und SchutzmaЯnahmen werden nдchsten Donnerstag in $OURCAPITAL$ diskutiert.;;;;;;;;;;;x
+some_fake_ANY_title_35;Почтовая конвенция;;Tagung der Post;;;;;;;;;;;x
+some_fake_ANY_35;Сегодня власти $OURCOUNTRY_ADJ$ и нескольких других стран собираются, чтобы обсудить почтовые сборы для всех посылок, отправленных за границу.;;$OURCOUNTRY_ADJ$ und auslдndische Offizielle diskutieren heute Postgebьhren fьr Ьberseebriefe.;;;;;;;;;;;x
+some_fake_ANY_title_36;Современная торговля углем;;Moderner Kohlehandel;;;;;;;;;;;x
+some_fake_ANY_36;Сегодня в местной торговой палате западного мира обсуждается свободная торговля углем для железнодорожных локомотивов и морских судов.;;Die Handelskammer diskutiert heute ьber den freien Kohlehandel fьr Lokomotiven und Schifffahrt in der westlichen Welt.;;;;;;;;;;;x
+some_fake_ANY_title_37;Вряд ли станет Кардиналом;;Wird wohl nicht Kardinal;;;;;;;;;;;x
+some_fake_ANY_37;В окружениях Папы в Ватикане осуждают слухи о предстоящем преждевременном выборе архиепископа.;;Inoffizielle Kommentare aus dem inneren Zirkel des Papstes im Vatikan nennen Gerьchte zu geplanter Befцrderung des Erzbischofs vorschnell.;;;;;;;;;;;x
+some_fake_ANY_title_38;Похороны генерала;;General-Beerdigung;;;;;;;;;;;x
+some_fake_ANY_38;Ныне бывший генерал и банкир, скончавшийся на прошлой неделе у себя в доме, будет похоронен сегодня. Только его близкие друзья будут присутствовать на церемонии.;;Ein Ii seinem Haus verstorbener, frьherer General und Banker wird heute im engsten Freundeskreis beerdigt. ;;;;;;;;;;;x
+some_fake_ANY_title_39;Рожденный на вершине;;Geburt auf Berggipfel;;;;;;;;;;;x
+some_fake_ANY_39;Женщина, забеременевшая во время восхождения на горную вершину, вместе с двумя спутниками устроила убежище на высоте 4000 метров над уровнем моря. Там у нее родился здоровый малыш.;;Wдhrend Bergaufstiegs erkrankte Frau wird von zwei Begleitern zu Schutzhьtte auf 4000 Metern gebracht und bringt gesunden Jungen zur Welt.;;;;;;;;;;;x
+some_fake_ANY_title_40;Вопрос морали?;;Moralische Ausdehnung?;;;;;;;;;;;x
+some_fake_ANY_40;Можем ли мы допустить, чтобы история запомнила нас, как тех кто подавили мечты о свободе иностранных народов и подчинили их своему правительству. Можем ли мы управлять ими?;;Ist es rechtens, den Traum nach Freiheit auslдndischer Vцlker von unserer Regierung zu unterdrьcken und sie ohne ihre Zustimmung zu regieren?;;;;;;;;;;;x
+some_fake_ANY_title_41;Шантажист арестован;;Erpresser verhaftet.;;;;;;;;;;;x
+some_fake_ANY_41;Бывший актер, а также подозреваемый в дезертирстве был арестован за вымогательство денег у извесной актрисы .;;Ehemaliger Schauspieler und mutmaЯl. Deserteur der Armee heute verhaftet wegen Geldforderungen an bekannter Schauspielerin.;;;;;;;;;;;x
+some_fake_ANY_title_42;Юбочное зло;;Bцse Rocklдnge;;;;;;;;;;;x
+some_fake_ANY_42;Мода не может заставить тащить грязь с улицы в дом. Врачи не рекомендуют носить особо длинные юбки для сохранения здоровья.;;Mode sollte den Staub der StraЯen nicht ins Heim tragen. Mediziner fordert von Frauen aus Gesundheitsgrьnden, den neuen Trend der Schleppenrцcke nicht mitzumachen.;;;;;;;;;;;x
+some_fake_ANY_title_43;Народная медицина погубила дитя;;Heilung durch Gebet  tцtet Kind;;;;;;;;;;;x
+some_fake_ANY_43;Двенадцатилетняя девочка умерла от дизентерии, потому что родители заменили семейного врача на народного целителя.;;12 Jahre altes Mдdchen stirbt in Krankenhaus, nachdem Eltern den Familienarzt durch Prediger ersetzen.;;;;;;;;;;;x
+some_fake_ANY_title_44;Вооруженные иммигранты!;;Respekt der Yardies verdient!;;;;;;;;;;;x
+some_fake_ANY_44;Местный житель из провинции $ANYPROVINCE$ сообщил, что в местном пабе он был обстрелян группой вооруженных мужчин. ;;Einwohner von $ANYPROVINCE$ schlдgt mit Gewehren bewaffnete Mдnner in Bar. Er behauptet, die Waffen waren ihr Nachteil.;;;;;;;;;;;x
+some_fake_ANY_title_45;Обзорная статья;;Artikel-Review;;;;;;;;;;;x
+some_fake_ANY_45;Все газетные статьи подвергаются тщательному рассмотрению на предмет достоверности. Никак не связанная с этим новость: журналист, писавший об деревянных тротуарах уволен.;;Alle Nachrichten werden von einem speziellen Team auf Genauigkeit und Wahrheit geprьft. Davon unabhдngig: Journalist, der von hцlzernem StraЯenbelag berichtete, wird vermisst.;;;;;;;;;;;x
+some_fake_ANY_title_46;Обсуждение закона;;Gesetz-Diskussion;;;;;;;;;;;x
+some_fake_ANY_46;Законодатели страны собрались в городе $OURCAPITAL$, чтобы обсудить реформу судебной системы в области гражданского и уголовного кодексов.;;Anwдlte aus gesamtem Land trafen sich heute in $OURCAPITAL$, um mцgliche Gesetzesaktualisierungen im zivilen und Straf-Recht zu diskutieren.;;;;;;;;;;;x
+some_fake_ANY_title_48;История державы $OURCOUNTRY$;;Die Geschichte von $OURCOUNTRY$;;;;;;;;;;;x
+some_fake_ANY_48;Наконец то многотомный труд по истории $OURCOUNTRY_ADJ$ цивилизации был закончен. Ведущие историки считают его эталонным и мы будем гордиться своими героями!;;Ein mehrere Bдnder umfassendes Werk zur Geschichte der $OURCOUNTRY_ADJ$ Zivilisation wurde fertiggestellt. Fьhrende Historiker nennen es die beste Referenz all unserer heroischen Taten.;;;;;;;;;;;x
+some_fake_ANY_title_49;Концерт Баха;;Bach-Konzert;;;;;;;;;;;x
+some_fake_ANY_49;Дань ностальгии для всех любителей музыки. Все самые известные произведения Баха будут исполняться $OURCOUNTRY_ADJ$ национальным оркестром на следующей неделе в Большом концертном зале города $OURCAPITAL$. ;;Nostalgie fьr alle Musikliebhaber. Eine Sammlung von Bachs bekanntesten Werken wird nдchste Woche vom $OURCOUNTRY_ADJ$ National-Orchester in der Konzerthalle von $OURCAPITAL$ aufgefьhrt.;;;;;;;;;;;x
+some_fake_ANY_title_50;Камень доставлен;;Stein geliefert;;;;;;;;;;;x
+some_fake_ANY_50;Жители провинции $ANYPROVINCE$ занимаются ввозом огромных кусков мрамора из-за рубежа. Ходят слухи, что на главной площади столицы будет установлен грандиозный памятник.;;Einwohner von $ANYPROVINCE$ beeindruckt von einer Lieferung gigantischer Marmorblцcke von Ьbersee. Gerьchten zufolge wird ein neues, grandioses Monument auf dem Marktplatz der Hauptstadt errichtet.;;;;;;;;;;;x
+some_fake_ANY_title_51;Технические новинки;;Mechanische Gerдte;;;;;;;;;;;x
+some_fake_ANY_51;По словам ученого, возглавляющего технический отдел $OURCAPITAL$ университета, скоро различные устройства станут играть все большую роль в нашей жизни.;;Wichtiger Wissenschaftler der Ingenieurs-Abteilung der Universitдt von $OURCAPITAL$ sieht verschiedene Neuheiten von groЯer Bedeutung fьr den Alltag.;;;;;;;;;;;x
+some_fake_ANY_title_52;Смерть кузнеца;;Schmied tot;;;;;;;;;;;x
+some_fake_ANY_52;Кузнеца пнула лошадь, которую он хотел подковать в провинции $ANYPROVINCE$. От полученных травм он скончался.;;Schmied bei Hufanpassungen von Pferd in $ANYPROVINCE$ gestern zu Tode getreten.;;;;;;;;;;;x
+some_fake_ANY_title_53;Солнечное затмение;;Sonnenfinsternis;;;;;;;;;;;x
+some_fake_ANY_53;Напоминаем читателям, что в эту пятницу произойдет солнечное затмение. ЭТО НЕ КОНЕЦ СВЕТА! Поэтому причин для паники и прекращения работы нет.;;Kommenden Freitag wird eine Sonnenfinsternis erwartet. Das Phдnomen ist kein Grund zu Panik oder Arbeitsausfдllen.;;;;;;;;;;;x
+some_fake_ANY_title_54;Ровный график продаж;;Monokel-Kдufe auf Hochstand;;;;;;;;;;;x
+some_fake_ANY_54;График продаж, который рос на протяжении десятилетий, стал выравниваться. Заказы остались на том же уровне с последнего квартала.;;In den letzten Jahrzehnten stetig wachsende Monokel-Kдufe scheinbar stabilisiert. Auftrдge im letzten Quartal konstant.;;;;;;;;;;;x
+some_fake_ANY_title_55;Путешествия во времени;;Zeitreise;;;;;;;;;;;x
+some_fake_ANY_55;Автор дешевых приключенческих романов выдвинул гипотезу о том, что человек может перемещаться вперед и назад во времени, появляясь в различные годы.;;Berьhmter Groschenroman-Autor entwickelt Idee, das Menschen in der Zeit vor und zurьck reisen und zu verschiedenen Zeiten in Vergangenheit und Zukunft erscheinen kцnnen.;;;;;;;;;;;x
+some_fake_ANY_title_56;Грамотность;;Bildung;;;;;;;;;;;x
+some_fake_ANY_56;Данные показывают её невероятный рост во всем мире. Если раньше грамотность считалась прерогативой духовенства и аристократии, то теперь распространяется среди рабочих и даже слабого пола.;;Neue Hцchstwerte weltweit erreicht. Bildung nicht lдnger Privileg des Klerus und Adels, auch  ungelernte Arbeiter und das schцne Geschlecht nehmen teil.;;;;;;;;;;;x
+some_fake_ANY_title_57;Научная лекция;;Цffentliche 'Forschungs'-Lesung;;;;;;;;;;;x
+some_fake_ANY_57;Натурфилософам сообщили, что лекция по геологии, или науке о строении горных пород, состоится в университете города $OURCAPITAL$ в следующий вторник. Аудитория №1.;;Freunde der Naturphilosophie wird interessieren, dass nдchsten Dienstag ein Vortrag zu Felsformationen und Geologie im Auditorium von $OURCAPITAL$ zum Eintrittspreis von  ¤1 stattfindet.;;;;;;;;;;;x
+some_fake_ANY_title_58;Прерванное собрание;;Gestцrtes Treffen;;;;;;;;;;;x
+some_fake_ANY_58;Вчера политический клуб был взят штурмом сторонницами равенства полов. Мужьям дебоширок был сделан выговор за поведение их жен.;;Ein politischer Club wurde gestern von Aktivisten zur Gleichstellung der Geschlechter ьberrannt. Die Ehemдnner wurden fьr die mangelnde Kontrolle ihrer Frauen von der Gendarmerie gemaЯregelt.;;;;;;;;;;;x
+some_fake_ANY_title_59;Об англичанах;;Der Englдnder;;;;;;;;;;;x
+some_fake_ANY_59;Англичанин всегда сохраняет твердость характера, честен и является сторонником свободы. Изобретательный, изящный и остроумный, он выделяется своей яркой фигурой среди других национальностей.;;Der Englдnder ist unnachgiebig, hat einen ausgeprдgten Gerechtigkeitssinn und verteidigt die Freiheit. Erfinderisch, elegant und geistreich ragt er unter den Nationalitдten heraus.;;;;;;;;;;;x
+some_fake_ANY_title_60;Волна гриппа;;Grippewelle;;;;;;;;;;;x
+some_fake_ANY_60;Грипп проносится по державе $OURCOUNTRY$. Очень многие зараженных по всей стране. Простые граждане боятся пандемии, но эксперты уверяют, что это просто сезонное явление.;;Die Grippe beutelt $OURCOUNTRY$. Infektionen breiten sich aus. Laien fьrchten eine Pandemie, Experten werten die Situation als saisonale Begebenheit.;;;;;;;;;;;x
+some_fake_ANY_title_61;Найден клад;;Goldschatz entdeckt;;;;;;;;;;;x
+some_fake_ANY_61;В провинции $ANYPROVINCE$ на этой неделе были обнаружены остатки старого клада. Большую часть золотых монет нашел фермер, который вспахивал землю после сильного дождя.;;Die Reste eines alten Goldschatzes wurden diese Woche in $ANYPROVINCE$ entdeckt. Offizielle melden Unmenge an Goldmьnzen, die von Bauern in der Feldarbeit im Regen ausgegraben wurden.;;;;;;;;;;;x
+some_fake_ANY_title_62;Метрика? Вздор!;;Metrischer Unsinn;;;;;;;;;;;x
+some_fake_ANY_62;Британский государственный деятель считает, что имперская система мер является путем в будущее. "Мы никогда не примем эту французскую метрическую ерунду.";;Laut einem britischen Staatsmann ist das englische MaЯsystem die Zukunft: 'Dieser franzцsische Metrik-Unsinn wird niemals FuЯ fassen.';;;;;;;;;;;x
+GOODS_PRICE_UP_TITLE_LARGE;ЦЕНЫ РАСТУТ!;;PREISE STEIGEN!;;;;;;;;;;;x
+GOODS_PRICE_UP_LARGE;В последние $VALUE_INT_0_0$ мес. цена на $STRING_0_1$ постоянно росла. Капиталисты и ремесленники постоянно борются за производство товара $STRING_0_1$, чтобы удовлетворить постоянно растущий спрос.;;In den letzten $VALUE_INT_0_0$ Monaten ist der Preis von $STRING_0_1$ konstant gestiegen. Kapitalisten und Handwerker rotieren weltweit, um mehr $STRING_0_1$ zu produzieren, um die Nachfrage zu befriedigen.;;;;;;;;;;;x
+GOODS_PRICE_UP_TITLE_MEDIUM;ЦЕНЫ РАСТУТ!;;PREISE STEIGEN!;;;;;;;;;;;x
+GOODS_PRICE_UP_MEDIUM;В последние $VALUE_INT_0_0$ мес. цена на $STRING_0_1$ постоянно росла. Капиталисты и ремесленники постоянно борются за производство товара $STRING_0_1$, чтобы удовлетворить постоянно растущий спрос.;;In den letzten $VALUE_INT_0_0$ Monaten ist der Preis von $STRING_0_1$ konstant gestiegen. Kapitalisten und Handwerker rotieren weltweit, um mehr $STRING_0_1$ zu produzieren, um die Nachfrage zu befriedigen.;;;;;;;;;;;x
+GOODS_PRICE_UP_TITLE_SMALL;ЦЕНЫ РАСТУТ!;;PREISE STEIGEN!;;;;;;;;;;;x
+GOODS_PRICE_UP_SMALL;В последние $VALUE_INT_0_0$ мес. цена на $STRING_0_1$ постоянно росла.;;In den letzten $VALUE_INT_0_0$ Monaten ist der Preis von $STRING_0_1$ konstant gestiegen!;;;;;;;;;;;x
+GOODS_PRICE_DOWN_TITLE_LARGE;ЦЕНЫ ПАДАЮТ!;;PREISE KOLLABIEREN!;;;;;;;;;;;x
+GOODS_PRICE_DOWN_LARGE;В последние $VALUE_INT_0_0$ мес. цена на $STRING_0_1$ упала ниже плинтуса! Во всем мире производители товара $STRING_0_1$ переходят на другие товары, чтобы возместить убытки.;;In den letzten $VALUE_INT_0_0$ Monaten sind die Preise fьr $STRING_0_1$ rapide gesunken! Hersteller von $STRING_0_1$ versuchen weltweit verzweifelt, ihre Produktion auf andere Gьter umzustellen, um Verluste abzufangen.;;;;;;;;;;;x
+GOODS_PRICE_DOWN_TITLE_MEDIUM;ЦЕНЫ ПАДАЮТ!;;PREISE KOLLABIEREN!;;;;;;;;;;;x
+GOODS_PRICE_DOWN_MEDIUM;В последние $VALUE_INT_0_0$ мес. цена на $STRING_0_1$ упала ниже плинтуса! Во всем мире производители товара $STRING_0_1$ переходят на другие товары, чтобы возместить убытки.;;In den letzten $VALUE_INT_0_0$ Monaten sind die Preise fьr $STRING_0_1$ rapide gesunken! Hersteller von $STRING_0_1$ versuchen weltweit verzweifelt, ihre Produktion auf andere Gьter umzustellen, um Verluste abzufangen.;;;;;;;;;;;x
+GOODS_PRICE_DOWN_TITLE_SMALL;ЦЕНЫ ПАДАЮТ!;;PREISE KOLLABIEREN!;;;;;;;;;;;x
+GOODS_PRICE_DOWN_SMALL;В последние $VALUE_INT_0_0$ мес. цена на $STRING_0_1$ упала ниже плинтуса!;;In den letzten $VALUE_INT_0_0$ Monaten sind die Preise fьr $STRING_0_1$ rapide gesunken!;;;;;;;;;;;x
+REVOLUTION_NEWS_TITLE_LARGE;РЕВОЛЮЦИЯ В ДЕРЖАВЕ $TAG_0_0_UPPER$!;;REVOLUTION IN $TAG_0_0$_UPPER!;;;;;;;;;;;x
+REVOLUTION_NEWS_LARGE;В державе $TAG_0_0$ произошла революция! $STRING_0_0$ разбили правительственные войска и захватили страну. $TAG_0_0$ сейчас находится под контролем политического объединения $STRING_0_4$. 'Теперь, когда мы взяли власть, мы проведем немедленные реформы, отражающие нашу позицию', как они заявили. 'Мы не изгои и хотим вести равноправную политику с нашими международными партнерами'. Также мы слышали, что новое правительство не собирается выполнять обязательства своих предшественников.;;Eine Revolution fand in $TAG_0_0$! $STRING_0_1$ statt, haben die Regierungskrдfte besiegt und das Land zerschlagen. $TAG_0_0$ wird nun von $STRING_0_4$ $STRING_0_3$ kontrolliert.;;;;;;;;;;;x
+REVOLUTION_NEWS_TITLE_MEDIUM;РЕВОЛЮЦИЯ В ДЕРЖАВЕ $TAG_0_0_UPPER$!;;REVOLUTION IN $TAG_0_0$_UPPER!;;;;;;;;;;;x
+REVOLUTION_NEWS_MEDIUM;В державе $TAG_0_0$ произошла революция! $STRING_0_0$ разбили правительственные войска и захватили страну. $TAG_0_0$ сейчас находится под контролем политического объединения $STRING_0_4$.;;Eine Revolution fand in $TAG_0_0$! $STRING_0_1$ statt, haben die Regierungskrдfte besiegt und das Land zerschlagen. $TAG_0_0$ wird nun von $STRING_0_4$ $STRING_0_3$ kontrolliert.;;;;;;;;;;;x
+REVOLUTION_NEWS_TITLE_SMALL;РЕВОЛЮЦИЯ!;;REVOLUTION!;;;;;;;;;;;x
+REVOLUTION_NEWS_SMALL;В державе $TAG_0_0$ произошла революция! $STRING_0_0$ разбили правительственные войска и захватили страну.;;Eine Revolution fand in $TAG_0_0$! $STRING_0_1$ statt, haben die Regierungskrдfte besiegt und das Land zerschlagen.;;;;;;;;;;;x 
+INVENTION_NEWS_TITLE_LARGE;ОТКРЫТИЕ!;;ERFINDUNG!;;;;;;;;;;;x
+INVENTION_NEWS_LARGE;Учеными и инженерами державы $TAG_0_0$ было запатентовано новое изобретение: $STRING_0_1$. ;;Forscher und Ingenieure in $TAG_0_0$ haben lt. Meldungen $STRING_0_1$ erfunden. ;;;;;;;;;;;x
+INVENTION_NEWS_TITLE_MEDIUM;ОТКРЫТИЕ!;;ERFINDUNG!;;;;;;;;;;;x
+INVENTION_NEWS_MEDIUM;Учеными и инженерами державы $TAG_0_0$ было запатентовано новое изобретение: $STRING_0_1$. ;;Forscher und Ingenieure in $TAG_0_0$ haben lt. Meldungen $STRING_0_1$ erfunden. ;;;;;;;;;;;x
+INVENTION_NEWS_TITLE_SMALL;ОТКРЫТИЕ!;;Erfindung!;;;;;;;;;;;x
+INVENTION_NEWS_SMALL;Учеными и инженерами державы $TAG_0_0$ было запатентовано новое изобретение: $STRING_0_1$. ;;Forscher und Ingenieure in $TAG_0_0$ haben lt. Meldungen $STRING_0_1$ erfunden. ;;;;;;;;;;;x
+INVENTION_SUFFIX1;Прогресс не остановить!;;Fortschritt nicht aufzuhalten!;;;;;;;;;;;x
+INVENTION_SUFFIX2;Вперед к будущему!;;Wahrhaft das Licht der Zukunft!;;;;;;;;;;;x
+INVENTION_SUFFIX3;Возможно это означает погибель для всех!;;Dies kann uns alle vernichten!;;;;;;;;;;;x
+INVENTION_SUFFIX4;Хорошие новости!;;Gute Nachrichten!;;;;;;;;;;;x
+INVENTION_SUFFIX5;Это рассвет новой эры!;;Dies ist der Beginn eines neuen Zeitalters!;;;;;;;;;;;x
+INVENTION_SUFFIX6;Сегодняшний прогресс по вчерашнему плану.;;Heutiger Fortschritt ist die Planung von gestern.;;;;;;;;;;;x
+INVENTION_SUFFIX7;Будем надеяться, что они используют его во благо.;;Hoffentlich findet dies einen guten Einsatz.;;;;;;;;;;;x
+INVENTION_SUFFIX8;Наука никогда не спит!;;Die Forschung schlдft nie!;;;;;;;;;;;x
+INVENTION_SUFFIX_LONG1;Но какой ценой?;;Zu welchem Preis?;;;;;;;;;;;x
+INVENTION_SUFFIX_LONG2;Что они думают о будущем?;;Was werden sie als nдchstes erfinden?;;;;;;;;;;;x
+INVENTION_SUFFIX_LONG3;Это не приживется.;;Das wird nie was werden.;;;;;;;;;;;x
+INVENTION_SUFFIX_LONG4;Они украли нашу идею!;;Idee ganz eindeutig von uns gestohlen.;;;;;;;;;;;x
+PARTY_NEWS_TITLE_LARGE;НОВАЯ ПОЛИТИЧЕСКАЯ ПАРТИЯ В ДЕРЖАВЕ $TAG_0_0_UPPER$;;NEUE PARTEI IN $TAG_0_0_UPPER$;;;;;;;;;;;x
+PARTY_NEWS_LARGE;В державе $TAG_0_0$ появилась новая политическая партия - $STRING_0_0$. Идеологически они $STRING_0_2$. 'В настоящий момент мы работаем над кадровым составом и партийными структурами',комментирует работник партии. Объединяя недовольных активистов и прочих партия собирается созвать национальное собрание, там выбрать своих представителей и подготовить программу. Они надеются, что несмотря на трудности все-таки смогут прийти к власти.;;Neue $STRING_0_2$ politische Partei, namens STRING_0_0, wurde in $TAG_0_0$ gegrьndet. Sie sind zuversichtlich, dass sie die nдchste Wahl gewinnen.;;;;;;;;;;;x
+PARTY_NEWS_TITLE_MEDIUM;НОВАЯ ПОЛИТИЧЕСКАЯ ПАРТИЯ В ДЕРЖАВЕ $TAG_0_0_UPPER$;;NEUE PARTEI IN $TAG_0_0_UPPER$;;;;;;;;;;;x
+PARTY_NEWS_MEDIUM;В державе $TAG_0_0$ появилась новая политическая партия - $STRING_0_0$. Идеологически они $STRING_0_2$. 'В настоящий момент мы работаем над кадровым составом и партийными структурами',комментирует работник партии.Объединяя недовольных активистов и прочих партия собирается созвать национальное собрание.;;Neue $STRING_0_2$ politische Partei, namens STRING_0_0, wurde in $TAG_0_0$ gegrьndet. Sie sind zuversichtlich, dass sie die nдchste Wahl gewinnen.;;;;;;;;;;;x
+PARTY_NEWS_TITLE_SMALL;Новая партия;;Neue Partei;;;;;;;;;;;x
+PARTY_NEWS_SMALL;В державе $TAG_0_0$ появилась новая политическая партия - $STRING_0_0$. Идеологически они $STRING_0_2$. Они надеются, что несмотря на трудности все-таки смогут прийти к власти.;;Neue $STRING_0_2$ politische Partei, namens STRING_0_0, in $TAG_0_0$ gegrьndet.;;;;;;;;;;;x
+PROVINCE_NEWS_TITLE_LARGE;$TAG_0_1_UPPER$ РАСШИРЯЕТСЯ!;;$TAG_0_1_UPPER$ DEHNT SICH AUS!;;;;;;;;;;;x
+PROVINCE_NEWS_LARGE;Провинция $STRING_0_0$ теперь принадлежит державе $TAG_0_1$. Их министр иностранных дел заявил, что $STRING_0_0$ отныне является неотьемлемой частью их страны и что $TAG_0_0$ не имеет более никаких прав на неё.;;Die Provinz von $STRING_0_0$ gehцrt nun zu $TAG_0_1$. Der AuЯenminister von $TAG_0_1$ sagt, dass '$STRING_0_0$ ein integraler Teil von $TAG_0_1$' ist und '$TAG_0_0$ keinerlei Ansprьche auf die Provinz hat'.;;;;;;;;;;;x
+PROVINCE_NEWS_TITLE_MEDIUM;$TAG_0_1_UPPER$ РАСШИРЯЕТСЯ!;;$TAG_0_1_UPPER$ DEHNT SICH AUS!;;;;;;;;;;;x
+PROVINCE_NEWS_MEDIUM;Провинция $STRING_0_0$ теперь принадлежит державе $TAG_0_1$. Их министр иностранных дел заявил, что провинция $STRING_0_0$ отныне является неотьемлемой частью их страны.;;Die Provinz von $STRING_0_0$ gehцrt nun zu $TAG_0_1$. Der AuЯenminister von $TAG_0_1$ sagt, dass '$STRING_0_0$ ein integraler Teil von $TAG_0_1$' ist.;;;;;;;;;;;x
+PROVINCE_NEWS_TITLE_SMALL;$TAG_0_1$ расширяется!;;$TAG_0_1$ dehnt sich aus!;;;;;;;;;;;x
+PROVINCE_NEWS_SMALL;Провинция $STRING_0_0$ теперь принадлежит державе $TAG_0_1$. Их министр иностранных дел выглядел довольным во время интервью.;;Die Provinz von $STRING_0_0$ gehцrt nun zu $TAG_0_1$. Der AuЯenminister von $TAG_0_1$ wirkte im letzten Interview sehr zufrieden.;;;;;;;;;;;x
+RESEARCH_NEWS_TITLE_LARGE;$TAG_0_0_ADJ$ исследование завершено!;;$TAG_0_0_ADJ$ Forschung abgeschlossen!;;;;;;;;;;;x
+RESEARCH_NEWS_LARGE;Ученые державы $TAG_0_0$ недавно завершили исследование $STRING_0_1$. Этот прорыв, несомненно дает державе $TAG_0_0$ ряд преимуществ в ближайшее время, с рядом сопутствующих открытий.;;Forscher in $TAG_0_0$ haben kьrzlich die Forschung in $STRING_0_1$ abgeschlossen. Dieser Durchbruch wird $TAG_0_0$ in Zukunft viele Vorteile fьr weitere Erfindungen bringen.;;;;;;;;;;;x
+RESEARCH_NEWS_TITLE_MEDIUM;$TAG_0_0_ADJ$ исследование завершено!;;$TAG_0_0_ADJ$ Forschung abgeschlossen!;;;;;;;;;;;x
+RESEARCH_NEWS_MEDIUM;Ученые державы $TAG_0_0$ недавно завершили исследование $STRING_0_1$. Этот прорыв, несомненно дает державе $TAG_0_0$ ряд преимуществ в ближайшее время, с рядом сопутствующих открытий.;;Forscher in $TAG_0_0$ haben kьrzlich die Forschung in $STRING_0_1$ abgeschlossen. Dieser Durchbruch wird $TAG_0_0$ n Zukunft viele Vorteile fьr weitere Erfindungen bringen.;;;;;;;;;;;x
+RESEARCH_NEWS_TITLE_SMALL;$TAG_0_0_ADJ$ исследование завершено!;;$TAG_0_0_ADJ$ Forschung abgeschlossen!;;;;;;;;;;;x
+RESEARCH_NEWS_SMALL;Ученые державы $TAG_0_0$ недавно завершили исследование $STRING_0_1$.;;Forscher in $TAG_0_0$ haben kьrzlich die Forschung in $STRING_0_1$ abgeschlossen.;;;;;;;;;;;x
+WAR_NEWS_TITLE_LARGE;ВОЙНА МЕЖДУ ДЕРЖАВАМИ $TAG_0_0_UPPER$ И $TAG_0_1_UPPER$!;;KRIEG ZWISCHEN $TAG_0_0_UPPER$ UND $TAG_0_1_UPPER$!;;;;;;;;;;;x
+WAR_NEWS_LARGE;$DATE_LONG_0$ $TAG_0_0$ объявила войну державе $TAG_0_1$. Министр иностранных дел державы $TAG_0_0$, когда его спросили о причине войны, заявил о необходимости '$STRING_0_1$'. 'Мы только хотим вернуть принадлежащее нам по праву и восстановить порядок в регионе', добавил он. 'Эта агрессия не останется незамеченной' сказал его коллега из державы $TAG_0_1$ , требуя осуждения агрессора. Да помилует их Господь.;;Am $DATE_LONG_0$ verkьndete $TAG_0_0$, dass sie sich mit $TAG_0_1$ im Kriegszustand befinden. Der AuЯenminister von $TAG_0_0$ nannte als Grund '$STRING_0_1$'. Mцge Gott ihnen allen gnдdig sein. ;;;;;;;;;;;x
+WAR_NEWS_TITLE_MEDIUM;ДЕРЖАВА $TAG_0_0_UPPER$ НАЧАЛА ВОЙНУ!;;$TAG_0_0_UPPER$ ZIEHT IN KRIEG!;;;;;;;;;;;x
+WAR_NEWS_MEDIUM;$DATE_LONG_0$ $TAG_0_0$ объявила войну державе $TAG_0_1$. Причина объявления войны: '$STRING_0_1$'. 'Агрессия не останется безнаказанной' заявил министр иностранных дел державы $TAG_0_1$ .;;Am $DATE_LONG_0$ verkьndete $TAG_0_0$, dass sie sich mit $TAG_0_1$ im Kriegszustand befinden. Die angegebene Begrьndung: '$STRING_0_1$'. Mцge Gott ihnen allen gnдdig sein. ;;;;;;;;;;;x
+WAR_NEWS_TITLE_SMALL;ДЕРЖАВА $TAG_0_0_UPPER$ В СОСТОЯНИИ ВОЙНЫ!;;$TAG_0_0_$ im Krieg!;;;;;;;;;;;x
+WAR_NEWS_SMALL;$DATE_LONG_0$ $TAG_0_0$ объявила войну державе $TAG_0_1$.;;Am $DATE_LONG_0$ verkьndete $TAG_0_0$ den Kriegszustand mit $TAG_0_1$.;;;;;;;;;;;x 
+KEYNAME;Текст;;TEXT;;;;;;;;;;;x

@@ -1,0 +1,10 @@
+owner = FIN
+controller = FIN
+add_core = FIN
+add_core = SWE
+trade_goods = iron
+life_rating = 35
+terrain = tundra_hills
+1914.1.1 = { 
+	remove_core = SWE
+}

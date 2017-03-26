@@ -1,0 +1,14 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = ENL
+trade_goods = fish
+life_rating = 35
+naval_base = 2
+terrain = marginal_farmland
+1861.1.1 = { railroad = 3 }
+1914.1.1 = {
+	railroad = 5
+	naval_base = 5
+}
+

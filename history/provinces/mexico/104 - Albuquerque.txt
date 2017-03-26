@@ -1,0 +1,15 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = SPA
+trade_goods = cattle
+life_rating = 35
+terrain = hilly_grassland
+1836.1.1 = {
+	remove_core = SPA
+}
+1861.1.1 = {
+	controller = USA
+	owner = USA
+	add_core = USA
+}

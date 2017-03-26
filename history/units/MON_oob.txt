@@ -1,0 +1,19 @@
+leader = {
+	name = "Мирко Петрович-Негош"
+	picture = mon_gen_mirko
+	date = 1830.1.1
+	type = land
+	personality = au_fait
+	background = poet
+}
+
+army = {
+	name = "Army of the Prince-Bishop"
+	location = 2583
+	regiment = {
+		name= "1st Montenegrin Infantry"
+		type = infantry
+		home = 2583
+	}
+}
+

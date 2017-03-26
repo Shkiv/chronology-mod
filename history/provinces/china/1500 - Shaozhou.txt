@@ -1,0 +1,11 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+add_core = GNG
+trade_goods = tropical_wood
+life_rating = 35
+terrain = deciduous_forest_hills
+1923.1.1 = {
+	owner = GNG
+	controller = GNG
+}

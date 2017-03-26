@@ -1,0 +1,13 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = fruit
+life_rating = 35
+terrain = hilly_farmland
+1914.1.1 = {
+	add_core = SZC
+}
+1923.1.1 = {
+	owner = SZC
+	controller = SZC
+}

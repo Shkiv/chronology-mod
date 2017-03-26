@@ -1,0 +1,21 @@
+owner = MEX
+controller = SPA
+add_core = MEX
+add_core = CAL
+add_core = SPA
+colonial = 2
+trade_goods = fruit
+life_rating = 40
+terrain = hilly_farmland
+1836.1.1 = {
+	remove_core = SPA
+}
+1861.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	colonial = no
+}
+1914.1.1 = {
+	trade_goods = oil
+}

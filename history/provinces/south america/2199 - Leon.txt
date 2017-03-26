@@ -1,0 +1,20 @@
+owner = MEX
+controller = SPA
+add_core = UCA
+add_core = NIC
+add_core = SPA
+add_core = MEX
+trade_goods = coffee
+life_rating = 30
+terrain = hilly_farmland
+1836.1.1 = {
+	owner = UCA
+	controller = UCA
+	remove_core = SPA
+	remove_core = MEX
+}
+1861.1.1 = {
+	owner = NIC
+	controller = NIC
+	remove_core = UCA
+}

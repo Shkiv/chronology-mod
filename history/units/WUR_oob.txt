@@ -1,0 +1,67 @@
+leader = {
+	name = "Вильгельм I"
+	picture = wur_gen_wilhelm
+	date = 1812.1.1
+	type = land
+	personality = able
+	background = aristocrat
+}
+leader = {
+	name = "Фридрих фон Бисмарк"
+	picture = wur_gen_bismarck
+	date = 1819.1.1
+	type = land
+	personality = impetuous
+	background = cavalry_school
+}
+leader = {
+	name = "Фердинанд фон Варнбюлер"
+	picture = wur_gen_varnbueler
+	date = 1820.1.1
+	type = land
+	personality = indifferent
+	background = powerful_friends
+}
+leader = {
+	name = "Фридрих Гогенлоэ"
+	picture = wur_gen_hohenlohe
+	date = 1829.1.1
+	type = land
+	personality = mediocre
+	background = politician
+}
+
+army = {
+	name = "1. Division"
+	location = 589
+	regiment = {
+		name = "1. Reiter-Regiment Kцnig Karl" #Anachronistic by 30 years
+		type = cavalry
+		home = 589
+	}
+	regiment = {
+		name = "1. Infanterie-Regiment Kцnigin Olga" #Anachronistic by 30 years
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "2. Infanterie-Regiment"
+		type = infantry
+		home = 589
+	}
+}
+
+army = {
+	name = "2. Division"
+	location = 593
+	regiment = {
+		name = "7. Infanterie-Regiment"
+		type = infantry
+		home = 593
+	}
+	regiment = {
+		name = "1. Bataillon FuЯArtillerie"
+		type = artillery
+		home = 593
+	}
+}

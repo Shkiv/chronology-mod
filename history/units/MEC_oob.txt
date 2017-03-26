@@ -1,0 +1,18 @@
+leader = {
+	name = "Пауль Фридрих"
+	picture = mec_gen_paulfriedrich
+	date = 1836.1.1
+	type = land
+	personality = indifferent
+	background = aristocrat
+}
+
+army = {
+	name = "Mecklenburgische Armee"
+	location = 545
+	regiment = {
+		name= "1. Mecklenburgische Infanterie-Brigade"
+		type = infantry
+		home = 545
+	}
+}

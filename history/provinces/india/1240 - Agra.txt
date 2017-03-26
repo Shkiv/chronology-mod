@@ -1,0 +1,9 @@
+owner = ENG
+controller = ENG
+add_core = MUG
+add_core = HND
+trade_goods = grain
+life_rating = 35
+colonial = 2
+fort = 1
+terrain = floodplain_farmland

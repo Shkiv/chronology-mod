@@ -1,0 +1,11 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+add_core = MGL
+trade_goods = grain
+life_rating = 35
+terrain = semi_desert
+1923.1.1 = {
+	owner = MGL
+	controller = MGL
+}

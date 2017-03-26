@@ -1,0 +1,293 @@
+color = { 213  132  76 }
+proletarian_dictatorship = { 250 80 0 }
+fascist_dictatorship = { 60 0 45}
+graphical_culture = EuropeanGC
+
+party = {
+	name = "CAT_conservative"
+	start_date = 1810.1.1
+	end_date = 1901.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "CAT_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "CAT_anarcho_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = residency
+	war_policy = anti_military
+}
+
+party = {
+	name = "CAT_conservative_2"
+	start_date = 1901.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CAT_liberal_2"
+	start_date = 1906.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CAT_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "CAT_liberal_3"
+	start_date = 1908.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CAT_reactionary"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CAT_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CAT_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+	"Альфон эль Каст"
+	"Альмогавр"
+	"Эльс Сегадорс"
+	"Хенералитат"
+	"Хауме эль Конкеридор"
+	"Хосеп Морагес"
+	"Пере эль Гран"
+	"Рафаэль Касанова"
+	"Рохер де Флор"
+	"Рохер де Лурия"
+}
+
+
+	ironclad = {
+	"Каталуня"
+	"Тело Христово"
+	"Фигуэрес"
+	"Манреса"
+	"Принсипат"
+	"Сабадель"
+	"Сан-Хоан"
+	"Сан-Хорди"
+	"Тортоса"
+	"Ургелл"
+}
+
+
+	manowar = {
+	"Бисбат д'Ургелл"
+	"Эсперит Сант"
+	"Сан-Хауме"
+	"Сан-Хосеп"
+	"Сан-Олегер"
+	"Сан-Пер"
+	"Санта-Исабель"
+	"Вескомтат д'Аусона"
+	"Вескомтат де Бесалу"
+	"Вескомтат де Серданья"
+}
+
+
+	cruiser = {
+	"Атенеу де Грандеса"
+	"Сибелес"
+	"Консолат дель Мар"
+	"Диана"
+	"Джуно"
+	"Минерва"
+	"Квадрибаррада"
+	"Санг Собре Ор"
+	"Сеньера"
+	"Тирант ло Бланч"
+}
+
+
+	frigate = {
+	"Барселона"
+	"Кристофор Деспуи"
+	"Герона"
+	"Хоанот Марторель"
+	"Юпитер"
+	"Льейда"
+	"Непту"
+	"Пере Серафи"
+	"Плуто"
+	"Таррагона"
+}
+
+
+	monitor = {
+	"Комтат де Барселона"
+	"Комтат д'Эмпуриес"
+	"Комтат д'Ургелл"
+	"Дуэс Сицилиес"
+	"Эркулес"
+	"Мальорка"
+	"Немеси"
+	"Сарденья"
+	"Валенсия"
+	"Вулкано"
+}
+
+
+	clipper_transport = {
+	"Агила Негра"
+	"Драк Вермель"
+	"Эстрелла"
+	"Фама"
+	"Фидель"
+	"Флеткса"
+	"Глория"
+	"Ибера"
+	"Лео де Монпелье"
+	"Маре де Деу де Монсеррат"
+	"Меркури"
+	"Нимфа"
+	"Сан-Антони"
+	"Санта-Анна"
+	"Сатурн"
+	"Сирена"
+	"Сорпреса"
+	"Тетис"
+	"Трито"
+	"Юникон"
+}
+
+
+	steam_transport = {
+	"Агила Негра"
+	"Драк Вермель"
+	"Эстрелла"
+	"Фама"
+	"Фидель"
+	"Флеткса"
+	"Глория"
+	"Ибера"
+	"Лео де Монпелье"
+	"Маре де Деу де Монсеррат"
+	"Меркури"
+	"Нимфа"
+	"Сан-Антони"
+	"Санта-Анна"
+	"Сатурн"
+	"Сирена"
+	"Сорпреса"
+	"Тетис"
+	"Трито"
+	"Юникон"
+}
+
+
+	commerce_raider = {
+	"Аудас"
+	"Деструктор"
+	"Форсуда"
+	"Фурор"
+	"Лампек"
+	"Медитеррания"
+	"Темпеста"
+	"Тэррор"
+	"Тро"
+	"Велос"
+}
+
+
+}

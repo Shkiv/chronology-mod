@@ -1,0 +1,460 @@
+color = { 142  201  208 }
+graphical_culture = EuropeanGC
+
+party = {
+	name = "SGF_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_conservative"
+	start_date = 1878.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_liberal_2"
+	start_date = 1861.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "SGF_liberal_3"
+	start_date = 1861.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SGF_socialist"
+	start_date = 1860.1.1
+	end_date = 1875.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_socialist_2"
+	start_date = 1848.1.1
+	end_date = 1875.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_socialist_3"
+	start_date = 1875.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SGF_reactionary"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "SGF_conservative_2"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "SGF_conservative_3"
+	start_date = 1878.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "SGF_anarcho_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SGF_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SGF_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+	"Байерн"
+	"Фон дер Танн"
+	"Виттельсбах"
+	"Принцрегент Луитпольд"
+	"Вельф"
+	"Нибелунген"
+	"Валькюре"
+	"Бабенберг"
+	"Баден"
+	"Тюрингия"
+	"Маркграф"
+	"Гроссхерцог Леопольд"
+	"Гроссхерцог Карл Фридрих"
+	"Тюркенлоуис"
+	"Райхсграф"
+	"Дурлах"
+	"Заузенберг"
+	"Хахберг"
+}
+
+
+	ironclad = {
+	"Максимилиан Иосиф"
+	"Людвиг I"
+	"Максимилиан II"
+	"Граф Монгелас"
+	"Граф фон Хорн"
+	"фон дер Марк"
+	"фон ле Суир"
+	"Фон Вреде"
+	"Баден"
+	"Тюрингия"
+	"Маркграф"
+	"Гроссхерцог Леопольд"
+	"Гроссхерцог Карл Фридрих"
+	"Тюркенлоуис"
+	"Райхсграф"
+	"Дурлах"
+	"Заузенберг"
+	"Хахберг"
+	"Вюртемберг"
+	"Швабия"
+	"Кениг Фридрих"
+	"Кенигин Шарлотт"
+	"Король Вильгельм"
+	"Принц Альбрехт"
+	"Алемания"
+	"Херцог фон Урах"
+	"Фон Цеппелин"
+}
+
+
+	manowar = {
+	"Граф"
+	"Херцог"
+	"Кениг"
+	"Кайзер"
+	"Курфюрст"
+	"Пфальцграф"
+	"Принц"
+	"Один"
+	"Вотан"
+	"Бальдер"
+	"Донар"
+	"Баден"
+	"Тюрингия"
+	"Маркграф"
+	"Гроссхерцог Леопольд"
+	"Гроссхерцог Карл Фридрих"
+	"Тюркенлоуис"
+	"Райхсграф"
+	"Дурлах"
+	"Заузенберг"
+	"Хахберг"
+	"Вюртемберг"
+	"Швабия"
+	"Кениг Фридрих"
+	"Кенигин Шарлотт"
+	"Король Вильгельм"
+	"Принц Альбрехт"
+	"Алемания"
+	"Херцог фон Урах"
+	"Фон Цеппелин"
+}
+
+
+	cruiser = {
+	"Ансбах"
+	"Аугсбург"
+	"Бамберг"
+	"Байройт"
+	"Фюрт"
+	"Ингольштадт"
+	"Мюнхен"
+	"Нюрнберг"
+	"Пассау"
+	"Регенсбург"
+	"Баден"
+	"Тюрингия"
+	"Маркграф"
+	"Гроссхерцог Леопольд"
+	"Гроссхерцог Карл Фридрих"
+	"Тюркенлоуис"
+	"Райхсграф"
+	"Дурлах"
+	"Заузенберг"
+	"Хахберг"
+	"Вюртемберг"
+	"Швабия"
+	"Кениг Фридрих"
+	"Кенигин Шарлотт"
+	"Король Вильгельм"
+	"Принц Альбрехт"
+	"Алемания"
+	"Херцог фон Урах"
+	"Фон Цеппелин"
+}
+
+
+	frigate = {
+	"Фукс"
+	"Хиена"
+	"Леопард"
+	"Лёве"
+	"Лукс"
+	"Мардер"
+	"Пантер"
+	"Тигер"
+	"Вольф"
+	"Баден"
+	"Тюрингия"
+	"Маркграф"
+	"Гроссхерцог Леопольд"
+	"Гроссхерцог Карл Фридрих"
+	"Тюркенлоуис"
+	"Райхсграф"
+	"Дурлах"
+	"Заузенберг"
+	"Хахберг"
+	"Вюртемберг"
+	"Швабия"
+	"Кениг Фридрих"
+	"Кенигин Шарлотт"
+	"Король Вильгельм"
+	"Принц Альбрехт"
+	"Алемания"
+	"Херцог фон Урах"
+	"Фон Цеппелин"
+}
+
+
+	monitor = {
+	"Хекштадт"
+	"Ландсхут"
+	"Лехфельд"
+	"Херцог Альбрехт"
+	"Принц Людвиг"
+	"Фон Уцшнайдер"
+	"Штайнхайль"
+	"Баден"
+	"Тюрингия"
+	"Маркграф"
+	"Гроссхерцог Леопольд"
+	"Гроссхерцог Карл Фридрих"
+	"Тюркенлоуис"
+	"Райхсграф"
+	"Дурлах"
+	"Заузенберг"
+	"Хахберг"
+	"Вюртемберг"
+	"Швабия"
+	"Кениг Фридрих"
+	"Кенигин Шарлотт"
+	"Король Вильгельм"
+	"Принц Альбрехт"
+	"Алемания"
+	"Херцог фон Урах"
+	"Фон Цеппелин"
+}
+
+
+	clipper_transport = {
+	"Альстер"
+	"Донау"
+	"Феллах"
+	"Инн"
+	"Исар"
+	"Лех"
+	"Майн"
+	"Пегниц"
+	"Заале"
+	"Виндах"
+	"Адлер"
+	"Альбатросс"
+	"Амазонка"
+	"Бремзе"
+	"Бруммер"
+	"Донау"
+	"Драхе"
+	"Фельдберг"
+	"Фрауэнлоб"
+	"Грайф"
+	"Карлсруэ"
+	"Наттер"
+	"Некар"
+	"Саламандер"
+	"Зееадлер"
+	"Рейн"
+}
+
+
+	steam_transport = {
+	"Санкт-Экхард"
+	"Санкт-Георг"
+	"Санкт-Хубертус"
+	"Санкт-Михаэль"
+	"Санкт-Петер"
+	"Санкт-Руперт"
+	"Санкт-Валентин"
+	"Санкт-Виллибальд"
+	"Санкт-Вольфганг"
+	"Адлер"
+	"Альбатросс"
+	"Амазонка"
+	"Бремзе"
+	"Бруммер"
+	"Донау"
+	"Драхе"
+	"Фельдберг"
+	"Фрауэнлоб"
+	"Грайф"
+	"Карлсруэ"
+	"Наттер"
+	"Некар"
+	"Саламандер"
+	"Зееадлер"
+	"Рейн"
+}
+
+
+	commerce_raider = {
+	"Зигфрид"
+	"Кримхильд"
+	"Гюнтер"
+	"Гернот"
+	"Гизеле"
+	"Сигизмунд"
+	"Альберих"
+	"Брюнхильд"
+	"Хаген"
+	"Баден"
+	"Тюрингия"
+	"Маркграф"
+	"Гроссхерцог Леопольд"
+	"Гроссхерцог Карл Фридрих"
+	"Тюркенлоуис"
+	"Райхсграф"
+	"Дурлах"
+	"Заузенберг"
+	"Хахберг"
+	"Вюртемберг"
+	"Швабия"
+	"Кениг Фридрих"
+	"Кенигин Шарлотт"
+	"Король Вильгельм"
+	"Принц Альбрехт"
+	"Алемания"
+	"Херцог фон Урах"
+	"Фон Цеппелин"
+}
+
+
+}

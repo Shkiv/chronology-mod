@@ -1,0 +1,17 @@
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = sulphur
+life_rating = 35
+terrain = floodplain_farmland
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+}
+1914.1.1 = {
+	railroad = 2
+	owner = USA
+	controller = USA
+	remove_core = CSA
+}

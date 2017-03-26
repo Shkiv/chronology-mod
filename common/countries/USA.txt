@@ -1,0 +1,455 @@
+graphical_culture = UsGC
+color = { 66  94  193 }
+proletarian_dictatorship = { 185 65 70 }
+fascist_dictatorship = { 100 100 120}
+
+party = {
+	name = "USA_liberal"
+	start_date = 1854.1.1
+	end_date = 1930.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_conservative"
+	start_date = 1828.1.1
+	end_date = 1930.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "USA_liberal_2"
+	start_date = 1930.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_conservative_2"
+	start_date = 1930.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "USA_liberal_3"
+	start_date = 1833.1.1
+	end_date = 1856.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_liberal_4"
+	start_date = 1848.1.1
+	end_date = 1854.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "USA_conservative_3"
+	start_date = 1859.1.1
+	end_date = 1861.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "USA_liberal_5"
+	start_date = 1887.1.1
+	end_date = 1908.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "USA_liberal_6"
+	start_date = 1792.1.1
+	end_date = 1832.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_conservative_4"
+	start_date = 1792.1.1
+	end_date = 1828.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "USA_liberal_7"
+	start_date = 1832.1.1
+	end_date = 1856.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "USA_reactionary"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = limited_citizenship
+	war_policy = jingoism
+}
+
+party = {
+	name = "USA_anarcho_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "USA_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+	"Южная Каролина"
+	"Мичиган"
+	"Дэлавер"
+	"Северная Дакота"
+	"Флорида"
+	"Юта"
+	"Вайоминг"
+	"Арканзас"
+	"Нью-Йорк"
+	"Техас"
+	"Невада"
+	"Оклахома"
+	"Пенсильвания"
+	"Аризона"
+	"Нью-Мексико"
+	"Миссисипи"
+	"Айдахо"
+	"Теннесси"
+	"Калифорния"
+	"Колорадо"
+	"Мэриленд"
+	"Западная Вирджиния"
+	"Вашингтон"
+}
+
+
+	ironclad = {
+	"Нью Айронсайдз"
+	"Дандерберг"
+}
+
+
+	manowar = {
+	"Америка"
+	"Коламбус"
+	"Франклин"
+	"Индипенденс"
+	"Вашингтон"
+	"Чипева"
+	"Нью-Орлеан"
+	"Пенсильвания"
+	"Дэлавер"
+	"Вермонт"
+	"Нью Гемпшир"
+	"Вирджиния"
+	"Нью-Йорк"
+	"Огайо"
+	"Северная Каролина"
+}
+
+
+	cruiser = {
+	"Ньюарк"
+	"Чарльстон"
+	"Балтимор"
+	"Филадельфия"
+	"Сан-Франциско"
+	"Олимпия"
+	"Цинциннати"
+	"Роли"
+	"Монтгомери"
+	"Детройт"
+	"Марблхед"
+	"Колумбия"
+	"Миннеаполис"
+	"Денвер"
+	"Де Муан"
+	"Чаттануга"
+	"Галвестон"
+	"Такома"
+	"Кливленд"
+	"Милуоки"
+	"Чарльстон"
+}
+
+
+	frigate = {
+	"Адамс"
+	"Бостон"
+	"Брэндиуайн"
+	"Чизпик"
+	"Колумбия"
+	"Конгресс"
+	"Контелейшн"
+	"Конститьюшн"
+	"Камберлэнд"
+	"Эссекс"
+	"Дженерал Грин"
+	"Гуиррьер"
+	"Гудзон"
+	"Индипенденс"
+	"Инседжент"
+	"Ява"
+	"Джон Адамс"
+	"Македониан"
+	"Мохок"
+	"Нью-Йорк"
+	"Филадельфия"
+	"Плеттсбург"
+	"Потомак"
+	"Президент"
+	"Рэритэн"
+	"Сабин"
+	"Санти"
+	"Саванна"
+	"Сэнт-Лоуренс"
+	"Сьюпериор"
+	"Юнайтед Стэйтс"
+}
+
+
+	monitor = {
+	"Монитор"
+	"Пассаик"
+	"Монток"
+	"Нэхэнт"
+	"Пэтэпско"
+	"Уихокен"
+	"Сэнгэмон"
+	"Кэтскилл"
+	"Нантукет"
+	"Лихай"
+	"Команч"
+	"Неошо"
+	"Осейдж"
+	"Озарк"
+	"Мариетта"
+	"Сандаски"
+	"Роаноук"
+	"Каноникус"
+	"Саугус"
+	"Текумзе"
+	"Манхэттен"
+	"Мэхопэк"
+	"Уайэндот"
+	"Аякс"
+	"Кэтоба"
+	"Онеота"
+	"Милуоки"
+	"Виннебаго"
+	"Чикасо"
+	"Кикапу"
+	"Диктэйтор"
+	"Онондага"
+	"Пьюритэн"
+	"Миантономох"
+	"Монэднок"
+	"Агаментикус"
+	"Тонаванда"
+	"Каламазу"
+	"Пассаконавей"
+	"Куинсигамонд"
+	"Шакамаксон"
+}
+
+
+	clipper_transport = {
+	"Марта Кастис Вашингтон"
+	"Абигейл Адамс"
+	"Марта Джефферсон"
+	"Долли Тодд Мэдисон"
+	"Элизабет Монро"
+	"Луиза Катерина Адамс"
+	"Рейчел Робардс Джэксон"
+	"Ханна ван Бюрен"
+	"Анна Харрисон"
+	"Летиция Тайлер"
+}
+
+
+	steam_transport = {
+	"Маунт-Вернон"
+	"Агамемнон"
+	"Левиафан"
+	"Император"
+	"Джордж Вашингтон"
+	"Ковингтон"
+	"Мобайл"
+	"Финланд"
+	"Крунленд"
+	"Гаррисберг"
+	"Плеттсбург"
+	"Орисаба"
+	"Сибони"
+	"Меркьюри"
+	"Гурон"
+	"Покахонтас"
+	"Поухатан"
+	"Принцесс Матойка"
+	"Луисвиль"
+	"Де Кальб"
+	"Марта Вашингтон"
+	"Грейт Нозерн"
+	"Нозерн Пасифик"
+	"Комфорт"
+	"Мерси"
+	"Президент Грант"
+	"Президент Линкольн"
+	"Артемис"
+}
+
+
+	commerce_raider = {
+	"Атланта"
+	"Бостон"
+	"Чикаго"
+	"Гарвард"
+	"Везувий"
+	"Беджер"
+	"Пантер"
+	"Йель"
+	"Преир"
+	"Буффало"
+	"Янки"
+	"Йосемит"
+	"Дикси"
+	"Ст. Льюис"
+	"Сент-Поль"
+	"Нью-Орлеан"
+	"Олбани"
+}
+
+
+}

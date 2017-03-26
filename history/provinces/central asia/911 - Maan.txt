@@ -1,0 +1,21 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+add_core = JOR
+trade_goods = grain
+life_rating = 35
+terrain = desert
+1836.1.1 = {
+	owner = EGY
+	controller = EGY
+}
+1861.1.1 = {
+	controller = TUR 
+	owner = TUR
+}
+1923.1.1 = {
+	owner = ENG
+	controller = ENG
+	remove_core = TUR
+	colonial = 3
+}

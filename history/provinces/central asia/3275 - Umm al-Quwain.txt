@@ -1,0 +1,12 @@
+owner = UAQ
+controller = UAQ
+add_core = UAQ
+trade_goods = grain
+life_rating = 35
+terrain = desert
+1914.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 3
+	trade_goods = oil
+}

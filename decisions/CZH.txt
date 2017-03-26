@@ -1,0 +1,37 @@
+political_decisions = {
+	become_slovakia = {
+		potential = {
+			tag = CZH
+			NOT = {
+				AUS_625 = {
+					owned_by = THIS
+				}
+				AUS_626 = {
+					owned_by = THIS
+				}
+			}
+		}
+		allow = {
+		}
+		effect = {
+			change_tag = SLV
+			capital = 633
+		}
+	}
+	become_bohemia = {
+		potential = {
+			tag = CZH
+			NOT = {
+				AUS_633 = {
+					owned_by = THIS
+				}
+			}
+		}
+		allow = {
+		}
+		effect = {
+			change_tag = BOH
+			capital = 625
+		}
+	}
+}

@@ -1,0 +1,16 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = coal
+life_rating = 35
+terrain = dry_forest_mountains
+1914.1.1 = {
+	owner = CHI
+	controller = CHI
+	add_core = XBI
+}
+1923.1.1 = {
+	owner = XBI
+	controller = XBI
+	add_core = XBI
+}

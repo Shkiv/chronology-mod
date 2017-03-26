@@ -1,0 +1,9 @@
+add_core = RUS
+add_core = JAP
+trade_goods = coal
+life_rating = 20
+terrain = conifer_forest_mountains
+1914.1.1 = {
+	owner = JAP
+	controller = JAP
+}

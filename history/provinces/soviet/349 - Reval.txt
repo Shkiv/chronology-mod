@@ -1,0 +1,20 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = EST
+add_core = UBD
+terrain = city_349
+trade_goods = grain
+life_rating = 35
+fort = 1
+naval_base = 1
+terrain = forested_farmland
+1836.1.1 = {
+	naval_base = 2
+}
+1914.1.1 = { railroad = 2 }
+1923.1.1 = {
+	owner = EST
+	controller = EST
+	remove_core = RUS
+}

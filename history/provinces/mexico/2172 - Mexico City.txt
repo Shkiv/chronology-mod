@@ -1,0 +1,11 @@
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = SPA
+terrain = city_2172
+trade_goods = grain
+life_rating = 35
+fort = 1
+1836.1.1 = {
+	remove_core = SPA
+}

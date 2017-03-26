@@ -1,0 +1,11 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+add_core = MGL
+trade_goods = cattle
+life_rating = 35
+terrain = conifer_forest_hills
+1923.1.1 = {
+	owner = MGL
+	controller = MGL
+}

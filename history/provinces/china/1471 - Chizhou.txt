@@ -1,0 +1,17 @@
+owner = CHI
+controller = CHI
+add_core = CHI
+trade_goods = tea
+life_rating = 35
+terrain = deciduous_forest_hills
+1861.1.1 = {
+	controller = TPG
+	owner = TPG
+	add_core = TPG
+}
+1914.1.1 = {
+	owner = CHI
+	controller = CHI
+	remove_core = TPG
+	add_core = ANU
+}

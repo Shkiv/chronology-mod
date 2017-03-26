@@ -1,0 +1,319 @@
+color = { 236  159  89 }
+graphical_culture = SouthAmericanGC
+
+party = {
+	name = "CHL_conservative"
+	start_date = 1810.1.1
+	end_date = 1851.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "CHL_liberal"
+	start_date = 1810.1.1
+	end_date = 1851.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CHL_conservative_2"
+	start_date = 1851.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CHL_liberal_2"
+	start_date = 1851.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CHL_conservative_3"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CHL_liberal_3"
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CHL_liberal_4"
+	start_date = 1915.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CHL_reactionary"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CHL_anarcho_liberal"
+	start_date = 1810.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CHL_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CHL_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CHL_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+	"Альмиранте Монт"
+	"Антофагаста"
+	"Атакама"
+	"Икике"
+	"Латорре"
+	"О'Хиггинс"
+	"Република"
+	"Сан-Мартин"
+	"Сантьяго-де-Чили"
+	"Вальпараисо"
+}
+
+
+	ironclad = {
+	"Альмиранте Уильямс"
+	"Аустраль"
+	"Бланко"
+	"Бланко Энкалада"
+	"Капитан Прат"
+	"Кохрейн"
+	"Исла де Паскуа"
+	"Норте-Чико"
+	"Норте-Гранде"
+	"Охос дель Саладос"
+}
+
+
+	manowar = {
+	"Абтао"
+	"Агила"
+	"Араукано"
+	"Чакабуко"
+	"Фортуната"
+	"Гальварино"
+	"Лаутаро"
+	"О'Хиггинс"
+	"Потрильо"
+	"Сан-Мартин"
+}
+
+
+	cruiser = {
+	"Агуамарина"
+	"Диаманте"
+	"Директор Эйсагирре"
+	"Директор Фрейре"
+	"Эсмеральда"
+	"Льюльяйльяко"
+	"Паринакота"
+	"Пресиденте Эррасурис"
+	"Президенте Пинто"
+	"Тупунгато"
+}
+
+
+	frigate = {
+	"Айсен"
+	"Араукания"
+	"Арика"
+	"Биобио"
+	"Кокимбо"
+	"Лос-Лагос"
+	"Лос-Риос"
+	"Мауле"
+	"Тарапака"
+	"Вальдивия"
+}
+
+
+	monitor = {
+	"Анганемон"
+	"Бутапичон"
+	"Коло-Коло"
+	"Куриньянку"
+	"Гуаикимилья"
+	"Уаскар"
+	"Лиентур"
+	"Педро де Вальдивия"
+	"Пелантару"
+	"Вилумилья"
+}
+
+
+	clipper_transport = {
+	"Койайке"
+	"Консепсьон"
+	"Копьяпо"
+	"Дель Торо"
+	"Икике"
+	"Ла-Серена"
+	"Лагуна Бланка"
+	"Пуэрто-Монтт"
+	"Пунта-Аренас"
+	"Ранкагуа"
+	"Сан-Хосе"
+	"Сан-Педро"
+	"Сан-Рафаэль"
+	"Санта-Инес"
+	"Санта-Мария"
+	"Сантьяго"
+	"Сармиэнто"
+	"Талька"
+	"Темуко"
+	"Юлтон"
+}
+
+
+	steam_transport = {
+	"Койайке"
+	"Консепсьон"
+	"Копьяпо"
+	"Дель Торо"
+	"Икике"
+	"Ла-Серена"
+	"Лагуна Бланка"
+	"Пуэрто-Монтт"
+	"Пунта-Аренас"
+	"Ранкагуа"
+	"Сан-Хосе"
+	"Сан-Педро"
+	"Сан-Рафаэль"
+	"Санта-Инес"
+	"Санта-Мария"
+	"Сантьяго"
+	"Сармиэнто"
+	"Талька"
+	"Темуко"
+	"Юлтон"
+}
+
+
+	commerce_raider = {
+	"Альмиранте Конделлл"
+	"Альмиранте Линч"
+	"Ангамос"
+	"Акилес"
+	"Касма"
+	"Чакабуко"
+	"Чипана"
+	"Ковадонга"
+	"Магальянес"
+	"Оромпельо"
+}
+
+
+}
