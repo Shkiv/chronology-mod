@@ -23,7 +23,7 @@ sea_starts = {
 }
     
 #definitions = "definition.csv"
-definitions = "../mod/chronology-mod/map/definition.csv"
+definitions = "../mod/chronology/map/definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
 terrain = "terrain.bmp"
