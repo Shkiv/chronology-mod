@@ -103,68 +103,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Остап Дашкевич"
-	"Козак"
-	"Степан Разин"
-	"Кондратий Булавин"
-	"Емельян Пугачев"
-}
-
-
+		"Ostap Dashkevych" Kozaky "Stenka Razin" "Kondraty Bulavin" "Yemelyan Pugachev"
+	}
 	ironclad = {
-	"Донец"
-	"Севастополь"
-	"Киев"
-	"Одесса"
-	"Харьков"
-}
-
-
+		Donets Sevastopol Kyiv Odessa Kharkiv
+	}
 	manowar = {
-	"Крым"
-	"Запорожье"
-	"Херсонщина"
-	"Николаев"
-	"Днепропетровск"
-}
-
-
+		Krym Zaporiz'ka Khersonshchyna Mykolaiv Dnipropetrovsk
+	}
 	cruiser = {
-	"Кий"
-	"Щек"
-	"Хорив"
-	"Бравлин"
-	"Олег"
-}
-
-
+		Kyi Schek Khoryv Bravlin Oleg
+	}
 	frigate = {
-	"Днестр"
-	"Днепр"
-	"Десна"
-	"Припять"
-	"Прут"
-}
-
-
+		Dniester Dnipro Desna Prypiat Prut
+	}
 	monitor = {
-	"София"
-	"Печорская Лавра"
-	"Каменец-Подольский"
-	"Хотынь"
-	"Хортица"
-}
+		Sofyivsky "Pechers’ka lavra" "Kam’ianets’-Podil’s’kyi" Khotyn Khortyts'a
+	}
+	clipper_transport = {
 
 
-	
-	
+	}
+	steam_transport = {
+
+
+	}
 	commerce_raider = {
-	"Оксана"
-	"Александра"
-	"Юлия"
-	"Надя"
-	"Мария"
-}
-
-
+		Oksana Oleksandra Yulia Nadiya Mariya
+	}
 }

@@ -215,125 +215,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Афонсо де Альбукерке"
-	"Антония Родригес"
-	"Диего Као"
-	"Дуарте Пашеко Перейра"
-	"Дуарте ди Алмейда"
-	"Жоао да Нова"
-	"Лопо Баррига"
-	"Мем Мониз ди Гандарей"
-	"Мунио Вегас"
-	"Нуньо Альварес Перейра"
-	"Васко да Гама"
-}
-
-
+		"Afonso de Albuquerque" "Antуnia Rodrigues" "Diogo Cгo" "Duarte Pacheco Pereira" "Duarte de Almeida" "Joгo da Nova" "Lopo Barriga" "Mem Moniz de Gandarei" "Munio Viegas" "Nuno Бlvares Pereira" "Vasco da Gama"
+	}
 	ironclad = {
-	"Бейра"
-	"Ибо"
-	"Шаймите"
-	"Лимпопо"
-	"Лурио"
-	"Сохранить"
-	"Асор"
-	"Тавира"
-	"Фаро"
-	"Лагос"
-}
-
-
+		"Beira" "Ibo" "Chaimite" "Limpopo" "Lъrio" "Save" "Aзor" "Tavira" "Faro" "Lagos"
+	}
 	manowar = {
-	"Принсипе Реал"
-	"Принсипе ду Бразил"
-	"Райна де Португал"
-	"Афонсо де Альбукерке"
-	"Присеса да Бейра"
-	"Инфанте Дом Педро"
-	"Медуза"
-	"Белем"
-	"Мария Примейра"
-	"Сан-Себастьян"
-	"Санто-Антонио"
-	"Принсипе Регенте"
-	"Тереса"
-	"Гольфиньо"
-	"Амазония"
-	"Перола"
-}
-
-
+		"Prнncipe Real" "Prнncipe do Brazil" "Rainha de Portugal" "Afonso de Albuquerque" "Princesa da Beira" "Infante Dom Pedro" Medusa Belйm "Maria Primeira" "Sгo Sebastiгo" "Santo Antуnio" "Prнncipe Regente" Teresa Golfinho Amazуnia Pйrola
+	}
 	cruiser = {
-	"Дом Карлос I"
-	"Сан-Габриэль"
-	"Сан-Рафаэль"
-	"Адамастор"
-	"Райнья Д. Амелия"
-	"Альмиранте Рейс"
-	"Република"
-	"Педро Нуньес"
-	"Жил Эаннес"
-}
-
-
+		"D. Carlos I" "S. Gabriel" "S. Rafael" "Adamastor" "Rainha D. Amйlia" "Almirante Reis" "Repъblica" "Pedro Nunes" "Gil Eannes"
+	}
 	frigate = {
-	"Феникс"
-	"Амазона"
-	"Сисне"
-	"Минерва"
-	"Ностра Сеньора де Граса"
-	"Перола"
-	"Принсеса Карлота"
-	"Принсеса"
-	"Принсипе да Бейра"
-	"Тристао"
-	"Улиссес"
-	"Веню"
-	"Гольфиньо"
-	"Сан-Жоао Принсипе"
-	"Тетис"
-	"Атива"
-	"Дом Фернандо II"
-	"Принсеса ди Абьена"
-	"Андоринья"
-	"Реал Фонсор"
-	"Боа-Вентура"
-	"Серпенте"
-	"Дилижент"
-	"Гайвота"
-	"Реал Фонза"
-	"Бенжамин"
-	"Тритао"
-}
-
-
+		"Fйnix" "Amazona" "Cisne" "Minerva" "N.Sra. da Graзa" "Pйrola" "Princesa Carlota" "Princesa" "Prнncipe da Beira" "Tristгo" "Ulisses" "Vйnus" "Golfinho" "S. Joгo Prнncipe" "Thйtis" "Activa" "Dom Fernando II e Glуria" "Princesa de Abiena" Andorinha "Real Fonsor" "BoaVentura" Serpente Diligente Gaivota "Real Fonza" Benjamim Tritгo
+	}
 	monitor = {
-	"Тамега"
-	"Садо"
-	"Рио Лима"
-	"Тежу"
-	"Доро"
-	"Куанза"
-	"Бенго"
-	"Мандови"
-	"Рио Аве"
-	"Гвадиана"
-	"Тавира"
-	"Фаро"
-	"Лагос"
-}
-
-
-	
-	
+		"Tвmega" "Sado" "Rio Lima" "Tejo" "Douro" "Quanza" "Bengo" "Mandovi" "Rio Ave" "Guadiana" "Tavira" "Faro" "Lagos"
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Бартоломеу Диаш"
-	"Эстефания"
-	"Дуке ди Терсейра"
-	"Са-да-Бандейра"
-	"Райнья ди Португал"
-	"Миндело"
-}
-
-
+		"Bartolomeu Dias" "Estefвnia" "Duque da Terceira" "Sб da Bandeira" "Rainha de Portugal" "Mindelo";
+	}
 }

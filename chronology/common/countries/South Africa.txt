@@ -143,156 +143,39 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Южная Африка"
-	"Гуд Хоуп"
-	"Кейптаун"
-	"Сесиль Родс"
-	"Леандер Джеймсон"
-	"Лайон"
-	"Чита"
-	"Леопард"
-	"Вилдебист"
-	"Джакал"
-	"Монгус"
-	"Гиена"
-	"Каракаль"
-	"Сервал"
-	"Дженет"
-}
-
-
+		"South Africa" "Good Hope" "Cape Town" "Cecil Rhodes" "Leander Jameson" Lion Cheetah Leopard Vildebeest Jackal Mongoose Hyena
+		Caracal Serval Genet
+	}
 	ironclad = {
-	"Южная Африка"
-	"Гуд Хоуп"
-	"Кейптаун"
-	"Сесиль Родс"
-	"Леандер Джеймсон"
-	"Лайон"
-	"Чита"
-	"Леопард"
-	"Вилдебист"
-	"Джакал"
-	"Монгус"
-	"Гиена"
-	"Каракаль"
-	"Сервал"
-	"Дженет"
-}
+		"South Africa" "Good Hope" "Cape Town" "Cecil Rhodes" "Leander Jameson" Lion Cheetah Leopard Vildebeest Jackal Mongoose Hyena
+		Caracal Serval Genet
 
-
+	}
 	manowar = {
-	"Южная Африка"
-	"Гуд Хоуп"
-	"Кейптаун"
-	"Сесиль Родс"
-	"Леандер Джеймсон"
-	"Лайон"
-	"Чита"
-	"Леопард"
-	"Вилдебист"
-	"Джакал"
-	"Монгус"
-	"Гиена"
-	"Каракаль"
-	"Сервал"
-	"Дженет"
-}
-
-
+		"South Africa" "Good Hope" "Cape Town" "Cecil Rhodes" "Leander Jameson" Lion Cheetah Leopard Vildebeest Jackal Mongoose Hyena
+		Caracal Serval Genet
+	}
 	cruiser = {
-	"Южная Африка"
-	"Гуд Хоуп"
-	"Кейптаун"
-	"Сесиль Родс"
-	"Леандер Джеймсон"
-	"Лайон"
-	"Чита"
-	"Леопард"
-	"Вилдебист"
-	"Джакал"
-	"Монгус"
-	"Гиена"
-	"Каракаль"
-	"Сервал"
-	"Дженет"
-}
-
-
+		"South Africa" "Good Hope" "Cape Town" "Cecil Rhodes" "Leander Jameson" Lion Cheetah Leopard Vildebeest Jackal Mongoose Hyena
+		Caracal Serval Genet
+	}
 	frigate = {
-	"Южная Африка"
-	"Гуд Хоуп"
-	"Кейптаун"
-	"Сесиль Родс"
-	"Леандер Джеймсон"
-	"Лайон"
-	"Чита"
-	"Леопард"
-	"Вилдебист"
-	"Джакал"
-	"Монгус"
-	"Гиена"
-	"Каракаль"
-	"Сервал"
-	"Дженет"
-}
-
-
+		"South Africa" "Good Hope" "Cape Town" "Cecil Rhodes" "Leander Jameson" Lion Cheetah Leopard Vildebeest Jackal Mongoose Hyena
+		Caracal Serval Genet
+	}
 	monitor = {
-	"Южная Африка"
-	"Гуд Хоуп"
-	"Кейптаун"
-	"Сесиль Родс"
-	"Леандер Джеймсон"
-	"Лайон"
-	"Чита"
-	"Леопард"
-	"Вилдебист"
-	"Джакал"
-	"Монгус"
-	"Гиена"
-	"Каракаль"
-	"Сервал"
-	"Дженет"
-}
-
-
+		"South Africa" "Good Hope" "Cape Town" "Cecil Rhodes" "Leander Jameson" Lion Cheetah Leopard Vildebeest Jackal Mongoose Hyena
+		Caracal Serval Genet
+	}
 	clipper_transport = {
-	"Южная Африка"
-	"Гуд Хоуп"
-	"Кейптаун"
-	"Сесиль Родс"
-	"Леандер Джеймсон"
-	"Лайон"
-	"Чита"
-	"Леопард"
-	"Вилдебист"
-	"Джакал"
-	"Монгус"
-	"Гиена"
-	"Каракаль"
-	"Сервал"
-	"Дженет"
-}
+		"South Africa" "Good Hope" "Cape Town" "Cecil Rhodes" "Leander Jameson" Lion Cheetah Leopard Vildebeest Jackal Mongoose Hyena
+		Caracal Serval Genet
+	}
+	steam_transport = {
 
-
-	
+	}
 	commerce_raider = {
-	"Южная Африка"
-	"Гуд Хоуп"
-	"Кейптаун"
-	"Сесиль Родс"
-	"Леандер Джеймсон"
-	"Лайон"
-	"Чита"
-	"Леопард"
-	"Вилдебист"
-	"Джакал"
-	"Монгус"
-	"Гиена"
-	"Каракаль"
-	"Сервал"
-	"Дженет"
-}
-
-
+		"South Africa" "Good Hope" "Cape Town" "Cecil Rhodes" "Leander Jameson" Lion Cheetah Leopard Vildebeest Jackal Mongoose Hyena
+		Caracal Serval Genet
+	}
 }

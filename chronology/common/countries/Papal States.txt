@@ -101,101 +101,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Микеле"
-	"Габриэле"
-	"Рафаэлле"
-	"Уриэле"
-	"Фануэле"
-	"Дзакьеле"
-	"Симиэле"
-}
-
-
+		Michele Gabriele Rafaelle Urielle Fanuele Zachiele Simiele
+	}
 	ironclad = {
-	"Реньо"
-	"Тоскана"
-	"Пиза"
-	"Фиренце"
-	"Паче"
-	"Виттория"
-	"Санта-Мария"
-	"Сан-Джованни"
-	"Супремация"
-	"Серенита"
-	"Капитана"
-	"Патрона"
-	"Сан-Пьетро"
-	"Сан-Андреа"
-	"Сан-Петронио"
-}
-
-
+		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenitа Capitana Patrona "San Pietro" "San Andrea" "San Petronio"
+	}
 	manowar = {
-	"Сан-Лоренцо"
-	"Фениче"
-	"Порко Спино"
-	"Бурландо"
-}
-
-
+		"San Lorenzo" Fenice "Porco Spino" Burlando
+	}
 	cruiser = {
-	"Реньо"
-	"Тоскана"
-	"Пиза"
-	"Фиренце"
-	"Паче"
-	"Виттория"
-	"Санта-Мария"
-	"Сан-Джованни"
-	"Супремация"
-	"Серенита"
-	"Капитана"
-	"Патрона"
-	"Сан-Пьетро"
-	"Сан-Андреа"
-	"Сан-Петронио"
-}
-
-
+		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenitа Capitana Patrona "San Pietro" "San Andrea" "San Petronio"
+	}
 	frigate = {
-	"Сан-Паоло"
-	"Сан-Пьетро"
-	"Сан-Джованни"
-	"Сан-Пио"
-}
-
-
+		"San Paolo" "San Pietro" "San Giovanni" "San Pio"
+	}
 	monitor = {
-	"Реньо"
-	"Тоскана"
-	"Пиза"
-	"Фиренце"
-	"Паче"
-	"Виттория"
-	"Санта-Мария"
-	"Сан-Джованни"
-	"Супремация"
-	"Серенита"
-	"Капитана"
-	"Патрона"
-	"Сан-Пьетро"
-	"Сан-Андреа"
-	"Сан-Петронио"
-}
-
-
-	
-	
+		Regno Toscana Pisa Firenze Pace Vittoria "Santa Maria" "San Giovanni" Supremazia Serenitа Capitana Patrona "San Pietro" "San Andrea" "San Petronio"
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Сан-Джованни"
-	"Сан-Пио"
-	"Сан-Фердинандо"
-	"Сан-Франческо"
-	"Сан-Луиджи"
-	"Санта-Фермина"
-	"Сан-Пьетро"
-	"Сан-Паоло"
-}
-
-
+		"San Giovanni" "San Pio" "San Ferdinando" "San Francesco" "San Luigi" "Santa Fermina" "San Pietro" "San Paolo"
+	}
 }

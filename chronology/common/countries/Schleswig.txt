@@ -186,101 +186,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Шлезвиг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-	"Фленсбург"
-	"Иоганн дер Эльтере"
-	"Адольф I"
-	"Фридрих III"
-	"Христиан Альбрехт"
-}
-
-
+		Schleswig "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" Flensburg "Johann der Дltere" "Adolf I." "Friedrich III." "Christian Albrecht"
+	}
 	ironclad = {
-	"Шлезвиг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-	"Фленсбург"
-	"Иоганн дер Эльтере"
-	"Адольф I"
-	"Фридрих III"
-	"Христиан Альбрехт"
-}
-
-
+		Schleswig "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" Flensburg "Johann der Дltere" "Adolf I." "Friedrich III." "Christian Albrecht"
+	}
 	manowar = {
-	"Шлезвиг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-	"Фленсбург"
-	"Иоганн дер Эльтере"
-	"Адольф I"
-	"Фридрих III"
-	"Христиан Альбрехт"
-}
-
-
+		Schleswig "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" Flensburg "Johann der Дltere" "Adolf I." "Friedrich III." "Christian Albrecht"
+	}
 	cruiser = {
-	"Шлезвиг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-	"Фленсбург"
-	"Иоганн дер Эльтере"
-	"Адольф I"
-	"Фридрих III"
-	"Христиан Альбрехт"
-}
-
-
+		Schleswig "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" Flensburg "Johann der Дltere" "Adolf I." "Friedrich III." "Christian Albrecht"
+	}
 	frigate = {
-	"Шлезвиг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-	"Фленсбург"
-	"Иоганн дер Эльтере"
-	"Адольф I"
-	"Фридрих III"
-	"Христиан Альбрехт"
-}
-
-
+		Schleswig "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" Flensburg "Johann der Дltere" "Adolf I." "Friedrich III." "Christian Albrecht"
+	}
 	monitor = {
-	"Шлезвиг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-	"Фленсбург"
-	"Иоганн дер Эльтере"
-	"Адольф I"
-	"Фридрих III"
-	"Христиан Альбрехт"
-}
-
-
-	
-	
+		Schleswig "Up ewig ungedeelt" "Vertrag von Ripen" "Magnus von Wedderkop" "Uwe Jens Lornsen" Flensburg "Johann der Дltere" "Adolf I." "Friedrich III." "Christian Albrecht"
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Клаус Штертебекер"
-	"Гедеке Михельс"
-	"Хеннинг Вихман"
-	"Клаус Шельд"
-	"Магистер Вигбольд"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Ликеделер"
-}
-
-
+		"Klaus Stцrtebeker" "Gцdeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" Likedeeler
+	}
 }

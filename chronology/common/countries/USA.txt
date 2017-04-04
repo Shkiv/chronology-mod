@@ -229,227 +229,47 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Южная Каролина"
-	"Мичиган"
-	"Дэлавер"
-	"Северная Дакота"
-	"Флорида"
-	"Юта"
-	"Вайоминг"
-	"Арканзас"
-	"Нью-Йорк"
-	"Техас"
-	"Невада"
-	"Оклахома"
-	"Пенсильвания"
-	"Аризона"
-	"Нью-Мексико"
-	"Миссисипи"
-	"Айдахо"
-	"Теннесси"
-	"Калифорния"
-	"Колорадо"
-	"Мэриленд"
-	"Западная Вирджиния"
-	"Вашингтон"
-}
+		"South Carolina" Michigan Delaware "North Dakota" Florida Utah Wyoming Arkansas "New York" Texas Nevada Oklahoma
+		Pennsylvania Arizona "New Mexico" Mississippi Idaho Tennessee California Colorado Maryland "West Virginia" Washington
+	}
 
+	battleship = {
+		Maine Texas Indiana Massachusetts Oregon Iowa Kearsarge Kentucky Illinois Alabama Wisconsin Missouri Ohio Virginia Nebraska Georgia "New Jersey" "Rhode Island" Connecticut Louisiana Vermont Kansas Minnesota "New Hampshire" Mississippi Idaho
+	}
 
 	ironclad = {
-	"Нью Айронсайдз"
-	"Дандерберг"
-}
-
-
+                         "New Ironsides" Dunderberg
+	}
 	manowar = {
-	"Америка"
-	"Коламбус"
-	"Франклин"
-	"Индипенденс"
-	"Вашингтон"
-	"Чипева"
-	"Нью-Орлеан"
-	"Пенсильвания"
-	"Дэлавер"
-	"Вермонт"
-	"Нью Гемпшир"
-	"Вирджиния"
-	"Нью-Йорк"
-	"Огайо"
-	"Северная Каролина"
-}
-
-
+		America Columbus Franklin Independence Washington Chipewa "New Orleans" Pennsylvania Delaware Vermont "New Hampshire" Virginia
+		"New York" Ohio "North Carolina"
+	}
 	cruiser = {
-	"Ньюарк"
-	"Чарльстон"
-	"Балтимор"
-	"Филадельфия"
-	"Сан-Франциско"
-	"Олимпия"
-	"Цинциннати"
-	"Роли"
-	"Монтгомери"
-	"Детройт"
-	"Марблхед"
-	"Колумбия"
-	"Миннеаполис"
-	"Денвер"
-	"Де Муан"
-	"Чаттануга"
-	"Галвестон"
-	"Такома"
-	"Кливленд"
-	"Милуоки"
-	"Чарльстон"
-}
-
-
+		Newark Charleston Baltimore Philadelphia "San Francisco" Olympia Cincinnati Raleigh Montgomery Detroit
+		Marblehead Columbia Minneapolis Denver "Des Moines" Chattanooga Galveston Tacoma Cleveland Milwaukee Charleston
+	}
 	frigate = {
-	"Адамс"
-	"Бостон"
-	"Брэндиуайн"
-	"Чизпик"
-	"Колумбия"
-	"Конгресс"
-	"Контелейшн"
-	"Конститьюшн"
-	"Камберлэнд"
-	"Эссекс"
-	"Дженерал Грин"
-	"Гуиррьер"
-	"Гудзон"
-	"Индипенденс"
-	"Инседжент"
-	"Ява"
-	"Джон Адамс"
-	"Македониан"
-	"Мохок"
-	"Нью-Йорк"
-	"Филадельфия"
-	"Плеттсбург"
-	"Потомак"
-	"Президент"
-	"Рэритэн"
-	"Сабин"
-	"Санти"
-	"Саванна"
-	"Сэнт-Лоуренс"
-	"Сьюпериор"
-	"Юнайтед Стэйтс"
-}
-
-
+		Adams Boston Brandywine Chesapeake Columbia Congress Constellation Constitution Cumberland Essex "General Greene" Guirriere
+		Hudson Independence Insurgent Java "John Adams" Macedonian Mohawk "New York" Philadelphia Plattsburg Potomac President
+		Raritan Sabine Santee Savannah "St. Lawrence" Superior "United States"
+	}
 	monitor = {
-	"Монитор"
-	"Пассаик"
-	"Монток"
-	"Нэхэнт"
-	"Пэтэпско"
-	"Уихокен"
-	"Сэнгэмон"
-	"Кэтскилл"
-	"Нантукет"
-	"Лихай"
-	"Команч"
-	"Неошо"
-	"Осейдж"
-	"Озарк"
-	"Мариетта"
-	"Сандаски"
-	"Роаноук"
-	"Каноникус"
-	"Саугус"
-	"Текумзе"
-	"Манхэттен"
-	"Мэхопэк"
-	"Уайэндот"
-	"Аякс"
-	"Кэтоба"
-	"Онеота"
-	"Милуоки"
-	"Виннебаго"
-	"Чикасо"
-	"Кикапу"
-	"Диктэйтор"
-	"Онондага"
-	"Пьюритэн"
-	"Миантономох"
-	"Монэднок"
-	"Агаментикус"
-	"Тонаванда"
-	"Каламазу"
-	"Пассаконавей"
-	"Куинсигамонд"
-	"Шакамаксон"
-}
-
-
+		Monitor Passaic Montauk Nahant Patapsco Weehawken Sangamon Catskill Nantucket Lehigh Camanche Neosho Osage Ozark
+		Marietta Sandusky Roanoke Canonicus Saugus Tecumseh Manhattan Mahopac Wyandotte Ajax Catawba Oneota
+		Milwaukee Winnebago Chickasaw Kickapoo Dictator Onondaga Puritan Miantonomoh Monadnock Agamenticus Tonawanda Kalamazoo
+		Passaconaway Quinsigamond Shakamaxon
+	}
 	clipper_transport = {
-	"Марта Кастис Вашингтон"
-	"Абигейл Адамс"
-	"Марта Джефферсон"
-	"Долли Тодд Мэдисон"
-	"Элизабет Монро"
-	"Луиза Катерина Адамс"
-	"Рейчел Робардс Джэксон"
-	"Ханна ван Бюрен"
-	"Анна Харрисон"
-	"Летиция Тайлер"
-}
-
-
+		"Martha Custis Washington" "Abigail Adams" "Martha Jefferson" "Dolley Todd Madison" "Elizabeth Monroe" "Louisa Catherine Adams"
+		"Rachel Robards Jackson" "Hannah Van Buren" "Anna Harrison" "Letitia Tyler"
+	}
 	steam_transport = {
-	"Маунт-Вернон"
-	"Агамемнон"
-	"Левиафан"
-	"Император"
-	"Джордж Вашингтон"
-	"Ковингтон"
-	"Мобайл"
-	"Финланд"
-	"Крунленд"
-	"Гаррисберг"
-	"Плеттсбург"
-	"Орисаба"
-	"Сибони"
-	"Меркьюри"
-	"Гурон"
-	"Покахонтас"
-	"Поухатан"
-	"Принцесс Матойка"
-	"Луисвиль"
-	"Де Кальб"
-	"Марта Вашингтон"
-	"Грейт Нозерн"
-	"Нозерн Пасифик"
-	"Комфорт"
-	"Мерси"
-	"Президент Грант"
-	"Президент Линкольн"
-	"Артемис"
-}
-
-
+		"Mount Vernon" Agamemnon Leviathan Imperator "George Washington" Covington Mobile Finland Kroonland Harrisburg Plattsburg
+		Orizaba Siboney Mercury Huron Pocahontas Powhatan "Princess Matoika" Louisville "De Kalb" "Martha Washington"
+		"Great Northern" "Northern Pacific" Comfort Mercy "President Grant" "President Lincoln" Artemis
+	}
 	commerce_raider = {
-	"Атланта"
-	"Бостон"
-	"Чикаго"
-	"Гарвард"
-	"Везувий"
-	"Беджер"
-	"Пантер"
-	"Йель"
-	"Преир"
-	"Буффало"
-	"Янки"
-	"Йосемит"
-	"Дикси"
-	"Ст. Льюис"
-	"Сент-Поль"
-	"Нью-Орлеан"
-	"Олбани"
-}
-
-
+		Atlanta Boston Chicago Harvard Vesuvius Badger Panther Yale Prairie Buffalo Yankee Yosemite Dixie "St. Louis" "St. Paul"
+		"New Orleans" Albany
+	}
 }

@@ -100,138 +100,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Гаити"
-	"Наполеон"
-	"Туссен-Лувертюр"
-	"Порт-о-Пренс"
-	"Жереми"
-	"Порт-Сали"
-	"Кап Гаитьен"
-	"Пор-де-Пе"
-	"Жан Рабель"
-	"Барон Самеди"
-	"Калипсо"
-	"Рейне Моджо"
-	"Бака"
-	"Оду Бодагрис"
-	"Дамбала"
-}
+		"Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jйrйmie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+		"Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
 
-
+	}
 	ironclad = {
-	"Гаити"
-	"Наполеон"
-	"Туссен-Лувертюр"
-	"Порт-о-Пренс"
-	"Жереми"
-	"Порт-Сали"
-	"Кап Гаитьен"
-	"Пор-де-Пе"
-	"Жан Рабель"
-	"Барон Самеди"
-	"Калипсо"
-	"Рейне Моджо"
-	"Бака"
-	"Оду Бодагрис"
-	"Дамбала"
-}
-
-
+		"Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jйrйmie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+		"Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
+	}
 	manowar = {
-	"Гаити"
-	"Наполеон"
-	"Туссен-Лувертюр"
-	"Порт-о-Пренс"
-	"Жереми"
-	"Порт-Сали"
-	"Кап Гаитьен"
-	"Пор-де-Пе"
-	"Жан Рабель"
-	"Барон Самеди"
-	"Калипсо"
-	"Рейне Моджо"
-	"Бака"
-	"Оду Бодагрис"
-	"Дамбала"
-}
-
-
+		"Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jйrйmie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+		"Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
+	}
 	cruiser = {
-	"Гаити"
-	"Наполеон"
-	"Туссен-Лувертюр"
-	"Порт-о-Пренс"
-	"Жереми"
-	"Порт-Сали"
-	"Кап Гаитьен"
-	"Пор-де-Пе"
-	"Жан Рабель"
-	"Барон Самеди"
-	"Калипсо"
-	"Рейне Моджо"
-	"Бака"
-	"Оду Бодагрис"
-	"Дамбала"
-}
-
-
+		"Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jйrйmie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+		"Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
+	}
 	frigate = {
-	"Гаити"
-	"Наполеон"
-	"Туссен-Лувертюр"
-	"Порт-о-Пренс"
-	"Жереми"
-	"Порт-Сали"
-	"Кап Гаитьен"
-	"Пор-де-Пе"
-	"Жан Рабель"
-	"Барон Самеди"
-	"Калипсо"
-	"Рейне Моджо"
-	"Бака"
-	"Оду Бодагрис"
-	"Дамбала"
-}
-
-
+		"Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jйrйmie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+		"Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
+	}
 	monitor = {
-	"Гаити"
-	"Наполеон"
-	"Туссен-Лувертюр"
-	"Порт-о-Пренс"
-	"Жереми"
-	"Порт-Сали"
-	"Кап Гаитьен"
-	"Пор-де-Пе"
-	"Жан Рабель"
-	"Барон Самеди"
-	"Калипсо"
-	"Рейне Моджо"
-	"Бака"
-	"Оду Бодагрис"
-	"Дамбала"
-}
+		"Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jйrйmie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+		"Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Гаити"
-	"Наполеон"
-	"Туссен-Лувертюр"
-	"Порт-о-Пренс"
-	"Жереми"
-	"Порт-Сали"
-	"Кап Гаитьен"
-	"Пор-де-Пе"
-	"Жан Рабель"
-	"Барон Самеди"
-	"Калипсо"
-	"Рейне Моджо"
-	"Бака"
-	"Оду Бодагрис"
-	"Дамбала"
-}
-
-
+		"Haiti" "Napoleon" "Toussaint Louverture" "Port au Prince" "Jйrйmie" "Port Sali" "Cap Haitien" "Port de Paix" "Jean Rabel"
+		"Baron Samedi" Calypso "Reine Mojo" Baka "Odu Bodagris" Dambala
+	}
 }

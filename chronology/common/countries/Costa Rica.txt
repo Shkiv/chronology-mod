@@ -115,149 +115,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Карибе"
-	"Сентроамерика"
-	"Коста-Рика"
-	"Хосе Мария Кастро"
-	"Хуан Мора"
-	"Либертад"
-	"Президенте"
-	"Рафаэль Иглесиас"
-	"Република"
-	"Тома Гуардия"
-}
-
-
+		Caribe Centroamйrica "Costa Rica" "Josй Marнa Castro" "Juan Mora" Libertad Presidente "Rafael Yglesias" Repъblica "Tomбs Guardia"
+	}
 	ironclad = {
-	"Ареналь"
-	"Бебедеро"
-	"Дикис"
-	"Хименес"
-	"Ревентасон"
-	"Сан-Хуан"
-	"Сиксаола"
-	"Тарколес"
-	"Темписке"
-	"Тортугуэро"
-}
-
-
+		Arenal Bebedero Diquнs Jimйnez Reventazуn "San Juan" Sixaola Tбrcoles Tempisque Tortuguero
+	}
 	manowar = {
-	"Аудас"
-	"Интрепидо"
-	"Либертад"
-	"Сан-Антонио"
-	"Сан-Фернандо"
-	"Сан-Хуан"
-	"Санта-Исабель"
-	"Санта-Марта"
-	"Санта-Моника"
-	"Вихиланте"
-}
-
-
+		Audaz Intrйpido Libertad "San Antonio" "San Fernando" "San Juan" "Santa Isabel" "Santa Marta" "Santa Mуnica" Vigilante
+	}
 	cruiser = {
-	"Касик"
-	"Кастильо дель Оро"
-	"Чаман"
-	"Чоротега"
-	"Конститусьон"
-	"Христофор Колумб"
-	"Индепенденсия"
-	"Пуэрто Лимон"
-	"Кинсе де Септьембре"
-	"Васко Нуньес де Бальбоа"
-}
-
-
+		Cacique "Castillo del Oro" Chamбn Chorotega Constituciуn "Cristуbal Colуn" Independencia "Puerto Limуn" "Quince de Septiembre" "Vasco Nъсez de Balboa"
+	}
 	frigate = {
-	"Алахуэла"
-	"Картаго"
-	"Гуанакастре"
-	"Эредия"
-	"Либерия"
-	"Лимон"
-	"Никоя"
-	"Папагайо"
-	"Пунтаренас"
-	"Сан-Хосе"
-}
-
-
+		Alajuela Cartago Guanacaste Heredia Liberia Limуn Nicoya Papagayo Puntarenas "San Josй"
+	}
 	monitor = {
-	"Качо Негро"
-	"Шато"
-	"Конго"
-	"Ирасу"
-	"Миравальес"
-	"Ороси"
-	"Платанар"
-	"Порвенир"
-	"Санта-Мария"
-	"Тенорио"
-}
-
-
+		"Cacho Negro" Chato Congo Irazъ Miravalles Orosн Platanar Porvenir "Santa Marнa" Tenorio
+	}
 	clipper_transport = {
-	"Алисия"
-	"Анна"
-	"Анкла"
-	"Бальена"
-	"Кармен"
-	"Костеро"
-	"Дельфин"
-	"Габриэль"
-	"Голиат"
-	"Индетектабле"
-	"Исла дель Коко"
-	"Рафаэль"
-	"Рапидо"
-	"Сансон"
-	"Силенсиосо"
-	"Сирена"
-	"Тибурон"
-	"Торо Амарильо"
-	"Тритон"
-	"Вида"
-}
-
-
+		Alicia Ana Ancla Ballena Carmen Costero Delfнn Gabriel Goliat Indetectable
+		"Isla del Coco" Rafael Rбpido Sansуn Silencioso Sirena Tiburуn "Toro Amarillo" Tritуn Vida
+	}
 	steam_transport = {
-	"Алисия"
-	"Анна"
-	"Анкла"
-	"Бальена"
-	"Кармен"
-	"Костеро"
-	"Дельфин"
-	"Габриэль"
-	"Голиат"
-	"Индетектабле"
-	"Исла дель Коко"
-	"Рафаэль"
-	"Рапидо"
-	"Сансон"
-	"Силенсиосо"
-	"Сирена"
-	"Тибурон"
-	"Торо Амарильо"
-	"Тритон"
-	"Вида"
-}
-
-
+		Alicia Ana Ancla Ballena Carmen Costero Delfнn Gabriel Goliat Indetectable
+		"Isla del Coco" Rafael Rбpido Sansуn Silencioso Sirena Tiburуn "Toro Amarillo" Tritуn Vida
+	}
 	commerce_raider = {
-	"Барва"
-	"Серро де ла Муэрте"
-	"Гуанакастре"
-	"Интратабле"
-	"Поас"
-	"Ринкон де ла Вьеха"
-	"Таламанка"
-	"Тиларан"
-	"Турриальба"
-	"Викториосо"
-}
-
-
+		Barva "Cerro de la Muerte" Guanacaste Intratable Poбs "Rincуn de la Vieja" Talamanca Tilarбn Turrialba Victorioso
+	}
 }

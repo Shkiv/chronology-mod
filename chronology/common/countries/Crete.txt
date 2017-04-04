@@ -101,102 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Килкис"
-	"Аспис"
-	"Василевс Константинос"
-	"Саламин"
-	"Афины"
-	"Константинополис"
-	"Спарта"
-	"Леонидас"
-	"Мегас Александрос"
-	"Периклес"
-	"Олимпиас"
-}
-
-
+		Kilkis Aspis "Vasilefs Konstantinos" Salamis Athina Constantinopolis Sparta Leonidas "MГ©gas AlГ©xandros" Pericles Olympias
+	}
 	ironclad = {
-	"Картерия"
-	"Панопи"
-	"Пликсавра"
-	"Афроэсса"
-	"Сфендони"
-	"Гидра"
-	"Спетсай"
-	"Псара"
-	"Лимнос"
-	"Василисса Ольга"
-}
-
-
+		Karteria Panopi Pliksavra Afroessa Sfendoni Hydra Spetsai Psara Limnos "Vasilissa Olga"
+	}
 	manowar = {
-	"Николис Апостолис"
-	"Томбазис"
-	"Порос"
-	"Андреас Вокос"
-	"Ласкарина Бубвлина"
-	"Константин Канарис"
-	"Пликсавра"
-	"Аверов"
-}
-
-
+		"Nikolis Apostolis" Tombazis Poros "Andreas Vokos" "Laskarina Bouboulina" "Constantine Kanaris" Plixavra Averof
+	}
 	cruiser = {
-	"Навархос Миаулис"
-	"Георгиос Аверов"
-	"Элли"
-	"Антинауркос Кондориотис"
-	"Ламброс Катсонис"
-	"Аргос"
-	"Агамемнон"
-	"Гьярос"
-	"Тилемахос"
-	"Делфои"
-}
-
-
+		"Navarhos Miaoulis" "Georgios Averof" Elli "Antinaurkos Condoriotis" "Lambros Katsonis" ГЃrgos Agamemnon GyГЎros Tilemachos DelfoГ­
+	}
 	frigate = {
-	"Эллас"
-	"Наварино"
-	"Псара"
-	"Принкипс Максимильянос"
-	"Максамильянос"
-	"Маунт Офрис"
-	"Фива"
-	"Скирка"
-	"Эратос"
-	"Эол"
-}
-
-
+		Hellas Navarino Psara "Prinkips Maximilianos" Maxamillianos "Mount Othrys" ThГ­va Skirka Heratos Aeolus
+	}
 	monitor = {
-	"Сфендони"
-	"Фессалия"
-	"Апейрос"
-	"Аттики"
-	"Пелепоннесос"
-	"Цирцея"
-	"Эуриклея"
-	"Аиолия"
-	"Крити"
-	"Родос"
-}
+		Sfendoni ThessalГ­a Apeiros AttikГ­ PelopГіnnisos Circe EurГЅkleia Aiolia Kriti RГіdos
+	}
+	clipper_transport = {
 
 
-	
-	
+	}
+	steam_transport = {
+
+
+	}
 	commerce_raider = {
-	"Этос"
-	"Иеракс"
-	"Леон"
-	"Панфир"
-	"Ифестос"
-	"Македония"
-	"Наксос"
-	"Эвия"
-	"Лимнос"
-	"Закинфос"
-}
-
-
+		Aetos Ierax Leon Panthir Ifestos MakedonГ­a Naxos Г‰via Limnos Zakynthos
+	}
 }

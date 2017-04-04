@@ -101,103 +101,37 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Босна"
-	"Херцег"
-	"Далмация"
-	"Гази Хусрев-бег"
-	"Котроманичи"
-	"Кулин бан"
-	"Миласка"
-	"Сараево"
-	"Степан II"
-	"Твртко I"
-}
+		Bosna Herzceg Dalmacija "Gazi Husrev-beg" "Kotromanici" "Kulin ban" Miljacka Sarajevo "Stjepan II" "Tvrtko I"
 
-
+	}
 	ironclad = {
-	"Босна"
-	"Херцег"
-	"Далмация"
-	"Гази Хусрев-бег"
-	"Котроманичи"
-	"Кулин бан"
-	"Миласка"
-	"Сараево"
-	"Степан II"
-	"Твртко I"
-}
+		Bosna Herzceg Dalmacija "Gazi Husrev-beg" "Kotromanici" "Kulin ban" Miljacka Sarajevo "Stjepan II" "Tvrtko I"
 
-
+	}
 	manowar = {
-	"Босна"
-	"Херцег"
-	"Далмация"
-	"Гази Хусрев-бег"
-	"Котроманичи"
-	"Кулин бан"
-	"Миласка"
-	"Сараево"
-	"Степан II"
-	"Твртко I"
-}
+		Bosna Herzceg Dalmacija "Gazi Husrev-beg" "Kotromanici" "Kulin ban" Miljacka Sarajevo "Stjepan II" "Tvrtko I"
 
-
+	}
 	cruiser = {
-	"Босна"
-	"Херцег"
-	"Далмация"
-	"Гази Хусрев-бег"
-	"Котроманичи"
-	"Кулин бан"
-	"Миласка"
-	"Сараево"
-	"Степан II"
-	"Твртко I"
-}
+		Bosna Herzceg Dalmacija "Gazi Husrev-beg" "Kotromanici" "Kulin ban" Miljacka Sarajevo "Stjepan II" "Tvrtko I"
 
-
+	}
 	frigate = {
-	"Босна"
-	"Херцег"
-	"Далмация"
-	"Гази Хусрев-бег"
-	"Котроманичи"
-	"Кулин бан"
-	"Миласка"
-	"Сараево"
-	"Степан II"
-	"Твртко I"
-}
+		Bosna Herzceg Dalmacija "Gazi Husrev-beg" "Kotromanici" "Kulin ban" Miljacka Sarajevo "Stjepan II" "Tvrtko I"
 
-
+	}
 	monitor = {
-	"Босна"
-	"Херцег"
-	"Далмация"
-	"Гази Хусрев-бег"
-	"Котроманичи"
-	"Кулин бан"
-	"Миласка"
-	"Сараево"
-	"Степан II"
-	"Твртко I"
-}
+		Bosna Herzceg Dalmacija "Gazi Husrev-beg" "Kotromanici" "Kulin ban" Miljacka Sarajevo "Stjepan II" "Tvrtko I"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Босна"
-	"Херцег"
-	"Далмация"
-	"Гази Хусрев-бег"
-	"Котроманичи"
-	"Кулин бан"
-	"Миласка"
-	"Сараево"
-	"Степан II"
-	"Твртко I"
-}
+		Bosna Herzceg Dalmacija "Gazi Husrev-beg" "Kotromanici" "Kulin ban" Miljacka Sarajevo "Stjepan II" "Tvrtko I"
 
-
+	}
 }

@@ -115,145 +115,43 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Техас"
-	"Аламо"
-	"Сан-Хасинто"
-	"Сэм Хьюстон"
-	"Дэейм Боуи"
-	"Уильям Тревис"
-	"Дэви Крокетт"
-	"Мирабо Ламар"
-	"Остин"
-	"Голиад"
-	"Галвестон"
-	"Энсон Джонс"
-	"Чероки"
-	"Рейнджер"
-	"Сан-Антонио"
-	"Йеллоу Роуз"
-}
+		Texas "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" Austin
+		Goliad Galveston "Anson Jones" Cherokee Ranger "San Antonio" "Yellow Rose"
 
-
+	}
 	ironclad = {
-	"Техас"
-	"Аламо"
-	"Сан-Хасинто"
-	"Сэм Хьюстон"
-	"Дэейм Боуи"
-	"Уильям Тревис"
-	"Дэви Крокетт"
-	"Мирабо Ламар"
-	"Остин"
-	"Голиад"
-	"Галвестон"
-	"Энсон Джонс"
-	"Чероки"
-	"Рейнджер"
-	"Сан-Антонио"
-	"Йеллоу Роуз"
-}
+		Texas "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" Austin
+		Goliad Galveston "Anson Jones" Cherokee Ranger "San Antonio" "Yellow Rose"
 
-
+	}
 	manowar = {
-	"Техас"
-	"Аламо"
-	"Сан-Хасинто"
-	"Сэм Хьюстон"
-	"Дэейм Боуи"
-	"Уильям Тревис"
-	"Дэви Крокетт"
-	"Мирабо Ламар"
-	"Остин"
-	"Голиад"
-	"Галвестон"
-	"Энсон Джонс"
-	"Чероки"
-	"Рейнджер"
-	"Сан-Антонио"
-	"Йеллоу Роуз"
-}
+		Texas "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" Austin
+		Goliad Galveston "Anson Jones" Cherokee Ranger "San Antonio" "Yellow Rose"
 
-
+	}
 	cruiser = {
-	"Техас"
-	"Аламо"
-	"Сан-Хасинто"
-	"Сэм Хьюстон"
-	"Дэейм Боуи"
-	"Уильям Тревис"
-	"Дэви Крокетт"
-	"Мирабо Ламар"
-	"Остин"
-	"Голиад"
-	"Галвестон"
-	"Энсон Джонс"
-	"Чероки"
-	"Рейнджер"
-	"Сан-Антонио"
-	"Йеллоу Роуз"
-}
+		Texas "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" Austin
+		Goliad Galveston "Anson Jones" Cherokee Ranger "San Antonio" "Yellow Rose"
 
-
+	}
 	frigate = {
-	"Техас"
-	"Аламо"
-	"Сан-Хасинто"
-	"Сэм Хьюстон"
-	"Дэейм Боуи"
-	"Уильям Тревис"
-	"Дэви Крокетт"
-	"Мирабо Ламар"
-	"Остин"
-	"Голиад"
-	"Галвестон"
-	"Энсон Джонс"
-	"Чероки"
-	"Рейнджер"
-	"Сан-Антонио"
-	"Йеллоу Роуз"
-}
-
-
+		Texas "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" Austin
+		Goliad Galveston "Anson Jones" Cherokee Ranger "San Antonio" "Yellow Rose"
+	}
 	monitor = {
-	"Техас"
-	"Аламо"
-	"Сан-Хасинто"
-	"Сэм Хьюстон"
-	"Дэейм Боуи"
-	"Уильям Тревис"
-	"Дэви Крокетт"
-	"Мирабо Ламар"
-	"Остин"
-	"Голиад"
-	"Галвестон"
-	"Энсон Джонс"
-	"Чероки"
-	"Рейнджер"
-	"Сан-Антонио"
-	"Йеллоу Роуз"
-}
+		Texas "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" Austin
+		Goliad Galveston "Anson Jones" Cherokee Ranger "San Antonio" "Yellow Rose"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Техас"
-	"Аламо"
-	"Сан-Хасинто"
-	"Сэм Хьюстон"
-	"Дэейм Боуи"
-	"Уильям Тревис"
-	"Дэви Крокетт"
-	"Мирабо Ламар"
-	"Остин"
-	"Голиад"
-	"Галвестон"
-	"Энсон Джонс"
-	"Чероки"
-	"Рейнджер"
-	"Сан-Антонио"
-	"Йеллоу Роуз"
-}
+		Texas "The Alamo" "San Jacinto" "Sam Houston" "James Bowie" "William Travis" "Davy Crockett" "Mirabeau Lamar" Austin
+		Goliad Galveston "Anson Jones" Cherokee Ranger "San Antonio" "Yellow Rose"
 
-
+	}
 }

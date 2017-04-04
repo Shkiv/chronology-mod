@@ -101,166 +101,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
+		Beas Chenab Devi Gayatri Guru Indus Jalsena Jhelum Lakshmi Nausena "Nav ka Yudh" Parvati Radha Ratri
+		Ravi Sagar Sutlej Sarasvati Sita
 
-
+	}
 	ironclad = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
-
+		Beas Chenab Devi Gayatri Guru Indus Jalsena Jhelum Lakshmi Nausena "Nav ka Yudh" Parvati Radha Ratri
+		Ravi Sagar Sutlej Sarasvati Sita
+	}
 	manowar = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
-
+		Beas Chenab Devi Gayatri Guru Indus Jalsena Jhelum Lakshmi Nausena "Nav ka Yudh" Parvati Radha Ratri
+		Ravi Sagar Sutlej Sarasvati Sita
+	}
 	cruiser = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
-
+		Beas Chenab Devi Gayatri Guru Indus Jalsena Jhelum Lakshmi Nausena "Nav ka Yudh" Parvati Radha Ratri
+		Ravi Sagar Sutlej Sarasvati Sita
+	}
 	frigate = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
-
+		Beas Chenab Devi Gayatri Guru Indus Jalsena Jhelum Lakshmi Nausena "Nav ka Yudh" Parvati Radha Ratri
+		Ravi Sagar Sutlej Sarasvati Sita
+	}
 	monitor = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
+		Beas Chenab Devi Gayatri Guru Indus Jalsena Jhelum Lakshmi Nausena "Nav ka Yudh" Parvati Radha Ratri
+		Ravi Sagar Sutlej Sarasvati Sita
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
-
+		Beas Chenab Devi Gayatri Guru Indus Jalsena Jhelum Lakshmi Nausena "Nav ka Yudh" Parvati Radha Ratri
+		Ravi Sagar Sutlej Sarasvati Sita
+	}
 }

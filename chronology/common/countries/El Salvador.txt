@@ -101,149 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Амапала"
-	"Конститусьон"
-	"Эль Сальвадор"
-	"Франсиско Дуэньяс"
-	"Харардо Барриос"
-	"Хуан Хосе Гусман"
-	"Насьон"
-	"Президенте"
-	"Кинсе де Септьембре"
-	"Тома Регаладо"
-}
-
-
+		Amapala Constituciуn "El Salvador" "Francisco Dueсas" "Gerardo Barrios" "Juan Josй Guzmбn" Naciуn Presidente "Quince de Septiembre" "Tomбs Regalado"
+	}
 	ironclad = {
-	"Кара Сукия"
-	"Эль Потреро"
-	"Гоаскоран"
-	"Гранде"
-	"Хальпонга"
-	"Хибоа"
-	"Лемпа"
-	"Пас"
-	"Пулулуя"
-	"Сенсунапан"
-}
-
-
+		"Cara Sucia" "El Potrero" Goascorбn Grande Jalponga Jiboa Lempa Paz Pululuya Sensunapan
+	}
 	manowar = {
-	"Аудас"
-	"Креадор"
-	"Нептуно"
-	"Сан-Франциско"
-	"Сан-Хосе"
-	"Сан-Хуан"
-	"Санто-Томас"
-	"Тэррор"
-	"Тесоро"
-	"Вальенте"
-}
-
-
+		Audaz Creador Neptuno "San Francisco" "San Josй" "San Juan" "Santo Tomбs" Terror Tesoro Valiente
+	}
 	cruiser = {
-	"Каторсе Фамильяс"
-	"Сентроамерика"
-	"Конкистадор"
-	"Криольо"
-	"Дескубридор"
-	"Индепенденсия"
-	"Интенденсия"
-	"Ленка"
-	"Либертад"
-	"Пипиль"
-}
-
-
+		"Catorce Familias" Centroamйrica Conquistador Criollo Descubridor Independencia Intendencia Lenca Libertad Pipil
+	}
 	frigate = {
-	"Ауачапан"
-	"Чалатенанго"
-	"Кохутепеке"
-	"Сан-Франсиско Готера"
-	"Сан-Сальвадор"
-	"Санта-Текла"
-	"Сенсунтепеке"
-	"Сонсонате"
-	"Усулатан"
-	"сакатеколука"
-}
-
-
+		Ahuachapбn Chalatenango Cojutepeque "San Francisco Gotera" "San Salvador" "Santa Tecla" Sensuntepeque Sonsonate Usulatбn Zacatecoluca
+	}
 	monitor = {
-	"Апанека"
-	"Чинамека"
-	"Эль Тигре"
-	"Гуасапа"
-	"Сан-Мигель"
-	"Сан-Висенте"
-	"Санта-Ана"
-	"Табурете"
-	"Текапа"
-	"Унгидо"
-}
-
-
+		Apaneca Chinameca "El Tigre" Guazapa "San Miguel" "San Vicente" "Santa Ana" Taburete Tecapa Ungido
+	}
 	clipper_transport = {
-	"Алегре"
-	"Аманесер"
-	"Антигуа"
-	"Фервороса"
-	"Фидединья"
-	"Голоса"
-	"Хас"
-	"Индепендьенте"
-	"Интангибле"
-	"Льяма"
-	"Лусесита"
-	"Оксиденталь"
-	"Пасифика"
-	"Поблада"
-	"Серена"
-	"Сирена"
-	"Транспортиста"
-	"Тритон"
-	"Вирхен"
-	"Воладора"
-}
-
-
+		Alegre Amanecer Antigua Fervorosa Fidedigna Golosa Haz Independiente Intangible Llama
+		Lucecita Occidental Pacнfica Poblada Serena Sirena Transportista Tritуn Virgen Voladora
+	}
 	steam_transport = {
-	"Алегре"
-	"Аманесер"
-	"Антигуа"
-	"Фервороса"
-	"Фидединья"
-	"Голоса"
-	"Хас"
-	"Индепендьенте"
-	"Интангибле"
-	"Льяма"
-	"Лусесита"
-	"Оксиденталь"
-	"Пасифика"
-	"Поблада"
-	"Серена"
-	"Сирена"
-	"Транспортиста"
-	"Тритон"
-	"Вирхен"
-	"Воладора"
-}
-
-
+		Alegre Amanecer Antigua Fervorosa Fidedigna Golosa Haz Independiente Intangible Llama
+		Lucecita Occidental Pacнfica Poblada Serena Sirena Transportista Tritуn Virgen Voladora
+	}
 	commerce_raider = {
-	"Ас де лос Марес"
-	"Каньонеро"
-	"Фаро дель Пасифико"
-	"Фрустиферо"
-	"Герреро"
-	"Уракан"
-	"Сальвадореньо"
-	"Семпитерно"
-	"Викториосо"
-	"Волькан"
-}
-
-
+		"As de los Mares" Caсonero "Faro del Pacнfico" Fructнfero Guerrero Huracбn Salvadoreсo Sempiterno Victorioso Volcбn
+	}
 }

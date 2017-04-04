@@ -185,110 +185,42 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ольденбург"
-	"Биркенфельд"
-	"Гроссхерцог Пауль"
-	"Райхсфюрст"
-	"Эрбпринц"
-	"Герд дер Мутиге"
-	"Христиан Томезен"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Магистер Вигбольд"
-	"Гедеке Михельс"
-}
+		Oldenburg Birkenfeld "GroЯherzog Paul" Reichsfьrst Erbprinz "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold"
+		"Gцdeke Michels"
 
-
+	}
 	ironclad = {
-	"Ольденбург"
-	"Биркенфельд"
-	"Гроссхерцог Пауль"
-	"Райхсфюрст"
-	"Эрбпринц"
-	"Герд дер Мутиге"
-	"Христиан Томезен"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Магистер Вигбольд"
-	"Гедеке Михельс"
-}
-
-
+		Oldenburg Birkenfeld "GroЯherzog Paul" Reichsfьrst Erbprinz "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold"
+		"Gцdeke Michels"
+	}
 	manowar = {
-	"Ольденбург"
-	"Биркенфельд"
-	"Гроссхерцог Пауль"
-	"Райхсфюрст"
-	"Эрбпринц"
-	"Герд дер Мутиге"
-	"Христиан Томезен"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Магистер Вигбольд"
-	"Гедеке Михельс"
-}
+		Oldenburg Birkenfeld "GroЯherzog Paul" Reichsfьrst Erbprinz "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold"
+		"Gцdeke Michels"
 
-
+	}
 	cruiser = {
-	"Ольденбург"
-	"Биркенфельд"
-	"Гроссхерцог Пауль"
-	"Райхсфюрст"
-	"Эрбпринц"
-	"Герд дер Мутиге"
-	"Христиан Томезен"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Магистер Вигбольд"
-	"Гедеке Михельс"
-}
+		Oldenburg Birkenfeld "GroЯherzog Paul" Reichsfьrst Erbprinz "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold"
+		"Gцdeke Michels"
 
-
+	}
 	frigate = {
-	"Ольденбург"
-	"Биркенфельд"
-	"Гроссхерцог Пауль"
-	"Райхсфюрст"
-	"Эрбпринц"
-	"Герд дер Мутиге"
-	"Христиан Томезен"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Магистер Вигбольд"
-	"Гедеке Михельс"
-}
+		Oldenburg Birkenfeld "GroЯherzog Paul" Reichsfьrst Erbprinz "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold"
+		"Gцdeke Michels"
 
-
+	}
 	monitor = {
-	"Ольденбург"
-	"Биркенфельд"
-	"Гроссхерцог Пауль"
-	"Райхсфюрст"
-	"Эрбпринц"
-	"Герд дер Мутиге"
-	"Христиан Томезен"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Магистер Вигбольд"
-	"Гедеке Михельс"
-}
+		Oldenburg Birkenfeld "GroЯherzog Paul" Reichsfьrst Erbprinz "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold"
+		"Gцdeke Michels"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Ольденбург"
-	"Биркенфельд"
-	"Гроссхерцог Пауль"
-	"Райхсфюрст"
-	"Эрбпринц"
-	"Герд дер Мутиге"
-	"Христиан Томезен"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Магистер Вигбольд"
-	"Гедеке Михельс"
-}
-
-
+		Oldenburg Birkenfeld "GroЯherzog Paul" Reichsfьrst Erbprinz "Gerd der Mutige" "Christian Thomesen" "Arnd Stuke" "Nikolaus Milies" "Magister Wigbold"
+		"Gцdeke Michels"
+	}
 }

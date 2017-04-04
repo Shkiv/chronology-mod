@@ -143,85 +143,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Белград"
-	"Косовска Битка"
-	"Петрович"
-	"Обренович"
-	"Лазаревич"
-	"Србия"
-}
-
-
+		Beograd "Kosovska Bitka" Petrovic Obrenovic Lazarevic Srbija
+	}
 	ironclad = {
-	"Драва"
-	"Дрина"
-	"Иванковач"
-	"Миленко Стойкович"
-	"Крагуевац"
-	"Палве Бакич"
-}
-
-
+		Drava Drina Ivankovac "Milenko Stojkovic" Kragujevac "Pavle Bakic"
+	}
 	manowar = {
-	"Велика Морава"
-	"Южна Морава"
-	"Златибор"
-	"Копаоник"
-	"Ресава"
-}
-
-
+		"Velika Morava" "Juzna Morava" Zlatibor Kopaonik Resava
+	}
 	cruiser = {
-	"Караджич"
-	"Неманьичи"
-	"Сильни"
-	"Михайло I"
-	"Янкович"
-}
-
-
+		Karadћic Nemanjici Silni "Mihailo I" Jankovic
+	}
 	frigate = {
-	"Вальево"
-	"Стеван Синделич"
-	"Таково"
-	"Любич"
-}
-
-
+		Valjevo "Stevan Sindelic" Takovo Ljubic
+	}
 	monitor = {
-	"Ядар"
-	"Сава"
-	"Дубаль"
-	"Владимира"
-	"Николина"
-}
-
-
+		Jadar Sava Dubalj Vladimira Nikolina
+	}
 	clipper_transport = {
-	"Князь Михайло"
-	"Зорана"
-	"Зорича"
-	"Мирослава"
-	"Горана"
-}
+		"Knjaz Mihailo" Zorana Zorica Miroslava Gorana
 
-
+	}
 	steam_transport = {
-	"Яки"
-	"Сильни"
-	"Снажи"
-	"Марльиви"
-	"Устрайни"
-}
+		Jaki Silni Snaћi Marljivi Ustrajni
 
-
+	}
 	commerce_raider = {
-	"Сень"
-	"Горан"
-	"Смрт Глава"
-	"Любанья"
-	"Паков"
-}
-
-
+		Senj Goran "Smrt Glava" Lubanja Pacov
+	}
 }

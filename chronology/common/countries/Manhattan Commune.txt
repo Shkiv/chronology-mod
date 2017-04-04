@@ -101,75 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Хаммер"
-	"Сикл"
-	"Сошиалайзм"
-	"Спартакус"
-	"Коммунизм"
-}
-
-
+		Hammer Sickle Socialism Spartacus Communism
+	}
 	ironclad = {
-	"Уоркер"
-	"Пролетариат"
-	"Пезант"
-	"Солджер"
-	"Ребел"
-}
-
-
+		Worker Proletariat Peasant Soldier Rebel
+	}
 	manowar = {
-	"Революшионери"
-	"Уэйв"
-	"Венгард"
-	"Унион"
-	"Интернешнл"
-	"Лейбор"
-}
-
-
+		"Revolutionary Wave" Vanguard Union International Labour
+	}
 	cruiser = {
-	"Ред"
-	"Флаг"
-	"Ред"
-	"Стар"
-	"Ред"
-	"Уэйдж"
-	"Ред"
-	"Фист"
-	"Ред"
-	"Роуз"
-}
-
-
+		"Red Flag" "Red Star" "Red Wedge" "Red Fist" "Red Rose"
+	}
 	frigate = {
-	"Роса"
-	"Карл"
-	"Фридрих"
-	"Эдуард"
-	"Клод"
-	"Генри"
-}
-
-
+		Rosa Karl Friedrich Eduard "Claude Henri"
+	}
 	monitor = {
-	"Европа"
-	"Азия"
-	"Америка"
-	"Африка"
-	"Австралия"
-}
+		Europe Asia America Africa Australia
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Жюстис"
-	"Экволити"
-	"Солидерити"
-	"Бразерхуд"
-	"Юнити"
-}
-
-
+		Justice Equality  Solidarity Brotherhood Unity
+	}
 }

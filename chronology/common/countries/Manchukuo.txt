@@ -7,7 +7,7 @@ party = {
 	end_date = 2000.1.1
 
 	ideology = reactionary
-	
+
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -101,96 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ман-Чжоу-Го"
-	"Пэнь-Си"
-	"Шен-Янь"
-	"Фень-Чен"
-	"Жуан-Хе"
-	"Фу-Сян"
-	"И-Сян"
-	"Гай-Сян"
-	"Айсин Гиоро"
-}
-
-
+		"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro"
+	}
 	ironclad = {
-	"Ман-Чжоу-Го"
-	"Пэнь-Си"
-	"Шен-Янь"
-	"Фень-Чен"
-	"Жуан-Хе"
-	"Фу-Сян"
-	"И-Сян"
-	"Гай-Сян"
-	"Айсин Гиоро"
-}
-
-
+		"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro"
+	}
 	manowar = {
-	"Ман-Чжоу-Го"
-	"Пэнь-Си"
-	"Шен-Янь"
-	"Фень-Чен"
-	"Жуан-Хе"
-	"Фу-Сян"
-	"И-Сян"
-	"Гай-Сян"
-	"Айсин Гиоро"
-}
-
-
+		"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro"
+	}
 	cruiser = {
-	"Ман-Чжоу-Го"
-	"Пэнь-Си"
-	"Шен-Янь"
-	"Фень-Чен"
-	"Жуан-Хе"
-	"Фу-Сян"
-	"И-Сян"
-	"Гай-Сян"
-	"Айсин Гиоро"
-}
-
-
+		"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro"
+	}
 	frigate = {
-	"Ман-Чжоу-Го"
-	"Пэнь-Си"
-	"Шен-Янь"
-	"Фень-Чен"
-	"Жуан-Хе"
-	"Фу-Сян"
-	"И-Сян"
-	"Гай-Сян"
-	"Айсин Гиоро"
-}
-
-
+		"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro"
+	}
 	monitor = {
-	"Ман-Чжоу-Го"
-	"Пэнь-Си"
-	"Шен-Янь"
-	"Фень-Чен"
-	"Жуан-Хе"
-	"Фу-Сян"
-	"И-Сян"
-	"Гай-Сян"
-	"Айсин Гиоро"
-}
+		"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Ман-Чжоу-Го"
-	"Пэнь-Си"
-	"Шен-Янь"
-	"Фень-Чен"
-	"Жуан-Хе"
-	"Фу-Сян"
-	"И-Сян"
-	"Гай-Сян"
-	"Айсин Гиоро"
-}
-
-
+		"Man'chu'kuo" "Ben'xi" "Shen'yang" "Feng'cheng" "Zhuang'he" "Fu'xian" "Yi'xian" "Gai'xian" "Aisin Gioro"
+	}
 }

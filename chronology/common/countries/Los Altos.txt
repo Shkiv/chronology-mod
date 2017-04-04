@@ -101,149 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Конститусьон"
-	"Лос Альтос"
-	"Хосе Каррера Турсиос"
-	"Хосе Мария Рейна"
-	"Хусто Барриос"
-	"Мануэль Эстрада"
-	"Марьяно Ривера"
-	"Педро Полина"
-	"Президенте"
-	"Висенте Серна"
-}
-
-
+		Centroamйrica "Costa Rica" Diriangйn "El Salvador" "Francisco Dueсas" "Francisco Morazбn" Guatemala Honduras Nicaragua "Pedro Molina"
+	}
 	ironclad = {
-	"Белисе"
-	"Дульсе"
-	"Ондо"
-	"Лемпа"
-	"Лос Эсклавос"
-	"Мария Линда"
-	"Мотагуа"
-	"Мауалете"
-	"Пас"
-	"Сучиате"
-}
-
-
+		Arenal Barahona Cocibolca Goascorбn Hondo Paz "San Juan" Suchiate Tatumbla Tempisque
+	}
 	manowar = {
-	"Аудас"
-	"Конкиста"
-	"Индепенденсия"
-	"Сальвадор"
-	"Сан-Хосе"
-	"Сан-Хусто"
-	"Сан-Педро"
-	"Сан-Висенте"
-	"Санта-Мария"
-	"Венседора"
-}
-
-
+		Audaz Federaciуn Independencia Libertad Neptuno "Sagrada Familia" "San Josй" "San Juan" "Santa Catalina" Santiago
+	}
 	cruiser = {
-	"Барригонес"
-	"Бартоломе де лас Касас"
-	"Какчикель"
-	"Итса"
-	"Киче"
-	"Нуэва Севилья"
-	"Ольмека"
-	"Педро де Альварадо"
-	"Кекчи"
-	"сапотитлан"
-}
-
-
+		"Bartolomй de las Casas" "Castilla del Oro" Chorti "Cristobal Colуn" Lenca Miskito Niquirano Olmeca "Pedro de Alvarado" Pipil
+	}
 	frigate = {
-	"Сьюдад де Гватемала"
-	"Флорес"
-	"Гуастатоя"
-	"Уэуэтенанго"
-	"Халапа"
-	"Кетцальтенанго"
-	"Реталулеу"
-	"Салама"
-	"Санта-Крус"
-	"Тотоникапан"
-}
-
-
+		Cartago "Ciudad de Guatemala" Comayagua Flores Leуn Managua "San Josй" "San Salvador" "Santa Tecla" Tegucigalpa
+	}
 	monitor = {
-	"Акатенаго"
-	"Агуа"
-	"Альмонолонга"
-	"Атитлан"
-	"Фуэго"
-	"Санта-Мария"
-	"Санто-Томас"
-	"Такана"
-	"Тахумулько"
-	"Толиман"
-}
-
-
+		Apaneca Concepciуn "El Tigre" Orosн Platanar "San Cristуbal" "Santa Ana" Tacanб Tajumulco Yojoa
+	}
 	clipper_transport = {
-	"Адорасьон"
-	"Антлантика"
-	"Эмпрендедора"
-	"Грасия"
-	"Уракан"
-	"Майя"
-	"Мовиль"
-	"Нептуно"
-	"Ноктурна"
-	"Осеаника"
-	"Пасифика"
-	"Ромпеолас"
-	"Сан-Косме"
-	"Сан-Хорхе"
-	"Сан-Пабло"
-	"Сирена"
-	"Тикаль"
-	"Тормента"
-	"Тритон"
-	"Вентиска"
-}
-
-
+		Amanecer Centroamericana Corsario Diamante Emprendedora "Estrella de los Mares" Gracia Guardabarranco Hondureсo Independiente
+		Indetectable "Isla del Coco" Jaguar Llama Maya Oceбnica Rбpido Salvaje Serena Silencioso
+	}
 	steam_transport = {
-	"Адорасьон"
-	"Антлантика"
-	"Эмпрендедора"
-	"Грасия"
-	"Уракан"
-	"Майя"
-	"Мовиль"
-	"Нептуно"
-	"Ноктурна"
-	"Осеаника"
-	"Пасифика"
-	"Ромпеолас"
-	"Сан-Косме"
-	"Сан-Хорхе"
-	"Сан-Пабло"
-	"Сирена"
-	"Тикаль"
-	"Тормента"
-	"Тритон"
-	"Вентиска"
-}
-
-
+		Amanecer Centroamericana Corsario Diamante Emprendedora "Estrella de los Mares" Gracia Guardabarranco Hondureсo Independiente
+		Indetectable "Isla del Coco" Jaguar Llama Maya Oceбnica Rбpido Salvaje Serena Silencioso
+	}
 	commerce_raider = {
-	"Чинго"
-	"Чикимула"
-	"Деструктор"
-	"Флорес"
-	"Гольпеадор"
-	"Гуатемальтеко"
-	"Икстепеке"
-	"Лансадор"
-	"Сан-Патрисио"
-	"Сучитан"
-}
-
-
+		Carнas Chingo Guanacaste Guatemalteco Invencible Lempira Nicaragьense Salvadoreсo Tilarбn Victorioso
+	}
 }

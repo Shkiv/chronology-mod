@@ -173,83 +173,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"О'Фаолайн"
-	"Каомханах"
-	"Маннион"
-	"Коркайг"
-	"Гайлимх"
-}
-
-
+		"O’Faolain" "Caomhбnach" "Mannion" "Corcaigh" "Gaillimh"
+	}
 	ironclad = {
-	"Байле Ата Клиат"
-	"Куиге"
-	"Улайд"
-	"Ан Мхумхайн"
-	"Коннахта"
-}
-
-
+		"Baile Бtha Cliath" "Cъige Laighean" "Ulaidh" "An Mhumhain" "Connachta"
+	}
 	manowar = {
-	"Порт Лайрг"
-	"Дун на Нгалл"
-	"Лойнгсех"
-	"О'Конгхайле"
-	"Ан Кобх"
-}
-
-
+		"Port Lбirge" "Dъn na nGall" "Loingsech" "У’Conghaile" "An Cуbh"
+	}
 	cruiser = {
-	"Михелле"
-	"Пейги"
-	"Майре"
-	"Ройсин"
-	"Эстер"
-}
-
-
+		"Michelle" "Peigi" "Mбire" "Rуisнn" "Esther"
+	}
 	frigate = {
-	"Форт Раннох"
-	"Клиона"
-	"Маев"
-	"Маха"
-	"Ан Кобх"
-}
-
-
+		"Fort Rannoch" "Cliona" "Maev" "Macha" "an Cуbh"
+	}
 	monitor = {
-	"Мюрху"
-	"Реабхлойд"
-	"Донал О'Конайлл"
-	"Эммет"
-}
-
-
+		"Muirchъ" "Rйabhlуid" "Dуnal У Conaill" "Emmet"
+	}
 	clipper_transport = {
-	"Парнелл"
-	"Ойлеайн Аранн"
-	"Ан Хлаир"
-	"Мхайг Эо"
-	"Майреад"
-}
-
-
+		"Parnell" "Oileбin Бrann" "an Chlбir" "Mhaigh Eo" "Mairead"
+	}
 	steam_transport = {
-	"Леди Уиклоу"
-	"Робин"
-	"Аделе"
-	"Аонтройм"
-	"Фионн Радхарк"
-}
-
-
+		"Lady Wicklow" "Robin" "Adele" "Aontroim" "Fionn Radharc"
+	}
 	commerce_raider = {
-	"Дун Дрома"
-	"Марино"
-	"Байл Бохт"
-	"Беал Феирсте"
-	"Фронгох"
-}
-
-
+		"Dъn Droma" "Marino" "Baile Bocht" "Bйal Feirste" "Frongoch"
+	}
 }

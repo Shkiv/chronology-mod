@@ -101,138 +101,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Колумбия"
-	"Виктория"
-	"Ванкувер"
-	"Кук"
-	"Дрейк"
-	"Финлаи"
-	"Макензи"
-	"Фрейзер"
-	"Дуглас"
-	"Сеймур"
-	"Куин Шарлотт"
-	"Сент-Джордж"
-	"Каледония"
-	"Вестминстер"
-	"Стюарт"
-}
-
-
+		Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+		Westminster Stuart
+	}
 	ironclad = {
-	"Колумбия"
-	"Виктория"
-	"Ванкувер"
-	"Кук"
-	"Дрейк"
-	"Финлаи"
-	"Макензи"
-	"Фрейзер"
-	"Дуглас"
-	"Сеймур"
-	"Куин Шарлотт"
-	"Сент-Джордж"
-	"Каледония"
-	"Вестминстер"
-	"Стюарт"
-}
+		Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+		Westminster Stuart
 
-
+	}
 	manowar = {
-	"Колумбия"
-	"Виктория"
-	"Ванкувер"
-	"Кук"
-	"Дрейк"
-	"Финлаи"
-	"Макензи"
-	"Фрейзер"
-	"Дуглас"
-	"Сеймур"
-	"Куин Шарлотт"
-	"Сент-Джордж"
-	"Каледония"
-	"Вестминстер"
-	"Стюарт"
-}
-
-
+		Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+		Westminster Stuart
+	}
 	cruiser = {
-	"Колумбия"
-	"Виктория"
-	"Ванкувер"
-	"Кук"
-	"Дрейк"
-	"Финлаи"
-	"Макензи"
-	"Фрейзер"
-	"Дуглас"
-	"Сеймур"
-	"Куин Шарлотт"
-	"Сент-Джордж"
-	"Каледония"
-	"Вестминстер"
-	"Стюарт"
-}
-
-
+		Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+		Westminster Stuart
+	}
 	frigate = {
-	"Колумбия"
-	"Виктория"
-	"Ванкувер"
-	"Кук"
-	"Дрейк"
-	"Финлаи"
-	"Макензи"
-	"Фрейзер"
-	"Дуглас"
-	"Сеймур"
-	"Куин Шарлотт"
-	"Сент-Джордж"
-	"Каледония"
-	"Вестминстер"
-	"Стюарт"
-}
-
-
+		Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+		Westminster Stuart
+	}
 	monitor = {
-	"Колумбия"
-	"Виктория"
-	"Ванкувер"
-	"Кук"
-	"Дрейк"
-	"Финлаи"
-	"Макензи"
-	"Фрейзер"
-	"Дуглас"
-	"Сеймур"
-	"Куин Шарлотт"
-	"Сент-Джордж"
-	"Каледония"
-	"Вестминстер"
-	"Стюарт"
-}
+		Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+		Westminster Stuart
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Колумбия"
-	"Виктория"
-	"Ванкувер"
-	"Кук"
-	"Дрейк"
-	"Финлаи"
-	"Макензи"
-	"Фрейзер"
-	"Дуглас"
-	"Сеймур"
-	"Куин Шарлотт"
-	"Сент-Джордж"
-	"Каледония"
-	"Вестминстер"
-	"Стюарт"
-}
-
-
+		Columbia Victoria Vancouver Cook Drake Finlay Mackenzie Fraser Douglas Seymour "Queen Charlotte" "Saint George" Caledonia
+		Westminster Stuart
+	}
 }

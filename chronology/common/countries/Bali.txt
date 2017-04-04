@@ -101,180 +101,45 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Пендет"
-	"Легонг"
-	"Барис"
-	"Топенг"
-	"Баронг"
-	"Кесак"
-	"Батур"
-	"Катур"
-	"Братан"
-	"Похен"
-	"Лесонг"
-	"Сангянг"
-	"Батукару"
-	"Патас"
-	"Муси"
-	"Месехе"
-	"Агонг"
-	"Серая"
-	"Мербук"
-	"Сангланг"
-	"Келатакан"
-}
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
 
-
+	Sanglang Kelatakan
+	}
 	ironclad = {
-	"Пендет"
-	"Легонг"
-	"Барис"
-	"Топенг"
-	"Баронг"
-	"Кесак"
-	"Батур"
-	"Катур"
-	"Братан"
-	"Похен"
-	"Лесонг"
-	"Сангянг"
-	"Батукару"
-	"Патас"
-	"Муси"
-	"Месехе"
-	"Агонг"
-	"Серая"
-	"Мербук"
-	"Сангланг"
-	"Келатакан"
-}
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
 
+		Sanglang Kelatakan
 
+	}
 	manowar = {
-	"Пендет"
-	"Легонг"
-	"Барис"
-	"Топенг"
-	"Баронг"
-	"Кесак"
-	"Батур"
-	"Катур"
-	"Братан"
-	"Похен"
-	"Лесонг"
-	"Сангянг"
-	"Батукару"
-	"Патас"
-	"Муси"
-	"Месехе"
-	"Агонг"
-	"Серая"
-	"Мербук"
-	"Сангланг"
-	"Келатакан"
-}
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
 
-
+		Sanglang Kelatakan
+	}
 	cruiser = {
-	"Пендет"
-	"Легонг"
-	"Барис"
-	"Топенг"
-	"Баронг"
-	"Кесак"
-	"Батур"
-	"Катур"
-	"Братан"
-	"Похен"
-	"Лесонг"
-	"Сангянг"
-	"Батукару"
-	"Патас"
-	"Муси"
-	"Месехе"
-	"Агонг"
-	"Серая"
-	"Мербук"
-	"Сангланг"
-	"Келатакан"
-}
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
 
-
+		Sanglang Kelatakan
+	}
 	frigate = {
-	"Пендет"
-	"Легонг"
-	"Барис"
-	"Топенг"
-	"Баронг"
-	"Кесак"
-	"Батур"
-	"Катур"
-	"Братан"
-	"Похен"
-	"Лесонг"
-	"Сангянг"
-	"Батукару"
-	"Патас"
-	"Муси"
-	"Месехе"
-	"Агонг"
-	"Серая"
-	"Мербук"
-	"Сангланг"
-	"Келатакан"
-}
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
 
-
+		Sanglang Kelatakan
+	}
 	monitor = {
-	"Пендет"
-	"Легонг"
-	"Барис"
-	"Топенг"
-	"Баронг"
-	"Кесак"
-	"Батур"
-	"Катур"
-	"Братан"
-	"Похен"
-	"Лесонг"
-	"Сангянг"
-	"Батукару"
-	"Патас"
-	"Муси"
-	"Месехе"
-	"Агонг"
-	"Серая"
-	"Мербук"
-	"Сангланг"
-	"Келатакан"
-}
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
 
+		Sanglang Kelatakan
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Пендет"
-	"Легонг"
-	"Барис"
-	"Топенг"
-	"Баронг"
-	"Кесак"
-	"Батур"
-	"Катур"
-	"Братан"
-	"Похен"
-	"Лесонг"
-	"Сангянг"
-	"Батукару"
-	"Патас"
-	"Муси"
-	"Месехе"
-	"Агонг"
-	"Серая"
-	"Мербук"
-	"Сангланг"
-	"Келатакан"
-}
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
 
-
+		Sanglang Kelatakan
+	}
 }

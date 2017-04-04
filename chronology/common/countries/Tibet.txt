@@ -101,138 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Баркам"
-	"Дарцендо"
-	"Гянце"
-	"Гарце"
-	"Лхаса"
-	"Лхоце"
-	"Макалу"
-	"Нагку"
-	"Нийнгчи"
-	"Недонг"
-	"Пельбар"
-	"Камдо"
-	"Шигаце"
-	"Сакя"
-	"Тинггри"
-}
-
-
+		Barkam Dartsendo Gyantse Gartse Lhasa Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+	}
 	ironclad = {
-	"Баркам"
-	"Дарцендо"
-	"Гянце"
-	"Гарце"
-	"Лхаса"
-	"Лхоце"
-	"Макалу"
-	"Нагку"
-	"Нийнгчи"
-	"Недонг"
-	"Пельбар"
-	"Камдо"
-	"Шигаце"
-	"Сакя"
-	"Тинггри"
-}
-
-
+		Barkam Dartsendo Gyantse Gartse Lhasa Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+	}
 	manowar = {
-	"Баркам"
-	"Дарцендо"
-	"Гянце"
-	"Гарце"
-	"Лхаса"
-	"Лхоце"
-	"Макалу"
-	"Нагку"
-	"Нийнгчи"
-	"Недонг"
-	"Пельбар"
-	"Камдо"
-	"Шигаце"
-	"Сакя"
-	"Тинггри"
-}
-
-
+		Barkam Dartsendo Gyantse Gartse Lhasa Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+	}
 	cruiser = {
-	"Баркам"
-	"Дарцендо"
-	"Гянце"
-	"Гарце"
-	"Лхаса"
-	"Лхоце"
-	"Макалу"
-	"Нагку"
-	"Нийнгчи"
-	"Недонг"
-	"Пельбар"
-	"Камдо"
-	"Шигаце"
-	"Сакя"
-	"Тинггри"
-}
-
-
+		Barkam Dartsendo Gyantse Gartse Lhasa Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+	}
 	frigate = {
-	"Баркам"
-	"Дарцендо"
-	"Гянце"
-	"Гарце"
-	"Лхаса"
-	"Лхоце"
-	"Макалу"
-	"Нагку"
-	"Нийнгчи"
-	"Недонг"
-	"Пельбар"
-	"Камдо"
-	"Шигаце"
-	"Сакя"
-	"Тинггри"
-}
-
-
+		Barkam Dartsendo Gyantse Gartse Lhasa Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+	}
 	monitor = {
-	"Баркам"
-	"Дарцендо"
-	"Гянце"
-	"Гарце"
-	"Лхаса"
-	"Лхоце"
-	"Макалу"
-	"Нагку"
-	"Нийнгчи"
-	"Недонг"
-	"Пельбар"
-	"Камдо"
-	"Шигаце"
-	"Сакя"
-	"Тинггри"
-}
+		Barkam Dartsendo Gyantse Gartse Lhasa Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Баркам"
-	"Дарцендо"
-	"Гянце"
-	"Гарце"
-	"Лхаса"
-	"Лхоце"
-	"Макалу"
-	"Нагку"
-	"Нийнгчи"
-	"Недонг"
-	"Пельбар"
-	"Камдо"
-	"Шигаце"
-	"Сакя"
-	"Тинггри"
-}
-
-
+		Barkam Dartsendo Gyantse Gartse Lhasa Lhotse Makalu  Nagqu Nyingchi Nedong Pelbar Qamdo Shigatse Sakya Tinggri
+	}
 }

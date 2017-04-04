@@ -101,138 +101,37 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Тхарравадди Мин"
-	"Маха Бандула"
-	"Канаунг Минтха"
-	"Маха Не Мио"
-	"Алаунгпая"
-	"Мандалай"
-	"Рангун"
-	"Швебо"
-	"Салвин"
-	"Аракан"
-	"Тавой"
-	"Мергуи"
-	"Танинтхари"
-	"Йе"
-	"Ирравади"
-}
-
-
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
 	ironclad = {
-	"Тхарравадди Мин"
-	"Маха Бандула"
-	"Канаунг Минтха"
-	"Маха Не Мио"
-	"Алаунгпая"
-	"Мандалай"
-	"Рангун"
-	"Швебо"
-	"Салвин"
-	"Аракан"
-	"Тавой"
-	"Мергуи"
-	"Танинтхари"
-	"Йе"
-	"Ирравади"
-}
-
-
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
 	manowar = {
-	"Тхарравадди Мин"
-	"Маха Бандула"
-	"Канаунг Минтха"
-	"Маха Не Мио"
-	"Алаунгпая"
-	"Мандалай"
-	"Рангун"
-	"Швебо"
-	"Салвин"
-	"Аракан"
-	"Тавой"
-	"Мергуи"
-	"Танинтхари"
-	"Йе"
-	"Ирравади"
-}
-
-
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
 	cruiser = {
-	"Тхарравадди Мин"
-	"Маха Бандула"
-	"Канаунг Минтха"
-	"Маха Не Мио"
-	"Алаунгпая"
-	"Мандалай"
-	"Рангун"
-	"Швебо"
-	"Салвин"
-	"Аракан"
-	"Тавой"
-	"Мергуи"
-	"Танинтхари"
-	"Йе"
-	"Ирравади"
-}
-
-
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
 	frigate = {
-	"Тхарравадди Мин"
-	"Маха Бандула"
-	"Канаунг Минтха"
-	"Маха Не Мио"
-	"Алаунгпая"
-	"Мандалай"
-	"Рангун"
-	"Швебо"
-	"Салвин"
-	"Аракан"
-	"Тавой"
-	"Мергуи"
-	"Танинтхари"
-	"Йе"
-	"Ирравади"
-}
-
-
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
 	monitor = {
-	"Тхарравадди Мин"
-	"Маха Бандула"
-	"Канаунг Минтха"
-	"Маха Не Мио"
-	"Алаунгпая"
-	"Мандалай"
-	"Рангун"
-	"Швебо"
-	"Салвин"
-	"Аракан"
-	"Тавой"
-	"Мергуи"
-	"Танинтхари"
-	"Йе"
-	"Ирравади"
-}
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Тхарравадди Мин"
-	"Маха Бандула"
-	"Канаунг Минтха"
-	"Маха Не Мио"
-	"Алаунгпая"
-	"Мандалай"
-	"Рангун"
-	"Швебо"
-	"Салвин"
-	"Аракан"
-	"Тавой"
-	"Мергуи"
-	"Танинтхари"
-	"Йе"
-	"Ирравади"
-}
-
-
+		"Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+		Tavoy Mergui Tanintharyi Ye Irrawady
+	}
 }

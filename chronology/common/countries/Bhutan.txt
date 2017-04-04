@@ -101,89 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Бутан"
-	"Радж Сендрава"
-	"Аруначал"
-	"Прадеш"
-	"Бомдила"
-	"Итанагар"
-	"Друк"
-	"Тхимпху"
-}
+		"Bhutan" "Raj Sendrava" "Arunachal" "Pradesh" "Bomdila" "Itanagar" "Druk" "Thimphu"
 
-
+	}
 	ironclad = {
-	"Бутан"
-	"Радж Сендрава"
-	"Аруначал"
-	"Прадеш"
-	"Бомдила"
-	"Итанагар"
-	"Друк"
-	"Тхимпху"
-}
+		"Bhutan" "Raj Sendrava" "Arunachal" "Pradesh" "Bomdila" "Itanagar" "Druk" "Thimphu"
 
-
+	}
 	manowar = {
-	"Бутан"
-	"Радж Сендрава"
-	"Аруначал"
-	"Прадеш"
-	"Бомдила"
-	"Итанагар"
-	"Друк"
-	"Тхимпху"
-}
-
-
+		"Bhutan" "Raj Sendrava" "Arunachal" "Pradesh" "Bomdila" "Itanagar" "Druk" "Thimphu"
+	}
 	cruiser = {
-	"Бутан"
-	"Радж Сендрава"
-	"Аруначал"
-	"Прадеш"
-	"Бомдила"
-	"Итанагар"
-	"Друк"
-	"Тхимпху"
-}
-
-
+		"Bhutan" "Raj Sendrava" "Arunachal" "Pradesh" "Bomdila" "Itanagar" "Druk" "Thimphu"
+	}
 	frigate = {
-	"Бутан"
-	"Радж Сендрава"
-	"Аруначал"
-	"Прадеш"
-	"Бомдила"
-	"Итанагар"
-	"Друк"
-	"Тхимпху"
-}
-
-
+		"Bhutan" "Raj Sendrava" "Arunachal" "Pradesh" "Bomdila" "Itanagar" "Druk" "Thimphu"
+	}
 	monitor = {
-	"Бутан"
-	"Радж Сендрава"
-	"Аруначал"
-	"Прадеш"
-	"Бомдила"
-	"Итанагар"
-	"Друк"
-	"Тхимпху"
-}
+		"Bhutan" "Raj Sendrava" "Arunachal" "Pradesh" "Bomdila" "Itanagar" "Druk" "Thimphu"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Бутан"
-	"Радж Сендрава"
-	"Аруначал"
-	"Прадеш"
-	"Бомдила"
-	"Итанагар"
-	"Друк"
-	"Тхимпху"
-}
-
-
+		"Bhutan" "Raj Sendrava" "Arunachal" "Pradesh" "Bomdila" "Itanagar" "Druk" "Thimphu"
+	}
 }

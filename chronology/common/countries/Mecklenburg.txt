@@ -185,145 +185,37 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Мекленбург"
-	"Гроссхерцог Фридрих"
-	"Граф Мольтке"
-	"Валленштайн"
-	"Никлот"
-	"Адольф Фридрих"
-	"Александра"
-	"Варнемюнде"
-	"Бютцов"
-	"Штрелиц"
-	"Висмар"
-	"Росток"
-	"Шверин"
-	"Гюстров"
-	"Ханегау"
-	"Пархим"
-}
-
-
+		Mecklenburg "GroЯherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemьnde Bьtzow Strelitz Wismar Rostock
+		Schwerin Gьstrow Hagenow Parchim
+	}
 	ironclad = {
-	"Мекленбург"
-	"Гроссхерцог Фридрих"
-	"Граф Мольтке"
-	"Валленштайн"
-	"Никлот"
-	"Адольф Фридрих"
-	"Александра"
-	"Варнемюнде"
-	"Бютцов"
-	"Штрелиц"
-	"Висмар"
-	"Росток"
-	"Шверин"
-	"Гюстров"
-	"Ханегау"
-	"Пархим"
-}
-
-
+		Mecklenburg "GroЯherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemьnde Bьtzow Strelitz Wismar Rostock
+		Schwerin Gьstrow Hagenow Parchim
+	}
 	manowar = {
-	"Мекленбург"
-	"Гроссхерцог Фридрих"
-	"Граф Мольтке"
-	"Валленштайн"
-	"Никлот"
-	"Адольф Фридрих"
-	"Александра"
-	"Варнемюнде"
-	"Бютцов"
-	"Штрелиц"
-	"Висмар"
-	"Росток"
-	"Шверин"
-	"Гюстров"
-	"Ханегау"
-	"Пархим"
-}
-
-
+		Mecklenburg "GroЯherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemьnde Bьtzow Strelitz Wismar Rostock
+		Schwerin Gьstrow Hagenow Parchim
+	}
 	cruiser = {
-	"Мекленбург"
-	"Гроссхерцог Фридрих"
-	"Граф Мольтке"
-	"Валленштайн"
-	"Никлот"
-	"Адольф Фридрих"
-	"Александра"
-	"Варнемюнде"
-	"Бютцов"
-	"Штрелиц"
-	"Висмар"
-	"Росток"
-	"Шверин"
-	"Гюстров"
-	"Ханегау"
-	"Пархим"
-}
-
-
+		Mecklenburg "GroЯherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemьnde Bьtzow Strelitz Wismar Rostock
+		Schwerin Gьstrow Hagenow Parchim
+	}
 	frigate = {
-	"Мекленбург"
-	"Гроссхерцог Фридрих"
-	"Граф Мольтке"
-	"Валленштайн"
-	"Никлот"
-	"Адольф Фридрих"
-	"Александра"
-	"Варнемюнде"
-	"Бютцов"
-	"Штрелиц"
-	"Висмар"
-	"Росток"
-	"Шверин"
-	"Гюстров"
-	"Ханегау"
-	"Пархим"
-}
-
-
+		Mecklenburg "GroЯherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemьnde Bьtzow Strelitz Wismar Rostock
+		Schwerin Gьstrow Hagenow Parchim
+	}
 	monitor = {
-	"Мекленбург"
-	"Гроссхерцог Фридрих"
-	"Граф Мольтке"
-	"Валленштайн"
-	"Никлот"
-	"Адольф Фридрих"
-	"Александра"
-	"Варнемюнде"
-	"Бютцов"
-	"Штрелиц"
-	"Висмар"
-	"Росток"
-	"Шверин"
-	"Гюстров"
-	"Ханегау"
-	"Пархим"
-}
+		Mecklenburg "GroЯherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemьnde Bьtzow Strelitz Wismar Rostock
+		Schwerin Gьstrow Hagenow Parchim
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Мекленбург"
-	"Гроссхерцог Фридрих"
-	"Граф Мольтке"
-	"Валленштайн"
-	"Никлот"
-	"Адольф Фридрих"
-	"Александра"
-	"Варнемюнде"
-	"Бютцов"
-	"Штрелиц"
-	"Висмар"
-	"Росток"
-	"Шверин"
-	"Гюстров"
-	"Ханегау"
-	"Пархим"
-}
-
-
+		Mecklenburg "GroЯherzog Friedrich" "Graf Moltke" Wallenstein Niklot "Adolf Friedrich" Alexandra Warnemьnde Bьtzow Strelitz Wismar Rostock
+		Schwerin Gьstrow Hagenow Parchim
+	}
 }

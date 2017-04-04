@@ -101,149 +101,33 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Аль-Халифа"
-	"Аль Бин Али"
-	"Аль-Тани"
-	"Аль-Нахьян"
-	"Аль-Мактум"
-	"Аль-Кавасим"
-}
-
-
+		"Al Khalifa" "Al Bin Ali" "Al Thani" "Al Nahyan" "Al Maktum" "Al Qawasim"
+		}
 	ironclad = {
-	"Ала аль-Дин"
-	"Хусам аль-Дин"
-	"Изз аль-дин"
-	"Джалал аль-Дин"
-	"Хайр аль-Дин"
-	"Маджид аль-Дин"
-	"Насир аль-Дин"
-	"Нур аль-Дин"
-	"Сафи аль-Дин"
-	"Саладдин"
-	"Сирадж аль-Дин"
-}
-
-
+		"Ala al-Din" "Husam al-Din" "Izz al-Din" "Jalal al-Din" "Khayr al-Din" "Majid al-Din" "Nasir al-Din" "Nur al-Din"
+		"Safi al-Din" "Salah al-Din" "Siraj al-Din"
+	}
 	manowar = {
-	"Зубара"
-	"Мухаррак"
-	"Манама"
-	"Давха"
-	"Абу Даби"
-	"Дубайи"
-	"Аль-Шарика"
-	"Аджман"
-}
-
-
+		Zubara Muharraq Manama Dawha "Abu Dhabi" Dubayy Al-Shariqa Ajman
+	}
 	cruiser = {
-	"Абд аль-Азиз"
-	"Абд аль-Хади"
-	"Абд аль-Хакк"
-	"Абд аль-Джалиль"
-	"Абд аль-Латиф"
-	"Абд аль-Хафиз"
-	"Абд аль-Хаким"
-	"Абд аль-Насир"
-	"Абд аль-Куддус"
-	"Абд аль-Рахим"
-	"Абд аль-Малик"
-	"Абд аль-Рашид"
-	"Абд аль-Рахман"
-	"Абд аль-Сами"
-	"Абд аль-Вадуд"
-	"Абд аль-Ваххаб"
-}
-
-
+		"Abd al-Aziz" "Abd al-Hadi" "Abd al-Haqq" "Abd al-Jalil" "Abd al-Latif"
+		"Abd al-Hafiz" "Abd al-Hakim" "Abd al-Nasir" "Abd al-Quddus" "Abd al-Rahim" "Abd al-Malik"
+		"Abd al-Rashid" "Abd al-Rahman" "Abd al-Sami" "Abd al-Wadud" "Abd al-Wahhab"
+	}
 	frigate = {
-	"Акрам"
-	"Атиф"
-	"Айман"
-	"Бахир"
-	"Фадиль"
-	"Фатх"
-	"Фирас"
-	"Фавваз"
-	"Галиб"
-	"Хаким"
-	"Хумам"
-	"Джаббар"
-	"Джавхар"
-	"Камаль"
-	"Халид"
-	"Масуд"
-	"Мамун"
-	"Маджид"
-	"Муфид"
-	"Мухтар"
-	"Мунтасир"
-	"Кудамат"
-	"Рашад"
-	"Саад"
-	"Тахир"
-	"Сабит"
-	"Вафик"
-	"Юсуф"
-	"Захир"
-	"Зафир"
-}
-
-
+		Akram Atif Ayman Bahir Fadil Fath Firas Fawwaz Ghalib Hakim Humam Jabbar Jawhar Kamal Khalid
+		Masud Mamun Majid Mufid Mukhtar Muntasir Qudamat Rashad Sa'ad Tahir Thabit Wafiq Yusuf Zahir Zafir
+	}
 	monitor = {
-	"Бадр аль-Дин"
-	"Дия аль-Дин"
-	"Баха аль-Дин"
-	"Има аль-Дин"
-	"Джамаль аль-Дин"
-	"Лутф аль-Дин"
-	"Наджм аль-Дин"
-	"Сайф аль-Дин"
-}
-
-
-	
-	
+		"Badr al-Din" "Diya al-Din" "Baha al-Din" "Imad al-Din" "Jamal al-Din" "Lutf al-Din" "Najm al-Din" "Sayf al-Din"
+		}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Алиф"
-	"Амин"
-	"Анвар"
-	"Айхам"
-	"Бахир"
-	"Дакван"
-	"Фалах"
-	"Фарадж"
-	"Фавзан"
-	"Ганим"
-	"Гассан"
-	"Ханбаль"
-	"Харис"
-	"Хашим"
-	"Икбаль"
-	"Джаль"
-	"Джунайд"
-	"Кадар"
-	"Казим"
-	"Халис"
-	"Хулус"
-	"Луай"
-	"Машхур"
-	"Муфлих"
-	"Мульхам"
-	"Мунахид"
-	"Набхан"
-	"Навфаль"
-	"Назим"
-	"Нуман"
-	"Рамиз"
-	"Шараф"
-	"Сиддик"
-	"Тавфик"
-	"Ясир"
-	"Зайн"
-	"Зубайр"
-}
-
-
+		Alif Amin Anwar Ayham Bahir Dhakwan  Falah Faraj Fawzan Ghanim Ghassan Hanbal Haris Hashim Iqbal Jal Junayd
+		Kadar Kazim Khalis Khulus Luay Mashhur Muflih Mulham Munahid Nabhan Nawfal Nazim Numan Ramiz Sharaf Siddiq Tawfiq Yasir Zayn Zubayr
+	}
 }

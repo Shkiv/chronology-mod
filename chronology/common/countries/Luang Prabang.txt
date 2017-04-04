@@ -101,110 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Аюттайя"
-	"Менграй"
-	"Муанг Суа"
-	"Муанг Тхен"
-	"Хамсавати"
-	"Кхун Ло"
-	"Кхун Бором"
-	"Кхун Сунг"
-	"Шан"
-	"Сианг Кхванг"
-	"Сипсонг Пан На"
-}
-
-
+		Ayutthaya Mengrai "Muang Sua" "Muang Then" Hamsavati "Khun Lo" "Khun Borom" "Khun Sung" Shan "Siang Khwang" "Sipsong Pan Na"
+	}
 	ironclad = {
-	"Аюттайя"
-	"Менграй"
-	"Муанг Суа"
-	"Муанг Тхен"
-	"Хамсавати"
-	"Кхун Ло"
-	"Кхун Бором"
-	"Кхун Сунг"
-	"Шан"
-	"Сианг Кхванг"
-	"Сипсонг Пан На"
-}
-
-
+		Ayutthaya Mengrai "Muang Sua" "Muang Then" Hamsavati "Khun Lo" "Khun Borom" "Khun Sung" Shan "Siang Khwang" "Sipsong Pan Na"
+	}
 	manowar = {
-	"Аюттайя"
-	"Менграй"
-	"Муанг Суа"
-	"Муанг Тхен"
-	"Хамсавати"
-	"Кхун Ло"
-	"Кхун Бором"
-	"Кхун Сунг"
-	"Шан"
-	"Сианг Кхванг"
-	"Сипсонг Пан На"
-}
-
-
+		Ayutthaya Mengrai "Muang Sua" "Muang Then" Hamsavati "Khun Lo" "Khun Borom" "Khun Sung" Shan "Siang Khwang" "Sipsong Pan Na"
+	}
 	cruiser = {
-	"Аюттайя"
-	"Менграй"
-	"Муанг Суа"
-	"Муанг Тхен"
-	"Хамсавати"
-	"Кхун Ло"
-	"Кхун Бором"
-	"Кхун Сунг"
-	"Шан"
-	"Сианг Кхванг"
-	"Сипсонг Пан На"
-}
-
-
+		Ayutthaya Mengrai "Muang Sua" "Muang Then" Hamsavati "Khun Lo" "Khun Borom" "Khun Sung" Shan "Siang Khwang" "Sipsong Pan Na"
+	}
 	frigate = {
-	"Аюттайя"
-	"Менграй"
-	"Муанг Суа"
-	"Муанг Тхен"
-	"Хамсавати"
-	"Кхун Ло"
-	"Кхун Бором"
-	"Кхун Сунг"
-	"Шан"
-	"Сианг Кхванг"
-	"Сипсонг Пан На"
-}
-
-
+		Ayutthaya Mengrai "Muang Sua" "Muang Then" Hamsavati "Khun Lo" "Khun Borom" "Khun Sung" Shan "Siang Khwang" "Sipsong Pan Na"
+	}
 	monitor = {
-	"Аюттайя"
-	"Менграй"
-	"Муанг Суа"
-	"Муанг Тхен"
-	"Хамсавати"
-	"Кхун Ло"
-	"Кхун Бором"
-	"Кхун Сунг"
-	"Шан"
-	"Сианг Кхванг"
-	"Сипсонг Пан На"
-}
+		Ayutthaya Mengrai "Muang Sua" "Muang Then" Hamsavati "Khun Lo" "Khun Borom" "Khun Sung" Shan "Siang Khwang" "Sipsong Pan Na"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Аюттайя"
-	"Менграй"
-	"Муанг Суа"
-	"Муанг Тхен"
-	"Хамсавати"
-	"Кхун Ло"
-	"Кхун Бором"
-	"Кхун Сунг"
-	"Шан"
-	"Сианг Кхванг"
-	"Сипсонг Пан На"
-}
-
-
+		Ayutthaya Mengrai "Muang Sua" "Muang Then" Hamsavati "Khun Lo" "Khun Borom" "Khun Sung" Shan "Siang Khwang" "Sipsong Pan Na"
+	}
 }

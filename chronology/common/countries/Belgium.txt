@@ -131,113 +131,36 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Леопольд I"
-	"Ла Бельгике"
-	"Де Вламсе леев"
-	"Амбиорикс"
-	"Годфрид Бульонский"
-	"Гульденспоренслаг"
-	"Гвейде ван Дампьер"
-	"Якоб ван Артвельде"
-}
-
-
+		"Leopold I" "La Belgique" "De Vlaamse Leeuw" Ambiorix "Godfried van Boullion" "Guldensporenslag" "Gwijde van Dampierre"
+		"Jacob van Artevelde"
+	}
 	ironclad = {
-	"Грааф ван Влаандерен"
-	"Хертог фон Брабант"
-	"Комте де Эно"
-	"Комте де Намюр"
-	"Принс де Льеж"
-	"Дюк д'Урсель"
-}
-
-
+		"Graaf van Vlaanderen" "Hertog van Brabant" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Duc d'Ursel"
+	}
 	manowar = {
-	"Св. Мария"
-	"Св. Йорис"
-	"Св. Франциск"
-	"Св. Якоб"
-	"Св. Петр"
-	"Св. Бонифаций"
-}
-
-
+	 	"St. Marie" "St. Joris" "St. Franciscus" "St. Jacobus" "St. Petrus" "St. Bonifatius"
+	}
 	cruiser = {
-	"Франсиско Пельсаерт"
-	"Луи Бусо"
-	"Оливье Брюнель"
-	"Симон де Корде"
-	"Альберт Дорвиль"
-	"Хессе де Форест"
-	"Луи Хеннепин"
-	"Мельхиор ван ден Керкхов"
-	"Яком Маху"
-}
-
-
+		"Franзois Pelsaert" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessй de Forest" "Louis Hennepin"
+		"Melchior van den Kerckhove" "Jacob Mahu"
+	}
 	frigate = {
-	"Вьелинген"
-	"Меркатор"
-	"Виллем ван Руброек"
-	"Симон ван Салинген"
-	"Йорис ван Спилберген"
-	"Виллем Усселинкс"
-}
-
-
+		Wielingen Mercator "Willem van Rubroeck" "Simon van Salingen" "Joris van Spilbergen" "Willem Usselincx"
+	}
 	monitor = {
-	"Бельгика"
-	"Брабантия"
-	"Фландрие"
-	"Хеноговия"
-	"Лимбургия"
-	"Люксембургум"
-	"Валлония"
-}
-
-
+		Belgica Brabantia Flandriae Henogovia Limburgia Luxemburgum  Vallonia
+	}
 	clipper_transport = {
-	"Антверпен"
-	"Арлон"
-	"Брюгге"
-	"Брюссель"
-	"Шарлеруа"
-	"Гент"
-	"Хасселт"
-	"Левен"
-	"Льеж"
-	"Мехелен"
-	"Намюр"
-	"Ньивпорт"
-	"Остенде"
-	"Слюйс"
-	"Зебрюгге"
-}
+		Antwerpen Arlon Brugge Brussel Charleroi Gent Hasselt Leuven Liege Mechelen Namur Nieuwpoort Oostende Sluis Zeebrugge
 
-
+	}
 	steam_transport = {
-	"Дендер"
-	"Дейле"
-	"Изер"
-	"Лейе"
-	"Маас"
-	"Аурт"
-	"Самбре"
-	"Шельда"
-	"Семуа"
-}
+	  	Dender Dijle IJzer Leie Maas Ourthe Sambre Schelde Semois
 
-
+	}
 	commerce_raider = {
-	"Ян Баерт"
-	"Михель Якобсен"
-	"Якоб ван Брюгге"
-	"Виллем ван дер Хеген"
-	"Якоб ле Майр"
-	"Пьер ван Альштайн"
-	"Себальд де Веерт"
-	"Корнелий Веус"
-}
+		"Jan Baert" "Michiel Jacobsen" "Jacob van Brugge" "Willem van der Haegen" "Jacob le Maire"
+		"Pierre van Alstein" "Sebald de Weert" "Cornelis Weus"
 
-
+	}
 }

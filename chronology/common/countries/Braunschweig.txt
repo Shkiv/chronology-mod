@@ -185,103 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Брауншвейг"
-	"Вольфенбюттель"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Люнебург"
-	"Фридрих Вильгельм"
-	"Хельмштадт"
-	"Гандершайм"
-	"Хольцминден"
-	"Бланкенбург"
-}
-
-
+		Braunschweig Wolfenbьttel Welf "Heinrich der Lцwe" Lьneburg "Friedrich Wilhelm" Helmstedt Gandersheim Holzminden Blankenburg
+	}
 	ironclad = {
-	"Брауншвейг"
-	"Вольфенбюттель"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Люнебург"
-	"Фридрих Вильгельм"
-	"Хельмштадт"
-	"Гандершайм"
-	"Хольцминден"
-	"Бланкенбург"
-}
-
-
+		Braunschweig Wolfenbьttel Welf "Heinrich der Lцwe" Lьneburg "Friedrich Wilhelm" Helmstedt Gandersheim Holzminden Blankenburg
+	}
 	manowar = {
-	"Брауншвейг"
-	"Вольфенбюттель"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Люнебург"
-	"Фридрих Вильгельм"
-	"Хельмштадт"
-	"Гандершайм"
-	"Хольцминден"
-	"Бланкенбург"
-}
-
-
+		Braunschweig Wolfenbьttel Welf "Heinrich der Lцwe" Lьneburg "Friedrich Wilhelm" Helmstedt Gandersheim Holzminden Blankenburg
+	}
 	cruiser = {
-	"Брауншвейг"
-	"Вольфенбюттель"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Люнебург"
-	"Фридрих Вильгельм"
-	"Хельмштадт"
-	"Гандершайм"
-	"Хольцминден"
-	"Бланкенбург"
-}
-
-
+		Braunschweig Wolfenbьttel Welf "Heinrich der Lцwe" Lьneburg "Friedrich Wilhelm" Helmstedt Gandersheim Holzminden Blankenburg
+	}
 	frigate = {
-	"Брауншвейг"
-	"Вольфенбюттель"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Люнебург"
-	"Фридрих Вильгельм"
-	"Хельмштадт"
-	"Гандершайм"
-	"Хольцминден"
-	"Бланкенбург"
-}
-
-
+		Braunschweig Wolfenbьttel Welf "Heinrich der Lцwe" Lьneburg "Friedrich Wilhelm" Helmstedt Gandersheim Holzminden Blankenburg
+	}
 	monitor = {
-	"Брауншвейг"
-	"Вольфенбюттель"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Люнебург"
-	"Фридрих Вильгельм"
-	"Хельмштадт"
-	"Гандершайм"
-	"Хольцминден"
-	"Бланкенбург"
-}
+		Braunschweig Wolfenbьttel Welf "Heinrich der Lцwe" Lьneburg "Friedrich Wilhelm" Helmstedt Gandersheim Holzminden Blankenburg
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Брауншвейг"
-	"Вольфенбюттель"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Люнебург"
-	"Фридрих Вильгельм"
-	"Хельмштадт"
-	"Гандершайм"
-	"Хольцминден"
-	"Бланкенбург"
-}
-
-
+		Braunschweig Wolfenbьttel Welf "Heinrich der Lцwe" Lьneburg "Friedrich Wilhelm" Helmstedt Gandersheim Holzminden Blankenburg
+	}
 }

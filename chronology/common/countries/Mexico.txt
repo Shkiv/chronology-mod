@@ -171,139 +171,40 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Индепенденсия"
-	"Либертад"
-	"Анауак"
-	"Демократа"
-	"Порфирио"
-	"Диас"
-	"Тампико"
-	"Веракрус"
-	"Николас Браво"
-	"Бланке"
-	"Агуаскальентес"
-	"Кампече"
-	"Коауила"
-	"Колима"
-	"Чиапас"
-	"Чиуауа"
-	"Дюранго"
-	"Герреро"
-	"Идальго"
-	"Нуэво Леон"
-	"Оаксака"
-	"Сан Луис Потоси"
-	"Сонора"
-	"Табаско"
-	"Тласкала"
-	"Сакатекас"
-}
-
-
+			Independencia Libertad Anahuac Demуcrata "Porfirio" Dнaz Tampico
+			"Vera Cruz" "Nicolбs Bravo" Blanquet Aguascalientes Campeche Coahuila
+			Colima Chiapas Chihuahua Durango Guerrero Hidalgo "Nuevo Leуn" Oaxaca
+			"San Luis Potosн" Sonora Tabasco Tlaxcala Zacatecas
+	}
 	ironclad = {
-	"Гуадалупе"
-	"Монтесума"
-	"Антонио Лопес де Санта-Анна"
-	"Тампико"
-	"Чолула"
-	"Теночтитлан"
-	"Тласкала"
-	"Тлателолко"
-	"Глориосо"
-	"Виктория"
-	"Чичимека"
-	"Уэхоцинго"
-	"Демократа"
-}
-
-
+			Guadalupe Moctezuma "Antonio Lуpez de Santa Anna" Tampico Cholula
+			Tenochtitlan Tlaxcala Tlatelolco Glorioso Victoria Chichimeca
+			Huexotzingo Demуcrata
+	}
 	manowar = {
-	"Мексико"
-	"Моралес"
-	"Юкатан"
-	"Висенте Герреро"
-	"Сарагоса"
-	"Нуэво Леон"
-	"Гуадалупе Виктория"
-	"Мигель Идальго"
-	"Хосе Мария Морелос"
-	"Агустин де Итурбиде"
-	"Хикотенкатль"
-	"Марьяно Матаморос"
-	"Чапала"
-	"Чалько"
-	"Кампечана"
-	"Орисаба"
-	"Текскоко"
-	"Папалоапан"
-}
-
-
+			Mйxico Morales Yucatбn "Vicente Guerrero" Zaragoza "Nuevo Leуn" "Guadalupe Victoria"
+			"Miguel Hidalgo" "Josй Marнa Morelos" "Agustнn de Itъrbide" Xicotйncatl
+			"Mariano Matamoros" Chapala Chalco Campechana Orizaba Texcoco Papaloapan
+	}
 	cruiser = {
-	"Сарагоса"
-	"Альтамира"
-	"Сан-Фернандо"
-	"Рио Браво"
-	"Лос Рамонес"
-	"Лома Альта"
-	"Эль Лобо"
-	"Кандела"
-	"Вильядама"
-	"Санто-Доминго"
-	"Тукспан"
-}
-
-
+			Zaragoza Altamira "San Fernando" "Rнo Bravo" "Los Ramones" "Loma Alta"
+			"El Lobo" Candela Villadama "Santo Domingo" Tuxpan
+	}
 	frigate = {
-	"Калифорния"
-	"Чиуауа"
-	"Дюранго"
-	"Альдабаран"
-	"Веракрус"
-	"Тласкала"
-	"Халиско"
-	"Камотлан"
-	"Эль Тордо"
-	"Репульсион"
-	"Валор"
-	"Игуала"
-	"Анауак"
-}
-
-
+			California Chihuahua Durango Aldabaran Veracrъz Tlaxcala Jalisco Camotlбn
+			"El Tordo" Repulsiуn Valor Iguala Anбhuac
+	}
 	monitor = {
-	"Навохоа"
-	"Ла-Пас"
-	"Колима"
-	"Мадера"
-	"Коатсакоалькос"
-	"Четумаль"
-	"Кампече"
-	"Салина Крус"
-	"Наволато"
-	"Санта-Росалия"
-	"Конститусьон"
-	"Мексикали"
-	"Демократа"
-	"Николас Браво"
-}
+			Navojoa "La Paz" Colima Madera Coatzacoalcos Chetumal Campeche "Salina Cruz"
+			Navolato "Santa Rosalia" Constituciуn Mexicali Democrбta "Nicolбs Bravo"
+	}
+	clipper_transport = {
 
-
-	
-	
+	}
+	steam_transport = {
+			}
 	commerce_raider = {
-	"Ольмек"
-	"Теотиуакан"
-	"Науа"
-	"Аскапоцалько"
-	"Усумасинта"
-	"Корралеро"
-	"Рио-Гранде"
-	"Тильтепек"
-	"Пастория"
-	"Аютла"
-	"Теуантепек"
-}
-
-
+			Olmec Teotihaucan Nahua Azcapotzalco Usumacinta Corralero "Rio Grande"
+			Tiltepec Pastoria Ayutla Tehuantepec
+	}
 }

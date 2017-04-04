@@ -101,110 +101,43 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Бахчисарай"
-	"Сюрюк Сув"
-	"Чуфут Кале"
-	"Хансарай"
-	"Хаси Гирей"
-	"Мели Гирей"
-	"Зинджилри Медресе"
-	"Кирим"
-	"Кирк Йер"
-	"Куфут Кале"
-	"Чингиз Хан"
-}
-
-
+		Bakhchisaray "Зьrьk Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale"
+		"Chingiz Khan"
+	}
 	ironclad = {
-	"Бахчисарай"
-	"Сюрюк Сув"
-	"Чуфут Кале"
-	"Хансарай"
-	"Хаси Гирей"
-	"Мели Гирей"
-	"Зинджилри Медресе"
-	"Кирим"
-	"Кирк Йер"
-	"Куфут Кале"
-	"Чингиз Хан"
-}
+		Bakhchisaray "Зьrьk Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale"
+		"Chingiz Khan"
 
-
+	}
 	manowar = {
-	"Бахчисарай"
-	"Сюрюк Сув"
-	"Чуфут Кале"
-	"Хансарай"
-	"Хаси Гирей"
-	"Мели Гирей"
-	"Зинджилри Медресе"
-	"Кирим"
-	"Кирк Йер"
-	"Куфут Кале"
-	"Чингиз Хан"
-}
+		Bakhchisaray "Зьrьk Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale"
+		"Chingiz Khan"
 
-
+	}
 	cruiser = {
-	"Бахчисарай"
-	"Сюрюк Сув"
-	"Чуфут Кале"
-	"Хансарай"
-	"Хаси Гирей"
-	"Мели Гирей"
-	"Зинджилри Медресе"
-	"Кирим"
-	"Кирк Йер"
-	"Куфут Кале"
-	"Чингиз Хан"
-}
+		Bakhchisaray "Зьrьk Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale"
+		"Chingiz Khan"
 
-
+	}
 	frigate = {
-	"Бахчисарай"
-	"Сюрюк Сув"
-	"Чуфут Кале"
-	"Хансарай"
-	"Хаси Гирей"
-	"Мели Гирей"
-	"Зинджилри Медресе"
-	"Кирим"
-	"Кирк Йер"
-	"Куфут Кале"
-	"Чингиз Хан"
-}
+		Bakhchisaray "Зьrьk Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale"
+		"Chingiz Khan"
 
-
+	}
 	monitor = {
-	"Бахчисарай"
-	"Сюрюк Сув"
-	"Чуфут Кале"
-	"Хансарай"
-	"Хаси Гирей"
-	"Мели Гирей"
-	"Зинджилри Медресе"
-	"Кирим"
-	"Кирк Йер"
-	"Куфут Кале"
-	"Чингиз Хан"
-}
+		Bakhchisaray "Зьrьk Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale"
+		"Chingiz Khan"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Бахчисарай"
-	"Сюрюк Сув"
-	"Чуфут Кале"
-	"Хансарай"
-	"Хаси Гирей"
-	"Мели Гирей"
-	"Зинджилри Медресе"
-	"Кирим"
-	"Кирк Йер"
-	"Куфут Кале"
-	"Чингиз Хан"
-}
+		Bakhchisaray "Зьrьk Suv" "Chufut Kale" Hansaray "Haci Giray" "Meli I Giray"  "Zincilri Medrese" Kyrym  "Qirq Yer"  "Cufut Qale"
+		"Chingiz Khan"
 
-
+	}
 }

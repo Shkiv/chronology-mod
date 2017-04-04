@@ -101,201 +101,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Байтарани"
-	"Баласор"
-	"Балугаон"
-	"Бехрампур"
-	"Бхубенесвар"
-	"Брахмани"
-	"Чандипур"
-	"Чилка"
-	"Куттак"
-	"Дурга"
-	"Гопалпур"
-	"Джаганнат"
-	"Джаггернаут"
-	"Калиджай"
-	"Конарк"
-	"Лакшми"
-	"Маханади"
-	"Налабана"
-	"Парадип"
-	"Парвати"
-	"Пури"
-	"Радха"
-	"Сарасвати"
-	"Сатапада"
-}
+		Baitarani Balasore Balugaon Behrampur Bhubeneswar Brahmani Chandipur Chilka Cuttack Durga Gopalpur Jagannath
+		Juggernaut Kalijai Konark Lakshmi Mahanadi Nalabana Paradeep Parvati Puri Radha Sarasvati Satapada
 
-
+	}
 	ironclad = {
-	"Байтарани"
-	"Баласор"
-	"Балугаон"
-	"Бехрампур"
-	"Бхубенесвар"
-	"Брахмани"
-	"Чандипур"
-	"Чилка"
-	"Куттак"
-	"Дурга"
-	"Гопалпур"
-	"Джаганнат"
-	"Джаггернаут"
-	"Калиджай"
-	"Конарк"
-	"Лакшми"
-	"Маханади"
-	"Налабана"
-	"Парадип"
-	"Парвати"
-	"Пури"
-	"Радха"
-	"Сарасвати"
-	"Сатапада"
-}
-
-
+		Baitarani Balasore Balugaon Behrampur Bhubeneswar Brahmani Chandipur Chilka Cuttack Durga Gopalpur Jagannath
+		Juggernaut Kalijai Konark Lakshmi Mahanadi Nalabana Paradeep Parvati Puri Radha Sarasvati Satapada
+	}
 	manowar = {
-	"Байтарани"
-	"Баласор"
-	"Балугаон"
-	"Бехрампур"
-	"Бхубенесвар"
-	"Брахмани"
-	"Чандипур"
-	"Чилка"
-	"Куттак"
-	"Дурга"
-	"Гопалпур"
-	"Джаганнат"
-	"Джаггернаут"
-	"Калиджай"
-	"Конарк"
-	"Лакшми"
-	"Маханади"
-	"Налабана"
-	"Парадип"
-	"Парвати"
-	"Пури"
-	"Радха"
-	"Сарасвати"
-	"Сатапада"
-}
-
-
+		Baitarani Balasore Balugaon Behrampur Bhubeneswar Brahmani Chandipur Chilka Cuttack Durga Gopalpur Jagannath
+		Juggernaut Kalijai Konark Lakshmi Mahanadi Nalabana Paradeep Parvati Puri Radha Sarasvati Satapada
+	}
 	cruiser = {
-	"Байтарани"
-	"Баласор"
-	"Балугаон"
-	"Бехрампур"
-	"Бхубенесвар"
-	"Брахмани"
-	"Чандипур"
-	"Чилка"
-	"Куттак"
-	"Дурга"
-	"Гопалпур"
-	"Джаганнат"
-	"Джаггернаут"
-	"Калиджай"
-	"Конарк"
-	"Лакшми"
-	"Маханади"
-	"Налабана"
-	"Парадип"
-	"Парвати"
-	"Пури"
-	"Радха"
-	"Сарасвати"
-	"Сатапада"
-}
-
-
+		Baitarani Balasore Balugaon Behrampur Bhubeneswar Brahmani Chandipur Chilka Cuttack Durga Gopalpur Jagannath
+		Juggernaut Kalijai Konark Lakshmi Mahanadi Nalabana Paradeep Parvati Puri Radha Sarasvati Satapada
+	}
 	frigate = {
-	"Байтарани"
-	"Баласор"
-	"Балугаон"
-	"Бехрампур"
-	"Бхубенесвар"
-	"Брахмани"
-	"Чандипур"
-	"Чилка"
-	"Куттак"
-	"Дурга"
-	"Гопалпур"
-	"Джаганнат"
-	"Джаггернаут"
-	"Калиджай"
-	"Конарк"
-	"Лакшми"
-	"Маханади"
-	"Налабана"
-	"Парадип"
-	"Парвати"
-	"Пури"
-	"Радха"
-	"Сарасвати"
-	"Сатапада"
-}
-
-
+		Baitarani Balasore Balugaon Behrampur Bhubeneswar Brahmani Chandipur Chilka Cuttack Durga Gopalpur Jagannath
+		Juggernaut Kalijai Konark Lakshmi Mahanadi Nalabana Paradeep Parvati Puri Radha Sarasvati Satapada
+	}
 	monitor = {
-	"Байтарани"
-	"Баласор"
-	"Балугаон"
-	"Бехрампур"
-	"Бхубенесвар"
-	"Брахмани"
-	"Чандипур"
-	"Чилка"
-	"Куттак"
-	"Дурга"
-	"Гопалпур"
-	"Джаганнат"
-	"Джаггернаут"
-	"Калиджай"
-	"Конарк"
-	"Лакшми"
-	"Маханади"
-	"Налабана"
-	"Парадип"
-	"Парвати"
-	"Пури"
-	"Радха"
-	"Сарасвати"
-	"Сатапада"
-}
+		Baitarani Balasore Balugaon Behrampur Bhubeneswar Brahmani Chandipur Chilka Cuttack Durga Gopalpur Jagannath
+		Juggernaut Kalijai Konark Lakshmi Mahanadi Nalabana Paradeep Parvati Puri Radha Sarasvati Satapada
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Байтарани"
-	"Баласор"
-	"Балугаон"
-	"Бехрампур"
-	"Бхубенесвар"
-	"Брахмани"
-	"Чандипур"
-	"Чилка"
-	"Куттак"
-	"Дурга"
-	"Гопалпур"
-	"Джаганнат"
-	"Джаггернаут"
-	"Калиджай"
-	"Конарк"
-	"Лакшми"
-	"Маханади"
-	"Налабана"
-	"Парадип"
-	"Парвати"
-	"Пури"
-	"Радха"
-	"Сарасвати"
-	"Сатапада"
-}
-
-
+		Baitarani Balasore Balugaon Behrampur Bhubeneswar Brahmani Chandipur Chilka Cuttack Durga Gopalpur Jagannath
+		Juggernaut Kalijai Konark Lakshmi Mahanadi Nalabana Paradeep Parvati Puri Radha Sarasvati Satapada
+	}
 }

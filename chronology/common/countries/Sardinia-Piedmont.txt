@@ -129,155 +129,46 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Витторио Амадео"
-	"Эудженио ди Савойя"
-	"Витторио Эмануэле"
-	"Карл Эммануил"
-	"Карл Феличе"
-	"Андреа Дория"
-	"Конти ди Кавур"
-	"Сольферино"
-	"Мажента"
-	"Ре ди Сарденья"
-	"Дука ди Савойя"
-	"Ре ди Сичилия"
-	"Мария-Луиза"
-	"Мария-Терезия"
-	"Сан-Карло"
-	"Сан-Витторио"
-	"Сан-Микеле"
-	"Санта-Тереса"
-	"Санта-Барбара"
-	"Сан-Эффиозо"
-}
+		"Vittorio Amadeo" "Eugenio di Savoia" "Vittorio Emanuele" "Carlo Emanuele" "Carlo Felice" "Andrea Doria" "Conti di Cavour"
+		Solferino Magenta "Re di Sardegna" "Duca di Savoia" "Re di Sicilia" "Maria Luisa" "Maria Teresa"
+		"San Carlo" "San Vittorio" "San Michele" "Santa Teresa" "Santa Barbara" "San Effioso"
 
-
+	}
 	ironclad = {
-	"Сардиния"
-	"Пьемонт"
-	"Лигурия"
-	"Ницца"
-	"Валле д'Аоста"
-	"Монферрато"
-	"Салуццо"
-	"Сицилия"
-	"Торино"
-	"Генуя"
-	"Кальяри"
-}
-
-
+		Sardegna Piemonte Liguria Nizza "Valle d'Aosta" Monferrato Saluzzo Sicilia Torino Genova Cagliari
+	}
 	manowar = {
-	"Витторио Амадео"
-	"Эудженио ди Савойя"
-	"Витторио Эмануэле"
-	"Карл Эммануил"
-	"Карл Феличе"
-	"Андреа Дория"
-	"Конти ди Кавур"
-	"Сольферино"
-	"Мажента"
-	"Ре ди Сарденья"
-	"Дука ди Савойя"
-	"Ре ди Сичилия"
-	"Мария-Луиза"
-	"Мария-Терезия"
-	"Сан-Карло"
-	"Сан-Витторио"
-	"Сан-Микеле"
-	"Санта-Тереса"
-	"Санта-Барбара"
-	"Сан-Эффиозо"
-}
+		"Vittorio Amadeo" "Eugenio di Savoia" "Vittorio Emanuele" "Carlo Emanuele" "Carlo Felice" "Andrea Doria" "Conti di Cavour"
+		Solferino Magenta "Re di Sardegna" "Duca di Savoia" "Re di Sicilia" "Maria Luisa" "Maria Teresa"
+		"San Carlo" "San Vittorio" "San Michele" "Santa Teresa" "Santa Barbara" "San Effioso"
 
-
+	}
 	cruiser = {
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Капитана"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Реджина"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Aquila Aurora Azzardoso Beroldo Capitana Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Regina Tritone
 
-
+		Veloce Vigilante Zeffiro
+	}
 	frigate = {
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Капитана"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Реджина"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Aquila Aurora Azzardoso Beroldo Capitana Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Regina Tritone
 
+		Veloce Vigilante Zeffiro
 
+	}
 	monitor = {
-	"Сардиния"
-	"Пьемонте"
-	"Лигурия"
-	"Ницца"
-	"Валле д'Аоста"
-	"Монферрато"
-	"Салуццо"
-	"Сицилия"
-	"Торино"
-	"Генуя"
-	"Кальяри"
-}
+		Sardegna Piemonte Liguria Nizza "Valle d'Aosta" Monferrato Saluzzo Sicilia Torino Genova Cagliari
 
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Капитана"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Реджина"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Aquila Aurora Azzardoso Beroldo Capitana Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Regina Tritone
 
+		Veloce Vigilante Zeffiro
 
+	}
 }

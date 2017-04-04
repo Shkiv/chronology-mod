@@ -129,149 +129,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Капитан Кабраль"
-	"Капитан Ортис"
-	"Ауманита"
-	"Итаипу"
-	"Нанава"
-	"Парагуя"
-	"Родригес де Франсия"
-	"Тебикуари"
-	"Тениенте Фаринья"
-	"Иагуй"
-}
-
-
+		"Capitбn Cabral" "Capitбn Ortнz" Haumaitб Itaipъ Nanawa Paraguya "Rodrнguez de Francia" Tebicuary "Teniente Fariсa" Yhaguy
+	}
 	ironclad = {
-	"Хенераль Егрос"
-	"Хехуи"
-	"Маркес де Олинда"
-	"Парагуари"
-	"Пирабебе"
-	"Франсиско Солано Лопес"
-	"Сальто"
-	"Такуари"
-	"Игурей"
-	"Ипора"
-}
-
-
+		"General Yegros" Jejuн "Mбrquez de Olinda" Paraguarн Pirabebй "Francisco Solano Lуpez" Salto Tacuarн Ygurey Yporб
+	}
 	manowar = {
-	"Энкарнасион"
-	"Сан-Хосе"
-	"Сан-Хуан"
-	"Сан-Хуан Баутиста"
-	"Сан-Лоренцо"
-	"Сан-Педро"
-	"Санта-Ана"
-	"Санта-Мария"
-	"Санта-Марта"
-	"Сантисима Тринидад"
-}
-
-
+		Encarnaciуn "San Josй" "San Juan" "San Juan Bautista" "San Lorenzo" "San Pedro" "Santa Ana" "Santa Marнa" "Santa Marta" "Santнsima Trinidad"
+	}
 	cruiser = {
-	"Арегуа"
-	"Асунсьон"
-	"Каагуазу"
-	"Серро Перо"
-	"Сьюдад дель Эсте"
-	"Консепсьон"
-	"Фуэрте Олимпо"
-	"Итаугуа"
-	"Ньембуку"
-	"Вильярика"
-}
-
-
+		Areguб Asunciуn Caaguazъ "Cerro Perу" "Ciudad del Este" Concepciуn "Fuerte Olimpo" Itauguб Сeembucъ Villarica
+	}
 	frigate = {
-	"Альто Парагуай"
-	"Бахо Парагуай"
-	"Бокерон"
-	"Конститусьон"
-	"Гран Чако"
-	"Индепенденсия"
-	"Либертад"
-	"Патрия Парагуая"
-	"Пресиденте Хайес"
-	"Република"
-}
-
-
+		"Alto Paraguay" "Bajo Paraguay" Boquerуn Constituciуn "Gran Chaco" Independencia Libertad "Patria Paraguaya" "Presidente Hayes" Repъblica
+	}
 	monitor = {
-	"Карлос Антонио Лопес"
-	"Гуарани"
-	"Хопара"
-	"Нивакле"
-	"Парана"
-	"Пилькомае"
-	"Рио Парагуай"
-	"Сальто де Гуайра"
-	"Сан Франсиско Хавьер"
-	"Сан Игнасио де Лойола"
-}
-
-
+		"Carlos Antonio Lуpez" Guaranн Joparб Nivaclй Paranб Pilcomayo "Rнo Paraguay" "Salto de Guairб" "San Francisco Javier" "San Ignacio de Loyola"
+	}
 	clipper_transport = {
-	"Ангостура"
-	"Эстрелла де лос Марес"
-	"Хиганте"
-	"Интрепида"
-	"Хупитер"
-	"Либре"
-	"Марте"
-	"Нептуно"
-	"Плутон"
-	"Редуксион"
-	"Сан Онорато"
-	"Сан Лукас"
-	"Сан-Маркос"
-	"Сан Матео"
-	"Санта-Исабель"
-	"Санта-Моника"
-	"Сатурно"
-	"Сирена"
-	"Тетис"
-	"Велос"
-}
-
-
+		Angostura "Estrella de los Mares" Gigante Intrйpida Jъpiter Libre Marte Neptuno Plutуn Reducciуn
+		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Mуnica" Saturno Sirena Tetis Veloz
+	}
 	steam_transport = {
-	"Ангостура"
-	"Эстрелла де лос Марес"
-	"Хиганте"
-	"Интрепида"
-	"Хупитер"
-	"Либре"
-	"Марте"
-	"Нептуно"
-	"Плутон"
-	"Редуксион"
-	"Сан Онорато"
-	"Сан Лукас"
-	"Сан-Маркос"
-	"Сан Матео"
-	"Санта-Исабель"
-	"Санта-Моника"
-	"Сатурно"
-	"Сирена"
-	"Тетис"
-	"Велос"
-}
-
-
+		Angostura "Estrella de los Mares" Gigante Intrйpida Jъpiter Libre Marte Neptuno Plutуn Reducciуn
+		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Mуnica" Saturno Sirena Tetis Veloz
+	}
 	commerce_raider = {
-	"Асоте"
-	"Деструктор"
-	"Фервор"
-	"Эроэ"
-	"Релампаго"
-	"Темпестад"
-	"Тэррор"
-	"Триунфо"
-	"Труэно"
-	"Виктория"
-}
-
-
+		Azote Destructor Fervor Hйroe Relбmpago Tempestad Terror Triunfo Trueno Victoria
+	}
 }

@@ -101,138 +101,36 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Эсти"
-	"Таллин"
-	"Валга"
-	"Тарту"
-	"Муствеэ"
-	"Хаапсалу"
-	"Рапла"
-	"Муху"
-	"Хийумаа"
-	"Сааремаа"
-	"Абрука"
-	"Палдиски"
-	"Кихну"
-	"Вормси"
-	"Вайндло"
-}
+		Eesti Tallinn Valga Tartu Mustvee Haapsalu Rapla Muhu Hiiumma Saaremaa Abruka Paldiski Kihnu Vormsi Vaindlo
 
-
+	}
 	ironclad = {
-	"Эсти"
-	"Таллин"
-	"Валга"
-	"Тарту"
-	"Муствеэ"
-	"Хаапсалу"
-	"Рапла"
-	"Муху"
-	"Хийумаа"
-	"Сааремаа"
-	"Абрука"
-	"Палдиски"
-	"Кихну"
-	"Вормси"
-	"Вайндло"
-}
+		Eesti Tallinn Valga Tartu Mustvee Haapsalu Rapla Muhu Hiiumma Saaremaa Abruka Paldiski Kihnu Vormsi Vaindlo
 
-
+	}
 	manowar = {
-	"Эсти"
-	"Таллин"
-	"Валга"
-	"Тарту"
-	"Муствеэ"
-	"Хаапсалу"
-	"Рапла"
-	"Муху"
-	"Хийумаа"
-	"Сааремаа"
-	"Абрука"
-	"Палдиски"
-	"Кихну"
-	"Вормси"
-	"Вайндло"
-}
+		Eesti Tallinn Valga Tartu Mustvee Haapsalu Rapla Muhu Hiiumma Saaremaa Abruka Paldiski Kihnu Vormsi Vaindlo
 
-
+	}
 	cruiser = {
-	"Эсти"
-	"Таллин"
-	"Валга"
-	"Тарту"
-	"Муствеэ"
-	"Хаапсалу"
-	"Рапла"
-	"Муху"
-	"Хийумаа"
-	"Сааремаа"
-	"Абрука"
-	"Палдиски"
-	"Кихну"
-	"Вормси"
-	"Вайндло"
-}
+		Eesti Tallinn Valga Tartu Mustvee Haapsalu Rapla Muhu Hiiumma Saaremaa Abruka Paldiski Kihnu Vormsi Vaindlo
 
-
+	}
 	frigate = {
-	"Эсти"
-	"Таллин"
-	"Валга"
-	"Тарту"
-	"Муствеэ"
-	"Хаапсалу"
-	"Рапла"
-	"Муху"
-	"Хийумаа"
-	"Сааремаа"
-	"Абрука"
-	"Палдиски"
-	"Кихну"
-	"Вормси"
-	"Вайндло"
-}
-
-
+		Eesti Tallinn Valga Tartu Mustvee Haapsalu Rapla Muhu Hiiumma Saaremaa Abruka Paldiski Kihnu Vormsi Vaindlo
+	}
 	monitor = {
-	"Эсти"
-	"Таллин"
-	"Валга"
-	"Тарту"
-	"Муствеэ"
-	"Хаапсалу"
-	"Рапла"
-	"Муху"
-	"Хийумаа"
-	"Сааремаа"
-	"Абрука"
-	"Палдиски"
-	"Кихну"
-	"Вормси"
-	"Вайндло"
-}
+		Eesti Tallinn Valga Tartu Mustvee Haapsalu Rapla Muhu Hiiumma Saaremaa Abruka Paldiski Kihnu Vormsi Vaindlo
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Эсти"
-	"Таллин"
-	"Валга"
-	"Тарту"
-	"Муствеэ"
-	"Хаапсалу"
-	"Рапла"
-	"Муху"
-	"Хийумаа"
-	"Сааремаа"
-	"Абрука"
-	"Палдиски"
-	"Кихну"
-	"Вормси"
-	"Вайндло"
-}
+		Eesti Tallinn Valga Tartu Mustvee Haapsalu Rapla Muhu Hiiumma Saaremaa Abruka Paldiski Kihnu Vormsi Vaindlo
 
-
+	}
 }

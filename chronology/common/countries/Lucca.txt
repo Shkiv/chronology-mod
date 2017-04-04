@@ -129,180 +129,52 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Карло Лудовико"
-	"Каструччо Кастракани"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Carlo Ludovico" "Castruccio Castracani" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
 
+		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	ironclad = {
-	"Карло Лудовико"
-	"Каструччо Кастракани"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Carlo Ludovico" "Castruccio Castracani" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
+
+		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
 
+	}
 	manowar = {
-	"Карло Лудовико"
-	"Каструччо Кастракани"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Carlo Ludovico" "Castruccio Castracani" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
 
+		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	cruiser = {
-	"Карло Лудовико"
-	"Каструччо Кастракани"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Carlo Ludovico" "Castruccio Castracani" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
 
+		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	frigate = {
-	"Карло Лудовико"
-	"Каструччо Кастракани"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Carlo Ludovico" "Castruccio Castracani" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
 
+		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	monitor = {
-	"Карло Лудовико"
-	"Каструччо Кастракани"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Carlo Ludovico" "Castruccio Castracani" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
 
+		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Карло Лудовико"
-	"Каструччо Кастракани"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Carlo Ludovico" "Castruccio Castracani" Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco
 
+		Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 }

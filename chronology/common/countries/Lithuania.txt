@@ -101,173 +101,35 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Лиетува"
-	"Миндовг"
-	"Витаутас Дидисис"
-	"Йогайлайтис"
-	"Жемайтия"
-	"Каунас"
-	"Антанас Сметона"
-	"Миндаугас"
-	"Шяуляй"
-	"Плунге"
-	"Паланга"
-	"Силуте"
-	"Таураге"
-	"Витис"
-	"Алитус"
-	"Троки"
-	"Друскининкай"
-	"Дзекас"
-	"Слис"
-	"Скалвис"
-}
+		Lietuva Mindaugas "Vytautas Didysis" Jogailaitis Zemaitija Kaunas Moletai Vilnius Siauliai Plunge Palanga Silute Taurage Jurbarkas Alytus Trakai Druskininkai Dzkas Slis Skalvis
 
-
+	}
 	ironclad = {
-	"Лиетува"
-	"Миндовг"
-	"Витаутас Дидисис"
-	"Йогайлайтис"
-	"Жемайтия"
-	"Каунас"
-	"Антанас Сметона"
-	"Миндаугас"
-	"Шяуляй"
-	"Плунге"
-	"Паланга"
-	"Силуте"
-	"Таураге"
-	"Витис"
-	"Алитус"
-	"Троки"
-	"Друскининкай"
-	"Дзекас"
-	"Слис"
-	"Скалвис"
-}
+		Lietuva Mindaugas "Vytautas Didysis" Jogailaitis Zemaitija Kaunas Moletai Vilnius Siauliai Plunge Palanga Silute Taurage Jurbarkas Alytus Trakai Druskininkai Dzkas Slis Skalvis
 
-
+	}
 	manowar = {
-	"Лиетува"
-	"Миндовг"
-	"Витаутас Дидисис"
-	"Йогайлайтис"
-	"Жемайтия"
-	"Каунас"
-	"Антанас Сметона"
-	"Миндаугас"
-	"Шяуляй"
-	"Плунге"
-	"Паланга"
-	"Силуте"
-	"Таураге"
-	"Витис"
-	"Алитус"
-	"Троки"
-	"Друскининкай"
-	"Дзекас"
-	"Слис"
-	"Скалвис"
-}
+		Lietuva Mindaugas "Vytautas Didysis" Jogailaitis Zemaitija Kaunas Moletai Vilnius Siauliai Plunge Palanga Silute Taurage Jurbarkas Alytus Trakai Druskininkai Dzkas Slis Skalvis
 
-
+	}
 	cruiser = {
-	"Лиетува"
-	"Миндовг"
-	"Витаутас Дидисис"
-	"Йогайлайтис"
-	"Жемайтия"
-	"Каунас"
-	"Антанас Сметона"
-	"Миндаугас"
-	"Шяуляй"
-	"Плунге"
-	"Паланга"
-	"Силуте"
-	"Таураге"
-	"Витис"
-	"Алитус"
-	"Троки"
-	"Друскининкай"
-	"Дзекас"
-	"Слис"
-	"Скалвис"
-}
-
-
+		Lietuva Mindaugas "Vytautas Didysis" Jogailaitis Zemaitija Kaunas Moletai Vilnius Siauliai Plunge Palanga Silute Taurage Jurbarkas Alytus Trakai Druskininkai Dzkas Slis Skalvis
+	}
 	frigate = {
-	"Лиетува"
-	"Миндовг"
-	"Витаутас Дидисис"
-	"Йогайлайтис"
-	"Жемайтия"
-	"Каунас"
-	"Антанас Сметона"
-	"Миндаугас"
-	"Шяуляй"
-	"Плунге"
-	"Паланга"
-	"Силуте"
-	"Таураге"
-	"Витис"
-	"Алитус"
-	"Троки"
-	"Друскининкай"
-	"Дзекас"
-	"Слис"
-	"Скалвис"
-}
-
-
+		Lietuva Mindaugas "Vytautas Didysis" Jogailaitis Zemaitija Kaunas Moletai Vilnius Siauliai Plunge Palanga Silute Taurage Jurbarkas Alytus Trakai Druskininkai Dzkas Slis Skalvis
+	}
 	monitor = {
-	"Лиетува"
-	"Миндовг"
-	"Витаутас Дидисис"
-	"Йогайлайтис"
-	"Жемайтия"
-	"Каунас"
-	"Антанас Сметона"
-	"Миндаугас"
-	"Шяуляй"
-	"Плунге"
-	"Паланга"
-	"Силуте"
-	"Таураге"
-	"Витис"
-	"Алитус"
-	"Троки"
-	"Друскининкай"
-	"Дзекас"
-	"Слис"
-	"Скалвис"
-}
+		Lietuva Mindaugas "Vytautas Didysis" Jogailaitis Zemaitija Kaunas Moletai Vilnius Siauliai Plunge Palanga Silute Taurage Jurbarkas Alytus Trakai Druskininkai Dzkas Slis Skalvis
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Лиетува"
-	"Миндовг"
-	"Витаутас Дидисис"
-	"Йогайлайтис"
-	"Жемайтия"
-	"Каунас"
-	"Антанас Сметона"
-	"Миндаугас"
-	"Шяуляй"
-	"Плунге"
-	"Паланга"
-	"Силуте"
-	"Таураге"
-	"Витис"
-	"Алитус"
-	"Троки"
-	"Друскининкай"
-	"Дзекас"
-	"Слис"
-	"Скалвис"
-}
+		Lietuva Mindaugas "Vytautas Didysis" Jogailaitis Zemaitija Kaunas Moletai Vilnius Siauliai Plunge Palanga Silute Taurage Jurbarkas Alytus Trakai Druskininkai Dzkas Slis Skalvis
 
-
+	}
 }

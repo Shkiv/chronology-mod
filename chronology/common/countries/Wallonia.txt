@@ -103,173 +103,62 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Валлония"
-	"Хеноговия"
-	"Комте де Эно"
-	"Комте де Намюр"
-	"Принс де Льеж"
-	"Луи Бусо"
-	"Оливье Брюнель"
-	"Симон де Корде"
-	"Альберт Дорвиль"
-	"Хессе де Форест"
-	"Луи Хеннепин"
-	"Арлон"
-	"Шарлеруа"
-	"Льеж"
-	"Намюр"
-	"Мес"
-	"Аурт"
-	"Самбре"
-	"Л'Эскаут"
-	"Семуа"
-}
+		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege"
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessй de Forest" "Louis Hennepin"
+		Arlon Charleroi Liege Namur
+		Meuse Ourthe Sambre "l'Escaut" Semois
 
-
+	}
 	ironclad = {
-	"Валлония"
-	"Хеноговия"
-	"Комте де Эно"
-	"Комте де Намюр"
-	"Принс де Льеж"
-	"Луи Бусо"
-	"Оливье Брюнель"
-	"Симон де Корде"
-	"Альберт Дорвиль"
-	"Хессе де Форест"
-	"Луи Хеннепин"
-	"Арлон"
-	"Шарлеруа"
-	"Льеж"
-	"Намюр"
-	"Мес"
-	"Аурт"
-	"Самбре"
-	"Л'Эскаут"
-	"Семуа"
-}
+		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege"
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessй de Forest" "Louis Hennepin"
+		Arlon Charleroi Liege Namur
+		Meuse Ourthe Sambre "l'Escaut" Semois
 
-
+	}
 	manowar = {
-	"Валлония"
-	"Хеноговия"
-	"Комте де Эно"
-	"Комте де Намюр"
-	"Принс де Льеж"
-	"Луи Бусо"
-	"Оливье Брюнель"
-	"Симон де Корде"
-	"Альберт Дорвиль"
-	"Хессе де Форест"
-	"Луи Хеннепин"
-	"Арлон"
-	"Шарлеруа"
-	"Льеж"
-	"Намюр"
-	"Мес"
-	"Аурт"
-	"Самбре"
-	"Л'Эскаут"
-	"Семуа"
-}
+		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege"
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessй de Forest" "Louis Hennepin"
+		Arlon Charleroi Liege Namur
+		Meuse Ourthe Sambre "l'Escaut" Semois
 
-
+	}
 	cruiser = {
-	"Валлония"
-	"Хеноговия"
-	"Комте де Эно"
-	"Комте де Намюр"
-	"Принс де Льеж"
-	"Луи Бусо"
-	"Оливье Брюнель"
-	"Симон де Корде"
-	"Альберт Дорвиль"
-	"Хессе де Форест"
-	"Луи Хеннепин"
-	"Арлон"
-	"Шарлеруа"
-	"Льеж"
-	"Намюр"
-	"Мес"
-	"Аурт"
-	"Самбре"
-	"Л'Эскаут"
-	"Семуа"
-}
+		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege"
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessй de Forest" "Louis Hennepin"
+		Arlon Charleroi Liege Namur
+		Meuse Ourthe Sambre "l'Escaut" Semois
 
 
+	}
 	frigate = {
-	"Валлония"
-	"Хеноговия"
-	"Комте де Эно"
-	"Комте де Намюр"
-	"Принс де Льеж"
-	"Луи Бусо"
-	"Оливье Брюнель"
-	"Симон де Корде"
-	"Альберт Дорвиль"
-	"Хессе де Форест"
-	"Луи Хеннепин"
-	"Арлон"
-	"Шарлеруа"
-	"Льеж"
-	"Намюр"
-	"Мес"
-	"Аурт"
-	"Самбре"
-	"Л'Эскаут"
-	"Семуа"
-}
+		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege"
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessй de Forest" "Louis Hennepin"
+		Arlon Charleroi Liege Namur
+		Meuse Ourthe Sambre "l'Escaut" Semois
 
-
+	}
 	monitor = {
-	"Валлония"
-	"Хеноговия"
-	"Комте де Эно"
-	"Комте де Намюр"
-	"Принс де Льеж"
-	"Луи Бусо"
-	"Оливье Брюнель"
-	"Симон де Корде"
-	"Альберт Дорвиль"
-	"Хессе де Форест"
-	"Луи Хеннепин"
-	"Арлон"
-	"Шарлеруа"
-	"Льеж"
-	"Намюр"
-	"Мес"
-	"Аурт"
-	"Самбре"
-	"Л'Эскаут"
-	"Семуа"
-}
+		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege"
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessй de Forest" "Louis Hennepin"
+		Arlon Charleroi Liege Namur
+		Meuse Ourthe Sambre "l'Escaut" Semois
+
+	}
+	clipper_transport = {
 
 
-	
-	
+	}
+	steam_transport = {
+
+
+	}
 	commerce_raider = {
-	"Валлония"
-	"Хеноговия"
-	"Комте де Эно"
-	"Комте де Намюр"
-	"Принс де Льеж"
-	"Луи Бусо"
-	"Оливье Брюнель"
-	"Симон де Корде"
-	"Альберт Дорвиль"
-	"Хессе де Форест"
-	"Луи Хеннепин"
-	"Арлон"
-	"Шарлеруа"
-	"Льеж"
-	"Намюр"
-	"Мес"
-	"Аурт"
-	"Самбре"
-	"Л'Эскаут"
-	"Семуа"
-}
+		Vallonia Henogovia "Comte de Hainaut" "Comte de Namur" "Prince de Liege"
+		"Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessй de Forest" "Louis Hennepin"
+		Arlon Charleroi Liege Namur
+		Meuse Ourthe Sambre "l'Escaut" Semois
 
 
+	}
 }

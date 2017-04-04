@@ -171,149 +171,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Альмиранте Монт"
-	"Антофагаста"
-	"Атакама"
-	"Икике"
-	"Латорре"
-	"О'Хиггинс"
-	"Република"
-	"Сан-Мартин"
-	"Сантьяго-де-Чили"
-	"Вальпараисо"
-}
-
-
+		"Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins RepГєblica "San MartГ­n" "Santiago de Chile" ValparaГ­so
+	}
 	ironclad = {
-	"Альмиранте Уильямс"
-	"Аустраль"
-	"Бланко"
-	"Бланко Энкалада"
-	"Капитан Прат"
-	"Кохрейн"
-	"Исла де Паскуа"
-	"Норте-Чико"
-	"Норте-Гранде"
-	"Охос дель Саладос"
-}
-
-
+		"Almirante Williams" Austral Blanco "Blanco Encalada" "CapitГЎn Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
+	}
 	manowar = {
-	"Абтао"
-	"Агила"
-	"Араукано"
-	"Чакабуко"
-	"Фортуната"
-	"Гальварино"
-	"Лаутаро"
-	"О'Хиггинс"
-	"Потрильо"
-	"Сан-Мартин"
-}
-
-
+		Abtao ГЃguila Araucano Chacabuco Fortunata Galvarino Lautaro O'Higgins Potrillo "San MartГ­n"
+	}
 	cruiser = {
-	"Агуамарина"
-	"Диаманте"
-	"Директор Эйсагирре"
-	"Директор Фрейре"
-	"Эсмеральда"
-	"Льюльяйльяко"
-	"Паринакота"
-	"Пресиденте Эррасурис"
-	"Президенте Пинто"
-	"Тупунгато"
-}
-
-
+		Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente ErrГЎzuriz" "Presidente Pinto" Tupungato
+	}
 	frigate = {
-	"Айсен"
-	"Араукания"
-	"Арика"
-	"Биобио"
-	"Кокимбо"
-	"Лос-Лагос"
-	"Лос-Риос"
-	"Мауле"
-	"Тарапака"
-	"Вальдивия"
-}
-
-
+		AisГ©n Araucania Arica BiobГ­o Coquimbo "Los Lagos" "Los RГ­os" Maule TarapacГЎ Valdivia
+	}
 	monitor = {
-	"Анганемон"
-	"Бутапичон"
-	"Коло-Коло"
-	"Куриньянку"
-	"Гуаикимилья"
-	"Уаскар"
-	"Лиентур"
-	"Педро де Вальдивия"
-	"Пелантару"
-	"Вилумилья"
-}
-
-
+		Anganemon ButapichГіn Colo-Colo CuriГ±ancu Guaiquimilla HuГЎscar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
+	}
 	clipper_transport = {
-	"Койайке"
-	"Консепсьон"
-	"Копьяпо"
-	"Дель Торо"
-	"Икике"
-	"Ла-Серена"
-	"Лагуна Бланка"
-	"Пуэрто-Монтт"
-	"Пунта-Аренас"
-	"Ранкагуа"
-	"Сан-Хосе"
-	"Сан-Педро"
-	"Сан-Рафаэль"
-	"Санта-Инес"
-	"Санта-Мария"
-	"Сантьяго"
-	"Сармиэнто"
-	"Талька"
-	"Темуко"
-	"Юлтон"
-}
-
-
+		 Coihaique ConcepciГіn Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
+		"San JosГ©" "San Pedro" "San Rafael" "Santa InГ©s" "Santa MarГ­a" Santiago Sarmiento Talca Temuco Yulton
+	}
 	steam_transport = {
-	"Койайке"
-	"Консепсьон"
-	"Копьяпо"
-	"Дель Торо"
-	"Икике"
-	"Ла-Серена"
-	"Лагуна Бланка"
-	"Пуэрто-Монтт"
-	"Пунта-Аренас"
-	"Ранкагуа"
-	"Сан-Хосе"
-	"Сан-Педро"
-	"Сан-Рафаэль"
-	"Санта-Инес"
-	"Санта-Мария"
-	"Сантьяго"
-	"Сармиэнто"
-	"Талька"
-	"Темуко"
-	"Юлтон"
-}
-
-
+		Coihaique ConcepciГіn Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
+		"San JosГ©" "San Pedro" "San Rafael" "Santa InГ©s" "Santa MarГ­a" Santiago Sarmiento Talca Temuco Yulton
+	}
 	commerce_raider = {
-	"Альмиранте Конделлл"
-	"Альмиранте Линч"
-	"Ангамос"
-	"Акилес"
-	"Касма"
-	"Чакабуко"
-	"Чипана"
-	"Ковадонга"
-	"Магальянес"
-	"Оромпельо"
-}
-
-
+		"Almirante Condell" "Almirante Lynch" Angamos Aquiles Casma Chacabuco Chipana Covadonga Magallanes Orompello
+	}
 }

@@ -130,104 +130,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Сан-Паулу"
-	"Минас-Жейрас"
-	"Маршал Флориано"
-	"Маршал Деодоро"
-	"Рио-де-Жанейро"
-	"Риашуэло"
-	"Конституйсао"
-	"Санта-Катерина"
-	"Варгас"
-	"Альмиранте Амазонас"
-}
+			"Sao Paulo" "Minas Geraes" "Marshal Floriano" "Marshal Deodoro" "Rio de Janeiro"
+			Riachuelo Constituicao "Santa Caterina" Vargas "Almirante Amazonas"
 
-
+	}
 	ironclad = {
-	"Бразил"
-	"Тамандаре"
-	"Мариз э Баррош"
-	"Коломбо"
-	"Бахия"
-	"Риу-Гранди-ду-Норти"
-	"Алагаос"
-	"Эспирито-Санто"
-	"Фонсека"
-}
-
-
+			Brasil Tamandare "Mariz e Barros" Colombo Bahia "Rio Grande Do Norte" Alagaos
+			"Espirito Santo" Fonseca
+	}
 	manowar = {
-	"Примейро де Марко"
-	"Парнаиба"
-	"Гуанабара"
-	"Тражано"
-	"Витал де Оливейра"
-	"Нистерой"
-	"Сержипе"
-	"Парана"
-	"Гринхальг"
-	"Макапа"
-}
-
-
+			"Primeiro De Marco" Parnahyba Guanabara Trajano "Vital De Oliveira" Nictheroy
+			Sergipe Parana Greenhalgh Macapб
+	}
 	cruiser = {
-	"Альмиранте Баррозо"
-	"Република"
-	"Альмиранте Тамандаре"
-	"Бенжамин-Констант"
-	"Акидабан"
-	"Риашуэло"
-	"Тонелерош"
-	"Форталеза"
-	"Тирадентеш"
-}
-
-
+			"Almirante Barrozo" Republica "Almirante Tamandarй" "Benjamin Constant" Aquidaban
+			Riachuelo Toneleros Fortaleza Tiradentes
+	}
 	frigate = {
-	"Альмиранте Салданья"
-	"Пернамбуко"
-	"Иньаума"
-	"Жакегуай"
-	"Фронтин"
-	"Жулио де Норонья"
-	"Нитерой"
-	"Униао"
-	"Белем"
-	"Вижия"
-}
-
-
+			"Almirante Saldanha" Pernambuco Inhauma Jaceguay Frontin "Julio De Noronha" Niteroi
+			Uniao Belйm Vigia
+	}
 	monitor = {
-	"Жавари"
-	"Солимоэш"
-	"Сете де Сетембро"
-	"Ипиранга"
-	"Индепенденсия"
-	"Мату-Гроссу"
-	"Мараньао"
-	"Гуана Бара"
-	"Сеара"
-	"Умаита"
-}
+			Javary Solimoes "Sete de Setembro" Ipiranga Independencia "Mato Grosso" Maranhao
+			"Guana Bara" Ceara Humaita
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Бельмонте"
-	"Жекитиньонья"
-	"Амазонас"
-	"Беберибе"
-	"Игуатеми"
-	"Меарим"
-	"Арагвари"
-	"Парнаиба"
-	"Кабрал"
-	"Баррушо"
-	"Эрваль"
-	"Сильвадо"
-	"Лима Баррош"
-}
-
-
+			Belmonte Jequitinhonha Amazonas Beberibe Iguatemi Mearim Araguari Parnaнba Cabral
+			Barroso Herval Silvado "Lima Barros"
+	}
 }

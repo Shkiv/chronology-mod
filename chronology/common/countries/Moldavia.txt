@@ -157,110 +157,36 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Молдова"
-	"Стефан чел Маре"
-	"Михаил Стурдза"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rвul Prut" Suceava "Tвrgul Moldovei" Vaslui
 
-
+	}
 	ironclad = {
-	"Молдова"
-	"Стефан чел Маре"
-	"Михаил Стурдза"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
-
-
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rвul Prut" Suceava "Tвrgul Moldovei" Vaslui
+	}
 	manowar = {
-	"Молдова"
-	"Стефан чел Маре"
-	"Михаил Стурдза"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rвul Prut" Suceava "Tвrgul Moldovei" Vaslui
 
-
+	}
 	cruiser = {
-	"Молдова"
-	"Стефан чел Маре"
-	"Михаил Стурдза"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rвul Prut" Suceava "Tвrgul Moldovei" Vaslui
 
-
+	}
 	frigate = {
-	"Молдова"
-	"Стефан чел Маре"
-	"Михаил Стурдза"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rвul Prut" Suceava "Tвrgul Moldovei" Vaslui
 
-
+	}
 	monitor = {
-	"Молдова"
-	"Стефан чел Маре"
-	"Михаил Стурдза"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rвul Prut" Suceava "Tвrgul Moldovei" Vaslui
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Молдова"
-	"Стефан чел Маре"
-	"Михаил Стурдза"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Rвul Prut" Suceava "Tвrgul Moldovei" Vaslui
 
-
+	}
 }

@@ -173,155 +173,39 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Де Рюйтер"
-	"Тромп"
-	"Де Зевен Провинсин"
-	"Эвертсен"
-	"Кортенаер"
-	"Пит Хейн"
-	"Витт де Витт"
-	"Якоб ван Хемскерк"
-}
-
-
+		"De Ruyter" "Tromp" "De Zeven Provincien" "Evertsen" "Kortenaer" "Piet Hein" "Witte de With" "Jacob van Heemskerk"
+	}
+	battleship = {
+		Buffel "De Zeven Provinciлn" Evertsen Guinea "Hertog Hendrik" "Jacob van Heemskerck" "Koning der Nederlanden" "Koningin Regentes" Kortenaer "Maarten Harpetsz. Tromp" "Piet Hein" "De Ruyter" Schorpioen Stier
+	}
 	ironclad = {
-	"Хертог Хендрик"
-	"Конинг дер Недерланден"
-	"Конингин Регентес"
-	"Конинг Виллем"
-	"Принс Хендрик"
-}
-
-
+		"Hertog Hendrik" "Koning der Nederlanden" "Koningin Regentes" "Koning Willem" "Prins Hendrik"
+	}
 	cruiser = {
-	"Ява"
-	"Банккерт"
-	"Калленбург"
-	"Исаак Свеерс"
-	"Ван Гент"
-	"Арт ван Нес"
-	"Тьерк Хиддес"
-	"Ван Гален"
-	"Абхарам ван дер Хюлст"
-	"Ван Спейк"
-	"Герцог Нассауский"
-	"Анна Павловна"
-	"Зутман"
-	"Йохан Виллем Фризо"
-	"Ван Кинсберген"
-	"Питер Флорисз"
-	"Филипс ван Альмонде"
-	"Блоей ван Треслонг"
-	"Ян ван Бракель"
-	"Ван Амстел"
-	"Виллем ван дер Зан"
-}
-
-
+		"Java" "Banckert" "Callenburgh" "Isaac Sweers" "Van Ghent" "Aert van Nes" "Tjerk Hiddes" "Van Galen" "Abraham van der Hulst" "Van Speijck" "Adolf Hertog van Nassau"
+"Anna Paulowna" "Zoutman" "Johan Willem Friso" "Van Kinsbergen"
+"Pieter Florisz" "Philips van Almonde"
+ "Bloys van Treslong" "Jan van Brakel" "Van Amstel" "Willem van der Zaan"
+	}
 	frigate = {
-	"Вольф"
-	"Фрет"
-	"Хемелейн"
-	"Вос"
-	"Пантера"
-	"Ягуар"
-	"Лейнкс"
-	"Леув"
-	"Якалс"
-}
-
-
+		"Wolf" "Fret" "Hermelijn" "Vos" "Panter" "Jaguar" "Lynx" "Leeuw" "Jakhals"
+	}
 	monitor = {
-	"Буффель"
-	"Гвинея"
-	"Скорпион"
-	"Стир"
-}
-
-
+		"Buffel" "Guinea" "Schorpioen" "Stier"
+	}
 	manowar = {
-	"Адмирал-генерал"
-	"Бешермер"
-	"Бредероде"
-	"Кампен"
-	"Эндрахт"
-	"Энхорн"
-	"Фридрих Генрих"
-	"Гоуден Леев"
-	"Граф Виллем"
-	"Грот Лифде"
-	"Йозуа"
-	"Камел"
-	"Капитейн Генерал"
-	"Ландман"
-	"Лауиса Хендрика"
-	"Овервинар"
-	"Принсес Амалия"
-	"Принсес Роияал"
-	"Принс Фризо"
-	"Принс Виллем"
-	"Росенкранс"
-	"Саламандер"
-	"Вергульде Ман"
-	"Вервахтинг"
-	"Уни"
-	"Вреде"
-	"Врейхейд"
-	"Витте Лам"
-}
-
-
+		"Admiraal Generaal" "Beschermer" "Brederode" "Campen" "Eendracht" "Eenhoorn" "Frederik Hendrik" "Gouden Leeuw"
+"Graaf Willem" "Groote Liefde" "Jozua" "Kameel" "Kapitein Generaal" "Landman" "Louisa Hendrika" "Overwinnaer" "Prinses Amalia"
+"Prinses Roijaal" "Prins Friso" "Prins Willem" "Rosenkrans" "Salamander" "Vergulde Maen" "Verwachting" "Unie" "Vrede" "Vrijheid" "Witte Lam"
+	}
 	commerce_raider = {
-	"Ачех"
-	"Брабант"
-	"Кюрасао"
-	"Холланд"
-	"Фрисланд"
-	"Гельдерланд"
-	"Гронинген"
-	"Лимбург"
-	"Оверийссель"
-	"Суринам"
-	"Утрехт"
-	"Зеландия"
-}
+		"Atjeh" "Brabant" "Curacao" "Holland" "Friesland" "Gelderland" "Groningen" "Limburg" "Overijssel" "Suriname" "Utrecht" "Zeeland"
 
-
+	}
 	clipper_transport = {
-	"Амстердам"
-	"Ассендельфт"
-	"Батавия"
-	"Делфланд"
-	"Дордрехт"
-	"Гоуда"
-	"Гарлем"
-	"Хоорн"
-	"Лейден"
-	"Медемблик"
-	"Миддельбург"
-	"Роттердам"
-	"Сурабая"
-	"Утрехт"
-	"Вере"
-	"Флиссинген"
-	"Виллемштад"
-	"Зирикзее"
-}
-
-
+		"Amsterdam" "Assendelft" "Batavia" "Delfland" "Dordrecht" "Gouda" "Haarlem" "Hoorn" "Leyden" "Medemblick" "Middelburg" "Rotterdam" "Soerabaja" "Utrecht" "Veere" "Vlissingen" "Willemstad" "Zierikzee"
+	}
 	steam_transport = {
-	"Кастор"
-	"Юпитер"
-	"Ман"
-	"Марс"
-	"Меркуриус"
-	"Нептунес"
-	"Поллукс"
-	"Польстер"
-	"Винус"
-	"Зон"
-	"Зейдеркрейс"
-}
-
-
+		"Castor" "Jupiter" "Maan" "Mars" "Mercurius" "Neptunes" "Pollux" "Poolster" "Venus" "Zon" "Zuiderkruis"
+	}
 }

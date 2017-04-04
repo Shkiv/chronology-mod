@@ -5,9 +5,9 @@ party = {
 	name = "PHI_reactionary"
 	start_date = 1810.1.1
 	end_date = 2000.1.1
-	
+
 	ideology = reactionary
-	
+
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -101,148 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Давао"
-	"Эмилио Агинальдо"
-	"Филипинас"
-	"Индепенденсия"
-	"Хосе Рисаль"
-	"Лапу-Лапу"
-	"Либертад"
-	"Манила"
-	"Марьяно Альварес"
-	"Тагало"
-}
-
-
+		Davao "Emilio Aguinaldo" Filipinas Independencia "Josй Rizal" Lapu-Lapu Libertad Manila "Mariano Бlvarez" Tagalo
+	}
 	ironclad = {
-	"Агусан"
-	"Акеан"
-	"Кагуа"
-	"Дагохой"
-	"Пампанья"
-	"Пасиг"
-	"Пуле"
-	"Раганг"
-	"Силанг"
-	"Сумурой"
-}
-
-
+		Agusan Akean Cagua Dagohoy Pampanga Pбsig Pule Ragang Silang Sumuroy
+	}
 	manowar = {
-	"Индихена"
-	"Либерасион"
-	"Насионал"
-	"Рей Фелипе"
-	"Сальвадор"
-	"Сан-Ласаро"
-	"Сан-Мигель"
-	"Санта-Крус"
-	"Санта-Мария"
-	"Сантисима Тринидад"
-}
-
-
+		Indigena Liberaciуn Nacional "Rey Felipe" Salvador "San Lбzaro" "San Miguel" "Santa Cruz" "Santa Marнa" "Santнsima Trinidad"
+	}
 	cruiser = {
-	"Себу"
-	"Илойло"
-	"Лейте"
-	"Лусон"
-	"Минданао"
-	"Миндоро"
-	"Негрос Оксиденталь"
-	"Палаван"
-	"Пангасинан"
-}
-
-
+		Cebъ Iloнlo Leyte Luzуn Mindanao Mindoro "Negros Occidental" Palawan Pangasinan
+	}
 	frigate = {
-	"Аполинарио Мабини"
-	"Артемио Рикарте"
-	"Дату Бантилан"
-	"Дату Марикудо"
-	"Эмилио Хасинто"
-	"Магат Саламат"
-	"Мигель Мальвар"
-	"Педро Патерно"
-	"Раджа Умабон"
-	"Султан Кударат"
-}
-
-
+		"Apolinario Mabini" "Artemio Ricarte" "Datu Bantilan" "Datu Marikudo" "Emilio Jacinto" "Magat Salamat" "Miguel Malvar" "Pedro Paterno" "Rajб Humabon" "Sultбn Kudarat"
+	}
 	monitor = {
-	"Фернандо де Магальянеш"
-	"Индиас Ориенталес"
-	"Хуан Себастьян Элькано"
-	"Мигель Лопес де Легаспи"
-	"Раджа де Бутуан"
-	"Раджа де Себу"
-	"Раджа де Манила"
-	"Раджа де Тондо"
-	"Султан де Магуинданао"
-	"Султан де Сулу"
-}
-
-
+		"Fernando de Magallanes" "Indias Orientales" "Juan Sebastiбn Elcano" "Miguel Lуpez de Legazpi" "Rajб de Butuбn" "Rajб de Cebъ" "Rajб de Manila" "Rajб de Tondo" "Sultбn de Maguindanao" "Sultбn de Sulu"
+	}
 	clipper_transport = {
-	"Алам"
-	"Баса"
-	"Батангас"
-	"Берде"
-	"Бургав"
-	"Компанья де Филипинас"
-	"Деликадеса"
-	"Демокрасья"
-	"Гуэрра"
-	"Хилага"
-	"Итик"
-	"Курсонада"
-	"Памилия"
-	"Сан-Хуан"
-	"Сан-Марино"
-	"Стелла Марис"
-	"Субич"
-	"Таблас"
-	"Тимог"
-	"Замбоанга"
-}
-
-
+		Alam Basa Batangas Berde Burghaw "Compaснa de Filipinas" Delikadesa Demokrasya Guerra Hilaga
+		Itik Kursonada Pamilya "San Juan" "San Marino" "Stella Maris" Subic Tablas Timog Zamboanga
+	}
 	steam_transport = {
-	"Алам"
-	"Баса"
-	"Батангас"
-	"Берде"
-	"Бургав"
-	"Компанья де Филипинас"
-	"Деликадеса"
-	"Демокрасья"
-	"Гуэрра"
-	"Хилага"
-	"Итик"
-	"Курсонада"
-	"Памилия"
-	"Сан-Хуан"
-	"Сан-Марино"
-	"Стелла Марис"
-	"Субич"
-	"Таблас"
-	"Тимог"
-	"Замбоанга"
-}
-
-
+		Alam Basa Batangas Berde Burghaw "Compaснa de Filipinas" Delikadesa Demokrasya Guerra Hilaga
+		Itik Kursonada Pamilya "San Juan" "San Marino" "Stella Maris" Subic Tablas Timog Zamboanga
+	}
 	commerce_raider = {
-	"Апо"
-	"Балаян"
-	"Билиран"
-	"Булусан"
-	"Хибок-Хибок"
-	"Майон"
-	"Пинатубо"
-	"Пурисима Консепсьон"
-	"Тааль"
-	"Тааленьо"
-}
-
-
+		Apo Balayбn Bilirбn Bulusбn Hibok-Hibok Mayуn Pinatubo "Purнsima Concepciуn" Taal Taaleсo
+	}
 }

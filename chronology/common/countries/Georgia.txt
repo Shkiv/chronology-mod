@@ -101,222 +101,51 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Арагвети"
-	"Анакопия"
-	"Артаани"
-	"Абхазети"
-	"Бичвинта"
-	"Батуми"
-	"Чавчавадзе"
-	"Дманиси"
-	"Дмитрий"
-	"Эрети"
-	"Гегути"
-	"Гелати"
-	"Кутаиси"
-	"Карнабуджи"
-	"Лашарисджвари"
-	"Мтквари"
-	"Нарикала"
-	"Руиси"
-	"Рача"
-	"Сети"
-	"Сванети"
-	"Тамар"
-	"Тбилиси"
-	"Телави"
-	"Тбилиси"
-	"Ташири"
-	"Урбниси"
-}
+		 Aragveti Anacopia Artaani Abkhazeti Bichvinta Batomi Chavchavadze Dmanisi Demetre Ereti Geguti Gelati Kutatsi Kharnabuji
 
+ 		Lasharisjvari Mtkvari Narikala Ruisi Racha Seti Svaneti Tamar Tbilisi Telavi Tbilisi Tashiri Urbnisi
 
+	}
 	ironclad = {
-	"Арагвети"
-	"Анакопия"
-	"Артаани"
-	"Абхазети"
-	"Бичвинта"
-	"Батуми"
-	"Чавчавадзе"
-	"Дманиси"
-	"Дмитрий"
-	"Эрети"
-	"Гегути"
-	"Гелати"
-	"Кутаиси"
-	"Карнабуджи"
-	"Лашарисджвари"
-	"Мтквари"
-	"Нарикала"
-	"Руиси"
-	"Рача"
-	"Сети"
-	"Сванети"
-	"Тамар"
-	"Тбилиси"
-	"Телави"
-	"Тбилиси"
-	"Ташири"
-	"Урбниси"
-}
+		 Aragveti Anacopia Artaani Abkhazeti Bichvinta Batomi Chavchavadze Dmanisi Demetre Ereti Geguti Gelati Kutatsi Kharnabuji
+
+ 		Lasharisjvari Mtkvari Narikala Ruisi Racha Seti Svaneti Tamar Tbilisi Telavi Tbilisi Tashiri Urbnisi
 
 
+	}
 	manowar = {
-	"Арагвети"
-	"Анакопия"
-	"Артаани"
-	"Абхазети"
-	"Бичвинта"
-	"Батуми"
-	"Чавчавадзе"
-	"Дманиси"
-	"Дмитрий"
-	"Эрети"
-	"Гегути"
-	"Гелати"
-	"Кутаиси"
-	"Карнабуджи"
-	"Лашарисджвари"
-	"Мтквари"
-	"Нарикала"
-	"Руиси"
-	"Рача"
-	"Сети"
-	"Сванети"
-	"Тамар"
-	"Тбилиси"
-	"Телави"
-	"Тбилиси"
-	"Ташири"
-	"Урбниси"
-}
+		 Aragveti Anacopia Artaani Abkhazeti Bichvinta Batomi Chavchavadze Dmanisi Demetre Ereti Geguti Gelati Kutatsi Kharnabuji
 
+ 		Lasharisjvari Mtkvari Narikala Ruisi Racha Seti Svaneti Tamar Tbilisi Telavi Tbilisi Tashiri Urbnisi
 
+	}
 	cruiser = {
-	"Арагвети"
-	"Анакопия"
-	"Артаани"
-	"Абхазети"
-	"Бичвинта"
-	"Батуми"
-	"Чавчавадзе"
-	"Дманиси"
-	"Дмитрий"
-	"Эрети"
-	"Гегути"
-	"Гелати"
-	"Кутаиси"
-	"Карнабуджи"
-	"Лашарисджвари"
-	"Мтквари"
-	"Нарикала"
-	"Руиси"
-	"Рача"
-	"Сети"
-	"Сванети"
-	"Тамар"
-	"Тбилиси"
-	"Телави"
-	"Тбилиси"
-	"Ташири"
-	"Урбниси"
-}
+		 Aragveti Anacopia Artaani Abkhazeti Bichvinta Batomi Chavchavadze Dmanisi Demetre Ereti Geguti Gelati Kutatsi Kharnabuji
 
-
+ 		Lasharisjvari Mtkvari Narikala Ruisi Racha Seti Svaneti Tamar Tbilisi Telavi Tbilisi Tashiri Urbnisi
+	}
 	frigate = {
-	"Арагвети"
-	"Анакопия"
-	"Артаани"
-	"Абхазети"
-	"Бичвинта"
-	"Батуми"
-	"Чавчавадзе"
-	"Дманиси"
-	"Дмитрий"
-	"Эрети"
-	"Гегути"
-	"Гелати"
-	"Кутаиси"
-	"Карнабуджи"
-	"Лашарисджвари"
-	"Мтквари"
-	"Нарикала"
-	"Руиси"
-	"Рача"
-	"Сети"
-	"Сванети"
-	"Тамар"
-	"Тбилиси"
-	"Телави"
-	"Тбилиси"
-	"Ташири"
-	"Урбниси"
-}
+		 Aragveti Anacopia Artaani Abkhazeti Bichvinta Batomi Chavchavadze Dmanisi Demetre Ereti Geguti Gelati Kutatsi Kharnabuji
 
+ 		Lasharisjvari Mtkvari Narikala Ruisi Racha Seti Svaneti Tamar Tbilisi Telavi Tbilisi Tashiri Urbnisi
 
+	}
 	monitor = {
-	"Арагвети"
-	"Анакопия"
-	"Артаани"
-	"Абхазети"
-	"Бичвинта"
-	"Батуми"
-	"Чавчавадзе"
-	"Дманиси"
-	"Дмитрий"
-	"Эрети"
-	"Гегути"
-	"Гелати"
-	"Кутаиси"
-	"Карнабуджи"
-	"Лашарисджвари"
-	"Мтквари"
-	"Нарикала"
-	"Руиси"
-	"Рача"
-	"Сети"
-	"Сванети"
-	"Тамар"
-	"Тбилиси"
-	"Телави"
-	"Тбилиси"
-	"Ташири"
-	"Урбниси"
-}
+		 Aragveti Anacopia Artaani Abkhazeti Bichvinta Batomi Chavchavadze Dmanisi Demetre Ereti Geguti Gelati Kutatsi Kharnabuji
 
+ 		Lasharisjvari Mtkvari Narikala Ruisi Racha Seti Svaneti Tamar Tbilisi Telavi Tbilisi Tashiri Urbnisi
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Арагвети"
-	"Анакопия"
-	"Артаани"
-	"Абхазети"
-	"Бичвинта"
-	"Батуми"
-	"Чавчавадзе"
-	"Дманиси"
-	"Дмитрий"
-	"Эрети"
-	"Гегути"
-	"Гелати"
-	"Кутаиси"
-	"Карнабуджи"
-	"Лашарисджвари"
-	"Мтквари"
-	"Нарикала"
-	"Руиси"
-	"Рача"
-	"Сети"
-	"Сванети"
-	"Тамар"
-	"Тбилиси"
-	"Телави"
-	"Тбилиси"
-	"Ташири"
-	"Урбниси"
-}
+		 Aragveti Anacopia Artaani Abkhazeti Bichvinta Batomi Chavchavadze Dmanisi Demetre Ereti Geguti Gelati Kutatsi Kharnabuji
 
+ 		Lasharisjvari Mtkvari Narikala Ruisi Racha Seti Svaneti Tamar Tbilisi Telavi Tbilisi Tashiri Urbnisi
 
+	}
 }

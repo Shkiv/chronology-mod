@@ -156,148 +156,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Альмиранте Брион"
-	"Франсиско де Миранда"
-	"Хенераль Фалькон"
-	"Хенераль Паэс"
-	"Хенераль Самора"
-	"Гвайкайпуро"
-	"Марискаль Сукре"
-	"Симон Боливар"
-	"Таманако"
-	"Венесуэла"
-}
-
-
+		"Almirante Briуn" "Francisco de Miranda" "General Falcуn" "General Pбez" "General Zamora" Guaicaipuro "Mariscal Sucre" "Simуn Bolivar" Tamanaco Venezuela
+	}
 	ironclad = {
-	"Боливар"
-	"Карабобо"
-	"Хенераль Сублетт"
-	"Хенераль Урданета"
-	"Марапарари"
-	"Монагас"
-	"Тотумо"
-	"Тропико"
-	"Вейтитрес де Майо"
-}
-
-
+		Bolнvar Carabobo "General Soublette" "General Urdaneta" Maraparari Monagas Totumo Trуpico "Veintitres de Mayo"
+	}
 	manowar = {
-	"Брион"
-	"Коломбиана"
-	"Конехо"
-	"Эклипс"
-	"Фелис"
-	"Индепенденсия"
-	"Интрепидо"
-	"Мариньо"
-	"Пиар"
-	"Рита"
-}
-
-
+		Briуn Colombiana Conejo Eclipse Feliz Independencia Intrйpido Mariсo Piar Rita
+	}
 	cruiser = {
-	"Арагуа"
-	"Карония"
-	"Касикьяре"
-	"Кумана"
-	"Хенераль Салом"
-	"Маракайбо"
-	"Ориноко"
-	"Рестаурадор"
-	"Сукре"
-	"Сулия"
-}
-
-
+		Aragua Caronн Casiquiare Cumanб "General Salom" Maracaibo Orinoco Restaurador Sucre Zulia
+	}
 	frigate = {
-	"Карибе"
-	"Кохедес"
-	"Лара"
-	"Мерида"
-	"Монагас"
-	"Нуэва Эспарта"
-	"Португеса"
-	"Трухильо"
-	"Варао"
-	"Екуана"
-}
-
-
+		Caribe Cojedes Lara Mйrida Monagas "Nueva Esparta" Portuguesa Trujillo Warao Yecuana
+	}
 	monitor = {
-	"Касик"
-	"Карреньо"
-	"Диего де Лосада"
-	"Гран Коломбия"
-	"Гваль"
-	"Гайана"
-	"Нарвате"
-	"Нуэва Андалусия"
-	"Товар"
-	"Виллегас"
-}
-
-
+		Cacique Carreсo "Diego de Losada" "Gran Colombia" Gual Guayana Narvate "Nueva Andalucнa" Tovar Villegas
+	}
 	clipper_transport = {
-	"Дилижент"
-	"Мовиль"
-	"Навеганте"
-	"Нептуно"
-	"Подеросо"
-	"Рейвиндикадор"
-	"Ремолькадр"
-	"Република"
-	"Сан-Хуан"
-	"Сан Лукас"
-	"Сан-Маркос"
-	"Сан Матео"
-	"Сан-Пабло"
-	"Сан-Педро"
-	"Сирена"
-	"Тормента"
-	"Тритон"
-	"Велос"
-	"Вентосо"
-	"Замора"
-}
-
-
+		Diligente Mуvil Navegante Neptuno Poderoso Reivindicador Remolcador Repъblica "San Juan" "San Lucas"
+		"San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritуn Veloz Ventoso Zamora
+	}
 	steam_transport = {
-	"Дилижент"
-	"Мовиль"
-	"Навеганте"
-	"Нептуно"
-	"Подеросо"
-	"Рейвиндикадор"
-	"Ремолькадр"
-	"Република"
-	"Сан-Хуан"
-	"Сан Лукас"
-	"Сан-Маркос"
-	"Сан Матео"
-	"Сан-Пабло"
-	"Сан-Педро"
-	"Сирена"
-	"Тормента"
-	"Тритон"
-	"Велос"
-	"Вентосо"
-	"Замора"
-}
-
-
+		Diligente Mуvil Navegante Neptuno Poderoso Reivindicador Remolcador Repъblica "San Juan" "San Lucas"
+		"San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritуn Veloz Ventoso Zamora
+	}
 	commerce_raider = {
-	"Арагуа"
-	"Конститусьон"
-	"Федерасьон"
-	"Хенераль Креспо"
-	"Индепенденсия"
-	"Либертад"
-	"Маркай"
-	"Матурин"
-	"Миранда"
-	"Патрия"
-}
-
-
+		Aragua Constituciуn Federaciуn "General Crespo" Independencia Libertad Marcay Maturнn Miranda Patria
+	}
 }

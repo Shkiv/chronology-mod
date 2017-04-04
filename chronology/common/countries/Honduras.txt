@@ -129,148 +129,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Франсиско Феррера"
-	"Франсиско Морасан"
-	"Гондурас"
-	"Хосе Мария Медина"
-	"Хосе Сантос"
-	"Луис Богран"
-	"Мануэль Бонилья"
-	"Марко Аурелио Сото"
-	"Теренсио Сьерра"
-	"Тибурсио Андино"
-}
-
-
+		"Francisco Ferrera" "Francisco Morazбn" Honduras "Josй Marнa Medina" "Josй Santos" "Luis Bogrбn" "Manuel Bonilla" "Marco Aurelio Soto" "Terencio Sierra" "Tiburcio Andino"
+	}
 	ironclad = {
-	"Бараона"
-	"Хорнетт"
-	"Лемпа"
-	"Накаоме"
-	"Патука"
-	"Сигре"
-	"Татумбла"
-	"Тайгер"
-	"Улуа"
-	"Вейнтидос де Фебреро"
-}
-
-
+		Barahona Hornett Lempa Nacaome Patuca Sigre Tatumbla Tigre Ulъa "Veintidуs de Febrero"
+	}
 	manowar = {
-	"Алисео"
-	"Федерасьон"
-	"Гондурас"
-	"Либертад"
-	"Насьон"
-	"Сан-Франциско"
-	"Санта-Каталина"
-	"Тормента"
-	"Труэно"
-}
-
-
+		Alнseo Federaciуn Honduras Libertad Naciуn "San Francisco" "Santa Catalina" Tormenta Trueno
+	}
 	cruiser = {
-	"Серро Паленке"
-	"Чорти"
-	"Копан"
-	"Христофор Колумб"
-	"Куррусте"
-	"Куямель"
-	"Десполонкаль"
-	"Майя"
-	"Педро де Альварадо"
-	"Тикамая"
-}
-
-
+		"Cerro Palenque" Chorti Copбn "Cristуbal Colуn" Curruste Cuyamel Despoloncal Maya "Pedro de Alvarado" Ticamaya
+	}
 	frigate = {
-	"Комаягуа"
-	"Грасиас"
-	"Ютикальпа"
-	"Ла Эсперанса"
-	"Пуэрто Лемпира"
-	"Сан-Педро-Сула"
-	"Санта-Барбара"
-	"Тегусигальпа"
-	"Трухильо"
-	"Йоро"
-}
-
-
+		Comayagua Gracias Juticalpa "La Esperanza" "Puerto Lempira" "San Pedro Sula" "Santa Bбrbara" Tegucigalpa Trujillo Yoro
+	}
 	monitor = {
-	"Атлантида"
-	"Колон"
-	"Эль Тигре"
-	"Грасиас а Диос"
-	"Ла-Пас"
-	"Окотепеке"
-	"Утила"
-	"Валье"
-	"Йохоа"
-	"сакате Гранде"
-}
-
-
+		Atlбntida Colуn "El Tigre" "Gracias a Dios" "La Paz" Ocotepeque Utila Valle Yojoa "Zacate Grande"
+	}
 	clipper_transport = {
-	"Аделантада"
-	"Асуль"
-	"Бланко"
-	"Колорадо"
-	"Корсарио"
-	"Диаманте"
-	"Эсмеральда"
-	"Эстрелла де лос Марес"
-	"Ондуреньон"
-	"Марехада"
-	"Навеганте"
-	"Релампаго"
-	"Руби"
-	"Сан-Хоакин"
-	"Сан-Николас"
-	"Санта-Ана"
-	"Суркадора"
-	"Темпораль"
-	"Верде"
-	"Воладора"
-}
-
-
+		Adelantada Azъl Blanco Colorado Corsario Diamante Esmeralda "Estrella de los Mares" Hondureсo Marejada
+		Navegante Relбmpago Rubн "San Joaquнn" "San Nicolбs" "Santa Ana" Surcadora Temporal Verde Voladora
+	}
 	steam_transport = {
-	"Аделантада"
-	"Асуль"
-	"Бланко"
-	"Колорадо"
-	"Корсарио"
-	"Диаманте"
-	"Эсмеральда"
-	"Эстрелла де лос Марес"
-	"Ондуреньон"
-	"Марехада"
-	"Навеганте"
-	"Релампаго"
-	"Руби"
-	"Сан-Хоакин"
-	"Сан-Николас"
-	"Санта-Ана"
-	"Суркадора"
-	"Темпораль"
-	"Верде"
-	"Воладора"
-}
-
-
+		Adelantada Azъl Blanco Colorado Corsario Diamante Esmeralda "Estrella de los Mares" Hondureсo Marejada
+		Navegante Relбmpago Rubн "San Joaquнn" "San Nicolбs" "Santa Ana" Surcadora Temporal Verde Voladora
+	}
 	commerce_raider = {
-	"Аманесер"
-	"Буфало"
-	"Кабаньяс"
-	"Кариас"
-	"Флотанте"
-	"Гуарда"
-	"Ирреверенте"
-	"Лемпира"
-	"Виктор"
-	"самбрано"
-}
-
-
+		Amanecer Bъfalo Cabaсas Carнas Flotante Guarda Irreverente Lempira Vнctor Zambrano
+	}
 }

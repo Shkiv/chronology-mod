@@ -101,173 +101,44 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Алия"
-	"Алиша"
-	"Азиза"
-	"Беас"
-	"Ченаб"
-	"Фатима"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Хан"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нилуфа"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Ясмин"
-	"Захира"
-}
+		Alia Alisha Aziza Beas Chenab Fatimah Guru Indus Jalsena Jhelum Khan Nausena "Nav ka Yudh" Niknaz Niloufa Ravi Sagar Sutlej Yasmine
 
-
+	Zahira
+	}
 	ironclad = {
-	"Алия"
-	"Алиша"
-	"Азиза"
-	"Беас"
-	"Ченаб"
-	"Фатима"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Хан"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нилуфа"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Ясмин"
-	"Захира"
-}
+		Alia Alisha Aziza Beas Chenab Fatimah Guru Indus Jalsena Jhelum Khan Nausena "Nav ka Yudh" Niknaz Niloufa Ravi Sagar Sutlej Yasmine
 
-
+		Zahira
+	}
 	manowar = {
-	"Алия"
-	"Алиша"
-	"Азиза"
-	"Беас"
-	"Ченаб"
-	"Фатима"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Хан"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нилуфа"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Ясмин"
-	"Захира"
-}
+		Alia Alisha Aziza Beas Chenab Fatimah Guru Indus Jalsena Jhelum Khan Nausena "Nav ka Yudh" Niknaz Niloufa Ravi Sagar Sutlej Yasmine
 
-
+		Zahira
+	}
 	cruiser = {
-	"Алия"
-	"Алиша"
-	"Азиза"
-	"Беас"
-	"Ченаб"
-	"Фатима"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Хан"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нилуфа"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Ясмин"
-	"Захира"
-}
+		Alia Alisha Aziza Beas Chenab Fatimah Guru Indus Jalsena Jhelum Khan Nausena "Nav ka Yudh" Niknaz Niloufa Ravi Sagar Sutlej Yasmine
 
-
+		Zahira
+	}
 	frigate = {
-	"Алия"
-	"Алиша"
-	"Азиза"
-	"Беас"
-	"Ченаб"
-	"Фатима"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Хан"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нилуфа"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Ясмин"
-	"Захира"
-}
+		Alia Alisha Aziza Beas Chenab Fatimah Guru Indus Jalsena Jhelum Khan Nausena "Nav ka Yudh" Niknaz Niloufa Ravi Sagar Sutlej Yasmine
 
-
+		Zahira
+	}
 	monitor = {
-	"Алия"
-	"Алиша"
-	"Азиза"
-	"Беас"
-	"Ченаб"
-	"Фатима"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Хан"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нилуфа"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Ясмин"
-	"Захира"
-}
+		Alia Alisha Aziza Beas Chenab Fatimah Guru Indus Jalsena Jhelum Khan Nausena "Nav ka Yudh" Niknaz Niloufa Ravi Sagar Sutlej Yasmine
 
+		Zahira
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Алия"
-	"Алиша"
-	"Азиза"
-	"Беас"
-	"Ченаб"
-	"Фатима"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Хан"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нилуфа"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Ясмин"
-	"Захира"
-}
+		Alia Alisha Aziza Beas Chenab Fatimah Guru Indus Jalsena Jhelum Khan Nausena "Nav ka Yudh" Niknaz Niloufa Ravi Sagar Sutlej Yasmine
 
-
+		Zahira
+	}
 }

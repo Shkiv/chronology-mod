@@ -115,124 +115,51 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Чиликот"
-	"Чекетекака"
-	"Хатавекела"
-	"Киспокота"
-	"Мекачаке"
-	"Пекуве"
-	"Виваканакитита"
-	"Випеква Веше"
-	"Мшкваави Пешикте"
-	"Папапанаве Мешева"
-	"Унемаке Мешева"
-	"Ваканакя Кони"
-	"Мшкваави Сепе"
-}
+		Chillicothe Cheketecaca Hathawekela Kispokotha Mequachake Pekuwe
+		"weewa'kanakithita" "Wiipekwa Weshe" "Mshkwaawi Peshikthe" "Papapanawe Meshewa"
+		"Unemake Meshewa" "Wa'kanakya Conee" "Mshkwaawi Sepe"
 
-
+	}
 	ironclad = {
-	"Чиликот"
-	"Чекетекака"
-	"Хатавекела"
-	"Киспокота"
-	"Мекачаке"
-	"Пекуве"
-	"Виваканакитита"
-	"Випеква Веше"
-	"Мшкваави Пешикте"
-	"Папапанаве Мешева"
-	"Унемаке Мешева"
-	"Ваканакя Кони"
-	"Мшкваави Сепе"
-}
+		Chillicothe Cheketecaca Hathawekela Kispokotha Mequachake Pekuwe
+		"weewa'kanakithita" "Wiipekwa Weshe" "Mshkwaawi Peshikthe" "Papapanawe Meshewa"
+		"Unemake Meshewa" "Wa'kanakya Conee" "Mshkwaawi Sepe"
 
-
+	}
 	manowar = {
-	"Чиликот"
-	"Чекетекака"
-	"Хатавекела"
-	"Киспокота"
-	"Мекачаке"
-	"Пекуве"
-	"Виваканакитита"
-	"Випеква Веше"
-	"Мшкваави Пешикте"
-	"Папапанаве Мешева"
-	"Унемаке Мешева"
-	"Ваканакя Кони"
-	"Мшкваави Сепе"
-}
+		Chillicothe Cheketecaca Hathawekela Kispokotha Mequachake Pekuwe
+		"weewa'kanakithita" "Wiipekwa Weshe" "Mshkwaawi Peshikthe" "Papapanawe Meshewa"
+		"Unemake Meshewa" "Wa'kanakya Conee" "Mshkwaawi Sepe"
 
-
+	}
 	cruiser = {
-	"Чиликот"
-	"Чекетекака"
-	"Хатавекела"
-	"Киспокота"
-	"Мекачаке"
-	"Пекуве"
-	"Виваканакитита"
-	"Випеква Веше"
-	"Мшкваави Пешикте"
-	"Папапанаве Мешева"
-	"Унемаке Мешева"
-	"Ваканакя Кони"
-	"Мшкваави Сепе"
-}
+		Chillicothe Cheketecaca Hathawekela Kispokotha Mequachake Pekuwe
+		"weewa'kanakithita" "Wiipekwa Weshe" "Mshkwaawi Peshikthe" "Papapanawe Meshewa"
+		"Unemake Meshewa" "Wa'kanakya Conee" "Mshkwaawi Sepe"
 
-
+	}
 	frigate = {
-	"Чиликот"
-	"Чекетекака"
-	"Хатавекела"
-	"Киспокота"
-	"Мекачаке"
-	"Пекуве"
-	"Виваканакитита"
-	"Випеква Веше"
-	"Мшкваави Пешикте"
-	"Папапанаве Мешева"
-	"Унемаке Мешева"
-	"Ваканакя Кони"
-	"Мшкваави Сепе"
-}
+		Chillicothe Cheketecaca Hathawekela Kispokotha Mequachake Pekuwe
+		"weewa'kanakithita" "Wiipekwa Weshe" "Mshkwaawi Peshikthe" "Papapanawe Meshewa"
+		"Unemake Meshewa" "Wa'kanakya Conee" "Mshkwaawi Sepe"
 
-
+	}
 	monitor = {
-	"Чиликот"
-	"Чекетекака"
-	"Хатавекела"
-	"Киспокота"
-	"Мекачаке"
-	"Пекуве"
-	"Виваканакитита"
-	"Випеква Веше"
-	"Мшкваави Пешикте"
-	"Папапанаве Мешева"
-	"Унемаке Мешева"
-	"Ваканакя Кони"
-	"Мшкваави Сепе"
-}
+		Chillicothe Cheketecaca Hathawekela Kispokotha Mequachake Pekuwe
+		"weewa'kanakithita" "Wiipekwa Weshe" "Mshkwaawi Peshikthe" "Papapanawe Meshewa"
+		"Unemake Meshewa" "Wa'kanakya Conee" "Mshkwaawi Sepe"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Чиликот"
-	"Чекетекака"
-	"Хатавекела"
-	"Киспокота"
-	"Мекачаке"
-	"Пекуве"
-	"Виваканакитита"
-	"Випеква Веше"
-	"Мшкваави Пешикте"
-	"Папапанаве Мешева"
-	"Унемаке Мешева"
-	"Ваканакя Кони"
-	"Мшкваави Сепе"
-}
+		Chillicothe Cheketecaca Hathawekela Kispokotha Mequachake Pekuwe
+		"weewa'kanakithita" "Wiipekwa Weshe" "Mshkwaawi Peshikthe" "Papapanawe Meshewa"
+		"Unemake Meshewa" "Wa'kanakya Conee" "Mshkwaawi Sepe"
 
-
+	}
 }

@@ -101,103 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Абуджа"
-	"Эде"
-	"Энугу"
-	"Кадуна"
-	"Кано"
-	"Катсина"
-	"Джос"
-	"Ово"
-	"Сокото"
-	"Зария"
-}
+		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
 
-
+	}
 	ironclad = {
-	"Абуджа"
-	"Эде"
-	"Энугу"
-	"Кадуна"
-	"Кано"
-	"Катсина"
-	"Джос"
-	"Ово"
-	"Сокото"
-	"Зария"
-}
+		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
 
-
+	}
 	manowar = {
-	"Абуджа"
-	"Эде"
-	"Энугу"
-	"Кадуна"
-	"Кано"
-	"Катсина"
-	"Джос"
-	"Ово"
-	"Сокото"
-	"Зария"
-}
-
-
+		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
+	}
 	cruiser = {
-	"Абуджа"
-	"Эде"
-	"Энугу"
-	"Кадуна"
-	"Кано"
-	"Катсина"
-	"Джос"
-	"Ово"
-	"Сокото"
-	"Зария"
-}
-
-
+		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
+	}
 	frigate = {
-	"Абуджа"
-	"Эде"
-	"Энугу"
-	"Кадуна"
-	"Кано"
-	"Катсина"
-	"Джос"
-	"Ово"
-	"Сокото"
-	"Зария"
-}
-
-
+		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
+	}
 	monitor = {
-	"Абуджа"
-	"Эде"
-	"Энугу"
-	"Кадуна"
-	"Кано"
-	"Катсина"
-	"Джос"
-	"Ово"
-	"Сокото"
-	"Зария"
-}
+		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Абуджа"
-	"Эде"
-	"Энугу"
-	"Кадуна"
-	"Кано"
-	"Катсина"
-	"Джос"
-	"Ово"
-	"Сокото"
-	"Зария"
-}
-
-
+		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
+	}
 }

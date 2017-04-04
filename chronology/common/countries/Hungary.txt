@@ -227,195 +227,39 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Сент-Иштван"
-	"Зриньи"
-	"Арпад"
-	"Зигетвар"
-	"Сава"
-	"Темеш"
-	"Бодрог"
-	"Самош"
-	"Керес"
-	"Марос"
-	"Лейта"
-	"Балатон"
-	"Чепель"
-	"Лика"
-	"Орьен"
-	"Татра"
-	"Триглав"
-	"Динара"
-	"Чикош"
-	"Пандур"
-	"Река"
-	"Туруль"
-	"Хуссар"
-	"Улан"
-}
-
-
+		"Szent Istvan" Zrinyi Бrpбd Szigetvбr Sava Temes Bodrog Szamos Kцrцs Maros Leitha Balaton Csepel Lika Orjen Tбtra Triglav Dinara Csikуs Pandъr Rйka Turul Huszбr Ulan
+	}
 	ironclad = {
-	"Зриньи"
-	"Арпад"
-	"Зигетвар"
-	"Сава"
-	"Темеш"
-	"Бодрог"
-	"Самош"
-	"Керес"
-	"Марос"
-	"Лейта"
-	"Балатон"
-	"Чепель"
-	"Лика"
-	"Орьен"
-	"Татра"
-	"Триглав"
-	"Динара"
-	"Чикош"
-	"Пандур"
-	"Река"
-	"Туруль"
-	"Хуссар"
-	"Улан"
-}
+		Zrinyi Бrpбd Szigetvбr Sava Temes Bodrog Szamos Kцrцs Maros Leitha Balaton Csepel Lika Orjen Tбtra Triglav Dinara Csikуs 	Pandъr Rйka Turul Huszбr Ulan
 
 
+	}
 	manowar = {
-	"Зриньи"
-	"Арпад"
-	"Зигетвар"
-	"Сава"
-	"Темеш"
-	"Бодрог"
-	"Самош"
-	"Керес"
-	"Марос"
-	"Лейта"
-	"Балатон"
-	"Чепель"
-	"Лика"
-	"Орьен"
-	"Татра"
-	"Триглав"
-	"Динара"
-	"Чикош"
-	"Пандур"
-	"Река"
-	"Туруль"
-	"Хуссар"
-	"Улан"
-}
+		Zrinyi Бrpбd Szigetvбr Sava Temes Bodrog Szamos Kцrцs Maros Leitha Balaton Csepel Lika Orjen Tбtra Triglav Dinara Csikуs 	Pandъr Rйka Turul Huszбr Ulan
 
-
+	}
 	cruiser = {
-	"Зриньи"
-	"Арпад"
-	"Зигетвар"
-	"Сава"
-	"Темеш"
-	"Бодрог"
-	"Самош"
-	"Керес"
-	"Марос"
-	"Лейта"
-	"Балатон"
-	"Чепель"
-	"Лика"
-	"Орьен"
-	"Татра"
-	"Триглав"
-	"Динара"
-	"Чикош"
-	"Пандур"
-	"Река"
-	"Туруль"
-	"Хуссар"
-	"Улан"
-}
+		Zrinyi Бrpбd Szigetvбr Sava Temes Bodrog Szamos Kцrцs Maros Leitha Balaton Csepel Lika Orjen Tбtra Triglav Dinara Csikуs 	Pandъr Rйka Turul Huszбr Ulan
 
-
+	}
 	frigate = {
-	"Зриньи"
-	"Арпад"
-	"Зигетвар"
-	"Сава"
-	"Темеш"
-	"Бодрог"
-	"Самош"
-	"Керес"
-	"Марос"
-	"Лейта"
-	"Балатон"
-	"Чепель"
-	"Лика"
-	"Орьен"
-	"Татра"
-	"Триглав"
-	"Динара"
-	"Чикош"
-	"Пандур"
-	"Река"
-	"Туруль"
-	"Хуссар"
-	"Улан"
-}
+		Zrinyi Бrpбd Szigetvбr Sava Temes Bodrog Szamos Kцrцs Maros Leitha Balaton Csepel Lika Orjen Tбtra Triglav Dinara Csikуs 	Pandъr Rйka Turul Huszбr Ulan
 
-
+	}
 	monitor = {
-	"Зриньи"
-	"Арпад"
-	"Зигетвар"
-	"Сава"
-	"Темеш"
-	"Бодрог"
-	"Самош"
-	"Керес"
-	"Марос"
-	"Лейта"
-	"Балатон"
-	"Чепель"
-	"Лика"
-	"Орьен"
-	"Татра"
-	"Триглав"
-	"Динара"
-	"Чикош"
-	"Пандур"
-	"Река"
-	"Туруль"
-	"Хуссар"
-	"Улан"
-}
+		Zrinyi Бrpбd Szigetvбr Sava Temes Bodrog Szamos Kцrцs Maros Leitha Balaton Csepel Lika Orjen Tбtra Triglav Dinara Csikуs 	Pandъr Rйka Turul Huszбr Ulan
 
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Зриньи"
-	"Арпад"
-	"Зигетвар"
-	"Сава"
-	"Темеш"
-	"Бодрог"
-	"Самош"
-	"Керес"
-	"Марос"
-	"Лейта"
-	"Балатон"
-	"Чепель"
-	"Лика"
-	"Орьен"
-	"Татра"
-	"Триглав"
-	"Динара"
-	"Чикош"
-	"Пандур"
-	"Река"
-	"Туруль"
-	"Хуссар"
-	"Улан"
-}
+		Zrinyi Бrpбd Szigetvбr Sava Temes Bodrog Szamos Kцrцs Maros Leitha Balaton Csepel Lika Orjen Tбtra Triglav Dinara Csikуs Pandъr Rйka Turul Huszбr Ulan
 
 
+	}
 }

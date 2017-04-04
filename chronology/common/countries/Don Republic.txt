@@ -101,68 +101,58 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Остап Дашкевич"
-	"Козак"
-	"Степан Разин"
-	"Кондратий Булавин"
-	"Емельян Пугачев"
-}
-
+		"Ostap Dashkevich"
+		Kozak
+		"Stepan Razin"
+		"Kondratiy Bulavin"
+		"Emelyan Pugachev"
+	}
 
 	ironclad = {
-	"Ставрополь"
-	"Терек"
-	"Екатеринодар"
-	"Казакия"
-	"Атаман Краснов"
-}
-
+		Stavropol
+		Terek
+		Ekaterinodar
+		Kazakia
+		"Ataman Krasnov"
+	}
 
 	manowar = {
-	"Крым"
-	"Запорожье"
-	"Херсонщина"
-	"Николаев"
-	"Днепропетровск"
-}
-
+		Krym
+		Zaporozhye
+		Khersonshina
+		Nikolaev
+		Don
+	}
 
 	cruiser = {
-	"Кий"
-	"Щек"
-	"Хорив"
-	"Бравлин"
-	"Олег"
-}
-
+		Kyi
+		Shchek
+		Khoryv
+		Bravlin
+		Oleg
+	}
 
 	frigate = {
-	"Днестр"
-	"Днепр"
-	"Десна"
-	"Припять"
-	"Прут"
-}
-
+		Dnestr
+		Dnepr
+		Desna
+		Pripyat
+		Prut
+	}
 
 	monitor = {
-	"София"
-	"Печорская Лавра"
-	"Каменец-Подольский"
-	"Хотынь"
-	"Хортица"
-}
+		Sofia
+		"Pecherskaya Lavra"
+		Kamenets-Podolsky
+		Khotyn
+		Khortitsa
+	}
 
-
-	
-	
 	commerce_raider = {
-	"Оксана"
-	"Александра"
-	"Юлия"
-	"Надя"
-	"Мария"
-}
-
-
+		Oksana
+		Aleksandra
+		Yulia
+		Nadya
+		Maria
+	}
 }

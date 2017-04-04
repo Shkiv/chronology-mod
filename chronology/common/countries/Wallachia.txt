@@ -157,117 +157,50 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Дракула"
-	"Тудор Владимиреску"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-}
+		Dracul "Tudor Vladimirescu" Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" Posada Calugareni Rovine Sirmium "Atacul de noapte"
 
-
+		Litovoi
+	}
 	ironclad = {
-	"Дракула"
-	"Тудор Владимиреску"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-}
+		Dracul "Tudor Vladimirescu" Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" Posada Calugareni Rovine Sirmium "Atacul de noapte"
 
+		Litovoi
 
+	}
 	manowar = {
-	"Дракула"
-	"Тудор Владимиреску"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-}
+		Dracul "Tudor Vladimirescu" Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" Posada Calugareni Rovine Sirmium "Atacul de noapte"
 
+		Litovoi
 
+	}
 	cruiser = {
-	"Дракула"
-	"Тудор Владимиреску"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-}
+		Dracul "Tudor Vladimirescu" Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" Posada Calugareni Rovine Sirmium "Atacul de noapte"
 
+		Litovoi
 
+	}
 	frigate = {
-	"Дракула"
-	"Тудор Владимиреску"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-}
+		Dracul "Tudor Vladimirescu" Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" Posada Calugareni Rovine Sirmium "Atacul de noapte"
 
+		Litovoi
 
+	}
 	monitor = {
-	"Дракула"
-	"Тудор Владимиреску"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-}
+		Dracul "Tudor Vladimirescu" Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" Posada Calugareni Rovine Sirmium "Atacul de noapte"
 
+		Litovoi
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Дракула"
-	"Тудор Владимиреску"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-}
+		Dracul "Tudor Vladimirescu" Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" Posada Calugareni Rovine Sirmium "Atacul de noapte"
 
+		Litovoi
 
+	}
 }

@@ -157,149 +157,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Антонио Масео"
-	"Бартоломе Масо"
-	"Карлос де Сеспедес"
-	"Карлос Ролофф"
-	"Эроэс де Куба"
-	"Хосе Марти"
-	"Максимо Гомес"
-	"Сальвадор Сиснерос"
-	"Серафин Санчес"
-	"Томас Эстрада"
-}
-
-
+		"Antonio Maceo" "Bartolomй Masу" "Carlos M. de Cйspedes" "Carlos Roloff" "Hйroes de Cuba" "Josй Martн" "Mбximo Gуmez" "Salvador Cisneros" "Serafнn Sбnchez" "Tomбs Estrada"
+	}
 	ironclad = {
-	"Баконао"
-	"Буэнависта"
-	"Кауто"
-	"Диего Веласкес"
-	"Исла де Пинос"
-	"Максимо"
-	"Сьерра Кристаль"
-	"Сьерра дель Росарио"
-	"Тоа"
-	"Туркино"
-}
-
-
+		Baconao Buenavista Cauto "Diego Velбzquez" "Isla de Pinos" Mбximo "Sierra Cristal" "Sierra del Rosario" Toa Turquino
+	}
 	manowar = {
-	"Алисио"
-	"Эстрелла де лос Марес"
-	"Гуэррера"
-	"Сан-Карлос"
-	"Сан-Фернандо"
-	"Сан-Хуан"
-	"Сантьяго"
-	"Валентия"
-	"Вентура"
-	"Виктория"
-}
-
-
+		Alнsio "Estrella de los Mares" Guerrera "San Carlos" "San Fernando" "San Juan" Santiago Valentнa Ventura Victoria
+	}
 	cruiser = {
-	"Карибе"
-	"Куба"
-	"Флорида"
-	"Гуахиро"
-	"Исла Фернандина"
-	"Исла Хуана"
-	"Хосе Антонио Апонте"
-	"Хоя дель Карибе"
-	"Николас Моралес"
-	"Патрия"
-}
-
-
+		Caribe Cuba Florida Guajiro "Isla Fernandina" "Isla Juana" "Josй Antonio Aponte" "Joya del Caribe" "Nicolбs Morales" Patria
+	}
 	frigate = {
-	"Каликсто Гарсия"
-	"Конститусьон"
-	"Феликс Варела"
-	"Грито де Яра"
-	"Индепенденсия"
-	"Хоакин Инфанте"
-	"Хосе Лемус"
-	"Хосе Эредия"
-	"Либертад"
-	"Република"
-}
-
-
+		"Calixto Garcнa" Constituciуn "Fйlix Varela" "Grito de Yara" Independencia "Joaquнn Infante" "Josй F. Lemus" "Josй MЄ Heredia" Libertad Repъblica
+	}
 	monitor = {
-	"Камагуэй"
-	"Сьенфуэгос"
-	"Гуантанамо"
-	"Хупитер"
-	"Марте"
-	"Нептуно"
-	"Плутон"
-	"Санта-Клара"
-	"Сантьяго-де-Куба"
-	"Вулкано"
-}
-
-
+		Camagьey Cienfuegos Guantбnamo Jъpiter Marte Neptuno Plutуn "Santa Clara" "Santiago de Cuba" Vulcano
+	}
 	clipper_transport = {
-	"Амбисьон"
-	"Бальтасар"
-	"Каоба"
-	"Кокодрило"
-	"Корал"
-	"Дефенсора"
-	"Десеада"
-	"Эстрелла"
-	"Ферминия"
-	"Гарса"
-	"Гаспар"
-	"Гранде"
-	"Мамби"
-	"Мансанильо"
-	"Мельчор"
-	"Перла"
-	"Сан-Хосе"
-	"Санта-Мария"
-	"Тека"
-	"Токороро"
-}
-
-
+		Ambiciуn Baltasar Caoba Cocodrilo Coral Defensora Deseada Estrella Ferminia Garza
+		Gaspar Grande Mambi Manzanillo Melchor Perla "San Josй" "Santa Marнa" Teca Tocororo
+	}
 	steam_transport = {
-	"Амбисьон"
-	"Бальтасар"
-	"Каоба"
-	"Кокодрило"
-	"Корал"
-	"Дефенсора"
-	"Десеада"
-	"Эстрелла"
-	"Ферминия"
-	"Гарса"
-	"Гаспар"
-	"Гранде"
-	"Мамби"
-	"Мансанильо"
-	"Мельчор"
-	"Перла"
-	"Сан-Хосе"
-	"Санта-Мария"
-	"Тека"
-	"Токороро"
-}
-
-
+		Ambiciуn Baltasar Caoba Cocodrilo Coral Defensora Deseada Estrella Ferminia Garza
+		Gaspar Grande Mambi Manzanillo Melchor Perla "San Josй" "Santa Marнa" Teca Tocororo
+	}
 	commerce_raider = {
-	"Аргамонте"
-	"Аранья"
-	"Диес де Октубре"
-	"Гуаймаро"
-	"Гавана"
-	"Матансас"
-	"Пилар дель Рио"
-	"Тарантула"
-	"Вейнтикуатро де Фебреро"
-	"Яра"
-}
-
-
+		Agramonte Araсa "Diez de Octubre" Guaimaro Habana Matanzas "Pilar del Rнo" Tarбntula "Veinticuatro de Febrero" Yara
+	}
 }

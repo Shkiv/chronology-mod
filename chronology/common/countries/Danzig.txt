@@ -185,138 +185,36 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Данциг"
-	"Ганза"
-	"Петер фон Данциг"
-	"Поммереллен"
-	"Эльбинг"
-	"Пауль Бенеке"
-	"Коперник"
-	"Калькройт"
-	"Арнсвальде"
-	"Диршау"
-	"Старгард"
-	"Теутоник"
-	"Мариенвердер"
-	"Торн"
-	"Георг Гизе"
-}
-
-
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
+	}
 	ironclad = {
-	"Данциг"
-	"Ганза"
-	"Петер фон Данциг"
-	"Поммереллен"
-	"Эльбинг"
-	"Пауль Бенеке"
-	"Коперник"
-	"Калькройт"
-	"Арнсвальде"
-	"Диршау"
-	"Старгард"
-	"Теутоник"
-	"Мариенвердер"
-	"Торн"
-	"Георг Гизе"
-}
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
 
-
+	}
 	manowar = {
-	"Данциг"
-	"Ганза"
-	"Петер фон Данциг"
-	"Поммереллен"
-	"Эльбинг"
-	"Пауль Бенеке"
-	"Коперник"
-	"Калькройт"
-	"Арнсвальде"
-	"Диршау"
-	"Старгард"
-	"Теутоник"
-	"Мариенвердер"
-	"Торн"
-	"Георг Гизе"
-}
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
 
-
+	}
 	cruiser = {
-	"Данциг"
-	"Ганза"
-	"Петер фон Данциг"
-	"Поммереллен"
-	"Эльбинг"
-	"Пауль Бенеке"
-	"Коперник"
-	"Калькройт"
-	"Арнсвальде"
-	"Диршау"
-	"Старгард"
-	"Теутоник"
-	"Мариенвердер"
-	"Торн"
-	"Георг Гизе"
-}
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
 
-
+	}
 	frigate = {
-	"Данциг"
-	"Ганза"
-	"Петер фон Данциг"
-	"Поммереллен"
-	"Эльбинг"
-	"Пауль Бенеке"
-	"Коперник"
-	"Калькройт"
-	"Арнсвальде"
-	"Диршау"
-	"Старгард"
-	"Теутоник"
-	"Мариенвердер"
-	"Торн"
-	"Георг Гизе"
-}
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
 
-
+	}
 	monitor = {
-	"Данциг"
-	"Ганза"
-	"Петер фон Данциг"
-	"Поммереллен"
-	"Эльбинг"
-	"Пауль Бенеке"
-	"Коперник"
-	"Калькройт"
-	"Арнсвальде"
-	"Диршау"
-	"Старгард"
-	"Теутоник"
-	"Мариенвердер"
-	"Торн"
-	"Георг Гизе"
-}
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Данциг"
-	"Ганза"
-	"Петер фон Данциг"
-	"Поммереллен"
-	"Эльбинг"
-	"Пауль Бенеке"
-	"Коперник"
-	"Калькройт"
-	"Арнсвальде"
-	"Диршау"
-	"Старгард"
-	"Теутоник"
-	"Мариенвердер"
-	"Торн"
-	"Георг Гизе"
-}
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
 
-
+	}
 }

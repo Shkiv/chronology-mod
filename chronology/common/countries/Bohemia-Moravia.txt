@@ -101,68 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ян Гус"
-	"Карл IV"
-	"Прокоп Великий"
-	"Ян Жижка"
-	"Иосиф Рессель"
-}
-
-
+		"Jan Hus" "Karel IV" "Prokop Velikэ" "Jan Ћiћka" "Josef Ressel"
+	}
 	ironclad = {
-	"Прага"
-	"Брно"
-	"Острава"
-	"Пльзень"
-	"Либерец"
-}
-
-
+		Praha Brno Ostrava Plzen Liberec
+	}
 	manowar = {
-	"Милешовка"
-	"Ловос"
-	"Хазмбрук"
-	"Косталов"
-	"Чешске Стредохори"
-}
-
-
+		Mileљovka Lovos Hazmburk Koљtбlov "Ceskй Stredohorн"
+	}
 	cruiser = {
-	"Жизера"
-	"Метуже"
-	"Морава"
-	"Свратка"
-	"Ольза"
-}
-
-
+		Jizera Metuje Morava Svratka Olza
+	}
 	frigate = {
-	"Ян Дисмас Зеленка"
-	"Симон Брикси"
-	"Франтишек Тума"
-	"Антонин Крафт"
-	"Франтишек Ксавер Душек"
-}
-
-
+		"Jan Dismas Zelenka" "Љimon Brixi" "Frantiљek Tuma" "Antonнn Kraft" "Frantiљek Xaver Duљek"
+	}
 	monitor = {
-	"Петр Брандль"
-	"Вацлав Холлар"
-	"Иоганн Ян"
-	"Ян Купецкий"
-	"Карел Шкрета"
-}
+		"Petr Brandl" "Vбclav Hollar" "Jan Jahn" "Jan Kupeckэ" "Karel Љkrйta"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Пражский град"
-	"Вышеград"
-	"Збраслав"
-	"Колодеже"
-	"Хвалы"
-}
-
-
+		"Praћskэ hrad" Vyљehrad Zbraslav Kolodeje Chvaly
+	}
 }

@@ -101,229 +101,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Арун"
-	"Бехри"
-	"Бхоте Коси"
-	"Деви"
-	"Дудх Коси"
-	"Дурга"
-	"Гаятри"
-	"Джалсена"
-	"Кала Джахази"
-	"Кали Гандаки"
-	"Карнали"
-	"Лакшми"
-	"Лал Джахази"
-	"Нараяни"
-	"Наусена"
-	"Навка Юдх"
-	"Нила Джахази"
-	"Парвати"
-	"Радха"
-	"Рапти"
-	"Ратри"
-	"Сагар"
-	"Сапт Коси"
-	"Сарасвати"
-	"Сита"
-	"Сети"
-	"Сун Коси"
-	"Тришули"
-}
+		Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
+		"Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
 
-
+	}
 	ironclad = {
-	"Арун"
-	"Бехри"
-	"Бхоте Коси"
-	"Деви"
-	"Дудх Коси"
-	"Дурга"
-	"Гаятри"
-	"Джалсена"
-	"Кала Джахази"
-	"Кали Гандаки"
-	"Карнали"
-	"Лакшми"
-	"Лал Джахази"
-	"Нараяни"
-	"Наусена"
-	"Навка Юдх"
-	"Нила Джахази"
-	"Парвати"
-	"Радха"
-	"Рапти"
-	"Ратри"
-	"Сагар"
-	"Сапт Коси"
-	"Сарасвати"
-	"Сита"
-	"Сети"
-	"Сун Коси"
-	"Тришули"
-}
-
-
+		Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
+		"Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+	}
 	manowar = {
-	"Арун"
-	"Бехри"
-	"Бхоте Коси"
-	"Деви"
-	"Дудх Коси"
-	"Дурга"
-	"Гаятри"
-	"Джалсена"
-	"Кала Джахази"
-	"Кали Гандаки"
-	"Карнали"
-	"Лакшми"
-	"Лал Джахази"
-	"Нараяни"
-	"Наусена"
-	"Навка Юдх"
-	"Нила Джахази"
-	"Парвати"
-	"Радха"
-	"Рапти"
-	"Ратри"
-	"Сагар"
-	"Сапт Коси"
-	"Сарасвати"
-	"Сита"
-	"Сети"
-	"Сун Коси"
-	"Тришули"
-}
-
-
+		Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
+		"Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+	}
 	cruiser = {
-	"Арун"
-	"Бехри"
-	"Бхоте Коси"
-	"Деви"
-	"Дудх Коси"
-	"Дурга"
-	"Гаятри"
-	"Джалсена"
-	"Кала Джахази"
-	"Кали Гандаки"
-	"Карнали"
-	"Лакшми"
-	"Лал Джахази"
-	"Нараяни"
-	"Наусена"
-	"Навка Юдх"
-	"Нила Джахази"
-	"Парвати"
-	"Радха"
-	"Рапти"
-	"Ратри"
-	"Сагар"
-	"Сапт Коси"
-	"Сарасвати"
-	"Сита"
-	"Сети"
-	"Сун Коси"
-	"Тришули"
-}
-
-
+		Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
+		"Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+	}
 	frigate = {
-	"Арун"
-	"Бехри"
-	"Бхоте Коси"
-	"Деви"
-	"Дудх Коси"
-	"Дурга"
-	"Гаятри"
-	"Джалсена"
-	"Кала Джахази"
-	"Кали Гандаки"
-	"Карнали"
-	"Лакшми"
-	"Лал Джахази"
-	"Нараяни"
-	"Наусена"
-	"Навка Юдх"
-	"Нила Джахази"
-	"Парвати"
-	"Радха"
-	"Рапти"
-	"Ратри"
-	"Сагар"
-	"Сапт Коси"
-	"Сарасвати"
-	"Сита"
-	"Сети"
-	"Сун Коси"
-	"Тришули"
-}
-
-
+		Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
+		"Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+	}
 	monitor = {
-	"Арун"
-	"Бехри"
-	"Бхоте Коси"
-	"Деви"
-	"Дудх Коси"
-	"Дурга"
-	"Гаятри"
-	"Джалсена"
-	"Кала Джахази"
-	"Кали Гандаки"
-	"Карнали"
-	"Лакшми"
-	"Лал Джахази"
-	"Нараяни"
-	"Наусена"
-	"Навка Юдх"
-	"Нила Джахази"
-	"Парвати"
-	"Радха"
-	"Рапти"
-	"Ратри"
-	"Сагар"
-	"Сапт Коси"
-	"Сарасвати"
-	"Сита"
-	"Сети"
-	"Сун Коси"
-	"Тришули"
-}
+		Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
+		"Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Арун"
-	"Бехри"
-	"Бхоте Коси"
-	"Деви"
-	"Дудх Коси"
-	"Дурга"
-	"Гаятри"
-	"Джалсена"
-	"Кала Джахази"
-	"Кали Гандаки"
-	"Карнали"
-	"Лакшми"
-	"Лал Джахази"
-	"Нараяни"
-	"Наусена"
-	"Навка Юдх"
-	"Нила Джахази"
-	"Парвати"
-	"Радха"
-	"Рапти"
-	"Ратри"
-	"Сагар"
-	"Сапт Коси"
-	"Сарасвати"
-	"Сита"
-	"Сети"
-	"Сун Коси"
-	"Тришули"
-}
-
-
+		Arun Behri "Bhote Kosi" Devi "Dudh Kosi" Durga Gayatri Jalsena "Kala Jahazi" "Kali Gandaki" Karnali Lakshmi "Lal Jahazi" Narayani Nausena
+		"Nav ka Yudh" "Nila Jahazi" Parvati Radha Rapti Ratri Sagar "Sapt Kosi" Sarasvati Sita Seti "Sun Kosi" Trishuli
+	}
 }

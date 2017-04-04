@@ -185,131 +185,50 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ганновер"
-	"Виктория"
-	"Кениг Георг"
-	"Асканиан"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Эрнст Август"
-	"Эмден"
-	"Виттекинд"
-	"Штаде"
-	"Люнебург"
-	"Хильденшайм"
-	"Оснабрюк"
-	"Аурих"
-}
+		Hannover Victoria "Kцnig Georg" Askanian Welf "Heinrich der Lцwe" "Ernst August" Emden Wittekind Stade Lьneburg Hildesheim Osnabrьck
 
-
+Aurich
+	}
 	ironclad = {
-	"Ганновер"
-	"Виктория"
-	"Кениг Георг"
-	"Асканиан"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Эрнст Август"
-	"Эмден"
-	"Виттекинд"
-	"Штаде"
-	"Люнебург"
-	"Хильденшайм"
-	"Оснабрюк"
-	"Аурих"
-}
+		Hannover Victoria "Kцnig Georg" Askanian Welf "Heinrich der Lцwe" "Ernst August" Emden Wittekind Stade Lьneburg Hildesheim Osnabrьck
 
+Aurich
 
+	}
 	manowar = {
-	"Ганновер"
-	"Виктория"
-	"Кениг Георг"
-	"Асканиан"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Эрнст Август"
-	"Эмден"
-	"Виттекинд"
-	"Штаде"
-	"Люнебург"
-	"Хильденшайм"
-	"Оснабрюк"
-	"Аурих"
-}
+		Hannover Victoria "Kцnig Georg" Askanian Welf "Heinrich der Lцwe" "Ernst August" Emden Wittekind Stade Lьneburg Hildesheim Osnabrьck
 
+Aurich
 
+	}
 	cruiser = {
-	"Ганновер"
-	"Виктория"
-	"Кениг Георг"
-	"Асканиан"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Эрнст Август"
-	"Эмден"
-	"Виттекинд"
-	"Штаде"
-	"Люнебург"
-	"Хильденшайм"
-	"Оснабрюк"
-	"Аурих"
-}
+		Hannover Victoria "Kцnig Georg" Askanian Welf "Heinrich der Lцwe" "Ernst August" Emden Wittekind Stade Lьneburg Hildesheim Osnabrьck
 
+Aurich
 
+	}
 	frigate = {
-	"Ганновер"
-	"Виктория"
-	"Кениг Георг"
-	"Асканиан"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Эрнст Август"
-	"Эмден"
-	"Виттекинд"
-	"Штаде"
-	"Люнебург"
-	"Хильденшайм"
-	"Оснабрюк"
-	"Аурих"
-}
+		Hannover Victoria "Kцnig Georg" Askanian Welf "Heinrich der Lцwe" "Ernst August" Emden Wittekind Stade Lьneburg Hildesheim Osnabrьck
 
+Aurich
 
+	}
 	monitor = {
-	"Ганновер"
-	"Виктория"
-	"Кениг Георг"
-	"Асканиан"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Эрнст Август"
-	"Эмден"
-	"Виттекинд"
-	"Штаде"
-	"Люнебург"
-	"Хильденшайм"
-	"Оснабрюк"
-	"Аурих"
-}
+		Hannover Victoria "Kцnig Georg" Askanian Welf "Heinrich der Lцwe" "Ernst August" Emden Wittekind Stade Lьneburg Hildesheim Osnabrьck
 
+Aurich
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Ганновер"
-	"Виктория"
-	"Кениг Георг"
-	"Асканиан"
-	"Вельф"
-	"Хенрих дер Леве"
-	"Эрнст Август"
-	"Эмден"
-	"Виттекинд"
-	"Штаде"
-	"Люнебург"
-	"Хильденшайм"
-	"Оснабрюк"
-	"Аурих"
-}
+		Hannover Victoria "Kцnig Georg" Askanian Welf "Heinrich der Lцwe" "Ernst August" Emden Wittekind Stade Lьneburg Hildesheim Osnabrьck
 
+Aurich
 
+	}
 }

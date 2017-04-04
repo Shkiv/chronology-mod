@@ -115,180 +115,54 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Триесте"
-	"Фриули"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Trieste Friuli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona
 
+		Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	ironclad = {
-	"Триесте"
-	"Фриули"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Trieste Friuli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona
 
+		Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	manowar = {
-	"Триесте"
-	"Фриули"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Trieste Friuli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona
 
+		Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	cruiser = {
-	"Триесте"
-	"Фриули"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Trieste Friuli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona
+
+		Serpente Tritone Veloce Vigilante Zeffiro
 
 
+	}
 	frigate = {
-	"Триесте"
-	"Фриули"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Trieste Friuli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona
 
+		Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	monitor = {
-	"Триесте"
-	"Фриули"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Trieste Friuli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona
+
+		Serpente Tritone Veloce Vigilante Zeffiro
 
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Триесте"
-	"Фриули"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		Trieste Friuli Aquila Aurora Azzardoso Beroldo Condottiero Carloforte Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona
+
+		Serpente Tritone Veloce Vigilante Zeffiro
 
 
+	}
 }

@@ -115,138 +115,40 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Нью Ингленд"
-	"Коннектикут"
-	"Мэн"
-	"Массачусетс"
-	"Нью Гемпшир"
-	"Род Айлэнд"
-	"Вермонт"
-	"Бостон"
-	"Хартфорд"
-	"Огаста"
-	"Конкорд"
-	"Провиденс"
-	"Монпелье"
-	"Джон Смит"
-	"Шамплен"
-}
-
-
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
+	}
 	ironclad = {
-	"Нью Ингленд"
-	"Коннектикут"
-	"Мэн"
-	"Массачусетс"
-	"Нью Гемпшир"
-	"Род Айлэнд"
-	"Вермонт"
-	"Бостон"
-	"Хартфорд"
-	"Огаста"
-	"Конкорд"
-	"Провиденс"
-	"Монпелье"
-	"Джон Смит"
-	"Шамплен"
-}
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
 
-
+	}
 	manowar = {
-	"Нью Ингленд"
-	"Коннектикут"
-	"Мэн"
-	"Массачусетс"
-	"Нью Гемпшир"
-	"Род Айлэнд"
-	"Вермонт"
-	"Бостон"
-	"Хартфорд"
-	"Огаста"
-	"Конкорд"
-	"Провиденс"
-	"Монпелье"
-	"Джон Смит"
-	"Шамплен"
-}
-
-
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
+	}
 	cruiser = {
-	"Нью Ингленд"
-	"Коннектикут"
-	"Мэн"
-	"Массачусетс"
-	"Нью Гемпшир"
-	"Род Айлэнд"
-	"Вермонт"
-	"Бостон"
-	"Хартфорд"
-	"Огаста"
-	"Конкорд"
-	"Провиденс"
-	"Монпелье"
-	"Джон Смит"
-	"Шамплен"
-}
-
-
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
+	}
 	frigate = {
-	"Нью Ингленд"
-	"Коннектикут"
-	"Мэн"
-	"Массачусетс"
-	"Нью Гемпшир"
-	"Род Айлэнд"
-	"Вермонт"
-	"Бостон"
-	"Хартфорд"
-	"Огаста"
-	"Конкорд"
-	"Провиденс"
-	"Монпелье"
-	"Джон Смит"
-	"Шамплен"
-}
-
-
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
+	}
 	monitor = {
-	"Нью Ингленд"
-	"Коннектикут"
-	"Мэн"
-	"Массачусетс"
-	"Нью Гемпшир"
-	"Род Айлэнд"
-	"Вермонт"
-	"Бостон"
-	"Хартфорд"
-	"Огаста"
-	"Конкорд"
-	"Провиденс"
-	"Монпелье"
-	"Джон Смит"
-	"Шамплен"
-}
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Нью Ингленд"
-	"Коннектикут"
-	"Мэн"
-	"Массачусетс"
-	"Нью Гемпшир"
-	"Род Айлэнд"
-	"Вермонт"
-	"Бостон"
-	"Хартфорд"
-	"Огаста"
-	"Конкорд"
-	"Провиденс"
-	"Монпелье"
-	"Джон Смит"
-	"Шамплен"
-}
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
+		Montpelier "John Smith" Champlain
 
-
+	}
 }

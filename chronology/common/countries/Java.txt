@@ -101,152 +101,31 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Джакарта"
-	"Лебак"
-	"Пандегланг"
-	"Серанг"
-	"Тангеранг"
-	"Силедон"
-	"Куджанг"
-	"Селат Сунда"
-	"Патайтан"
-	"Кракатау"
-	"Себуку"
-	"Сабеси"
-	"Сангианг"
-	"Тундо"
-	"Панджанг"
-	"Тинджал"
-	"Дели"
-}
+		Djokjakarta Lebak Pandeglang Serang Tangerang Cilegon Kujang "Selat Sunda" Panaitan Krakatau Sebuku Sabesi Sangiang Tundo Panjang 	Tinjal Deli
 
-
+	}
 	ironclad = {
-	"Джакарта"
-	"Лебак"
-	"Пандегланг"
-	"Серанг"
-	"Тангеранг"
-	"Силедон"
-	"Куджанг"
-	"Селат Сунда"
-	"Патайтан"
-	"Кракатау"
-	"Себуку"
-	"Сабеси"
-	"Сангианг"
-	"Тундо"
-	"Панджанг"
-	"Тинджал"
-	"Дели"
-}
-
-
+		Djokjakarta Lebak Pandeglang Serang Tangerang Cilegon Kujang "Selat Sunda" Panaitan Krakatau Sebuku Sabesi Sangiang Tundo Panjang 	Tinjal Deli
+	}
 	manowar = {
-	"Джакарта"
-	"Лебак"
-	"Пандегланг"
-	"Серанг"
-	"Тангеранг"
-	"Силедон"
-	"Куджанг"
-	"Селат Сунда"
-	"Патайтан"
-	"Кракатау"
-	"Себуку"
-	"Сабеси"
-	"Сангианг"
-	"Тундо"
-	"Панджанг"
-	"Тинджал"
-	"Дели"
-}
-
-
+		Djokjakarta Lebak Pandeglang Serang Tangerang Cilegon Kujang "Selat Sunda" Panaitan Krakatau Sebuku Sabesi Sangiang Tundo Panjang 	Tinjal Deli
+	}
 	cruiser = {
-	"Джакарта"
-	"Лебак"
-	"Пандегланг"
-	"Серанг"
-	"Тангеранг"
-	"Силедон"
-	"Куджанг"
-	"Селат Сунда"
-	"Патайтан"
-	"Кракатау"
-	"Себуку"
-	"Сабеси"
-	"Сангианг"
-	"Тундо"
-	"Панджанг"
-	"Тинджал"
-	"Дели"
-}
-
-
+		Djokjakarta Lebak Pandeglang Serang Tangerang Cilegon Kujang "Selat Sunda" Panaitan Krakatau Sebuku Sabesi Sangiang Tundo Panjang 	Tinjal Deli
+	}
 	frigate = {
-	"Джакарта"
-	"Лебак"
-	"Пандегланг"
-	"Серанг"
-	"Тангеранг"
-	"Силедон"
-	"Куджанг"
-	"Селат Сунда"
-	"Патайтан"
-	"Кракатау"
-	"Себуку"
-	"Сабеси"
-	"Сангианг"
-	"Тундо"
-	"Панджанг"
-	"Тинджал"
-	"Дели"
-}
-
-
+		Djokjakarta Lebak Pandeglang Serang Tangerang Cilegon Kujang "Selat Sunda" Panaitan Krakatau Sebuku Sabesi Sangiang Tundo Panjang 	Tinjal Deli
+	}
 	monitor = {
-	"Джакарта"
-	"Лебак"
-	"Пандегланг"
-	"Серанг"
-	"Тангеранг"
-	"Силедон"
-	"Куджанг"
-	"Селат Сунда"
-	"Патайтан"
-	"Кракатау"
-	"Себуку"
-	"Сабеси"
-	"Сангианг"
-	"Тундо"
-	"Панджанг"
-	"Тинджал"
-	"Дели"
-}
+		Djokjakarta Lebak Pandeglang Serang Tangerang Cilegon Kujang "Selat Sunda" Panaitan Krakatau Sebuku Sabesi Sangiang Tundo Panjang 	Tinjal Deli
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Джакарта"
-	"Лебак"
-	"Пандегланг"
-	"Серанг"
-	"Тангеранг"
-	"Силедон"
-	"Куджанг"
-	"Селат Сунда"
-	"Патайтан"
-	"Кракатау"
-	"Себуку"
-	"Сабеси"
-	"Сангианг"
-	"Тундо"
-	"Панджанг"
-	"Тинджал"
-	"Дели"
-}
-
-
+		Djokjakarta Lebak Pandeglang Serang Tangerang Cilegon Kujang "Selat Sunda" Panaitan Krakatau Sebuku Sabesi Sangiang Tundo Panjang 	Tinjal Deli
+	}
 }

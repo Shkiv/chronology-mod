@@ -115,173 +115,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Иоаннис Каподистриас"
-	"Колокотронис"
-	"Ригас Ферайос"
-	"Атанасиоис Диакос"
-	"Филики Этерия"
-	"Корфу"
-	"Сефалония"
-	"Сериго"
-	"Итака"
-	"Паксо"
-	"Санта-Маура"
-	"Занте"
-	"Аргостоли"
-	"Китира"
-	"Вати"
-	"Гайос"
-	"Лефкада"
-	"Закинфос"
-	"Св. Микаэлос"
-	"Св. Георгиос"
-}
-
-
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfщ Cephalonia Cerigo Ithaca Paxт
+		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios"
+	}
 	ironclad = {
-	"Иоаннис Каподистриас"
-	"Колокотронис"
-	"Ригас Ферайос"
-	"Атанасиоис Диакос"
-	"Филики Этерия"
-	"Корфу"
-	"Сефалония"
-	"Сериго"
-	"Итака"
-	"Паксо"
-	"Санта-Маура"
-	"Занте"
-	"Аргостоли"
-	"Китира"
-	"Вати"
-	"Гайос"
-	"Лефкада"
-	"Закинфос"
-	"Св. Микаэлос"
-	"Св. Георгиос"
-}
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfщ Cephalonia Cerigo Ithaca Paxт
+		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios"
 
-
+	}
 	manowar = {
-	"Иоаннис Каподистриас"
-	"Колокотронис"
-	"Ригас Ферайос"
-	"Атанасиоис Диакос"
-	"Филики Этерия"
-	"Корфу"
-	"Сефалония"
-	"Сериго"
-	"Итака"
-	"Паксо"
-	"Санта-Маура"
-	"Занте"
-	"Аргостоли"
-	"Китира"
-	"Вати"
-	"Гайос"
-	"Лефкада"
-	"Закинфос"
-	"Св. Микаэлос"
-	"Св. Георгиос"
-}
-
-
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfщ Cephalonia Cerigo Ithaca Paxт
+		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios"
+	}
 	cruiser = {
-	"Иоаннис Каподистриас"
-	"Колокотронис"
-	"Ригас Ферайос"
-	"Атанасиоис Диакос"
-	"Филики Этерия"
-	"Корфу"
-	"Сефалония"
-	"Сериго"
-	"Итака"
-	"Паксо"
-	"Санта-Маура"
-	"Занте"
-	"Аргостоли"
-	"Китира"
-	"Вати"
-	"Гайос"
-	"Лефкада"
-	"Закинфос"
-	"Св. Микаэлос"
-	"Св. Георгиос"
-}
-
-
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfщ Cephalonia Cerigo Ithaca Paxт
+		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios"
+	}
 	frigate = {
-	"Иоаннис Каподистриас"
-	"Колокотронис"
-	"Ригас Ферайос"
-	"Атанасиоис Диакос"
-	"Филики Этерия"
-	"Корфу"
-	"Сефалония"
-	"Сериго"
-	"Итака"
-	"Паксо"
-	"Санта-Маура"
-	"Занте"
-	"Аргостоли"
-	"Китира"
-	"Вати"
-	"Гайос"
-	"Лефкада"
-	"Закинфос"
-	"Св. Микаэлос"
-	"Св. Георгиос"
-}
-
-
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfщ Cephalonia Cerigo Ithaca Paxт
+		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios"
+	}
 	monitor = {
-	"Иоаннис Каподистриас"
-	"Колокотронис"
-	"Ригас Ферайос"
-	"Атанасиоис Диакос"
-	"Филики Этерия"
-	"Корфу"
-	"Сефалония"
-	"Сериго"
-	"Итака"
-	"Паксо"
-	"Санта-Маура"
-	"Занте"
-	"Аргостоли"
-	"Китира"
-	"Вати"
-	"Гайос"
-	"Лефкада"
-	"Закинфос"
-	"Св. Микаэлос"
-	"Св. Георгиос"
-}
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfщ Cephalonia Cerigo Ithaca Paxт
+		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Иоаннис Каподистриас"
-	"Колокотронис"
-	"Ригас Ферайос"
-	"Атанасиоис Диакос"
-	"Филики Этерия"
-	"Корфу"
-	"Сефалония"
-	"Сериго"
-	"Итака"
-	"Паксо"
-	"Санта-Маура"
-	"Занте"
-	"Аргостоли"
-	"Китира"
-	"Вати"
-	"Гайос"
-	"Лефкада"
-	"Закинфос"
-	"Св. Микаэлос"
-	"Св. Георгиос"
-}
-
-
+		"Ioannis Kapodistrias" Kolokotronis "Rigas Feraios" "Athanasios Diakos" "Filiki Eteria" Corfщ Cephalonia Cerigo Ithaca Paxт
+		"Santa Maura" Zante Argostoli Kythira Vathy Gaios Lefkada Zakynthos "St. Mikaelos" "St. Georgios"
+	}
 }

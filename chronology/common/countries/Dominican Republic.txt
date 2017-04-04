@@ -198,149 +198,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Франсиско дель Росарио"
-	"Грегорио Луперон"
-	"Эрманос де ла Конча"
-	"Эрманос Пуэльо"
-	"Хуан Акоста"
-	"Хуан Камбьясо"
-	"Хуан Маджиоло"
-	"Хуан Пабло Дуарте"
-	"Матьяс Мелья"
-	"Висенте Дуарте"
-}
-
-
+		"Francisco del Rosario" "Gregorio Luperуn" "Hermanos de la Concha" "Hermanos Puello" "Juan A. Acosta" "Juan B. Cambiaso" "Juan B. Maggiolo" "Juan Pablo Duarte" "Matнas R. Mella" "Vicente C. Duarte"
+	}
 	ironclad = {
-	"Бахоруко"
-	"Десоласьон"
-	"Деструксьон"
-	"Эль Павор"
-	"Эль Террор"
-	"Ла Бомбарда"
-	"Нейба"
-	"Самана"
-	"Сьете Кабесас"
-	"Ямаса"
-}
-
-
+		Bahoruco Desolaciуn Destrucciуn "El Pavor" "El Terror" "La Bombarda" Neiba Samana "Siete Cabezas" Yamasa
+	}
 	manowar = {
-	"Сибао"
-	"Диэсинуэве де Марсо"
-	"Ла Мерсед"
-	"Элеонора"
-	"Либертад"
-	"Мария Чика"
-	"Сепарасьон Доминикана"
-	"Сьете де Хулио"
-	"Вейнтисьете де Фебреро"
-	"Виктория"
-}
-
-
+		Cibao "Diecinueve de Marzo" "La Merced" Leonor Libertad "Marнa Chica" "Separaciуn Dominicana" "Siete de Julio" "Veintisiete de Febrero" Victoria
+	}
 	cruiser = {
-	"Бараона"
-	"Дуартэ"
-	"Индепенденсия"
-	"Ла Вега"
-	"Монтекристи"
-	"Пуэрто Плата"
-	"Рестаурасьон"
-	"Сан-Кристобаль"
-	"Санчес Рамирес"
-	"Санто-Доминго"
-}
-
-
+		Barahona Duarte Independencia "La Vega" Montecristi "Puerto Plata" Restauraciуn "San Cristуbal" "Sбnchez Ramнrez" "Santo Domingo"
+	}
 	frigate = {
-	"Христофор Колумб"
-	"Диего де Окампо"
-	"Диос"
-	"Грито де Капойильо"
-	"Ла Эспаньола"
-	"Либертад"
-	"Патрия"
-	"Тайно"
-	"Трабукасо де Мелья"
-	"Тринитария"
-}
-
-
+		"Cristуbal Colуn" "Diego de Ocampo" Dios "Grito de Capoyillo" "La Espaсola" Libertad Patria Taнno "Trabucazo de Mella" Trinitaria
+	}
 	monitor = {
-	"Асуа"
-	"Беллер"
-	"Эль Мемисо"
-	"Эль Нумеро"
-	"Ла Эстрельета"
-	"Лас Каррерас"
-	"Пуэрто Тортугуэро"
-	"Сабана Ларга"
-	"Сантьяго"
-	"Сантоме"
-}
-
-
+		Azua Beller "El Memiso" "El Nъmero" "La Estrelleta" "Las Carreras" "Puerto Tortuguero" "Sabana Larga" Santiago Santomй
+	}
 	clipper_transport = {
-	"Бахабонико"
-	"Боа"
-	"Кэри"
-	"Карпинтеро"
-	"Кокодрило"
-	"Которра"
-	"Кулебра Верде"
-	"Энрикильо"
-	"Фламенко"
-	"Гавиота"
-	"Игуамо"
-	"Лимом"
-	"Осама"
-	"Романа"
-	"Сан-Хуан"
-	"Соко"
-	"Яке дель Норте"
-	"Яке дель Сур"
-	"Юма"
-	"Юна"
-}
-
-
+		Bajabonico Boa Carey Carpintero Cocodrilo Cotorra "Culebra Verde" Enriquillo Flamenco Gaviota
+		Higuamo Limуm Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
+	}
 	steam_transport = {
-	"Бахабонико"
-	"Боа"
-	"Кэри"
-	"Карпинтеро"
-	"Кокодрило"
-	"Которра"
-	"Кулебра Верде"
-	"Энрикильо"
-	"Фламенко"
-	"Гавиота"
-	"Игуамо"
-	"Лимом"
-	"Осама"
-	"Романа"
-	"Сан-Хуан"
-	"Соко"
-	"Яке дель Норте"
-	"Яке дель Сур"
-	"Юма"
-	"Юна"
-}
-
-
+		Bajabonico Boa Carey Carpintero Cocodrilo Cotorra "Culebra Verde" Enriquillo Flamenco Gaviota
+		Higuamo Limуm Ozama Romana "San Juan" Soco "Yaque del Norte" "Yaque del Sur" Yuma Yuna
+	}
 	commerce_raider = {
-	"Агустина"
-	"Боба"
-	"Дехабон"
-	"Десесперасьон"
-	"Инконтролабле"
-	"Хосефа"
-	"Хуана"
-	"Хулия"
-	"Нигуа"
-	"Окоа"
-}
-
-
+		Agustina Boba Dejabуn Desesperaciуn Incontrolable Josefa Juana Julia Nigua Ocoa
+	}
 }

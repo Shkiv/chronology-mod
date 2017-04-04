@@ -101,103 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Люксембург"
-	"Гроссхерцог Вильгельм"
-	"Зигфрид"
-	"Хенг де Бланнен"
-	"Диркех"
-	"Грайвемахер"
-	"Диделенг"
-	"Эльвен"
-	"Мертерт"
-	"Санкт-Максимин"
-}
-
-
+		Lлtzebuerg "Groussherzog Wлllem" Siegfried "Heng de Blannen" Dikrech Grйiwemaacher Dideleng Лlwen Mдertert "Sankt Maximin"
+	}
 	ironclad = {
-	"Люксембург"
-	"Гроссхерцог Вильгельм"
-	"Зигфрид"
-	"Хенг де Бланнен"
-	"Диркех"
-	"Грайвемахер"
-	"Диделенг"
-	"Эльвен"
-	"Мертерт"
-	"Санкт-Максимин"
-}
-
-
+		Lлtzebuerg "Groussherzog Wлllem" Siegfried "Heng de Blannen" Dikrech Grйiwemaacher Dideleng Лlwen Mдertert "Sankt Maximin"
+	}
 	manowar = {
-	"Люксембург"
-	"Гроссхерцог Вильгельм"
-	"Зигфрид"
-	"Хенг де Бланнен"
-	"Диркех"
-	"Грайвемахер"
-	"Диделенг"
-	"Эльвен"
-	"Мертерт"
-	"Санкт-Максимин"
-}
-
-
+		Lлtzebuerg "Groussherzog Wлllem" Siegfried "Heng de Blannen" Dikrech Grйiwemaacher Dideleng Лlwen Mдertert "Sankt Maximin"
+	}
 	cruiser = {
-	"Люксембург"
-	"Гроссхерцог Вильгельм"
-	"Зигфрид"
-	"Хенг де Бланнен"
-	"Диркех"
-	"Грайвемахер"
-	"Диделенг"
-	"Эльвен"
-	"Мертерт"
-	"Санкт-Максимин"
-}
-
-
+		Lлtzebuerg "Groussherzog Wлllem" Siegfried "Heng de Blannen" Dikrech Grйiwemaacher Dideleng Лlwen Mдertert "Sankt Maximin"
+	}
 	frigate = {
-	"Люксембург"
-	"Гроссхерцог Вильгельм"
-	"Зигфрид"
-	"Хенг де Бланнен"
-	"Диркех"
-	"Грайвемахер"
-	"Диделенг"
-	"Эльвен"
-	"Мертерт"
-	"Санкт-Максимин"
-}
-
-
+		Lлtzebuerg "Groussherzog Wлllem" Siegfried "Heng de Blannen" Dikrech Grйiwemaacher Dideleng Лlwen Mдertert "Sankt Maximin"
+	}
 	monitor = {
-	"Люксембург"
-	"Гроссхерцог Вильгельм"
-	"Зигфрид"
-	"Хенг де Бланнен"
-	"Диркех"
-	"Грайвемахер"
-	"Диделенг"
-	"Эльвен"
-	"Мертерт"
-	"Санкт-Максимин"
-}
+		Lлtzebuerg "Groussherzog Wлllem" Siegfried "Heng de Blannen" Dikrech Grйiwemaacher Dideleng Лlwen Mдertert "Sankt Maximin"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Люксембург"
-	"Гроссхерцог Вильгельм"
-	"Зигфрид"
-	"Хенг де Бланнен"
-	"Диркех"
-	"Грайвемахер"
-	"Диделенг"
-	"Эльвен"
-	"Мертерт"
-	"Санкт-Максимин"
-}
-
-
+		Lлtzebuerg "Groussherzog Wлllem" Siegfried "Heng de Blannen" Dikrech Grйiwemaacher Dideleng Лlwen Mдertert "Sankt Maximin"
+	}
 }

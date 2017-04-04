@@ -7,7 +7,7 @@ party = {
 	end_date = 2000.1.1
 
 	ideology = reactionary
-	
+
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -101,152 +101,45 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Багдад"
-	"Аль-Мавсиль"
-	"Саладдин"
-	"Хут"
-	"Сада"
-	"Мариб"
-	"Салала"
-	"Райсут"
-	"Мирба"
-	"Савкира"
-	"Кербела"
-	"Бакуба"
-	"Аль-Амара"
-	"Аль-Кут"
-	"Сулайманья"
-	"Аль-Наджаф"
-	"Аль-Басра"
-}
+		"Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
+		"Al Amarah" "Al Kьt" "Sulaimanya" "Al Najaf" "Al Basrah"
 
 
+	}
 	ironclad = {
-	"Багдад"
-	"Аль-Мавсиль"
-	"Саладдин"
-	"Хут"
-	"Сада"
-	"Мариб"
-	"Салала"
-	"Райсут"
-	"Мирба"
-	"Савкира"
-	"Кербела"
-	"Бакуба"
-	"Аль-Амара"
-	"Аль-Кут"
-	"Сулайманья"
-	"Аль-Наджаф"
-	"Аль-Басра"
-}
+		"Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
+		"Al Amarah" "Al Kьt" "Sulaimanya" "Al Najaf" "Al Basrah"
 
-
+	}
 	manowar = {
-	"Багдад"
-	"Аль-Мавсиль"
-	"Саладдин"
-	"Хут"
-	"Сада"
-	"Мариб"
-	"Салала"
-	"Райсут"
-	"Мирба"
-	"Савкира"
-	"Кербела"
-	"Бакуба"
-	"Аль-Амара"
-	"Аль-Кут"
-	"Сулайманья"
-	"Аль-Наджаф"
-	"Аль-Басра"
-}
+		"Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
+		"Al Amarah" "Al Kьt" "Sulaimanya" "Al Najaf" "Al Basrah"
 
-
+	}
 	cruiser = {
-	"Багдад"
-	"Аль-Мавсиль"
-	"Саладдин"
-	"Хут"
-	"Сада"
-	"Мариб"
-	"Салала"
-	"Райсут"
-	"Мирба"
-	"Савкира"
-	"Кербела"
-	"Бакуба"
-	"Аль-Амара"
-	"Аль-Кут"
-	"Сулайманья"
-	"Аль-Наджаф"
-	"Аль-Басра"
-}
+		"Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
+		"Al Amarah" "Al Kьt" "Sulaimanya" "Al Najaf" "Al Basrah"
 
-
+	}
 	frigate = {
-	"Багдад"
-	"Аль-Мавсиль"
-	"Саладдин"
-	"Хут"
-	"Сада"
-	"Мариб"
-	"Салала"
-	"Райсут"
-	"Мирба"
-	"Савкира"
-	"Кербела"
-	"Бакуба"
-	"Аль-Амара"
-	"Аль-Кут"
-	"Сулайманья"
-	"Аль-Наджаф"
-	"Аль-Басра"
-}
+		"Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
+		"Al Amarah" "Al Kьt" "Sulaimanya" "Al Najaf" "Al Basrah"
 
-
+	}
 	monitor = {
-	"Багдад"
-	"Аль-Мавсиль"
-	"Саладдин"
-	"Хут"
-	"Сада"
-	"Мариб"
-	"Салала"
-	"Райсут"
-	"Мирба"
-	"Савкира"
-	"Кербела"
-	"Бакуба"
-	"Аль-Амара"
-	"Аль-Кут"
-	"Сулайманья"
-	"Аль-Наджаф"
-	"Аль-Басра"
-}
+		"Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
+		"Al Amarah" "Al Kьt" "Sulaimanya" "Al Najaf" "Al Basrah"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Багдад"
-	"Аль-Мавсиль"
-	"Саладдин"
-	"Хут"
-	"Сада"
-	"Мариб"
-	"Салала"
-	"Райсут"
-	"Мирба"
-	"Савкира"
-	"Кербела"
-	"Бакуба"
-	"Аль-Амара"
-	"Аль-Кут"
-	"Сулайманья"
-	"Аль-Наджаф"
-	"Аль-Басра"
-}
+		"Baghdad" "Al Mawsil" "Salah al-Din" "Huth" "Sa'dah" "Ma'rib" "Salalah" "Raysut" "Mirbah" "Sawqirah" "Karbala" "Baqubah"
+		"Al Amarah" "Al Kьt" "Sulaimanya" "Al Najaf" "Al Basrah"
 
-
+	}
 }

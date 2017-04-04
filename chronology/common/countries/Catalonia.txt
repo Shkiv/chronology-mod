@@ -145,149 +145,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Альфон эль Каст"
-	"Альмогавр"
-	"Эльс Сегадорс"
-	"Хенералитат"
-	"Хауме эль Конкеридор"
-	"Хосеп Морагес"
-	"Пере эль Гран"
-	"Рафаэль Касанова"
-	"Рохер де Флор"
-	"Рохер де Лурия"
-}
-
-
+		"Alfons el Cast" "AlmogГ vers" "Els Segadors" "Generalitat" "Jaume el Conqueridor" "Josep Moragues" "Pere el Gran" "Rafael Casanova" "Roger de Flor" "Roger de LlГєria"
+	}
 	ironclad = {
-	"Каталуня"
-	"Тело Христово"
-	"Фигуэрес"
-	"Манреса"
-	"Принсипат"
-	"Сабадель"
-	"Сан-Хоан"
-	"Сан-Хорди"
-	"Тортоса"
-	"Ургелл"
-}
-
-
+		"Catalunya" "Corpus Christi" "Figueres" "Manresa" "Principat" "Sabadell" "Sant Joan" "Sant Jordi" "Tortosa" "Urgell"
+	}
 	manowar = {
-	"Бисбат д'Ургелл"
-	"Эсперит Сант"
-	"Сан-Хауме"
-	"Сан-Хосеп"
-	"Сан-Олегер"
-	"Сан-Пер"
-	"Санта-Исабель"
-	"Вескомтат д'Аусона"
-	"Вескомтат де Бесалу"
-	"Вескомтат де Серданья"
-}
-
-
+		"Bisbat d'Urgell" "Esperit Sant" "Sant Jaume" "Sant Josep" "Sant Oleguer" "Sant Pere" "Santa Isabel" "Vescomtat d'Ausona" "Vescomtat de BesalГє" "Vescomtat de Cerdanya"
+	}
 	cruiser = {
-	"Атенеу де Грандеса"
-	"Сибелес"
-	"Консолат дель Мар"
-	"Диана"
-	"Джуно"
-	"Минерва"
-	"Квадрибаррада"
-	"Санг Собре Ор"
-	"Сеньера"
-	"Тирант ло Бланч"
-}
-
-
+		"Ateneu de Grandesa" "Cibeles" "Consolat del Mar" "Diana" "Juno" "Minerva" "Quadribarrada" "Sang sobre Or" "Senyera" "Tirant lo Blanch"
+	}
 	frigate = {
-	"Барселона"
-	"Кристофор Деспуи"
-	"Герона"
-	"Хоанот Марторель"
-	"Юпитер"
-	"Льейда"
-	"Непту"
-	"Пере Серафи"
-	"Плуто"
-	"Таррагона"
-}
-
-
+		"Barcelona" "CristГІfor Despuig" "Girona" "Joanot Martorell" "Jupiter" "Lleida" "NeptГє" "Pere SerafГ­" "PlutГі" "Tarragona"
+	}
 	monitor = {
-	"Комтат де Барселона"
-	"Комтат д'Эмпуриес"
-	"Комтат д'Ургелл"
-	"Дуэс Сицилиес"
-	"Эркулес"
-	"Мальорка"
-	"Немеси"
-	"Сарденья"
-	"Валенсия"
-	"Вулкано"
-}
-
-
+		"Comtat de Barcelona" "Comtat d'Empuries" "Comtat d'Urgell" "Dues SicГ­lies" "HГЁrcules" "Mallorca" "NГЁmesi" "Sardenya" "ValГЁncia" "Vulcano"
+	}
 	clipper_transport = {
-	"Агила Негра"
-	"Драк Вермель"
-	"Эстрелла"
-	"Фама"
-	"Фидель"
-	"Флеткса"
-	"Глория"
-	"Ибера"
-	"Лео де Монпелье"
-	"Маре де Деу де Монсеррат"
-	"Меркури"
-	"Нимфа"
-	"Сан-Антони"
-	"Санта-Анна"
-	"Сатурн"
-	"Сирена"
-	"Сорпреса"
-	"Тетис"
-	"Трито"
-	"Юникон"
-}
-
-
+		"ГЂguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "GlГІria" "Ibera" "LleГі de Montpellier" "Mare de DГ©u de Montserrat"
+		"Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "TritГі" "Unicorn"
+	}
 	steam_transport = {
-	"Агила Негра"
-	"Драк Вермель"
-	"Эстрелла"
-	"Фама"
-	"Фидель"
-	"Флеткса"
-	"Глория"
-	"Ибера"
-	"Лео де Монпелье"
-	"Маре де Деу де Монсеррат"
-	"Меркури"
-	"Нимфа"
-	"Сан-Антони"
-	"Санта-Анна"
-	"Сатурн"
-	"Сирена"
-	"Сорпреса"
-	"Тетис"
-	"Трито"
-	"Юникон"
-}
-
-
+		"ГЂguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "GlГІria" "Ibera" "LleГі de Montpellier" "Mare de DГ©u de Montserrat"
+		"Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "TritГі" "Unicorn"
+	}
 	commerce_raider = {
-	"Аудас"
-	"Деструктор"
-	"Форсуда"
-	"Фурор"
-	"Лампек"
-	"Медитеррания"
-	"Темпеста"
-	"Тэррор"
-	"Тро"
-	"Велос"
-}
-
-
+		"AudaГ§" "Destructor" "ForГ§uda" "Furor" "Llampec" "MediterrГ nia" "Tempesta" "Terror" "Tro" "VeloГ§"
+	}
 }

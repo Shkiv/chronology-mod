@@ -101,67 +101,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Тальпур"
-	"Фатхали Хан"
-	"Гулам Али Хан"
-	"Карам Али Хан"
-	"Нур Мохаммед Хан"
-}
-
-
+		Talpur "Fathali Khan" "Ghulam Ali Khan" "Karam Ali Khan" "Nur Mohammed Khan"
+		}
 	cruiser = {
-	"Нарайн"
-	"Акбар"
-	"Амид"
-	"Фардин"
-	"Шахнаваз"
-}
-
-
+		Narain Akbar Amid Fardin Shahnawaz
+	}
 	ironclad = {
-	"Ишаю"
-	"Насир"
-	"Джавед"
-}
-
-
+		Ishayu Nasir Javed
+	}
 	monitor = {
-	"Азхар"
-	"Фатех"
-	"Нитин"
-}
-
-
+		Azhar Fateh Nitin
+		}
 	manowar = {
-	"Синдх"
-	"Татта"
-	"Хайдарабад"
-	"Худабад"
-}
-
-
+		Sindh Thatta Haydarabad Khudabad
+	}
 	frigate = {
-	"Амар"
-	"Анил"
-	"Ферос"
-	"Джайдип"
-	"Пратап"
-	"Нирмал"
-}
-
-
-	
-	
+		Amar Anil Feroz Jaidip Pratap Nirmal
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Аманат"
-	"Маник"
-	"Ратан"
-	"Роан"
-	"Икбаль"
-	"Калян"
-	"Сону"
-	"Сунил"
-}
-
-
+		Amanat Manik Ratan Rohan Iqbal Kalyan Sonu Sunil
+	}
 }

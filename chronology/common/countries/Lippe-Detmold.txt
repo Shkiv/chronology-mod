@@ -185,103 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Липпе"
-	"Детмольд"
-	"Шаумбург"
-	"Бистерфельд"
-	"Фюрст Леопольд"
-	"Граф-Регент"
-	"Граф Бернхард"
-	"Граф Эрнст"
-	"Арминиус"
-	"Херускер"
-}
-
-
+		Lippe Detmold Schaumburg Biesterfeld "Fьrst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" Arminius Cherusker
+	}
 	ironclad = {
-	"Липпе"
-	"Детмольд"
-	"Шаумбург"
-	"Бистерфельд"
-	"Фюрст Леопольд"
-	"Граф-Регент"
-	"Граф Бернхард"
-	"Граф Эрнст"
-	"Арминиус"
-	"Херускер"
-}
-
-
+		Lippe Detmold Schaumburg Biesterfeld "Fьrst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" Arminius Cherusker
+	}
 	manowar = {
-	"Липпе"
-	"Детмольд"
-	"Шаумбург"
-	"Бистерфельд"
-	"Фюрст Леопольд"
-	"Граф-Регент"
-	"Граф Бернхард"
-	"Граф Эрнст"
-	"Арминиус"
-	"Херускер"
-}
-
-
+		Lippe Detmold Schaumburg Biesterfeld "Fьrst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" Arminius Cherusker
+	}
 	cruiser = {
-	"Липпе"
-	"Детмольд"
-	"Шаумбург"
-	"Бистерфельд"
-	"Фюрст Леопольд"
-	"Граф-Регент"
-	"Граф Бернхард"
-	"Граф Эрнст"
-	"Арминиус"
-	"Херускер"
-}
-
-
+		Lippe Detmold Schaumburg Biesterfeld "Fьrst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" Arminius Cherusker
+	}
 	frigate = {
-	"Липпе"
-	"Детмольд"
-	"Шаумбург"
-	"Бистерфельд"
-	"Фюрст Леопольд"
-	"Граф-Регент"
-	"Граф Бернхард"
-	"Граф Эрнст"
-	"Арминиус"
-	"Херускер"
-}
-
-
+		Lippe Detmold Schaumburg Biesterfeld "Fьrst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" Arminius Cherusker
+	}
 	monitor = {
-	"Липпе"
-	"Детмольд"
-	"Шаумбург"
-	"Бистерфельд"
-	"Фюрст Леопольд"
-	"Граф-Регент"
-	"Граф Бернхард"
-	"Граф Эрнст"
-	"Арминиус"
-	"Херускер"
-}
+		Lippe Detmold Schaumburg Biesterfeld "Fьrst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" Arminius Cherusker
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Липпе"
-	"Детмольд"
-	"Шаумбург"
-	"Бистерфельд"
-	"Фюрст Леопольд"
-	"Граф-Регент"
-	"Граф Бернхард"
-	"Граф Эрнст"
-	"Арминиус"
-	"Херускер"
-}
-
-
+		Lippe Detmold Schaumburg Biesterfeld "Fьrst Leopold" "Graf-Regent" "Graf Bernhard" "Graf Ernst" Arminius Cherusker
+	}
 }

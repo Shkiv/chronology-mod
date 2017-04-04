@@ -185,122 +185,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Байерн"
-	"Фон дер Танн"
-	"Виттельсбах"
-	"Принцрегент Луитпольд"
-	"Вельф"
-	"Нибелунген"
-	"Валькюре"
-	"Бабенберг"
-}
-
-
+		Bayern "Von der Tann" Wittelsbach "Prinzregent Luitpold" Welf Nibelungen WalkГјre Babenberg
+	}
 	ironclad = {
-	"Максимилиан Иосиф"
-	"Людвиг I"
-	"Максимилиан II"
-	"Граф Монгелас"
-	"Граф фон Хорн"
-	"фон дер Марк"
-	"фон ле Суир"
-	"Фон Вреде"
-}
+		"Maximilian Joseph" "Ludwig I" "Maximilian II" "Graf Montgelas" "Graf von Horn" "Von der Mark" "Von Le Suire" "Von Wrede"
 
-
+	}
 	manowar = {
-	"Граф"
-	"Херцог"
-	"Кениг"
-	"Кайзер"
-	"Курфюрст"
-	"Пфальцграф"
-	"Принц"
-	"Один"
-	"Вотан"
-	"Бальдер"
-	"Донар"
-}
-
-
+		Graf Herzog KГ¶nig Kaiser KurfГјrst Pfalzgraf Prinz Odin Wotan Balder Donar
+	}
 	cruiser = {
-	"Ансбах"
-	"Аугсбург"
-	"Бамберг"
-	"Байройт"
-	"Фюрт"
-	"Ингольштадт"
-	"Мюнхен"
-	"Нюрнберг"
-	"Пассау"
-	"Регенсбург"
-}
-
-
+		Ansbach Augsburg Bamberg Bayreuth FГјrth Ingoldstadt MГјnchen NГјrnberg Passau Regensburg
+	}
 	frigate = {
-	"Фукс"
-	"Хиэне"
-	"Леопард"
-	"Лёве"
-	"Лукс"
-	"Мардер"
-	"Пантер"
-	"Тигер"
-	"Вольф"
-}
-
-
+		Fuchs HyГ¤ne Leopard LГ¶we Luchs Marder Panther Tiger Wolf
+	}
 	monitor = {
-	"Хекштадт"
-	"Ландсхут"
-	"Лехфельд"
-	"Херцог Альбрехт"
-	"Принц Людвиг"
-	"Фон Уцшнайдер"
-	"Штайнхайль"
-}
-
-
+		HГ¶chstГ¤dt Landshut Lechfeld "Herzog Albrecht" "Prinz Ludwig" "Von Utzschneider" Steinheil
+		}
 	clipper_transport = {
-	"Альтмюль"
-	"Донау"
-	"Феллах"
-	"Иллер"
-	"Инн"
-	"Исар"
-	"Лех"
-	"Нааб"
-	"Пегниц"
-	"Реген"
-	"Заале"
-	"Виндах"
-}
+              AltmГјhl Donau Fellach Iller Inn Isar Lech Naab Pegnitz Regen Saale Windach
 
-
+	}
 	steam_transport = {
-	"Санкт-Экхард"
-	"Санкт-Георг"
-	"Санкт-Хубертус"
-	"Санкт-Михаэль"
-	"Санкт-Петер"
-	"Санкт-Руперт"
-	"Санкт-Валентин"
-	"Санкт-Виллибальд"
-	"Санкт-Вольфганг"
-}
-
-
+             "Sankt Erhard" "Sankt Georg" "Sankt Hubertus" "Sankt MichaГ«l" "Sankt Peter" "Sankt Rupert" "Sankt Valentin" "Sankt Willibald" "Sankt Wolfgang"
+	}
 	commerce_raider = {
-	"Зигфрид"
-	"Кримхильд"
-	"Гюнтер"
-	"Гернот"
-	"Гизеле"
-	"Сигизмунд"
-	"Альберих"
-	"Брюнхильд"
-	"Хаген"
-}
-
-
+	    Siegfried Kriemhild Gunther Gernot Giselher Siegmund Alberich BrГјnhild Hagen
+	}
 }

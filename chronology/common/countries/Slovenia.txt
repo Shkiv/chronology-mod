@@ -101,68 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Антон Гаус"
-	"Рудольф Майстер"
-	"Стане"
-	"Карель Дестовник Каджух"
-	"Виктор Авбель"
-}
-
-
+		"Anton Haus" "Rudolf Maister" Stane "Karel Destovnik Kajuh" "Viktor Avbelj"
+	}
 	ironclad = {
-	"Словения"
-	"Любляна"
-	"Марибор"
-	"Целе"
-	"Крань"
-}
-
-
+		Slovenija Ljubljana Maribor Celje Kranj
+	}
 	manowar = {
-	"Драва"
-	"Кольпа"
-	"Мура"
-	"Сава"
-	"Савинья"
-}
-
-
+		Drava Kolpa Mura Sava Savinja
+	}
 	cruiser = {
-	"Мали Српан"
-	"Велики Српан"
-	"Просинец"
-	"Мали Травен"
-	"Велики Травен"
-}
-
-
+		"Mali Srpan" "Veliki Srpan" Prosinec "Mali Traven" "Veliki Traven"
+	}
 	frigate = {
-	"Мирослав Штумбергер"
-	"Иван Грохар"
-	"Йозеф Томинч"
-	"Матья Коп"
-	"Антон Томаш Линхарт"
-}
-
-
+		"Miroslav Stumberger" "Ivan Grohar" "Joћef Tominc" "Matija Cop" "Anton Tomaћ Linhart"
+	}
 	monitor = {
-	"Ивана"
-	"Метка"
-	"Штефка"
-	"Душа"
-	"Наташа"
-}
+		Ivana Metka Љtefka Duљa Nataљa
+	}
+	clipper_transport = {
 
 
-	
-	
+	}
+	steam_transport = {
+
+
+	}
 	commerce_raider = {
-	"Блейско Езеро"
-	"Блейски Град"
-	"Царски Залив"
-	"Караванке"
-	"Крас"
-}
-
-
+		"Blejsko Jezero" "Blejski Grad" "Trћaљki Zaliv" Karavanke Kras
+	}
 }

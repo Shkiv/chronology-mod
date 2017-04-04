@@ -143,117 +143,39 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Шкиперия"
-	"Скендербеу"
-	"Бишти и Паллес"
-	"Гджири и Дринит"
-	"Гджири и Рондонит"
-	"Юбе"
-	"Каладжа э Туррес"
-	"Кеп и Родонит"
-	"Кирекук"
-	"Шенджин"
-	"Шетай"
-	"Велиподже"
-}
+		Shqipлria Skлnderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
 
-
+	}
 	ironclad = {
-	"Шкиперия"
-	"Скендербеу"
-	"Бишти и Паллес"
-	"Гджири и Дринит"
-	"Гджири и Рондонит"
-	"Юбе"
-	"Каладжа э Туррес"
-	"Кеп и Родонит"
-	"Кирекук"
-	"Шенджин"
-	"Шетай"
-	"Велиподже"
-}
+		Shqipлria Skлnderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
 
-
+	}
 	manowar = {
-	"Шкиперия"
-	"Скендербеу"
-	"Бишти и Паллес"
-	"Гджири и Дринит"
-	"Гджири и Рондонит"
-	"Юбе"
-	"Каладжа э Туррес"
-	"Кеп и Родонит"
-	"Кирекук"
-	"Шенджин"
-	"Шетай"
-	"Велиподже"
-}
+		Shqipлria Skлnderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
 
 
+
+	}
 	cruiser = {
-	"Шкиперия"
-	"Скендербеу"
-	"Бишти и Паллес"
-	"Гджири и Дринит"
-	"Гджири и Рондонит"
-	"Юбе"
-	"Каладжа э Туррес"
-	"Кеп и Родонит"
-	"Кирекук"
-	"Шенджин"
-	"Шетай"
-	"Велиподже"
-}
+		Shqipлria Skлnderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
 
-
+	}
 	frigate = {
-	"Шкиперия"
-	"Скендербеу"
-	"Бишти и Паллес"
-	"Гджири и Дринит"
-	"Гджири и Рондонит"
-	"Юбе"
-	"Каладжа э Туррес"
-	"Кеп и Родонит"
-	"Кирекук"
-	"Шенджин"
-	"Шетай"
-	"Велиподже"
-}
+		Shqipлria Skлnderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
 
-
+	}
 	monitor = {
-	"Шкиперия"
-	"Скендербеу"
-	"Бишти и Паллес"
-	"Гджири и Дринит"
-	"Гджири и Рондонит"
-	"Юбе"
-	"Каладжа э Туррес"
-	"Кеп и Родонит"
-	"Кирекук"
-	"Шенджин"
-	"Шетай"
-	"Велиподже"
-}
+		Shqipлria Skлnderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Шкиперия"
-	"Скендербеу"
-	"Бишти и Паллес"
-	"Гджири и Дринит"
-	"Гджири и Рондонит"
-	"Юбе"
-	"Каладжа э Туррес"
-	"Кеп и Родонит"
-	"Кирекук"
-	"Шенджин"
-	"Шетай"
-	"Велиподже"
-}
+		Shqipлria Skлnderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
 
-
+	}
 }

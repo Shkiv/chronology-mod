@@ -102,138 +102,33 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Мадагаскар"
-	"Радама"
-	"Андрианампуанимерина"
-	"Ранавалона"
-	"Раинилаиаривони"
-	"Мерина"
-	"Антананариву"
-	"Амбохиманга"
-	"Бетсилео"
-	"Сиханака"
-	"Безанозано"
-	"Бара"
-	"Сакалава"
-	"Икалои"
-	"Анджафу"
-}
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy
 
-
+	}
 	ironclad = {
-	"Мадагаскар"
-	"Радама"
-	"Андрианампуанимерина"
-	"Ранавалона"
-	"Раинилаиаривони"
-	"Мерина"
-	"Антананариву"
-	"Амбохиманга"
-	"Бетсилео"
-	"Сиханака"
-	"Безанозано"
-	"Бара"
-	"Сакалава"
-	"Икалои"
-	"Анджафу"
-}
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy
 
-
+	}
 	manowar = {
-	"Мадагаскар"
-	"Радама"
-	"Андрианампуанимерина"
-	"Ранавалона"
-	"Раинилаиаривони"
-	"Мерина"
-	"Антананариву"
-	"Амбохиманга"
-	"Бетсилео"
-	"Сиханака"
-	"Безанозано"
-	"Бара"
-	"Сакалава"
-	"Икалои"
-	"Анджафу"
-}
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy
 
-
+	}
 	cruiser = {
-	"Мадагаскар"
-	"Радама"
-	"Андрианампуанимерина"
-	"Ранавалона"
-	"Раинилаиаривони"
-	"Мерина"
-	"Антананариву"
-	"Амбохиманга"
-	"Бетсилео"
-	"Сиханака"
-	"Безанозано"
-	"Бара"
-	"Сакалава"
-	"Икалои"
-	"Анджафу"
-}
-
-
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy
+	}
 	frigate = {
-	"Мадагаскар"
-	"Радама"
-	"Андрианампуанимерина"
-	"Ранавалона"
-	"Раинилаиаривони"
-	"Мерина"
-	"Антананариву"
-	"Амбохиманга"
-	"Бетсилео"
-	"Сиханака"
-	"Безанозано"
-	"Бара"
-	"Сакалава"
-	"Икалои"
-	"Анджафу"
-}
-
-
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy
+	}
 	monitor = {
-	"Мадагаскар"
-	"Радама"
-	"Андрианампуанимерина"
-	"Ранавалона"
-	"Раинилаиаривони"
-	"Мерина"
-	"Антананариву"
-	"Амбохиманга"
-	"Бетсилео"
-	"Сиханака"
-	"Безанозано"
-	"Бара"
-	"Сакалава"
-	"Икалои"
-	"Анджафу"
-}
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Мадагаскар"
-	"Радама"
-	"Андрианампуанимерина"
-	"Ранавалона"
-	"Раинилаиаривони"
-	"Мерина"
-	"Антананариву"
-	"Амбохиманга"
-	"Бетсилео"
-	"Сиханака"
-	"Безанозано"
-	"Бара"
-	"Сакалава"
-	"Икалои"
-	"Анджафу"
-}
-
-
+		Madagascar Radama Andrianampoinimerina Ranavalona Rainilaiarivony Merina Antananarivo Ambohimanga Betsileo Sihanaka Bezanozano Bara Sakalava Ikaloy Anjafy
+	}
 }

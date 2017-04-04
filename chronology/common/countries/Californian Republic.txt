@@ -143,103 +143,36 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Калифорния"
-	"Джон Фремонт"
-	"Зэ Бир энд Стар"
-	"Уильям Иде"
-	"Сан-Франциско"
-	"Лос-Анджелес"
-	"Монтеррей"
-	"Оломпали"
-	"Сакраменто"
-	"Сонома"
-}
+		California "John Frйmont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" Monterey Olompali Sacramento Sonoma
 
-
+	}
 	ironclad = {
-	"Калифорния"
-	"Джон Фремонт"
-	"Зэ Бир энд Стар"
-	"Уильям Иде"
-	"Сан-Франциско"
-	"Лос-Анджелес"
-	"Монтеррей"
-	"Оломпали"
-	"Сакраменто"
-	"Сонома"
-}
+		California "John Frйmont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" Monterey Olompali Sacramento Sonoma
 
-
+	}
 	manowar = {
-	"Калифорния"
-	"Джон Фремонт"
-	"Зэ Бир энд Стар"
-	"Уильям Иде"
-	"Сан-Франциско"
-	"Лос-Анджелес"
-	"Монтеррей"
-	"Оломпали"
-	"Сакраменто"
-	"Сонома"
-}
+		California "John Frйmont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" Monterey Olompali Sacramento Sonoma
 
-
+	}
 	cruiser = {
-	"Калифорния"
-	"Джон Фремонт"
-	"Зэ Бир энд Стар"
-	"Уильям Иде"
-	"Сан-Франциско"
-	"Лос-Анджелес"
-	"Монтеррей"
-	"Оломпали"
-	"Сакраменто"
-	"Сонома"
-}
+		California "John Frйmont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" Monterey Olompali Sacramento Sonoma
 
-
+	}
 	frigate = {
-	"Калифорния"
-	"Джон Фремонт"
-	"Зэ Бир энд Стар"
-	"Уильям Иде"
-	"Сан-Франциско"
-	"Лос-Анджелес"
-	"Монтеррей"
-	"Оломпали"
-	"Сакраменто"
-	"Сонома"
-}
+		California "John Frйmont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" Monterey Olompali Sacramento Sonoma
 
-
+	}
 	monitor = {
-	"Калифорния"
-	"Джон Фремонт"
-	"Зэ Бир энд Стар"
-	"Уильям Иде"
-	"Сан-Франциско"
-	"Лос-Анджелес"
-	"Монтеррей"
-	"Оломпали"
-	"Сакраменто"
-	"Сонома"
-}
+		California "John Frйmont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" Monterey Olompali Sacramento Sonoma
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Калифорния"
-	"Джон Фремонт"
-	"Зэ Бир энд Стар"
-	"Уильям Иде"
-	"Сан-Франциско"
-	"Лос-Анджелес"
-	"Монтеррей"
-	"Оломпали"
-	"Сакраменто"
-	"Сонома"
-}
-
-
+		California "John Frйmont" "The Bear and Star" "William Ide" "San Francisco" "Los Angeles" Monterey Olompali Sacramento Sonoma
+	}
 }

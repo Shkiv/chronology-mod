@@ -117,108 +117,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ульрик Кристиан Гильденлеве"
-	"Копенгаген"
-	"Орхус"
-	"Ольборг"
-	"Оденсе"
-	"Фредриксберг"
-	"Эсбьерг"
-	"Норрейске Э"
-	"Фюн"
-	"Йотландшаф"
-}
-
-
+		"Ulrik Christian Gyldenlшve" Kшbenhavn Еrhus Еlborg Odense Fredriksberg Esbjerg "Nшrrejyske Ш" Fyn Jуtlandshaf
+	}
 	ironclad = {
-	"Гельголанд"
-	"Денмарк"
-	"Горм"
-	"Линдормен"
-	"Один"
-	"Рольф Краке"
-	"Торденшельд"
-	"Педер Скрам"
-	"Даннеборг"
-	"Горм"
-	"Ольферт Фишер"
-	"Абсалон"
-}
-
-
+		Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon
+	}
 	manowar = {
-	"Принс Кристиан Фредерик"
-	"Скьельд"
-	"Абсалон"
-	"Ингольф"
-	"Даннеборг"
-	"Дагмар"
-	"Гесьер"
-	"Дроннинг Мари"
-	"Вальдемар"
-	"Фредерик"
-}
-
-
+		"Prins Christian Frederik" Skjold Absalon Ingolf Dannebrog Dagmar Gesjer "Dronning Marie" Waldemar Fredrik
+	}
 	cruiser = {
-	"Фюен"
-	"Гейзер"
-	"Хеймдаль"
-	"Хекла"
-	"Св. Томас"
-	"Валькириен"
-	"Герлуф Тролле"
-	"Сееормен"
-	"Сусоэн"
-	"Гуденоэн"
-}
-
-
+		Fyen Geiser Heimdal Hekla "St. Thomas" Valkyrien "Herluf Trolle" Sшeormen Susеen Gudenеen
+	}
 	frigate = {
-	"Наяден"
-	"Хуммер"
-	"Штральзунд"
-	"Сериддер"
-	"Леопард"
-	"Раае"
-	"Эсберн Снаре"
-	"Ернен"
-	"Зеландия"
-	"Гефион"
-	"Тетис"
-	"Нильс Юэль"
-	"Рота"
-}
-
-
+		Najaden Hummer Stralsund Sшridder Leopard Raae "Esbern Snare" Шrnen Sjжlland Gefion Thetis "Niels Juel" Rota
+	}
 	monitor = {
-	"Фрейя"
-	"Диана"
-	"Линдормен"
-	"Стерен"
-	"Стубберкебинг"
-	"Гейзер"
-	"Киль"
-	"Фальстер"
-	"Нархвален"
-	"Тумлерен"
-}
+		Freia Diana Lindormen Stшren Stubberkшbing Gejser Kiel Falster Narhvalen Tumleren
+	}
+	clipper_transport = {
 
 
-	
-	
+	}
+	steam_transport = {
+
+
+	}
 	commerce_raider = {
-	"Эсберн Снаре"
-	"Фюлла"
-	"Фарерне"
-	"Гренланд"
-	"Викингр"
-	"Харальд Клак"
-	"Свенд Твескег"
-	"Каттегат"
-	"Эресунд"
-	"Силькеборг"
-}
-
-
+		"Esbern Snare" Fylla Fжrшerne Grшnland Vнkingr "Harald Klak" "Svend Tveskжg" Kattegat Шresund Silkeborg
+	}
 }

@@ -101,140 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Иран"
-	"Эсмаил Эком"
-	"Мохаммад Хан Каджар"
-	"Аббас Бозорг"
-	"Сафиеддин Ардабили"
-	"Тахмасп Еком"
-	"Аббас Дувам"
-	"Фасали Шах"
-	"Аббас Мирза"
-	"Насиреддин"
-	"Мозаффареддин"
-	"Мухаммед Али"
-	"Шах Ахмад"
-}
-
-
+		Iran "Esmail Yekom" "Mohammad Khan Qajar" "Abbas Bozorg" "Safieddin Ardabili" "Tahmasp Yekom" "Abbas Duvam"
+		"Fathali Shah" "Abbas Mirza" "Nasireddin" "Mozaffareddin" "Mohammad Ali" "Shah Ahmad"
+	}
 	ironclad = {
-	"Азербайджан"
-	"Фарс"
-	"Хорасан"
-	"Керман"
-	"Аджами"
-	"Систан"
-	"Горган"
-	"Манзадаран"
-	"Санджан"
-	"Гилян"
-	"Арделан"
-	"Белуджистан"
-	"Лорестан"
-}
-
-
+		Azarbayjan Fars Khorasan Kerman Ajami Sistan Gorgan Manzadaran Sanjan Gilan Ardelan Balochistan Lorestan
+	}
 	manowar = {
-	"Ферхуманд"
-	"Джелаледдин"
-	"Нуреддин"
-	"Данеш"
-	"Зуреддин"
-	"Нируманд"
-	"Хосханешдани"
-	"Сахиб-и-Азам"
-	"Далир"
-}
-
-
+		Ferhumand Jelaleddin Nureddin Danesh Zureddin Nirumand Khosthaneshdani "Sahib-i Azam" Dalir
+	}
 	cruiser = {
-	"Тегеран"
-	"Исфахан"
-	"Ормуз"
-	"Машхад"
-	"Табриз"
-	"Язд"
-	"Шираз"
-	"Хамадан"
-	"Ком"
-	"Бушехр"
-	"Ахваз"
-	"Керманшах"
-	"Казвин"
-	"Занджан"
-	"Рашт"
-	"Ясудж"
-	"Семнан"
-	"Абтин"
-	"Ардаван"
-	"Армин"
-	"Бахрам"
-	"Дараб"
-	"Фарамарз"
-	"Хобад"
-	"Гударз"
-	"Джамшид"
-	"Кавус"
-	"Манучехр"
-	"Мехран"
-	"Парвиз"
-	"Пируз"
-	"Рустам"
-	"Сохраб"
-}
-
-
+		Tehran Esfahan Hormuz Mashhad Tabriz Yazd Shiraz Hamedan Qom Bushehr Ahvaz Kermanshah Qazvin Zanjan Rasht Yasuj Semnan
+		Abtin Ardavan Armin Bahram Darab Faramarz Ghobad Goudarz Jamshid Kavus Manuchehr Mehran Parviz Piruz Rustam Sohrab
+	}
 	frigate = {
-	"Карун"
-	"Заб"
-	"Арас"
-	"Хельманд"
-	"Дияла"
-	"Заб-э-Кучек"
-	"Заянде"
-	"Атрек"
-	"Аламут"
-}
-
-
+		Karun Zab Aras Helmand Diyala "Zab-e Kuchek" Zayande Atrek Alamut
+	}
 	monitor = {
-	"Альборз"
-	"Дамаванд"
-	"Холено"
-	"Азад Кох"
-	"Точал"
-	"Саракчал"
-	"Харсанг"
-	"Загрос"
-	"Зард Кох"
-}
-
-
-	
-	
+		Alborz Damavand Kholeno "Azad Koh" Tochal Sarakchal Kharsang Zagros "Zard Koh"
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Арзу"
-	"Фатима"
-	"Нилофер"
-	"Омид"
-	"Лалех"
-	"Кох-и-Нор"
-	"Джалех"
-	"Фируз"
-	"Дарья"
-	"Рошан"
-	"Шахразад"
-	"Ширин"
-	"Ясмин"
-	"Зиба"
-	"Зулейка"
-	"Бехруз"
-	"Фарид"
-	"Хумаюн"
-	"Камбиз"
-	"Камяр"
-	"Рузбех"
-}
-
-
+		Arzu Fatima Nilofer Omid Laleh "Koh-i Nor" Jaleh Firuz Darya Roshan Shahrazad Shirin Yasmin Ziba Zuleika Behruz Farid Humayun Kambiz Kamyar Ruzbeh
+	}
 }

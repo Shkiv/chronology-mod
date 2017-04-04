@@ -115,148 +115,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Альмиранте Падилья"
-	"Буэнавентура"
-	"Картахена де Индиас"
-	"Колумбия"
-	"Христофор Колумб"
-	"де Паула Сантандер"
-	"Гран Коломбия"
-	"Индепендьенте"
-	"Нуэва Гранада"
-	"Симон Боливар"
-}
-
-
+		"Almirante Padilla" Buenaventura "Cartagena de Indias" Colombia "Cristуbal Colуn" "Fco. de Paula Santander" "Gran Colombia" Independiente "Nueva Granada" "Simуn Bolнvar"
+	}
 	ironclad = {
-	"Андромеда"
-	"Агила"
-	"Касиопеа"
-	"Сентауро"
-	"Драгон"
-	"Феникс"
-	"Персео"
-	"Поларис"
-	"Регулус"
-	"Вела"
-}
-
-
+		Andrуmeda Бguila Casiopea Centauro Dragуn Fйnix Perseo Polaris Regulus Vela
+	}
 	manowar = {
-	"Авентина"
-	"Конфианса"
-	"Эмпрендедора"
-	"Эспартана"
-	"Фама"
-	"Гран Боливар"
-	"Индепенденсия"
-	"Леона"
-	"Марина"
-	"Марте"
-}
-
-
+		Aventina Confianza Emprendedora Espartana Fama "Gran Bolнvar" Independencia Leona Marina Marte
+	}
 	cruiser = {
-	"Богота"
-	"Боливар"
-	"Кали"
-	"Кордоба"
-	"Кукута"
-	"Кундинамарка"
-	"Медельин"
-	"Пасто"
-	"Сантандер"
-	"Сукре"
-}
-
-
+		Bogotб Bolнvar Cali Cуrdoba Cъcuta Cundinamarca Medellin Pasto Santander Sucre
+	}
 	frigate = {
-	"Антиокия"
-	"Кальдас"
-	"Картахена"
-	"Эспартана"
-	"Хосе Гарсия-и-Толедо"
-	"Хуан Непомусено Эслава"
-	"Китасуэньо"
-	"Република"
-	"Санта-Марта"
-	"Валье дель Каука"
-}
-
-
+		Antioquнa Caldas Cartagena Espartana "Josй MЄ Garcнa y Toledo" "Juan Nepomuceno Eslava" Quitasueсo Repъblica "Santa Marta" "Valle del Cauca"
+	}
 	monitor = {
-	"Амазонас"
-	"Андес"
-	"Карибе"
-	"Сиенага Гранде"
-	"Мета"
-	"Невадо дель Уила"
-	"Оринокия"
-	"Пасифико"
-	"Сан-Хуан"
-	"Сьерра-Невада"
-}
-
-
+		Amazonas Andes Caribe "Ciйnaga Grande" Meta "Nevado del Huila" Orinoquнa Pacнfico "San Juan" "Sierra Nevada"
+	}
 	clipper_transport = {
-	"Аменасанте"
-	"Араука"
-	"Аусписио"
-	"Баранкилья"
-	"Какета"
-	"Кататумбо"
-	"Чоко"
-	"Эстрелла"
-	"Флоренсия"
-	"Гуаиния"
-	"Уила"
-	"Индеструктибле"
-	"Ла-Гуахира"
-	"Летисия"
-	"Манисалес"
-	"Монтерия"
-	"Нариньо"
-	"Нативидад"
-	"Сальвадор"
-	"Ваупес"
-}
-
-
+		Amenazante Arauca Auspicio Barranquilla Caquetб Catatumbo Chocу Estrella Florencia Guainнa
+		Huila Indestructible "La Guajira" Leticia Manizales Monterнa Nariсo Natividad Salvador Vaupйs
+	}
 	steam_transport = {
-	"Аменасанте"
-	"Араука"
-	"Аусписио"
-	"Баранкилья"
-	"Какета"
-	"Кататумбо"
-	"Чоко"
-	"Эстрелла"
-	"Флоренсия"
-	"Гуаиния"
-	"Уила"
-	"Индеструктибле"
-	"Ла-Гуахира"
-	"Летисия"
-	"Манисалес"
-	"Монтерия"
-	"Нариньо"
-	"Нативидад"
-	"Сальвадор"
-	"Ваупес"
-}
-
-
+		Amenazante Arauca Auspicio Barranquilla Caquetб Catatumbo Chocу Estrella Florencia Guainнa
+		Huila Indestructible "La Guajira" Leticia Manizales Monterнa Nariсo Natividad Salvador Vaupйs
+	}
 	commerce_raider = {
-	"Антония Мануэла"
-	"Авентина"
-	"Читти"
-	"Эмпрендедора"
-	"Гуавиаре"
-	"Магдалена"
-	"Орнико"
-	"Пикок"
-	"Путумайо"
-}
-
-
+		"Antonia Manuela" Aventina Chitty Emprendedora Guaviare Magdalena Ornico Peacock Putumayo
+	}
 }

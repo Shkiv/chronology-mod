@@ -190,173 +190,37 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Уусимаа"
-	"Вайнамойнен"
-	"Ильмаринен"
-	"Юкахайнен"
-	"Ярл Биргер"
-	"Пер Браге"
-	"Тапио"
-	"Лемминкайнен"
-	"Хельсинки"
-	"Раума"
-	"Турку"
-	"Кеми"
-	"Маарианхамина"
-	"Ваза"
-	"Виипури"
-	"Котка"
-	"Оулу"
-	"Раума"
-	"Карелен"
-	"Або"
-}
-
-
+		"Uusimaa" "Vдinдmцinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkдinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "Еbo"
+	}
 	ironclad = {
-	"Уусимаа"
-	"Вайнамойнен"
-	"Ильмаринен"
-	"Юкахайнен"
-	"Ярл Биргер"
-	"Пер Браге"
-	"Тапио"
-	"Лемминкайнен"
-	"Хельсинки"
-	"Раума"
-	"Турку"
-	"Кеми"
-	"Маарианхамина"
-	"Ваза"
-	"Виипури"
-	"Котка"
-	"Оулу"
-	"Раума"
-	"Карелен"
-	"Або"
-}
-
-
+		"Uusimaa" "Vдinдmцinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkдinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "Еbo"
+	}
 	manowar = {
-	"Уусимаа"
-	"Вайнамойнен"
-	"Ильмаринен"
-	"Юкахайнен"
-	"Ярл Биргер"
-	"Пер Браге"
-	"Тапио"
-	"Лемминкайнен"
-	"Хельсинки"
-	"Раума"
-	"Турку"
-	"Кеми"
-	"Маарианхамина"
-	"Ваза"
-	"Виипури"
-	"Котка"
-	"Оулу"
-	"Раума"
-	"Карелен"
-	"Або"
-}
-
-
+		"Uusimaa" "Vдinдmцinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkдinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "Еbo"
+	}
 	cruiser = {
-	"Уусимаа"
-	"Вайнамойнен"
-	"Ильмаринен"
-	"Юкахайнен"
-	"Ярл Биргер"
-	"Пер Браге"
-	"Тапио"
-	"Лемминкайнен"
-	"Хельсинки"
-	"Раума"
-	"Турку"
-	"Кеми"
-	"Маарианхамина"
-	"Ваза"
-	"Виипури"
-	"Котка"
-	"Оулу"
-	"Раума"
-	"Карелен"
-	"Або"
-}
-
-
+		"Uusimaa" "Vдinдmцinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkдinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "Еbo"
+	}
 	frigate = {
-	"Уусимаа"
-	"Вайнамойнен"
-	"Ильмаринен"
-	"Юкахайнен"
-	"Ярл Биргер"
-	"Пер Браге"
-	"Тапио"
-	"Лемминкайнен"
-	"Хельсинки"
-	"Раума"
-	"Турку"
-	"Кеми"
-	"Маарианхамина"
-	"Ваза"
-	"Виипури"
-	"Котка"
-	"Оулу"
-	"Раума"
-	"Карелен"
-	"Або"
-}
-
-
+		"Uusimaa" "Vдinдmцinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkдinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "Еbo"
+	}
 	monitor = {
-	"Уусимаа"
-	"Вайнамойнен"
-	"Ильмаринен"
-	"Юкахайнен"
-	"Ярл Биргер"
-	"Пер Браге"
-	"Тапио"
-	"Лемминкайнен"
-	"Хельсинки"
-	"Раума"
-	"Турку"
-	"Кеми"
-	"Маарианхамина"
-	"Ваза"
-	"Виипури"
-	"Котка"
-	"Оулу"
-	"Раума"
-	"Карелен"
-	"Або"
-}
+		"Uusimaa" "Vдinдmцinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkдinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "Еbo"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Уусимаа"
-	"Вайнамойнен"
-	"Ильмаринен"
-	"Юкахайнен"
-	"Ярл Биргер"
-	"Пер Браге"
-	"Тапио"
-	"Лемминкайнен"
-	"Хельсинки"
-	"Раума"
-	"Турку"
-	"Кеми"
-	"Маарианхамина"
-	"Ваза"
-	"Виипури"
-	"Котка"
-	"Оулу"
-	"Раума"
-	"Карелен"
-	"Або"
-}
-
-
+		"Uusimaa"  "Vдinдmцinen" "Ilmarinen" "Joukahainen" "Birger Jarl" "Per Brahe" "Tapio" "Lemminkдinen" "Helsinki" "Rauma" "Turku" "Kemi" "Maarianhamina" "Vaasa" "Viipuri" "Kotka" "Oulu"
+		"Rauma" "Karelen" "Еbo"
+	}
 }

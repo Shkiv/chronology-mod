@@ -185,110 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Курхессен"
-	"Кассель"
-	"Курфюрст"
-	"Граф Фридрих"
-	"Граф Вильгельм"
-	"Книпхаузен"
-	"Карл фон Хайнау"
-	"Фульда"
-	"Ханау"
-	"Айзерн Хельм"
-	"Херсфельд"
-}
-
-
+		Kurhessen Kassel Kurfьrst "Graf Friedrich" "Graf Wilhelm" Knyphausen "Carl von Haynau" Fulda Hanau "Eisern Helm" Hersfeld
+	}
 	ironclad = {
-	"Курхессен"
-	"Кассель"
-	"Курфюрст"
-	"Граф Фридрих"
-	"Граф Вильгельм"
-	"Книпхаузен"
-	"Карл фон Хайнау"
-	"Фульда"
-	"Ханау"
-	"Айзерн Хельм"
-	"Херсфельд"
-}
-
-
+		Kurhessen Kassel Kurfьrst "Graf Friedrich" "Graf Wilhelm" Knyphausen "Carl von Haynau" Fulda Hanau "Eisern Helm" Hersfeld
+	}
 	manowar = {
-	"Курхессен"
-	"Кассель"
-	"Курфюрст"
-	"Граф Фридрих"
-	"Граф Вильгельм"
-	"Книпхаузен"
-	"Карл фон Хайнау"
-	"Фульда"
-	"Ханау"
-	"Айзерн Хельм"
-	"Херсфельд"
-}
-
-
+		Kurhessen Kassel Kurfьrst "Graf Friedrich" "Graf Wilhelm" Knyphausen "Carl von Haynau" Fulda Hanau "Eisern Helm" Hersfeld
+	}
 	cruiser = {
-	"Курхессен"
-	"Кассель"
-	"Курфюрст"
-	"Граф Фридрих"
-	"Граф Вильгельм"
-	"Книпхаузен"
-	"Карл фон Хайнау"
-	"Фульда"
-	"Ханау"
-	"Айзерн Хельм"
-	"Херсфельд"
-}
-
-
+		Kurhessen Kassel Kurfьrst "Graf Friedrich" "Graf Wilhelm" Knyphausen "Carl von Haynau" Fulda Hanau "Eisern Helm" Hersfeld
+	}
 	frigate = {
-	"Курхессен"
-	"Кассель"
-	"Курфюрст"
-	"Граф Фридрих"
-	"Граф Вильгельм"
-	"Книпхаузен"
-	"Карл фон Хайнау"
-	"Фульда"
-	"Ханау"
-	"Айзерн Хельм"
-	"Херсфельд"
-}
-
-
+		Kurhessen Kassel Kurfьrst "Graf Friedrich" "Graf Wilhelm" Knyphausen "Carl von Haynau" Fulda Hanau "Eisern Helm" Hersfeld
+	}
 	monitor = {
-	"Курхессен"
-	"Кассель"
-	"Курфюрст"
-	"Граф Фридрих"
-	"Граф Вильгельм"
-	"Книпхаузен"
-	"Карл фон Хайнау"
-	"Фульда"
-	"Ханау"
-	"Айзерн Хельм"
-	"Херсфельд"
-}
+		Kurhessen Kassel Kurfьrst "Graf Friedrich" "Graf Wilhelm" Knyphausen "Carl von Haynau" Fulda Hanau "Eisern Helm" Hersfeld
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Курхессен"
-	"Кассель"
-	"Курфюрст"
-	"Граф Фридрих"
-	"Граф Вильгельм"
-	"Книпхаузен"
-	"Карл фон Хайнау"
-	"Фульда"
-	"Ханау"
-	"Айзерн Хельм"
-	"Херсфельд"
-}
-
-
+		Kurhessen Kassel Kurfьrst "Graf Friedrich" "Graf Wilhelm" Knyphausen "Carl von Haynau" Fulda Hanau "Eisern Helm" Hersfeld
+	}
 }

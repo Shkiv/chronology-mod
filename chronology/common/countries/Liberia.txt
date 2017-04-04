@@ -129,117 +129,34 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Либерия"
-	"Монровия"
-	"Фридом"
-	"Аболишн"
-	"Грейс"
-	"Траст"
-	"Фримэн"
-	"Хоуп"
-	"Промисед Лендс"
-	"Джозеф Робертс"
-	"Стефен Бенсон"
-	"Коммонвелт"
-}
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
 
-
+	}
 	ironclad = {
-	"Либерия"
-	"Монровия"
-	"Фридом"
-	"Аболишн"
-	"Грейс"
-	"Траст"
-	"Фримэн"
-	"Хоуп"
-	"Промисед Лендс"
-	"Джозеф Робертс"
-	"Стефен Бенсон"
-	"Коммонвелт"
-}
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
 
 
+	}
 	manowar = {
-	"Либерия"
-	"Монровия"
-	"Фридом"
-	"Аболишн"
-	"Грейс"
-	"Траст"
-	"Фримэн"
-	"Хоуп"
-	"Промисед Лендс"
-	"Джозеф Робертс"
-	"Стефен Бенсон"
-	"Коммонвелт"
-}
-
-
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
 	cruiser = {
-	"Либерия"
-	"Монровия"
-	"Фридом"
-	"Аболишн"
-	"Грейс"
-	"Траст"
-	"Фримэн"
-	"Хоуп"
-	"Промисед Лендс"
-	"Джозеф Робертс"
-	"Стефен Бенсон"
-	"Коммонвелт"
-}
-
-
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
 	frigate = {
-	"Либерия"
-	"Монровия"
-	"Фридом"
-	"Аболишн"
-	"Грейс"
-	"Траст"
-	"Фримэн"
-	"Хоуп"
-	"Промисед Лендс"
-	"Джозеф Робертс"
-	"Стефен Бенсон"
-	"Коммонвелт"
-}
-
-
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
 	monitor = {
-	"Либерия"
-	"Монровия"
-	"Фридом"
-	"Аболишн"
-	"Грейс"
-	"Траст"
-	"Фримэн"
-	"Хоуп"
-	"Промисед Лендс"
-	"Джозеф Робертс"
-	"Стефен Бенсон"
-	"Коммонвелт"
-}
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Либерия"
-	"Монровия"
-	"Фридом"
-	"Аболишн"
-	"Грейс"
-	"Траст"
-	"Фримэн"
-	"Хоуп"
-	"Промисед Лендс"
-	"Джозеф Робертс"
-	"Стефен Бенсон"
-	"Коммонвелт"
-}
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
 
-
+	}
 }

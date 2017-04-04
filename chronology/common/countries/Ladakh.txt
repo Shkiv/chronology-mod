@@ -101,103 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ла-двагс"
-	"Сенгге Намгял"
-	"Цепал Намгял"
-	"Ниима-Гон"
-	"Лхачен Бхаган"
-	"Занскар"
-	"Спити"
-	"Лех"
-	"Лахаул"
-	"Бальтиюл"
-}
-
-
+		"La-dvags" "Sengge Namgyal" "Tsepal Namgyal" "Nyima-Gon" "Lhachen Bhagan" Zanskar Spiti Leh Lahaul Baltiyul
+	}
 	ironclad = {
-	"Ла-двагс"
-	"Сенгге Намгял"
-	"Цепал Намгял"
-	"Ниима-Гон"
-	"Лхачен Бхаган"
-	"Занскар"
-	"Спити"
-	"Лех"
-	"Лахаул"
-	"Бальтиюл"
-}
-
-
+		"La-dvags" "Sengge Namgyal" "Tsepal Namgyal" "Nyima-Gon" "Lhachen Bhagan" Zanskar Spiti Leh Lahaul Baltiyul
+	}
 	manowar = {
-	"Ла-двагс"
-	"Сенгге Намгял"
-	"Цепал Намгял"
-	"Ниима-Гон"
-	"Лхачен Бхаган"
-	"Занскар"
-	"Спити"
-	"Лех"
-	"Лахаул"
-	"Бальтиюл"
-}
-
-
+		"La-dvags" "Sengge Namgyal" "Tsepal Namgyal" "Nyima-Gon" "Lhachen Bhagan" Zanskar Spiti Leh Lahaul Baltiyul
+	}
 	cruiser = {
-	"Ла-двагс"
-	"Сенгге Намгял"
-	"Цепал Намгял"
-	"Ниима-Гон"
-	"Лхачен Бхаган"
-	"Занскар"
-	"Спити"
-	"Лех"
-	"Лахаул"
-	"Бальтиюл"
-}
-
-
+		"La-dvags" "Sengge Namgyal" "Tsepal Namgyal" "Nyima-Gon" "Lhachen Bhagan" Zanskar Spiti Leh Lahaul Baltiyul
+	}
 	frigate = {
-	"Ла-двагс"
-	"Сенгге Намгял"
-	"Цепал Намгял"
-	"Ниима-Гон"
-	"Лхачен Бхаган"
-	"Занскар"
-	"Спити"
-	"Лех"
-	"Лахаул"
-	"Бальтиюл"
-}
-
-
+		"La-dvags" "Sengge Namgyal" "Tsepal Namgyal" "Nyima-Gon" "Lhachen Bhagan" Zanskar Spiti Leh Lahaul Baltiyul
+	}
 	monitor = {
-	"Ла-двагс"
-	"Сенгге Намгял"
-	"Цепал Намгял"
-	"Ниима-Гон"
-	"Лхачен Бхаган"
-	"Занскар"
-	"Спити"
-	"Лех"
-	"Лахаул"
-	"Бальтиюл"
-}
+		"La-dvags" "Sengge Namgyal" "Tsepal Namgyal" "Nyima-Gon" "Lhachen Bhagan" Zanskar Spiti Leh Lahaul Baltiyul
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Ла-двагс"
-	"Сенгге Намгял"
-	"Цепал Намгял"
-	"Ниима-Гон"
-	"Лхачен Бхаган"
-	"Занскар"
-	"Спити"
-	"Лех"
-	"Лахаул"
-	"Бальтиюл"
-}
-
-
+		"La-dvags" "Sengge Namgyal" "Tsepal Namgyal" "Nyima-Gon" "Lhachen Bhagan" Zanskar Spiti Leh Lahaul Baltiyul
+	}
 }

@@ -89,81 +89,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Асс"
-	"Ванр"
-	"Альфр"
-	"Йотенн"
-}
-
-
+		Бss Vanr Бlfr Jцtunn
+	}
 	ironclad = {
-	"Эллида"
-	"Слейпнер"
-	"Викинг"
-	"Фритьоф"
-	"Рюкан"
-	"Сарпен"
-	"Луген"
-	"Гломмен"
-}
-
-
+		Ellida Sleipner Viking Frithjof Rjukan Sarpen Lougen Glommen
+	}
 	manowar = {
-	"Фрея"
-	"Дезидейра"
-	"Сент-Олаф"
-	"Конг Сверре"
-	"Эллида"
-	"Нордстернен"
-	"Норнен"
-	"Нидарос"
-	"Ернен"
-}
-
-
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Шrnen
+	}
 	cruiser = {
-	"Тор"
-	"Один"
-	"Ньорд"
-	"Фрейр"
-	"Тюр"
-	"Брагль"
-	"Хеймдалль"
-	"Ходер"
-	"Видар"
-	"Але"
-	"Ульр"
-	"Форсети"
-}
-
-
+		Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti
+	}
 	frigate = {
-	"Фрея"
-	"Дезидейра"
-	"Сент-Олаф"
-	"Конг Сверре"
-	"Эллида"
-	"Нордстернен"
-	"Норнен"
-	"Нидарос"
-	"Ернен"
-}
-
-
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Шrnen
+	}
 	monitor = {
-	"Скорпионен"
-	"Мельнер"
-	"Трудванг"
-}
-
-
-	
-	
+		Skorpionen Mjшlner Thrudvang
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Хеймдаль"
-	"Фритьоф Нансен"
-	"Нордкап"
-}
-
-
+		Heimdal "Fridtjof Nansen" Nordkapp
+	}
 }

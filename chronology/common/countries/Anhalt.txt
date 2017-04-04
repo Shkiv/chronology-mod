@@ -185,117 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ангальт"
-	"Херцог"
-	"Дер Альте Дессауэр"
-	"Фатер Франц"
-	"Асканиен"
-	"Эрбпринц"
-	"Дессау"
-	"Цербст"
-	"Плоцкау"
-	"Кетен"
-	"Бернбург"
-	"Ораниенбаум"
-}
-
-
+		Anhalt Herzog "Der Alte Dessauer" "Vater Franz" Askanien Erbprinz Dessau Zerbst Plotzkau Kцthen Bernburg Oranienbaum
+	}
 	ironclad = {
-	"Ангальт"
-	"Херцог"
-	"Дер Альте Дессауэр"
-	"Фатер Франц"
-	"Асканиен"
-	"Эрбпринц"
-	"Дессау"
-	"Цербст"
-	"Плоцкау"
-	"Кетен"
-	"Бернбург"
-	"Ораниенбаум"
-}
-
-
+		Anhalt Herzog "Der Alte Dessauer" "Vater Franz" Askanien Erbprinz Dessau Zerbst Plotzkau Kцthen Bernburg Oranienbaum
+	}
 	manowar = {
-	"Ангальт"
-	"Херцог"
-	"Дер Альте Дессауэр"
-	"Фатер Франц"
-	"Асканиен"
-	"Эрбпринц"
-	"Дессау"
-	"Цербст"
-	"Плоцкау"
-	"Кетен"
-	"Бернбург"
-	"Ораниенбаум"
-}
-
-
+		Anhalt Herzog "Der Alte Dessauer" "Vater Franz" Askanien Erbprinz Dessau Zerbst Plotzkau Kцthen Bernburg Oranienbaum
+	}
 	cruiser = {
-	"Ангальт"
-	"Херцог"
-	"Дер Альте Дессауэр"
-	"Фатер Франц"
-	"Асканиен"
-	"Эрбпринц"
-	"Дессау"
-	"Цербст"
-	"Плоцкау"
-	"Кетен"
-	"Бернбург"
-	"Ораниенбаум"
-}
-
-
+		Anhalt Herzog "Der Alte Dessauer" "Vater Franz" Askanien Erbprinz Dessau Zerbst Plotzkau Kцthen Bernburg Oranienbaum
+	}
 	frigate = {
-	"Ангальт"
-	"Херцог"
-	"Дер Альте Дессауэр"
-	"Фатер Франц"
-	"Асканиен"
-	"Эрбпринц"
-	"Дессау"
-	"Цербст"
-	"Плоцкау"
-	"Кетен"
-	"Бернбург"
-	"Ораниенбаум"
-}
-
-
+		Anhalt Herzog "Der Alte Dessauer" "Vater Franz" Askanien Erbprinz Dessau Zerbst Plotzkau Kцthen Bernburg Oranienbaum
+	}
 	monitor = {
-	"Ангальт"
-	"Херцог"
-	"Дер Альте Дессауэр"
-	"Фатер Франц"
-	"Асканиен"
-	"Эрбпринц"
-	"Дессау"
-	"Цербст"
-	"Плоцкау"
-	"Кетен"
-	"Бернбург"
-	"Ораниенбаум"
-}
+		Anhalt Herzog "Der Alte Dessauer" "Vater Franz" Askanien Erbprinz Dessau Zerbst Plotzkau Kцthen Bernburg Oranienbaum
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Ангальт"
-	"Херцог"
-	"Дер Альте Дессауэр"
-	"Фатер Франц"
-	"Асканиен"
-	"Эрбпринц"
-	"Дессау"
-	"Цербст"
-	"Плоцкау"
-	"Кетен"
-	"Бернбург"
-	"Ораниенбаум"
-}
-
-
+		Anhalt Herzog "Der Alte Dessauer" "Vater Franz" Askanien Erbprinz Dessau Zerbst Plotzkau Kцthen Bernburg Oranienbaum
+	}
 }

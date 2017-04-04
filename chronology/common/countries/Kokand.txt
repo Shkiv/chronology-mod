@@ -101,166 +101,37 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Хорезм"
-	"Ургенч"
-	"Дин Мухаммад"
-	"Элу Даши"
-	"Куня"
-	"Аму Дарья"
-	"Ануш Тигин"
-	"Ала Азиз"
-	"Ахмед Санджар"
-	"Ала Такиш"
-	"Джаксарте"
-	"Сыр Дарья"
-	"Коканд"
-	"Джалаль Мингбурну"
-	"Абу Мамун"
-	"Абу Хасан Али"
-	"Алтун Яш"
-	"Харун"
-	"Исмаил Хандан"
-}
-
-
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
 	ironclad = {
-	"Хорезм"
-	"Ургенч"
-	"Дин Мухаммад"
-	"Элу Даши"
-	"Куня"
-	"Аму Дарья"
-	"Ануш Тигин"
-	"Ала Азиз"
-	"Ахмед Санджар"
-	"Ала Такиш"
-	"Джаксарте"
-	"Сыр Дарья"
-	"Коканд"
-	"Джалаль Мингбурну"
-	"Абу Мамун"
-	"Абу Хасан Али"
-	"Алтун Яш"
-	"Харун"
-	"Исмаил Хандан"
-}
-
-
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
 	manowar = {
-	"Хорезм"
-	"Ургенч"
-	"Дин Мухаммад"
-	"Элу Даши"
-	"Куня"
-	"Аму Дарья"
-	"Ануш Тигин"
-	"Ала Азиз"
-	"Ахмед Санджар"
-	"Ала Такиш"
-	"Джаксарте"
-	"Сыр Дарья"
-	"Коканд"
-	"Джалаль Мингбурну"
-	"Абу Мамун"
-	"Абу Хасан Али"
-	"Алтун Яш"
-	"Харун"
-	"Исмаил Хандан"
-}
-
-
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
 	cruiser = {
-	"Хорезм"
-	"Ургенч"
-	"Дин Мухаммад"
-	"Элу Даши"
-	"Куня"
-	"Аму Дарья"
-	"Ануш Тигин"
-	"Ала Азиз"
-	"Ахмед Санджар"
-	"Ала Такиш"
-	"Джаксарте"
-	"Сыр Дарья"
-	"Коканд"
-	"Джалаль Мингбурну"
-	"Абу Мамун"
-	"Абу Хасан Али"
-	"Алтун Яш"
-	"Харун"
-	"Исмаил Хандан"
-}
-
-
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
 	frigate = {
-	"Хорезм"
-	"Ургенч"
-	"Дин Мухаммад"
-	"Элу Даши"
-	"Куня"
-	"Аму Дарья"
-	"Ануш Тигин"
-	"Ала Азиз"
-	"Ахмед Санджар"
-	"Ала Такиш"
-	"Джаксарте"
-	"Сыр Дарья"
-	"Коканд"
-	"Джалаль Мингбурну"
-	"Абу Мамун"
-	"Абу Хасан Али"
-	"Алтун Яш"
-	"Харун"
-	"Исмаил Хандан"
-}
-
-
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
 	monitor = {
-	"Хорезм"
-	"Ургенч"
-	"Дин Мухаммад"
-	"Элу Даши"
-	"Куня"
-	"Аму Дарья"
-	"Ануш Тигин"
-	"Ала Азиз"
-	"Ахмед Санджар"
-	"Ала Такиш"
-	"Джаксарте"
-	"Сыр Дарья"
-	"Коканд"
-	"Джалаль Мингбурну"
-	"Абу Мамун"
-	"Абу Хасан Али"
-	"Алтун Яш"
-	"Харун"
-	"Исмаил Хандан"
-}
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Хорезм"
-	"Ургенч"
-	"Дин Мухаммад"
-	"Элу Даши"
-	"Куня"
-	"Аму Дарья"
-	"Ануш Тигин"
-	"Ала Азиз"
-	"Ахмед Санджар"
-	"Ала Такиш"
-	"Джаксарте"
-	"Сыр Дарья"
-	"Коканд"
-	"Джалаль Мингбурну"
-	"Абу Мамун"
-	"Абу Хасан Али"
-	"Алтун Яш"
-	"Харун"
-	"Исмаил Хандан"
-}
-
-
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
+		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
 }

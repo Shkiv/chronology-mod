@@ -143,149 +143,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Кара де Диос"
-	"Эквадор"
-	"Флорес"
-	"Гарсия Морено"
-	"Иллингворт"
-	"Инка"
-	"Либертадор"
-	"Рокафуэрте"
-	"Стагг"
-	"Вейнтимилья"
-}
-
-
+		"Cara de Dios" Ecuador Flores "Garcнa Moreno" Illingworth Inca Libertador Rocafuerte Stagg Veintemilla
+	}
 	ironclad = {
-	"Корморан"
-	"Эль Оро"
-	"Гуайас"
-	"Имбабура"
-	"Леон Марино"
-	"Лос-Риос"
-	"Манаби"
-	"Марсисмо"
-	"Пингуино"
-	"Тортуга"
-}
-
-
+		Cormorбn "El Oro" Guayas Imbabura "Leуn Marino" "Los Rнos" Manabн Marcismo Pingьino Tortuga
+	}
 	manowar = {
-	"Алькансе"
-	"Чимборасо"
-	"Колумбия"
-	"Дилихенсия"
-	"Гарсия дель Гуаяс"
-	"Гуаякиленья"
-	"Пичинча"
-	"Сан-Франциско"
-	"Сан-Хуан"
-	"Санта-Марина"
-}
-
-
+		Alcance Chimborazo Colombia Diligencia "Gracia del Guayas" Guayaquileсa Pichincha "San Francisco" "San Juan" "Santa Marina"
+	}
 	cruiser = {
-	"Амасония"
-	"Боливар"
-	"Галапагос"
-	"Либертад"
-	"Лус де Америка"
-	"Местисо"
-	"Орельяна"
-	"Ориэнте"
-	"Патрия"
-	"Санта-Элена"
-}
-
-
+		Amazonнa Bolнvar Galбpagos Libertad "Luz de Amйrica" Mestizo Orellana Oriente Patria "Santa Elena"
+	}
 	frigate = {
-	"Конститусьон"
-	"Куэнка"
-	"Куэро"
-	"Эсмеральдас"
-	"Эспехо"
-	"Гуаякиль"
-	"Монтуфар"
-	"Кито"
-	"Република"
-	"Замора"
-}
-
-
+		Constituciуn Cuenca Cuero Esmeraldas Espejo Guayaquil Montufar Quito Repъblica Zamora
+	}
 	monitor = {
-	"Кока"
-	"Котопакси"
-	"Уанкавилька"
-	"Ильиниса"
-	"Мантеньо"
-	"Напо"
-	"Пастаса"
-	"Путумайо"
-	"Сири"
-	"Тунгураха"
-}
-
-
+		Coca Cotopaxi Huancavilca Illiniza Manteсo Napo Pastaza Putumayo Shyri Tunguraha
+	}
 	clipper_transport = {
-	"Аудас"
-	"Куэнкана"
-	"Дарвин"
-	"Индеструктибле"
-	"Ингапирка"
-	"Интрепидо"
-	"Лаго Агрио"
-	"Марина"
-	"Орельяна"
-	"Портовьехо"
-	"Пуйэнья"
-	"Китенья"
-	"Сан-Грегорио"
-	"Сан-Хосе"
-	"Сан-Мигель"
-	"Санта-Мария"
-	"Сантьяго"
-	"Санто-Доминго"
-	"Тена"
-	"Велос"
-}
-
-
+		Audaz Cuencana Darwin Indestructible Ingapirca Intrйpido "Lago Agrio" Marina Orellana Portoviejo
+		Puyeсa Quiteсa "San Gregorio" "San Josй" "San Miguel" "Santa Marнa" Santiago "Santo Domingo" Tena Veloz
+	}
 	steam_transport = {
-	"Аудас"
-	"Куэнкана"
-	"Дарвин"
-	"Индеструктибле"
-	"Ингапирка"
-	"Интрепидо"
-	"Лаго Агрио"
-	"Марина"
-	"Орельяна"
-	"Портовьехо"
-	"Пуйэнья"
-	"Китенья"
-	"Сан-Грегорио"
-	"Сан-Хосе"
-	"Сан-Мигель"
-	"Санта-Мария"
-	"Сантьяго"
-	"Санто-Доминго"
-	"Тена"
-	"Велос"
-}
-
-
+		Audaz Cuencana Darwin Indestructible Ingapirca Intrйpido "Lago Agrio" Marina Orellana Portoviejo
+		Puyeсa Quiteсa "San Gregorio" "San Josй" "San Miguel" "Santa Marнa" Santiago "Santo Domingo" Tena Veloz
+	}
 	commerce_raider = {
-	"Атакасо"
-	"Бабахойо"
-	"Каямбе"
-	"Корасон"
-	"Филокорралес"
-	"Ибарра"
-	"Мачала"
-	"Пуйо"
-	"Ревентадор"
-	"Тулькан"
-}
-
-
+		Atacazo Babahoyo Cayambe Corazуn Filocorrales Ibarra Machala Puyo Reventador Tulcбn
+	}
 }

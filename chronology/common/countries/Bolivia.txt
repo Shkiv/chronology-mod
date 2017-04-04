@@ -115,149 +115,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Альто Перу"
-	"Боливия"
-	"Чаркас"
-	"Кристо де ла Конкордия"
-	"Хенераль Сукре"
-	"Исканауая"
-	"Самапайта"
-	"Сейс де Агосто"
-	"Симон Боливар"
-	"Тиколор"
-}
-
-
+		"Alto Perъ" Bolivia Charcas "Cristo de la Concordia" "General Sucre" Iscanahuaya Samapaita "Seis de Agosto" "Simуn Bolivar" Tricolor
+	}
 	ironclad = {
-	"Альтиплано"
-	"Андес"
-	"Индепенденсия"
-	"Хупитер"
-	"Нептуно"
-	"Оксиденталь"
-	"Ориенталь"
-	"Плутон"
-	"Реал"
-	"Републикетас"
-}
-
-
+		Altiplano Andes Independencia Jъpiter Neptuno Occidental Oriental Plutуn Real Republiquetas
+	}
 	manowar = {
-	"Конфедерасьон"
-	"Конгресо"
-	"Ла Фаллет"
-	"Либертад"
-	"Мария-Луиса"
-	"Морро"
-	"Сан-Бартоломе"
-	"Сан-Франциско"
-	"Санто-Томас"
-	"Янакоча"
-}
-
-
+		Confederaciуn Congreso "La Fбllete" Libertad "Marнa Luisa" Morro "San Bartolomй" "San Francisco" "Santo Tomбs" Yanacocha
+	}
 	cruiser = {
-	"Кобиха"
-	"Десагвадеро"
-	"Ильампу"
-	"Ильимани"
-	"Мадера"
-	"Маморе"
-	"Невадо Сахада"
-	"Поопо"
-	"Титикака"
-	"Тринидад"
-}
-
-
+		Cobija Desaguadero Illampu Illimani Madera Mamore "Nevado Sajada" Poopу Titicaca Trinidad
+	}
 	frigate = {
-	"Антофагаста"
-	"Бени"
-	"Чукисака"
-	"Кочабамба"
-	"Ла-Пас"
-	"Оруро"
-	"Пандо"
-	"Потоси"
-	"Санта-Крус"
-	"Тариха"
-}
-
-
+		Antofagasta Beni Chuquisaca Cochabamba "La Paz" Oruro Pando Potosн "Santa Cruz" Tarija
+	}
 	monitor = {
-	"Конститусьон"
-	"Гран Чако"
-	"Инка"
-	"Либертадор"
-	"Меркурио"
-	"Сатурно"
-	"Тиауано"
-	"Урано"
-	"Вулкано"
-	"Юнгас"
-}
-
-
+		Constituciуn "Gran Chaco" Inca Libertador Mercurio Saturno Tihauano Urano Vulcano Yungas
+	}
 	clipper_transport = {
-	"Агила Роха"
-	"Анна"
-	"Аймара"
-	"Беатрис"
-	"Кармен"
-	"Кондор Негро"
-	"Мария"
-	"Марта"
-	"Ракель"
-	"Саломе"
-	"Сан-Антонио"
-	"Сан-Худас"
-	"Сан-Пабло"
-	"Сирена"
-	"Тауаману"
-	"Тетис"
-	"Тритон"
-	"Венседора"
-	"Виктория"
-	"Воладора"
-}
-
-
+		"Бguila Roja" Ana Aymara Beatriz Carmen "Cуndor Negro" Marнa Marta Raquel Salomй
+		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritуn Vencedora Victoria Voladora
+	}
 	steam_transport = {
-	"Агила Роха"
-	"Анна"
-	"Аймара"
-	"Беатрис"
-	"Кармен"
-	"Кондор Негро"
-	"Мария"
-	"Марта"
-	"Ракель"
-	"Саломе"
-	"Сан-Антонио"
-	"Сан-Худас"
-	"Сан-Пабло"
-	"Сирена"
-	"Тауаману"
-	"Тетис"
-	"Тритон"
-	"Венседора"
-	"Виктория"
-	"Воладора"
-}
-
-
+		"Бguila Roja" Ana Aymara Beatriz Carmen "Cуndor Negro" Marнa Marta Raquel Salomй
+		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritуn Vencedora Victoria Voladora
+	}
 	commerce_raider = {
-	"Аудас"
-	"Кастро Рохас"
-	"Деструктора"
-	"Форталеза"
-	"Мадре де Диос"
-	"Маноа"
-	"Ману"
-	"Пандо"
-	"Сората"
-	"Темор"
-}
-
-
+		Audaz "Castro Rojas" Destructora Fortaleza "Madre de Dios" Manoa Manu Pando Sorata Temor
+	}
 }

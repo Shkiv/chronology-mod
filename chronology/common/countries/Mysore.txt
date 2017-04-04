@@ -102,201 +102,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Амирта"
-	"Амман"
-	"Аруль"
-	"Бхима"
-	"Челлам"
-	"Деви"
-	"Дурга"
-	"Гаятри"
-	"Иния"
-	"Кришна"
-	"Лакшми"
-	"Мадху"
-	"Минакши"
-	"Налини"
-	"Паллар"
-	"Парвати"
-	"Паясвани"
-	"Пеннар"
-	"Понни"
-	"Радха"
-	"Ратри"
-	"Сарасвати"
-	"Сита"
-	"Тамарай"
-}
+		Amirtha Amman Arul Bhima Chellam Devi Durga Gayatri Iniya Krishna Lakshmi Madhu Meenakshi Nalini
+		Pallar Parvati Payaswani Pennar Ponni Radha Ratri Sarasvati Sita Tamarai
 
-
+	}
 	ironclad = {
-	"Амирта"
-	"Амман"
-	"Аруль"
-	"Бхима"
-	"Челлам"
-	"Деви"
-	"Дурга"
-	"Гаятри"
-	"Иния"
-	"Кришна"
-	"Лакшми"
-	"Мадху"
-	"Минакши"
-	"Налини"
-	"Паллар"
-	"Парвати"
-	"Паясвани"
-	"Пеннар"
-	"Понни"
-	"Радха"
-	"Ратри"
-	"Сарасвати"
-	"Сита"
-	"Тамарай"
-}
-
-
+		Amirtha Amman Arul Bhima Chellam Devi Durga Gayatri Iniya Krishna Lakshmi Madhu Meenakshi Nalini
+		Pallar Parvati Payaswani Pennar Ponni Radha Ratri Sarasvati Sita Tamarai
+	}
 	manowar = {
-	"Амирта"
-	"Амман"
-	"Аруль"
-	"Бхима"
-	"Челлам"
-	"Деви"
-	"Дурга"
-	"Гаятри"
-	"Иния"
-	"Кришна"
-	"Лакшми"
-	"Мадху"
-	"Минакши"
-	"Налини"
-	"Паллар"
-	"Парвати"
-	"Паясвани"
-	"Пеннар"
-	"Понни"
-	"Радха"
-	"Ратри"
-	"Сарасвати"
-	"Сита"
-	"Тамарай"
-}
-
-
+		Amirtha Amman Arul Bhima Chellam Devi Durga Gayatri Iniya Krishna Lakshmi Madhu Meenakshi Nalini
+		Pallar Parvati Payaswani Pennar Ponni Radha Ratri Sarasvati Sita Tamarai
+	}
 	cruiser = {
-	"Амирта"
-	"Амман"
-	"Аруль"
-	"Бхима"
-	"Челлам"
-	"Деви"
-	"Дурга"
-	"Гаятри"
-	"Иния"
-	"Кришна"
-	"Лакшми"
-	"Мадху"
-	"Минакши"
-	"Налини"
-	"Паллар"
-	"Парвати"
-	"Паясвани"
-	"Пеннар"
-	"Понни"
-	"Радха"
-	"Ратри"
-	"Сарасвати"
-	"Сита"
-	"Тамарай"
-}
-
-
+		Amirtha Amman Arul Bhima Chellam Devi Durga Gayatri Iniya Krishna Lakshmi Madhu Meenakshi Nalini
+		Pallar Parvati Payaswani Pennar Ponni Radha Ratri Sarasvati Sita Tamarai
+	}
 	frigate = {
-	"Амирта"
-	"Амман"
-	"Аруль"
-	"Бхима"
-	"Челлам"
-	"Деви"
-	"Дурга"
-	"Гаятри"
-	"Иния"
-	"Кришна"
-	"Лакшми"
-	"Мадху"
-	"Минакши"
-	"Налини"
-	"Паллар"
-	"Парвати"
-	"Паясвани"
-	"Пеннар"
-	"Понни"
-	"Радха"
-	"Ратри"
-	"Сарасвати"
-	"Сита"
-	"Тамарай"
-}
-
-
+		Amirtha Amman Arul Bhima Chellam Devi Durga Gayatri Iniya Krishna Lakshmi Madhu Meenakshi Nalini
+		Pallar Parvati Payaswani Pennar Ponni Radha Ratri Sarasvati Sita Tamarai
+	}
 	monitor = {
-	"Амирта"
-	"Амман"
-	"Аруль"
-	"Бхима"
-	"Челлам"
-	"Деви"
-	"Дурга"
-	"Гаятри"
-	"Иния"
-	"Кришна"
-	"Лакшми"
-	"Мадху"
-	"Минакши"
-	"Налини"
-	"Паллар"
-	"Парвати"
-	"Паясвани"
-	"Пеннар"
-	"Понни"
-	"Радха"
-	"Ратри"
-	"Сарасвати"
-	"Сита"
-	"Тамарай"
-}
+		Amirtha Amman Arul Bhima Chellam Devi Durga Gayatri Iniya Krishna Lakshmi Madhu Meenakshi Nalini
+		Pallar Parvati Payaswani Pennar Ponni Radha Ratri Sarasvati Sita Tamarai
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Амирта"
-	"Амман"
-	"Аруль"
-	"Бхима"
-	"Челлам"
-	"Деви"
-	"Дурга"
-	"Гаятри"
-	"Иния"
-	"Кришна"
-	"Лакшми"
-	"Мадху"
-	"Минакши"
-	"Налини"
-	"Паллар"
-	"Парвати"
-	"Паясвани"
-	"Пеннар"
-	"Понни"
-	"Радха"
-	"Ратри"
-	"Сарасвати"
-	"Сита"
-	"Тамарай"
-}
-
-
+		Amirtha Amman Arul Bhima Chellam Devi Durga Gayatri Iniya Krishna Lakshmi Madhu Meenakshi Nalini
+		Pallar Parvati Payaswani Pennar Ponni Radha Ratri Sarasvati Sita Tamarai
+	}
 }

@@ -101,149 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Христофор Колумб"
-	"Деметрио Брид"
-	"Эстебан Уэртас"
-	"Фередрико Бойд"
-	"Индепенденсия"
-	"Хосе Агустин Аранго"
-	"Мануэль Амадор Гуэрреро"
-	"Панама"
-	"Тоам де Эррера"
-	"Трес де Новьембре"
-}
-
-
+		"Cristуbal Colуn" "Demetrio Brid" "Esteban Huertas" "Federico Boyd" Independencia "Josй Agustнn Arango" "Manuel Amador Guerrero" Panamб "Tomбs de Herrera" "Tres de Noviembre"
+	}
 	ironclad = {
-	"Альмиранте"
-	"Асуэро"
-	"Бальбоа"
-	"Коиба"
-	"Кристобаль"
-	"Эль Гольфо"
-	"Лас Пелас"
-	"Табасара"
-	"Табога"
-	"Таламанка"
-}
-
-
+		Almirante Azuero Balboa Coiba Cristуbal "El Golfo" "Las Pelas" Tabasarб Taboga Talamanca
+	}
 	manowar = {
-	"Эспириту Санто"
-	"Эстрелла де лос Марес"
-	"Сан Блас"
-	"Сан-Карлос"
-	"Сан-Кристобаль"
-	"Сан-Фелипе"
-	"Сан-Фернандо"
-	"Санта-Исабель"
-	"Санта-Мария"
-	"Сантисима Тринидад"
-}
-
-
+		"Espнritu Santo" "Estrella de los Mares" "San Blas" "San Carlos" "San Cristуbal" "San Felipe" "San Fernando" "Santa Isabel" "Santa Marнa" "Santнsima Trinidad"
+	}
 	cruiser = {
-	"Бокас дель Торо"
-	"Буабиди"
-	"Дарьен"
-	"Эль Порвенир"
-	"Эмбрера-Вунаан"
-	"Куна де Мадуганди"
-	"Куна де Варганди"
-	"Куна Яла Нгебе-Бугле"
-	"Унион Чоко"
-}
-
-
+		"Bocas del Toro" Buabidi Dariйn "El Porvenir" Emberб-Wounaan "Kuna de Madugandн" "Kuna de Wargandн" "Kuna Yala Ngцbe-Buglй" "Uniуn Choco"
+	}
 	frigate = {
-	"Чирики"
-	"Читре"
-	"Сьюдад де Панам"
-	"Кокле"
-	"Колон"
-	"Эррера"
-	"Ла-Пальма"
-	"Лос Сантос"
-	"Пенономе"
-	"Верагуас"
-}
-
-
+		Chiriquн Chitrй "Ciudad de Panamб" Coclй Colуn Herrera "La Palma" "Los Santos" Penonomй Veraguas
+	}
 	monitor = {
-	"Кабра"
-	"Каньяс"
-	"Карибе"
-	"Себако"
-	"Коиба"
-	"Гранде"
-	"Хикарон"
-	"Лас Трес Мариас"
-	"Мамей"
-	"Монтуоса"
-}
-
-
+		Cabra Caсas Caribe Cйbaco Coiba Grande Jicarуn "Las Tres Marнas" Mamey Montuosa
+	}
 	clipper_transport = {
-	"Агила"
-	"Авансе"
-	"Каргуэро"
-	"Кондор"
-	"Корахе"
-	"Креадор"
-	"Дескубридор"
-	"Этер"
-	"Эксплорадор"
-	"Феникс"
-	"Алькон"
-	"Инундибле"
-	"Ласаро"
-	"Оскуро"
-	"Пегасо"
-	"Сан-Антонио"
-	"Сан-Бернабе"
-	"Санта-Марта"
-	"Титан"
-	"Воладор"
-}
-
-
+		Бguila Avance Carguero Cуndor Coraje Creador Descubridor Йter Explorador Fйnix
+		Halcуn Inhundible Lбzaro Oscuro Pegaso "San Antonio" "San Bernabй" "Santa Marta" Titбn Volador
+	}
 	steam_transport = {
-	"Агила"
-	"Авансе"
-	"Каргуэро"
-	"Кондор"
-	"Корахе"
-	"Креадор"
-	"Дескубридор"
-	"Этер"
-	"Эксплорадор"
-	"Феникс"
-	"Алькон"
-	"Инундибле"
-	"Ласаро"
-	"Оскуро"
-	"Пегасо"
-	"Сан-Антонио"
-	"Сан-Бернабе"
-	"Санта-Марта"
-	"Титан"
-	"Воладор"
-}
-
-
+		Бguila Avance Carguero Cуndor Coraje Creador Descubridor Йter Explorador Fйnix
+		Halcуn Inhundible Lбzaro Oscuro Pegaso "San Antonio" "San Bernabй" "Santa Marta" Titбn Volador
+	}
 	commerce_raider = {
-	"Бару"
-	"Чагрес"
-	"Чепо"
-	"Деструктор"
-	"Экстреминадор"
-	"Фуэго"
-	"Сан"
-	"Мигель"
-	"Темор"
-	"Туира"
-	"Волькан"
-}
-
-
+		Barъ Chagres Chepo Destructor Exterminador Fuego San Miguel Temor Tuira Volcбn
+	}
 }

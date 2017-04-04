@@ -7,7 +7,7 @@ party = {
 	end_date = 2000.1.1
 
 	ideology = reactionary
-	
+
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -101,145 +101,50 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Азербайджан"
-	"Надир Шах"
-	"Хасан Зардаби"
-	"Фатали Ахундов"
-	"Мамедкулизаде"
-	"Мирза Алакбар Сбаир"
-	"Нариманов"
-	"Баку"
-	"Ширван"
-	"Карабах"
-	"Ганджа"
-	"Куба"
-	"Шаки"
-	"Талыш"
-	"Эривань"
-	"Нахичевань"
-}
+		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh
 
-
+		Ganja Quba Shaki Talysh Erivan Nakchivan
+	}
 	ironclad = {
-	"Азербайджан"
-	"Надир Шах"
-	"Хасан Зардаби"
-	"Фатали Ахундов"
-	"Мамедкулизаде"
-	"Мирза Алакбар Сбаир"
-	"Нариманов"
-	"Баку"
-	"Ширван"
-	"Карабах"
-	"Ганджа"
-	"Куба"
-	"Шаки"
-	"Талыш"
-	"Эривань"
-	"Нахичевань"
-}
+		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh
 
+		Ganja Quba Shaki Talysh Erivan Nakchivan
 
+	}
 	manowar = {
-	"Азербайджан"
-	"Надир Шах"
-	"Хасан Зардаби"
-	"Фатали Ахундов"
-	"Мамедкулизаде"
-	"Мирза Алакбар Сбаир"
-	"Нариманов"
-	"Баку"
-	"Ширван"
-	"Карабах"
-	"Ганджа"
-	"Куба"
-	"Шаки"
-	"Талыш"
-	"Эривань"
-	"Нахичевань"
-}
+		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh
 
+		Ganja Quba Shaki Talysh Erivan Nakchivan
 
+	}
 	cruiser = {
-	"Азербайджан"
-	"Надир Шах"
-	"Хасан Зардаби"
-	"Фатали Ахундов"
-	"Мамедкулизаде"
-	"Мирза Алакбар Сбаир"
-	"Нариманов"
-	"Баку"
-	"Ширван"
-	"Карабах"
-	"Ганджа"
-	"Куба"
-	"Шаки"
-	"Талыш"
-	"Эривань"
-	"Нахичевань"
-}
+		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh
 
+		Ganja Quba Shaki Talysh Erivan Nakchivan
 
+	}
 	frigate = {
-	"Азербайджан"
-	"Надир Шах"
-	"Хасан Зардаби"
-	"Фатали Ахундов"
-	"Мамедкулизаде"
-	"Мирза Алакбар Сбаир"
-	"Нариманов"
-	"Баку"
-	"Ширван"
-	"Карабах"
-	"Ганджа"
-	"Куба"
-	"Шаки"
-	"Талыш"
-	"Эривань"
-	"Нахичевань"
-}
+		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh
 
+		Ganja Quba Shaki Talysh Erivan Nakchivan
 
+	}
 	monitor = {
-	"Азербайджан"
-	"Надир Шах"
-	"Хасан Зардаби"
-	"Фатали Ахундов"
-	"Мамедкулизаде"
-	"Мирза Алакбар Сбаир"
-	"Нариманов"
-	"Баку"
-	"Ширван"
-	"Карабах"
-	"Ганджа"
-	"Куба"
-	"Шаки"
-	"Талыш"
-	"Эривань"
-	"Нахичевань"
-}
+		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh
 
+		Ganja Quba Shaki Talysh Erivan Nakchivan
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Азербайджан"
-	"Надир Шах"
-	"Хасан Зардаби"
-	"Фатали Ахундов"
-	"Мамедкулизаде"
-	"Мирза Алакбар Сбаир"
-	"Нариманов"
-	"Баку"
-	"Ширван"
-	"Карабах"
-	"Ганджа"
-	"Куба"
-	"Шаки"
-	"Талыш"
-	"Эривань"
-	"Нахичевань"
-}
+		Azerbaijan "Nader Shah" "Hasan Zardabi" "Fatali Akhundov" Mammadguluzadeh "Mirza Alakbar Sabir"  Narimanov Baku Shirvan Karabakh
 
+		Ganja Quba Shaki Talysh Erivan Nakchivan
 
+	}
 }

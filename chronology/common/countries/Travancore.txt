@@ -144,113 +144,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Рамаварма"
-	"Адитьяварма"
-	"Равиварма"
-	"Баларама Варма"
-	"Сватхи Тхирунал"
-	"Утхрам Тхирунал"
-	"Висакхам Тхирунал"
-}
-
-
+		"Rama Varma" "Aditya Varma" "Ravi Varma" "Balarama Varma" "Swathi Thirunal" "Uthram Thirunal" "Visakham Thirunal"
+		}
 	cruiser = {
-	"Амар"
-	"Анил"
-	"Асим"
-	"Бхавеш"
-	"Чандрахас"
-	"Дхирендра"
-	"Гопан"
-	"Джагаит"
-	"Джишну"
-	"Махабала"
-	"Пинак"
-	"Ранджит"
-	"Сатяджит"
-	"Урджит"
-	"Варун"
-	"Вишваджит"
-}
-
-
+		Amar Anil Asim Bhavesh Chandrahas Dhirendra Gopan Jagajit Jishnu Mahabala Pinak Ranjit Satyajit Urjit Varun Vishvajit
+	}
 	ironclad = {
-	"Акшат"
-	"Аваниндра"
-	"Дипендра"
-	"Дебашиш"
-	"Дурджая"
-	"Илеш"
-	"Джаганнат"
-	"Мегхнад"
-	"Парамджит"
-	"Самрджит"
-	"Судхир"
-	"Виджай"
-	"Викрант"
-}
-
-
+		Akshat Avanindra Dipendra Debashish Durjaya Ilesh Jagannath Meghnad Paramjit Samarjit Sudhir Vijay Vikrant
+	}
 	monitor = {
-	"Атул"
-	"Чапал"
-	"Карикея"
-	"Махавир"
-	"Начикета"
-	"Праджит"
-	"Рутуджит"
-	"Шреяс"
-	"Веер"
-	"Юютсу"
-}
-
-
+		Atul Chapal Kartikeya Mahavir Nachiketa Prajit Rutujit Shreyas Veer Yuyutsu
+		}
 	manowar = {
-	"Падманабапурам"
-	"Тируванантапурам"
-	"Килиманор"
-	"Коллам"
-	"Кочи"
-	"Мавеликкара"
-	"Тхриссур"
-}
-
-
+		Padmanabhapuram Thiruvananthapuram Kilimanoor Kollam Kochi Mavelikkara Thrissur
+	}
 	frigate = {
-	"Абхай"
-	"Ахилеш"
-	"Балдев"
-	"Чандреш"
-	"Дуранджая"
-	"Гаурав"
-	"Джаянт"
-	"Париндра"
-	"Прабик"
-	"Шатрунджай"
-	"Випан"
-	"Вирадж"
-	"Юдхистхир"
-}
-
-
-	
-	
+		Abhay Akhilesh Baldev Chandresh Duranjaya Gaurav Jayant Parindra Prabir Shatrunjay Vipan Viraj Yudhisthir
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Анупам"
-	"Арихант"
-	"Бхану"
-	"Дхананджай"
-	"Эмендра"
-	"Джавахар"
-	"Кушаль"
-	"Макаранд"
-	"Маниндра"
-	"Нархари"
-	"Низиш"
-	"Ратнакар"
-	"Шашват"
-	"Срикант"
-}
-
-
+		Anupam Arihant Bhanu Dhananjay Hemendra Jawahar Kaushal Makarand Manindra Narhari Nidhish Ratnakar Shashwat Srikant
+	}
 }

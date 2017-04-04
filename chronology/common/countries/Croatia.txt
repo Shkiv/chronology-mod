@@ -101,68 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Хрватска"
-	"Максимилиан Врховац"
-	"Илирски покрет"
-	"Славония"
-	"Загреб"
-}
-
-
+		Hrvatska "Maksimilijan Vrhovac" "Ilirski pokret" Slavonija Zagreb
+	}
 	ironclad = {
-	"Осиек"
-	"Янко Драшкович"
-	"Антун Миханович"
-	"Людевит Гай"
-	"Риека"
-}
-
-
+		Osijek  "Janko Draљkovic" "Antun Mihanovic" "Ljudevit Gaj" Rijeka
+	}
 	manowar = {
-	"Сава"
-	"Драва"
-	"Купа"
-	"Корана"
-	"Чесма"
-}
-
-
+		Sava Drava Kupa Korana Cesma
+	}
 	cruiser = {
-	"Иван Лупиш"
-	"Янко Вукович"
-	"Матья Политео"
-	"Антре Трешич Павичич"
-	"Бранимир"
-}
-
-
+		"Ivan Lupis" "Janko Vukovic" "Matija Politeo" "Ante Tresic Pavicic" Branimir
+	}
 	frigate = {
-	"Динара"
-	"Камешница"
-	"Биоково"
-	"Велебит"
-	"Пльешевице"
-}
-
-
+		Dinara Kameљnica Biokovo Velebit Pljeљevica
+	}
 	monitor = {
-	"Дубровник"
-	"Рагуза"
-	"Сплит"
-	"Пула"
-	"Госпич"
-}
+		Dubrovnik Ragusa Split Pula Gospic
+
+	}
+	clipper_transport = {
 
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Крк"
-	"Бриюны"
-	"Лошинь"
-	"Крес"
-	"Иловик"
-}
-
-
+		Krk Brijuni Loљinj Cres Ilovik
+	}
 }

@@ -1,6 +1,6 @@
-color = { 119  181  88 }
+color = { 119 181 88 }
 proletarian_dictatorship = { 200 10 10 }
-fascist_dictatorship = { 150 200 210}
+fascist_dictatorship = { 150 200 210 }
 
 graphical_culture = RussianGC
 
@@ -398,35 +398,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-        Петропавловск Мария Екатерина Великая "Свободная Россия" Александр Гангут Севастополь Полтава Воля Архангельск Новороссийск Союз Украина Россия Алексеев Белоруссия Потёмкин Москва Мария Екатерина Алексеев Красная "Уральские горы" Сибирь Император Коммуна "Генерал Алексеев" Ретивисан "Нижний Новгород" Омск Челябинск Красноярск Саратов "Иван Грозный" Куликово 
+                       Petropavlovsk Mariya Ekaterina Velikaya "Svobodnaya Rossiya" Aleksander Gangut Sevastopol Poltava Volya Arkhangel’sk Novorossiysk Soyuz Ukraina Rossiya Alekseev Belarussia Potemkin Moskva Mariya Ekaterina Alekseev Krasnaya "Uralskiye gory" Sibir Imperator Komunna "General Alexeiev" Retivisan "Nizhny Novgorod" Omck Chelyabinsk Krasnoyarsk Saratov "Ivan Grozny" Kulikovo
 
 	}
+	battleship = {
+		"Ekaterina II" Chesma Sinop "Georgii Pobedonosits" "Dvenadsat Apostolov" Navarin "Tri Sviatitelia" "Sissoi Veliky" Poltava Petropavlovsk Sevastopol Rostislav Peresvet Osliabia Pobeda Potemkin Retvizan Tsesarevich Borodino "Imperator Aleksandr III" Oryol "Kniaz’ Suvorov" Slava Evstafi "Ioann Zlatoust" "Andrey Pervozvanny" "Imperator Pavel I"
+	}
 	ironclad = {
-        Минин "Князь Пожарский" Первенец Кремль "Не Тронь Меня" Смерч Лазарев "Пётр Великий" Киев Минск "Заря Свободы" "Адмирал Бутаков" Крейсер Ладога Георгий Наварин Цесаревич Народная "Полуостров Камчатка" Кама Воронеж Битюг 
+                        Minin "Kniaz Pozharskii" Pervenets Kreml "Ne Tron Menia" Smerch Lazarev "Pyotr Velikyy" Chesma Kyiv Minsk "Zaria Svobody" "Admiral Butakov" Kreiser Ladoga Georgii "Sissoi Veliky" Navarin "Pamiat Merkuria" Tsesarevich Narodnaya "Poluostrov Kamchatka" Kama Voronezh Bityug
 
 	}
 	manowar = {
-		Святослав Воля "Андрей Первозванный" Константин Гавриил Серафим Варна "Двенадцать Апостолов" Ростислав Храбрый Синоп Босфор Уриил "Три Святителя" Арсис Смоленск Орёл Финляндия Прохор Варшава  Азов Берёзов Владимир
+		Sviatoslav Vola Andrei Fershampenuaz Konstantin Gavriil Selafail Varna Yagudiil Sviatoslav "Dvenadtsat Apostolov" Rostislav Khrabryi Sinop Bosfor Uriil "Tri Sviatitelia" Arsis Smolensk Oriol Finland Vola Prokhor Varshava Retvisan Iezekiil Azov Kul’m Lesnoye Brien Berezino Ostroloenka Vladimir Fershampenuaz
 
 	}
 	cruiser = {
-		Паллада Диана Аскольд Ушаков Боярин Нахимов Богатырь Олег Витязь "Александр Невский" "Память Азова" Рюрик Баян Варяг Измаил "Адмирал Корнилов" Алмаз  Ася Аврора Громобой Волга "Новая Земля" Днепр Десна Заря Азимут
+		Pallada Diana Askold Novik Boyarin Nakhimov Bogatyr Oleg Vityaz "General-Admiral" "Alexander Nevski" "Pamiyat Azova" Rurik Bayan Varyag Izmail Kinburn Navarin "Admiral Kornilov" Almaz  Asia Aurora Gromoboi Volga "Novaya Zemlya" Dnepr Desna Zarya
 
 	}
 	frigate = {
-		Кагул Камчатка Одесса Архимед Полкан Владимир Светлана "Илья Муромец" Медведь Рында Витязь Нева Флора Громобой Рига "Княгиня Ольга" Елизавета Анна Екатерина Венера Кастор Мельпомена Архипелаг Полидевк Сизополь Астрахань Севастополь
+		Kulevtcha Kagul Kamchatka Odessa Arkhimed Polkan Vladimir Svetlana "Ilya Muromets" Medved Rynda Vityaz Neva Vilagosh Flora Mesemvriya Midya Gromoboi Riga "Kniaginia Lovitch" Elisaveta Anna Ekaterina Venus Pomona Kastor Prozerpina Mel’pomena Tenedos Arkhipelag Brailov Sizopol’ Kulevtchi Astrakhan
 	}
 	monitor = {
-        Ураган Вещун Колдун Лава Латник Перун Стрелец Тифон Новгород Выборг Русалка "Адмирал Ушаков" Единорог "Адмирал Апраксин" Пушкин "Семён Челюскин" Енисей "Озеро Байкал" Вязьма Валдай Каспиан Казань                
+                        Uragan Veschun Koldun Lava Latnik Perun Strelets Tifon Novgorod Vyborg Rusalka "Admiral Ushakov" "Admiral Senivain" Edinorog "Admiral Graf Apraksin" Pushkin "Semion Chelyuskin" Yenisei "Ozero Baykal" Vyazma Valdai Topozero Caspian Kazan
 
 	}
-	clipper_transport = { 
-		Разбойник Стрелок Джигит Опричник Наездник Гайдамак Абрек Всадник Алмаз Жемчуг Изумруд Яхонт
+	clipper_transport = {
+		Razboinik Strelok Dzhigit Oprichnik Nayezdnik Plastun Gaidamak Abrek Vsadnik Almaz Zhemchug Izumrud Yakhont
 	}
-	steam_transport = { 
-		Эстония Литва Кола Латвия Мурманск Белгород Карелия Тамбов Рязань Липецк Баранов Челюскин Казань Иркутск Ростов Брянск
+	steam_transport = {
+		Estonia Crimea Kola Latvia Murmansk Belgorod Karelia Tambov Ryazan Lipetsk Anjou Baranov Begichev Chelyuskin Kazan Irkutsk Rostov Bryansk
 	}
 	commerce_raider = {
-		Кемь Юг Межа Сестра Дон Терек Истра Дубна Обь Индигирка Амур Лена
+		Kem Yug Voronya Mezha Okhta Ravan Kunya Svir Seim Sestra Don Yeya Terek Sok Istra Dubna Ob Ket Nadym Indigirka Amur Bereya Sestra
 	}
 }

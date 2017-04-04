@@ -101,149 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Чакана"
-	"Анан Пача"
-	"Инти"
-	"Мачу Пикчу"
-	"Мама Коча"
-	"Мама Кука"
-	"Пача Камак"
-	"Парьякака"
-	"Супай"
-	"Уку Пача"
-}
-
-
+		Chakana "Hanan Pacha" Inti "Machu Picchu" "Mama Cocha" "Mama Kuka" "Pacha Camac" Pariacaca Supay "Uku Pacha"
+	}
 	ironclad = {
-	"Анкаш"
-	"Арекипа"
-	"Аякучо"
-	"Кахамарка"
-	"Кастилия"
-	"Уануко"
-	"Лорето"
-	"Римак"
-	"Веларде"
-	"Виллависенсио"
-}
-
-
+		Ancash Arequipa Ayacucho Cajamarca Castilla Huбnuco Loreto Rнmac Velarde Villavisencio
+	}
 	manowar = {
-	"Арекипеньо"
-	"Балкарсе"
-	"Бельграно"
-	"Коронель Спано"
-	"Крус"
-	"Лименья"
-	"Перувиана"
-	"Протектор"
-	"Сакраменто"
-	"Унион"
-}
-
-
+		Arequipeсo Balcarce Belgrano "Coronel Spano" Cruz Limeсa Peruviana Protector Sacramento Uniуn
+	}
 	cruiser = {
-	"Алмиранте Грау"
-	"Капитан Киньонес"
-	"Чачапояс"
-	"Команданте Агирре"
-	"Полковник Болоньези"
-	"Уанкавелика"
-	"Лима"
-	"Майобамба"
-	"Мокегуа"
-	"Трухильо"
-}
-
-
+		"Almirante Grau" "Capitбn Quiсones" Chachapoyas "Comandante Aguirre" "Coronel Bolognesi" Huancavelica Lima Mayobamba Moquegua Trujillo
+	}
 	frigate = {
-	"Амазонас"
-	"Апуримак"
-	"Каллао"
-	"Индепенденсия"
-	"Мерседес"
-	"Метеоро"
-	"Монтеагудо"
-	"Паласиос"
-	"Президенте"
-	"Теньенте Гальвес"
-}
-
-
+		Amazonas Apurimac Callao Independencia Mercedes Meteoro Monteagudo Palacios Presidente "Teniente Gбlvez"
+	}
 	monitor = {
-	"Атагуальпа"
-	"Диего де Альмагро"
-	"Франсиско Писарро"
-	"Эрнандо де Сото"
-	"Уаскар"
-	"Уайна Капак"
-	"Манко Капак"
-	"Пачакути"
-	"Тупак Амару"
-	"Тупак Инка"
-}
-
-
+		Atahualpa "Diego de Almagro" "Francisco Pizarro" "Hernando de Soto" Huбscar "Huayna Cбpac" "Manco Cбpac" Pachacuti "Tъpac Amaru" "Tъpac Inca"
+	}
 	clipper_transport = {
-	"Кауполикан"
-	"Чалако"
-	"Чимботе"
-	"Колон"
-	"Конститусьон"
-	"Контраальмиранте Хаса"
-	"Хенераль Лерсунди"
-	"Гуардиан Риос"
-	"Индепенденсия"
-	"Икитос"
-	"Лименья"
-	"Ороя"
-	"Перу"
-	"Пукальпа"
-	"Сан-Мартин"
-	"Санта Фе"
-	"Санта-Роса"
-	"Такна"
-	"Талисман"
-	"Вильканота"
-}
-
-
+		Caupolican Chalaco Chimbote Colуn Constituciуn "Contraalmirante Haza" "General Lerzundi" "Guardian Rнos" Independencia Iquitos
+		Limeсa Oroya Perъ Pucallpa "San Martнn" "Santa Fe" "Santa Rosa" Tacna Talismбn Vilcanota
+	}
 	steam_transport = {
-	"Кауполикан"
-	"Чалако"
-	"Чимботе"
-	"Колон"
-	"Конститусьон"
-	"Контраальмиранте Хаса"
-	"Хенераль Лерсунди"
-	"Гуардиан Риос"
-	"Индепенденсия"
-	"Икитос"
-	"Лименья"
-	"Ороя"
-	"Перу"
-	"Пукальпа"
-	"Сан-Мартин"
-	"Санта Фе"
-	"Санта-Роса"
-	"Такна"
-	"Талисман"
-	"Вильканота"
-}
-
-
+		Caupolican Chalaco Chimbote Colуn Constituciуn "Contraalmirante Haza" "General Lerzundi" "Guardian Rнos" Independencia Iquitos
+		Limeсa Oroya Perъ Pucallpa "San Martнn" "Santa Fe" "Santa Rosa" Tacna Talismбn Vilcanota
+	}
 	commerce_raider = {
-	"Альмиранте Гиз"
-	"Альмиранте Виллар"
-	"Америка"
-	"Арно"
-	"Чанчамайо"
-	"Чоррильос"
-	"Коронель Портильо"
-	"Куско"
-	"Пилькомае"
-	"Теньенте Родригес"
-}
-
-
+		"Almirante Guise" "Almirante Villar" Amйrica Arno Chanchamayo Chorrillos "Coronel Portillo" Cuzco Pilcomayo "Teniente Rodrнguez"
+	}
 }

@@ -171,149 +171,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Монтевидео"
-	"Сисплатина"
-	"Конститусьон"
-	"Коронель Гомес"
-	"Хенераль Артигас"
-	"Женераль-Сантос"
-	"Хенераль Суарес"
-	"Ларраньяга"
-	"Пресиденте Флорес"
-	"Република Ориенталь"
-}
-
-
+		"Banda Oriental" Cisplatina Constituciуn "Coronel Gуmez" "General Artigas" "General Santos" "General Suбrez" Larraсaga "Presidente Flores" "Repъblica Oriental"
+	}
 	ironclad = {
-	"Серро Катедраль"
-	"Серро де лас Анимас"
-	"Серро Пан де Асукар"
-	"Серрос де Сан-Хуан"
-	"Кучилья Гранде"
-	"Хенераль Артигас"
-	"Хереналь Орбие"
-	"Хенераль Ривера"
-	"Рио де ла Плата"
-	"Сьерра Карапе"
-}
-
-
+		"Cerro Catedral" "Cerro de las Бnimas" "Cerro Pan de Azъcar" "Cerros de San Juan" "Cuchilla Grande" "General Artigas" "General Oribe" "General Rivera" "Rнo de la Plata" "Sierra Carapй"
+	}
 	manowar = {
-	"Бонанса"
-	"Фортуна"
-	"Интрепидо"
-	"Република Ориенталь"
-	"Сан-Антонио"
-	"Сан-Эстебан"
-	"Сан-Фернандо"
-	"Супремо"
-	"Темерарио"
-	"Вальенте"
-}
-
-
+		Bonanza Fortuna Intrйpido "Repъblica Oriental" "San Antonio" "San Esteban" "San Fernando" Supremo Temerario Valiente
+	}
 	cruiser = {
-	"Кабо Полония"
-	"Гаучо"
-	"Лагуна де Кастильос"
-	"Лагуна де Гарсон"
-	"Лагуна де Роча"
-	"Мате"
-	"Монтевидео"
-	"Кебрада де лос Куэрвос"
-	"Санта-Тереса"
-	"Валье де Лунареджо"
-}
-
-
+		"Cabo Polonia" Gaucho "Laguna de Castillos" "Laguna de Garzуn" "Laguna de Rocha" Mate Montevideo "Quebrada de los Cuervos" "Santa Teresa" "Valle de Lunarejo"
+	}
 	frigate = {
-	"Артигас"
-	"Кармело"
-	"Дельта дель Тигре"
-	"Долорес"
-	"Лас Пьедрас"
-	"Ориенталь"
-	"Прогресо"
-	"Ривера"
-	"Сан-Карлос"
-	"Уругвай"
-}
-
-
+		Artigas Carmelo "Delta del Tigre" Dolores "Las Piedras" Oriental Progreso Rivera "San Carlos" Uruguay
+	}
 	monitor = {
-	"Колония дель Сакраменто"
-	"Фрай Бентос"
-	"Марин"
-	"Мелу"
-	"Мерседес"
-	"Минас"
-	"Пасо дель Пальмар"
-	"Ринкон дель Бонете"
-	"Рио де ла Плата"
-	"Тринидад"
-}
-
-
+		"Colonia del Sacramento" "Fray Bentos" Marнn Melo Mercedes Minas "Paso del Palmar" "Rincуn del Bonete" "Rнo de la Plata" Trinidad
+	}
 	clipper_transport = {
-	"Барон де Рио Бранко"
-	"Беатрис"
-	"Канелонес"
-	"Серро Ларго"
-	"Дурасно"
-	"Флорес"
-	"Флорида"
-	"Инмакулада"
-	"Лавальехо"
-	"Мальдонадо"
-	"Мария"
-	"Рапидо"
-	"Рока"
-	"Сальто"
-	"Сан-Хосе"
-	"Сориано"
-	"Такарембо"
-	"Трейнта-и-Трес"
-	"Вангуардия"
-	"Вигоросо"
-}
-
-
+		"Barуn de Rio Branco" Beatriz Canelones "Cerro Largo" Durazno Flores Florida Inmaculada Lavallejo Maldonado
+		Marнa Rбpido Rocha Salto "San Josй" Soriano Tacarembу "Treinta y Tres" Vanguardia Vigoroso
+	}
 	steam_transport = {
-	"Барон де Рио Бранко"
-	"Беатрис"
-	"Канелонес"
-	"Серро Ларго"
-	"Дурасно"
-	"Флорес"
-	"Флорида"
-	"Инмакулада"
-	"Лавальехо"
-	"Мальдонадо"
-	"Мария"
-	"Рапидо"
-	"Рока"
-	"Сальто"
-	"Сан-Хосе"
-	"Сориано"
-	"Такарембо"
-	"Трейнта-и-Трес"
-	"Вангуардия"
-	"Вигоросо"
-}
-
-
+		"Barуn de Rio Branco" Beatriz Canelones "Cerro Largo" Durazno Flores Florida Inmaculada Lavallejo Maldonado
+		Marнa Rбpido Rocha Salto "San Josй" Soriano Tacarembу "Treinta y Tres" Vanguardia Vigoroso
+	}
 	commerce_raider = {
-	"Аудас"
-	"Колония"
-	"Дьесиочо де Хулио"
-	"Фортуна"
-	"Эроина"
-	"Пайсанду"
-	"Кинсе де Новьембре"
-	"Рио Негро"
-	"Темерарио"
-	"Веинтисинко де Агосто"
-}
-
-
+		Audaz Colonia "Dieciocho de Julio" Fortuna Heroнna Paysandъ "Quince de Noviembre" "Rнo Negro" Temerario "Veinticinco de Agosto"
+	}
 }

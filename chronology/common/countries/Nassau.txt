@@ -185,103 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Нассау"
-	"Херцог Фридрих Аугуст"
-	"Граф фон Нассау"
-	"Адольф фон Нассау"
-	"Узинген"
-	"Дилленбург"
-	"Зиген"
-	"Вайлбург"
-	"Оттвайлер"
-	"Идштайн"
-}
-
-
+	  	   Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein
+	}
 	ironclad = {
-	"Нассау"
-	"Херцог Фридрих Аугуст"
-	"Граф фон Нассау"
-	"Адольф фон Нассау"
-	"Узинген"
-	"Дилленбург"
-	"Зиген"
-	"Вайлбург"
-	"Оттвайлер"
-	"Идштайн"
-}
-
-
+	   	  Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein
+	}
 	manowar = {
-	"Нассау"
-	"Херцог Фридрих Аугуст"
-	"Граф фон Нассау"
-	"Адольф фон Нассау"
-	"Узинген"
-	"Дилленбург"
-	"Зиген"
-	"Вайлбург"
-	"Оттвайлер"
-	"Идштайн"
-}
-
-
+	   	 Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein
+	}
 	cruiser = {
-	"Нассау"
-	"Херцог Фридрих Аугуст"
-	"Граф фон Нассау"
-	"Адольф фон Нассау"
-	"Узинген"
-	"Дилленбург"
-	"Зиген"
-	"Вайлбург"
-	"Оттвайлер"
-	"Идштайн"
-}
-
-
+		Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein
+	}
 	frigate = {
-	"Нассау"
-	"Херцог Фридрих Аугуст"
-	"Граф фон Нассау"
-	"Адольф фон Нассау"
-	"Узинген"
-	"Дилленбург"
-	"Зиген"
-	"Вайлбург"
-	"Оттвайлер"
-	"Идштайн"
-}
-
-
+		Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein
+	}
 	monitor = {
-	"Нассау"
-	"Херцог Фридрих Аугуст"
-	"Граф фон Нассау"
-	"Адольф фон Нассау"
-	"Узинген"
-	"Дилленбург"
-	"Зиген"
-	"Вайлбург"
-	"Оттвайлер"
-	"Идштайн"
-}
+		Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Нассау"
-	"Херцог Фридрих Аугуст"
-	"Граф фон Нассау"
-	"Адольф фон Нассау"
-	"Узинген"
-	"Дилленбург"
-	"Зиген"
-	"Вайлбург"
-	"Оттвайлер"
-	"Идштайн"
-}
-
-
+		Nassau "Herzog Friedrich August" "Graf von Nassau" "Adolf von Nassau" Usingen Dillenburg Siegen Weilburg Ottweiler Idstein
+	}
 }

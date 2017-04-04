@@ -185,172 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ваппен фон Хамбург"
-	"Леопольдус Примус"
-	"Бунте Кух"
-	"Симон фон Утрехт"
-	"Себастьян фон Берген"
-	"Иоахим Клан"
-	"Николаус Ярре"
-	"Иоганн Слютер"
-	"Лукас фон Бостель"
-	"Иоганн Андерсон"
-	"Николаус Шубак"
-	"Франс Дорманн"
-	"Вильгельм Амсинк"
-	"Кристиан Маттиас Шредер"
-}
-
-
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slьter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schrцder"
+	}
 	ironclad = {
-	"Ваппен фон Хамбург"
-	"Леопольдус Примус"
-	"Бунте Кух"
-	"Симон фон Утрехт"
-	"Себастьян фон Берген"
-	"Иоахим Клан"
-	"Николаус Ярре"
-	"Иоганн Слютер"
-	"Лукас фон Бостель"
-	"Иоганн Андерсон"
-	"Николаус Шубак"
-	"Франс Дорманн"
-	"Вильгельм Амсинк"
-	"Кристиан Маттиас Шредер"
-}
-
-
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slьter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schrцder"
+	}
 	manowar = {
-	"Ваппен фон Хамбург"
-	"Леопольдус Примус"
-	"Бунте Кух"
-	"Симон фон Утрехт"
-	"Себастьян фон Берген"
-	"Иоахим Клан"
-	"Николаус Ярре"
-	"Иоганн Слютер"
-	"Лукас фон Бостель"
-	"Иоганн Андерсон"
-	"Николаус Шубак"
-	"Франс Дорманн"
-	"Вильгельм Амсинк"
-	"Кристиан Маттиас Шредер"
-}
-
-
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slьter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schrцder"
+	}
 	cruiser = {
-	"Ваппен фон Хамбург"
-	"Леопольдус Примус"
-	"Бунте Кух"
-	"Симон фон Утрехт"
-	"Себастьян фон Берген"
-	"Иоахим Клан"
-	"Николаус Ярре"
-	"Иоганн Слютер"
-	"Лукас фон Бостель"
-	"Иоганн Андерсон"
-	"Николаус Шубак"
-	"Франс Дорманн"
-	"Вильгельм Амсинк"
-	"Кристиан Маттиас Шредер"
-}
-
-
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slьter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schrцder"
+	}
 	frigate = {
-	"Ваппен фон Хамбург"
-	"Леопольдус Примус"
-	"Бунте Кух"
-	"Симон фон Утрехт"
-	"Себастьян фон Берген"
-	"Иоахим Клан"
-	"Николаус Ярре"
-	"Иоганн Слютер"
-	"Лукас фон Бостель"
-	"Иоганн Андерсон"
-	"Николаус Шубак"
-	"Франс Дорманн"
-	"Вильгельм Амсинк"
-	"Кристиан Маттиас Шредер"
-}
-
-
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slьter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schrцder"
+	}
 	monitor = {
-	"Ваппен фон Хамбург"
-	"Леопольдус Примус"
-	"Бунте Кух"
-	"Симон фон Утрехт"
-	"Себастьян фон Берген"
-	"Иоахим Клан"
-	"Николаус Ярре"
-	"Иоганн Слютер"
-	"Лукас фон Бостель"
-	"Иоганн Андерсон"
-	"Николаус Шубак"
-	"Франс Дорманн"
-	"Вильгельм Амсинк"
-	"Кристиан Маттиас Шредер"
-}
-
-
+		"Wappen von Hamburg" "Leopoldus Primus" "Bunte Kuh" "Simon von Utrecht" "Sebastian von Bergen" "Joachim Clan" "Nicolaus Jarre" "Johann Slьter" "Lukas von Bostel" "Johann Anderson" "Nicolaus Schuback" "Frans Doormann" "Wilhelm Amsinck" "Christian Matthias Schrцder"
+	}
 	clipper_transport = {
-	"Рикмер Рикмерс"
-	"Петер Рикмерс"
-	"Памир"
-	"Петшили"
-	"Померания"
-	"Пекинг"
-	"Пассат"
-	"Привалль"
-	"Парма"
-	"Перкео"
-	"Пола"
-	"Понапе"
-	"Пеликан"
-	"Пиннас"
-	"Йерсберк"
-	"Остербек"
-	"Тарпенбек"
-	"Олимпия"
-	"Онда"
-	"Офелия"
-	"Остара"
-}
-
-
+		"Rickmer Rickmers" "Peter Rickmers" Pamir Petschili Pommern Peking Passat Priwall Parma Perkeo Pola Ponape Pelikan Pinnas Jersbek Osterbek Tarpenbek Olympia Onda Ophelia Ostara
+	}
 	steam_transport = {
-	"Америка"
-	"Ариадна"
-	"Батавия"
-	"Бенгалия"
-	"Бетания"
-	"Бразилия"
-	"Карибия"
-	"Корковадо"
-	"Дания"
-	"Гамбург"
-	"Оцеана"
-	"Палатия"
-	"Патрия"
-	"Патрисия"
-	"Фениция"
-	"Претория"
-	"Сибирия"
-	"Фессалия"
-	"Венетия"
-	"Ипиранга"
-}
-
-
+		Amerika Ariadne Batavia Bengalia Bethania Brasilia Caribia Corcovado Dania Hamburg Oceana Palatia Patria Patricia Phoenicia Pretoria Sibiria Thessalia Venetia Ypiranga
+	}
 	commerce_raider = {
-	"Клаус Штертебекер"
-	"Гедеке Михельс"
-	"Хеннинг Вихман"
-	"Клаус Шельд"
-	"Магистер Вигбольд"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Ликеделер"
-}
-
-
+		"Klaus Stцrtebeker" "Gцdeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" Likedeeler
+	}
 }

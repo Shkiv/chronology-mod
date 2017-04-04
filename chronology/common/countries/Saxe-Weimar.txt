@@ -185,103 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Веймар"
-	"Карл-Аугуст"
-	"Анна-Амалия"
-	"Карл-Александер"
-	"Гете"
-	"Шиллер"
-	"Айзенах"
-	"Йена"
-	"Дорнбург"
-	"Вартбург"
-}
-
-
+		Weimar "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" Eisenach Jena Dornburg Wartburg
+	}
 	ironclad = {
-	"Веймар"
-	"Карл-Аугуст"
-	"Анна-Амалия"
-	"Карл-Александер"
-	"Гете"
-	"Шиллер"
-	"Айзенах"
-	"Йена"
-	"Дорнбург"
-	"Вартбург"
-}
-
-
+		Weimar "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" Eisenach Jena Dornburg Wartburg
+	}
 	manowar = {
-	"Веймар"
-	"Карл-Аугуст"
-	"Анна-Амалия"
-	"Карл-Александер"
-	"Гете"
-	"Шиллер"
-	"Айзенах"
-	"Йена"
-	"Дорнбург"
-	"Вартбург"
-}
-
-
+		Weimar "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" Eisenach Jena Dornburg Wartburg
+	}
 	cruiser = {
-	"Веймар"
-	"Карл-Аугуст"
-	"Анна-Амалия"
-	"Карл-Александер"
-	"Гете"
-	"Шиллер"
-	"Айзенах"
-	"Йена"
-	"Дорнбург"
-	"Вартбург"
-}
-
-
+		Weimar "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" Eisenach Jena Dornburg Wartburg
+	}
 	frigate = {
-	"Веймар"
-	"Карл-Аугуст"
-	"Анна-Амалия"
-	"Карл-Александер"
-	"Гете"
-	"Шиллер"
-	"Айзенах"
-	"Йена"
-	"Дорнбург"
-	"Вартбург"
-}
-
-
+		Weimar "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" Eisenach Jena Dornburg Wartburg
+	}
 	monitor = {
-	"Веймар"
-	"Карл-Аугуст"
-	"Анна-Амалия"
-	"Карл-Александер"
-	"Гете"
-	"Шиллер"
-	"Айзенах"
-	"Йена"
-	"Дорнбург"
-	"Вартбург"
-}
+		Weimar "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" Eisenach Jena Dornburg Wartburg
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Веймар"
-	"Карл-Аугуст"
-	"Анна-Амалия"
-	"Карл-Александер"
-	"Гете"
-	"Шиллер"
-	"Айзенах"
-	"Йена"
-	"Дорнбург"
-	"Вартбург"
-}
-
-
+		Weimar "Karl-August" "Anna-Amalia" "Karl-Alexander" "Goethe" "Schiller" Eisenach Jena Dornburg Wartburg
+	}
 }

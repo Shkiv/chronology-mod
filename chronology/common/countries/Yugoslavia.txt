@@ -7,7 +7,7 @@ party = {
 	end_date = 2000.1.1
 
 	ideology = reactionary
-	
+
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -101,94 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Петрович"
-	"Обренович"
-	"Лазаревич"
-	"Србия"
-	"Хрватска"
-	"Словения"
-	"Црна Гора"
-}
-
-
+		Petrovic Obrenovic Lazarevic Srbija Hrvatska Slovenija "Crna Gora"
+	}
 	ironclad = {
-	"Драва"
-	"Дрина"
-	"Иванковач"
-	"Загреб"
-	"Крагуевац"
-	"Любляна"
-	"Белград"
-	"Босна"
-}
-
-
+		Drava Drina Ivankovac Zagreb Kragujevac Ljubljana Beograd Bosna
+	}
 	manowar = {
-	"Велика"
-	"Морава"
-	"Южна"
-	"Морава"
-	"Златибор"
-	"Копаоник"
-	"Ресава"
-	"Херцеговина"
-}
-
-
+		"Velika Morava" "Juzna Morava" Zlatibor Kopaonik Resava Hercegovina
+	}
 	cruiser = {
-	"Орьен"
-	"Неманьичи"
-	"Сильни"
-	"Сплит"
-	"Янкович"
-	"Далмация"
-}
-
-
+		Orjen Nemanjici Silni Split Jankovic Dalmacija
+	}
 	frigate = {
-	"Вальево"
-	"Клиш"
-	"Таково"
-	"Любич"
-}
-
-
+		Valjevo Klis Takovo Ljubic
+	}
 	monitor = {
-	"Ядар"
-	"Сава"
-	"Дубаль"
-	"Драва"
-	"Чер"
-	"Дубровник"
-}
-
-
+		Jadar Sava Dubalj Drava Cer Dubrovnik
+	}
 	clipper_transport = {
-	"Ластавика"
-	"Зорана"
-	"Зорича"
-	"Стрисак"
-	"Горана"
-}
+		Lastavica Zorana Zorica Strisak Gorana
 
-
+	}
 	steam_transport = {
-	"Яки"
-	"Сильни"
-	"Снажи"
-	"Марльиви"
-	"Устрайни"
-}
+		Jaki Silni SnaЕѕi Marljivi Ustrajni
 
-
+	}
 	commerce_raider = {
-	"Сень"
-	"Стразар"
-	"Смрт"
-	"Глава"
-	"Любанья"
-	"Паков"
-}
-
-
+		Senj StraЕѕar "Smrt Glava" Lubanja Pacov
+	}
 }

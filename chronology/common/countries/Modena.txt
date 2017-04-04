@@ -129,229 +129,51 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Дука Франческо"
-	"д'Абсбурго"
-	"д'Эсте"
-	"Принчипе Реале"
-	"Эрколо д'Эсте"
-	"Борсо"
-	"Модена"
-	"Реджо"
-	"Масса"
-	"Мирандола"
-	"Каррара"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Duca Francesco" "d'Absburgo" "d'Este" "Principe Reale" "Ercolo d'Este" Borso Modena Reggio Massa Mirandola Carrara Aquila Aurora
 
+	Azzardoso Beroldo 	Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	ironclad = {
-	"Дука Франческо"
-	"д'Абсбурго"
-	"д'Эсте"
-	"Принчипе Реале"
-	"Эрколо д'Эсте"
-	"Борсо"
-	"Модена"
-	"Реджо"
-	"Масса"
-	"Мирандола"
-	"Каррара"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Duca Francesco" "d'Absburgo" "d'Este" "Principe Reale" "Ercolo d'Este" Borso Modena Reggio Massa Mirandola Carrara Aquila Aurora
 
+	Azzardoso Beroldo 	Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	manowar = {
-	"Дука Франческо"
-	"д'Абсбурго"
-	"д'Эсте"
-	"Принчипе Реале"
-	"Эрколо д'Эсте"
-	"Борсо"
-	"Модена"
-	"Реджо"
-	"Масса"
-	"Мирандола"
-	"Каррара"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Duca Francesco" "d'Absburgo" "d'Este" "Principe Reale" "Ercolo d'Este" Borso Modena Reggio Massa Mirandola Carrara Aquila Aurora
 
+	Azzardoso Beroldo 	Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	cruiser = {
-	"Дука Франческо"
-	"д'Абсбурго"
-	"д'Эсте"
-	"Принчипе Реале"
-	"Эрколо д'Эсте"
-	"Борсо"
-	"Модена"
-	"Реджо"
-	"Масса"
-	"Мирандола"
-	"Каррара"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Duca Francesco" "d'Absburgo" "d'Este" "Principe Reale" "Ercolo d'Este" Borso Modena Reggio Massa Mirandola Carrara Aquila Aurora
 
+	Azzardoso Beroldo 	Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	frigate = {
-	"Дука Франческо"
-	"д'Абсбурго"
-	"д'Эсте"
-	"Принчипе Реале"
-	"Эрколо д'Эсте"
-	"Борсо"
-	"Модена"
-	"Реджо"
-	"Масса"
-	"Мирандола"
-	"Каррара"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Duca Francesco" "d'Absburgo" "d'Este" "Principe Reale" "Ercolo d'Este" Borso Modena Reggio Massa Mirandola Carrara Aquila Aurora
 
+	Azzardoso Beroldo 	Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	monitor = {
-	"Дука Франческо"
-	"д'Абсбурго"
-	"д'Эсте"
-	"Принчипе Реале"
-	"Эрколо д'Эсте"
-	"Борсо"
-	"Модена"
-	"Реджо"
-	"Масса"
-	"Мирандола"
-	"Каррара"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Duca Francesco" "d'Absburgo" "d'Este" "Principe Reale" "Ercolo d'Este" Borso Modena Reggio Massa Mirandola Carrara Aquila Aurora
 
+	Azzardoso Beroldo 	Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Дука Франческо"
-	"д'Абсбурго"
-	"д'Эсте"
-	"Принчипе Реале"
-	"Эрколо д'Эсте"
-	"Борсо"
-	"Модена"
-	"Реджо"
-	"Масса"
-	"Мирандола"
-	"Каррара"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Duca Francesco" "d'Absburgo" "d'Este" "Principe Reale" "Ercolo d'Este" Borso Modena Reggio Massa Mirandola Carrara Aquila Aurora
 
+	Azzardoso Beroldo 	Colombo Daino Eridano Euridice Falco Favorita Nereide Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 }

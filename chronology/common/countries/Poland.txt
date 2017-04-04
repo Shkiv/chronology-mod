@@ -101,81 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Аренд Дикман"
-	"Болеслав I Хробрый"
-	"Ян Костка"
-	"Михаль Фигенов"
-	"Матеуш Шапринг"
-	"Якоб Мора"
-	"Ян III Собеский"
-}
-
-
+		"Arend Dickmann" "Boleslaw I Chrobry" "Jan Kostka" "Michal Figenow" "Mateusz Schapring" "Jakob Mora" "Jan III Sobieski"
+	}
 	ironclad = {
-	"Краков"
-	"Варшава"
-	"Лодзь"
-	"Познань"
-	"Вроцлав"
-	"Львов"
-	"Гданьск"
-}
-
-
+		Krakуw Warszawa Lуdz Poznan Wroclaw Lwуw Gdansk
+	}
 	manowar = {
-	"Висла"
-	"Одра"
-	"Варта"
-	"Нарев"
-	"Сан"
-	"Нотец"
-	"Буг"
-}
-
-
+		Wisla Odra Warta Narew San Notec Bug
+	}
 	cruiser = {
-	"Миколай Коперник"
-	"Ян Гевелиус"
-	"Ян Снядецкий"
-	"Ян Брожек"
-	"Ян Миколай Смогулецкий"
-	"Альберт Брудзевский"
-	"Станислав Любинецкий"
-}
-
-
+		"Mikolaj Kopernik"  "Jan Heweliusz" "Jan Sniadecki" "Jan Brozek" "Jan Mikolaj Smogulecki" "Albert Brudzewski" "Stanislaw Lubieniecki"
+	}
 	frigate = {
-	"Анна"
-	"Мария"
-	"Катаржина"
-	"Барбара"
-	"Эва"
-	"Зофия"
-	"Моника"
-}
-
-
+		Anna Maria Katarzyna Barbara Ewa Zofia Monika
+	}
 	monitor = {
-	"Ян Саркандер"
-	"Анджей Бобола"
-	"Ян Кеты"
-	"Снатислаус Костка"
-	"Станислав Щепановский"
-	"Света Кинга"
-}
+		"Jan Sarkander" "Andrzej Bobola" "Jan Kety" " Stanislaus Kostka" "Stanislaw Szczepanowski" "Swieta Kinga"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Кшиштоф Арцишевский"
-	"Анджей Снядецкий"
-	"Хуго Коллатай"
-	"Ян Длугош"
-	"Адам Нарушевич"
-	"Самуэль Линде"
-	"Миколай рей"
-}
-
-
+		"Krzysztof Arciszewski" "Jedrzej Sniadecki" "Hugo Kollataj" "Jan Dlugosz" "Adam Naruszewicz" "Samuel Linde" "Mikolaj Rej"
+	}
 }

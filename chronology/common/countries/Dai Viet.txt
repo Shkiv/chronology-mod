@@ -101,194 +101,44 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Тран Кан"
-	"Тран Хоанг"
-	"Тран Хам"
-	"Тран Туен"
-	"Тран Ман"
-	"Тран Вуонг"
-	"Тран Хао"
-	"Дуонг Нат Ле"
-	"Тран Фу"
-	"Тран Кин"
-	"Тран Хьен"
-	"Тран Нгунг"
-	"Тран Ан"
-	"Тай Тонг"
-	"Тан Тонг"
-	"Нан Тонг"
-	"Ан Тонг"
-	"Мин Тонг"
-	"Хьен Тонг"
-	"Ду Тонг"
-	"Нге Тонг"
-	"Ду Тонг"
-	"Туан Тонг"
-}
-
-
+		"Tran Canh" "Tran Hoang" "Tran Khвm" "Tran Thuyкn" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kнnh" "Tran Hien" "Tran Ngung" "Tran An" "Thбi Tфng" "Thбnh Tфng" "Nhвn Tфng" "Anh Tфng" "Minh Tфng"
+		"Hien Tфng" "Du Tфng" "Nghe Tфng" "Due Tфng" "Thuan Tфng"
+	}
 	ironclad = {
-	"Тран Кан"
-	"Тран Хоанг"
-	"Тран Хам"
-	"Тран Туен"
-	"Тран Ман"
-	"Тран Вуонг"
-	"Тран Хао"
-	"Дуонг Нат Ле"
-	"Тран Фу"
-	"Тран Кин"
-	"Тран Хьен"
-	"Тран Нгунг"
-	"Тран Ан"
-	"Тай Тонг"
-	"Тан Тонг"
-	"Нан Тонг"
-	"Ан Тонг"
-	"Мин Тонг"
-	"Хьен Тонг"
-	"Ду Тонг"
-	"Нге Тонг"
-	"Ду Тонг"
-	"Туан Тонг"
-}
-
-
+		"Tran Canh" "Tran Hoang" "Tran Khвm" "Tran Thuyкn" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kнnh" "Tran Hien" "Tran Ngung" "Tran An" "Thбi Tфng" "Thбnh Tфng" "Nhвn Tфng" "Anh Tфng" "Minh Tфng"
+		"Hien Tфng" "Du Tфng" "Nghe Tфng" "Due Tфng" "Thuan Tфng"
+	}
 	manowar = {
-	"Тран Кан"
-	"Тран Хоанг"
-	"Тран Хам"
-	"Тран Туен"
-	"Тран Ман"
-	"Тран Вуонг"
-	"Тран Хао"
-	"Дуонг Нат Ле"
-	"Тран Фу"
-	"Тран Кин"
-	"Тран Хьен"
-	"Тран Нгунг"
-	"Тран Ан"
-	"Тай Тонг"
-	"Тан Тонг"
-	"Нан Тонг"
-	"Ан Тонг"
-	"Мин Тонг"
-	"Хьен Тонг"
-	"Ду Тонг"
-	"Нге Тонг"
-	"Ду Тонг"
-	"Туан Тонг"
-}
-
-
+		"Tran Canh" "Tran Hoang" "Tran Khвm" "Tran Thuyкn" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kнnh" "Tran Hien" "Tran Ngung" "Tran An" "Thбi Tфng" "Thбnh Tфng" "Nhвn Tфng" "Anh Tфng" "Minh Tфng"
+		"Hien Tфng" "Du Tфng" "Nghe Tфng" "Due Tфng" "Thuan Tфng"
+	}
 	cruiser = {
-	"Тран Кан"
-	"Тран Хоанг"
-	"Тран Хам"
-	"Тран Туен"
-	"Тран Ман"
-	"Тран Вуонг"
-	"Тран Хао"
-	"Дуонг Нат Ле"
-	"Тран Фу"
-	"Тран Кин"
-	"Тран Хьен"
-	"Тран Нгунг"
-	"Тран Ан"
-	"Тай Тонг"
-	"Тан Тонг"
-	"Нан Тонг"
-	"Ан Тонг"
-	"Мин Тонг"
-	"Хьен Тонг"
-	"Ду Тонг"
-	"Нге Тонг"
-	"Ду Тонг"
-	"Туан Тонг"
-}
-
-
+		"Tran Canh" "Tran Hoang" "Tran Khвm" "Tran Thuyкn" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kнnh" "Tran Hien" "Tran Ngung" "Tran An" "Thбi Tфng" "Thбnh Tфng" "Nhвn Tфng" "Anh Tфng" "Minh Tфng"
+		"Hien Tфng" "Du Tфng" "Nghe Tфng" "Due Tфng" "Thuan Tфng"
+	}
 	frigate = {
-	"Тран Кан"
-	"Тран Хоанг"
-	"Тран Хам"
-	"Тран Туен"
-	"Тран Ман"
-	"Тран Вуонг"
-	"Тран Хао"
-	"Дуонг Нат Ле"
-	"Тран Фу"
-	"Тран Кин"
-	"Тран Хьен"
-	"Тран Нгунг"
-	"Тран Ан"
-	"Тай Тонг"
-	"Тан Тонг"
-	"Нан Тонг"
-	"Ан Тонг"
-	"Мин Тонг"
-	"Хьен Тонг"
-	"Ду Тонг"
-	"Нге Тонг"
-	"Ду Тонг"
-	"Туан Тонг"
-}
-
-
+		"Tran Canh" "Tran Hoang" "Tran Khвm" "Tran Thuyкn" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kнnh" "Tran Hien" "Tran Ngung" "Tran An" "Thбi Tфng" "Thбnh Tфng" "Nhвn Tфng" "Anh Tфng" "Minh Tфng"
+		"Hien Tфng" "Du Tфng" "Nghe Tфng" "Due Tфng" "Thuan Tфng"
+	}
 	monitor = {
-	"Тран Кан"
-	"Тран Хоанг"
-	"Тран Хам"
-	"Тран Туен"
-	"Тран Ман"
-	"Тран Вуонг"
-	"Тран Хао"
-	"Дуонг Нат Ле"
-	"Тран Фу"
-	"Тран Кин"
-	"Тран Хьен"
-	"Тран Нгунг"
-	"Тран Ан"
-	"Тай Тонг"
-	"Тан Тонг"
-	"Нан Тонг"
-	"Ан Тонг"
-	"Мин Тонг"
-	"Хьен Тонг"
-	"Ду Тонг"
-	"Нге Тонг"
-	"Ду Тонг"
-	"Туан Тонг"
-}
+		"Tran Canh" "Tran Hoang" "Tran Khвm" "Tran Thuyкn" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kнnh" "Tran Hien" "Tran Ngung" "Tran An" "Thбi Tфng" "Thбnh Tфng" "Nhвn Tфng" "Anh Tфng" "Minh Tфng"
+		"Hien Tфng" "Du Tфng" "Nghe Tфng" "Due Tфng" "Thuan Tфng"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Тран Кан"
-	"Тран Хоанг"
-	"Тран Хам"
-	"Тран Туен"
-	"Тран Ман"
-	"Тран Вуонг"
-	"Тран Хао"
-	"Дуонг Нат Ле"
-	"Тран Фу"
-	"Тран Кин"
-	"Тран Хьен"
-	"Тран Нгунг"
-	"Тран Ан"
-	"Тай Тонг"
-	"Тан Тонг"
-	"Нан Тонг"
-	"Ан Тонг"
-	"Мин Тонг"
-	"Хьен Тонг"
-	"Ду Тонг"
-	"Нге Тонг"
-	"Ду Тонг"
-	"Туан Тонг"
-}
-
-
+		"Tran Canh" "Tran Hoang" "Tran Khвm" "Tran Thuyкn" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kнnh" "Tran Hien" "Tran Ngung" "Tran An" "Thбi Tфng" "Thбnh Tфng" "Nhвn Tфng" "Anh Tфng" "Minh Tфng"
+		"Hien Tфng" "Du Tфng" "Nghe Tфng" "Due Tфng" "Thuan Tфng"
+	}
 }

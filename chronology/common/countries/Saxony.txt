@@ -185,103 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Саксония"
-	"Аугуст дер Старке"
-	"Хенрих дер Леве"
-	"Кениг фон Полен"
-	"Веттин"
-	"Фридрих Август"
-	"Король Альберт"
-	"Курфюрст"
-	"Асканиен"
-	"Аврора"
-}
-
-
+		Sachsen "August der Starke" "Heinrich der Lцwe" "Kцnig von Polen" Wettin "Friedrich August" "Kцnig Albert" Kurfьrst Askanien Aurora
+	}
 	ironclad = {
-	"Саксония"
-	"Аугуст дер Старке"
-	"Хенрих дер Леве"
-	"Кениг фон Полен"
-	"Веттин"
-	"Фридрих Август"
-	"Король Альберт"
-	"Курфюрст"
-	"Асканиен"
-	"Аврора"
-}
-
-
+		Sachsen "August der Starke" "Heinrich der Lцwe" "Kцnig von Polen" Wettin "Friedrich August" "Kцnig Albert" Kurfьrst Askanien Aurora
+	}
 	manowar = {
-	"Саксония"
-	"Аугуст дер Старке"
-	"Хенрих дер Леве"
-	"Кениг фон Полен"
-	"Веттин"
-	"Фридрих Август"
-	"Король Альберт"
-	"Курфюрст"
-	"Асканиен"
-	"Аврора"
-}
-
-
+		Sachsen "August der Starke" "Heinrich der Lцwe" "Kцnig von Polen" Wettin "Friedrich August" "Kцnig Albert" Kurfьrst Askanien Aurora
+	}
 	cruiser = {
-	"Дрезден"
-	"Бауцен"
-	"Хемниц"
-	"Фрайберг"
-	"Лейпциг"
-	"Лебау"
-	"Мейсен"
-	"Плауэн"
-	"Шварценберг"
-	"Цвикау"
-}
-
-
+		Dresden Bautzen Chemnitz Freiberg Leipzig Lцbau MeiЯen Plauen Schwarzenberg Zwickau
+	}
 	frigate = {
-	"Дрезден"
-	"Бауцен"
-	"Хемниц"
-	"Фрайберг"
-	"Лейпциг"
-	"Лебау"
-	"Мейсен"
-	"Плауэн"
-	"Шварценберг"
-	"Цвикау"
-}
-
-
+		Dresden Bautzen Chemnitz Freiberg Leipzig Lцbau MeiЯen Plauen Schwarzenberg Zwickau
+	}
 	monitor = {
-	"Саксония"
-	"Аугуст дер Старке"
-	"Хенрих дер Леве"
-	"Кениг фон Полен"
-	"Веттин"
-	"Фридрих Август"
-	"Король Альберт"
-	"Курфюрст"
-	"Асканиен"
-	"Аврора"
-}
+		Sachsen "August der Starke" "Heinrich der Lцwe" "Kцnig von Polen" Wettin "Friedrich August" "Kцnig Albert" Kurfьrst Askanien Aurora
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Саксония"
-	"Аугуст дер Старке"
-	"Хенрих дер Леве"
-	"Кениг фон Полен"
-	"Веттин"
-	"Фридрих Август"
-	"Король Альберт"
-	"Курфюрст"
-	"Асканиен"
-	"Аврора"
-}
-
-
+		Sachsen "August der Starke" "Heinrich der Lцwe" "Kцnig von Polen" Wettin "Friedrich August" "Kцnig Albert" Kurfьrst Askanien Aurora
+	}
 }

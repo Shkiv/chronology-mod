@@ -185,172 +185,37 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Гольштейн"
-	"Херцог Фридрих"
-	"Киль"
-	"Готторп"
-	"Зондербург"
-	"Глюксбург"
-	"Райхсфюрст"
-	"Кениг"
-	"Эрбпринц"
-	"Плён"
-	"Зегеберг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Альтона"
-	"Глюксштадт"
-	"Адольф I"
-	"Христиан Альбрехт"
-	"Карл Петер Ульрих"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-}
-
-
+		Holstein "Herzog Friedrich" Kiel Gottorp Sonderburg Glьcksburg Reichsfьrst Kцnig Erbprinz Plцn Segeberg "Up ewig ungedeelt" "Vertrag von Ripen" Altona Glьckstadt
+		"Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen"
+	}
 	ironclad = {
-	"Гольштейн"
-	"Херцог Фридрих"
-	"Киль"
-	"Готторп"
-	"Зондербург"
-	"Глюксбург"
-	"Райхсфюрст"
-	"Кениг"
-	"Эрбпринц"
-	"Плён"
-	"Зегеберг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Альтона"
-	"Глюксштадт"
-	"Адольф I"
-	"Христиан Альбрехт"
-	"Карл Петер Ульрих"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-}
-
-
+		Holstein "Herzog Friedrich" Kiel Gottorp Sonderburg Glьcksburg Reichsfьrst Kцnig Erbprinz Plцn Segeberg
+		"Up ewig ungedeelt" "Vertrag von Ripen" Altona Glьckstadt "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen"
+	}
 	manowar = {
-	"Гольштейн"
-	"Херцог Фридрих"
-	"Киль"
-	"Готторп"
-	"Зондербург"
-	"Глюксбург"
-	"Райхсфюрст"
-	"Кениг"
-	"Эрбпринц"
-	"Плён"
-	"Зегеберг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Альтона"
-	"Глюксштадт"
-	"Адольф I"
-	"Христиан Альбрехт"
-	"Карл Петер Ульрих"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-}
-
-
+		Holstein "Herzog Friedrich" Kiel Gottorp Sonderburg Glьcksburg Reichsfьrst Kцnig Erbprinz Plцn Segeberg
+		"Up ewig ungedeelt" "Vertrag von Ripen" Altona Glьckstadt "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen"
+	}
 	cruiser = {
-	"Гольштейн"
-	"Херцог Фридрих"
-	"Киль"
-	"Готторп"
-	"Зондербург"
-	"Глюксбург"
-	"Райхсфюрст"
-	"Кениг"
-	"Эрбпринц"
-	"Плён"
-	"Зегеберг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Альтона"
-	"Глюксштадт"
-	"Адольф I"
-	"Христиан Альбрехт"
-	"Карл Петер Ульрих"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-}
-
-
+		Holstein "Herzog Friedrich" Kiel Gottorp Sonderburg Glьcksburg Reichsfьrst Kцnig Erbprinz Plцn Segeberg
+		"Up ewig ungedeelt" "Vertrag von Ripen" Altona Glьckstadt "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen"
+	}
 	frigate = {
-	"Гольштейн"
-	"Херцог Фридрих"
-	"Киль"
-	"Готторп"
-	"Зондербург"
-	"Глюксбург"
-	"Райхсфюрст"
-	"Кениг"
-	"Эрбпринц"
-	"Плён"
-	"Зегеберг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Альтона"
-	"Глюксштадт"
-	"Адольф I"
-	"Христиан Альбрехт"
-	"Карл Петер Ульрих"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-}
-
-
+		Holstein "Herzog Friedrich" Kiel Gottorp Sonderburg Glьcksburg Reichsfьrst Kцnig Erbprinz Plцn Segeberg
+		"Up ewig ungedeelt" "Vertrag von Ripen" Altona Glьckstadt "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen"
+	}
 	monitor = {
-	"Гольштейн"
-	"Херцог Фридрих"
-	"Киль"
-	"Готторп"
-	"Зондербург"
-	"Глюксбург"
-	"Райхсфюрст"
-	"Кениг"
-	"Эрбпринц"
-	"Плён"
-	"Зегеберг"
-	"Уп эвиг унгедельт"
-	"Вертраг фон Рипен"
-	"Альтона"
-	"Глюксштадт"
-	"Адольф I"
-	"Христиан Альбрехт"
-	"Карл Петер Ульрих"
-	"Магнус фон Веддеркоп"
-	"Уве Йенс Лорнсен"
-}
+		Holstein "Herzog Friedrich" Kiel Gottorp Sonderburg Glьcksburg Reichsfьrst Kцnig Erbprinz Plцn Segeberg
+		"Up ewig ungedeelt" "Vertrag von Ripen" Altona Glьckstadt "Adolf I." "Christian Albrecht" "Karl Peter Ulrich" "Magnus von Wedderkop" "Uwe Jens Lornsen"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Гольштейн"
-	"Херцог Фридрих"
-	"Киль"
-	"Готторп"
-	"Зондербург"
-	"Глюксбург"
-	"Райхсфюрст"
-	"Кениг"
-	"Эрбпринц"
-	"Плён"
-	"Зегеберг"
-	"Клаус Штертебекер"
-	"Гедеке Михельс"
-	"Хеннинг Вихман"
-	"Клаус Шельд"
-	"Магистер Вигбольд"
-	"Арнд Штуке"
-	"Николаус Милес"
-	"Ликеделер"
-}
-
-
+		Holstein "Herzog Friedrich" Kiel Gottorp Sonderburg Glьcksburg Reichsfьrst Kцnig Erbprinz Plцn Segeberg
+		"Klaus Stцrtebeker" "Gцdeke Michels" "Hennig Wichmann" "Klaus Scheld" "Magister Wigbold" "Arnd Stuke" "Nikolaus Milies" Likedeeler
+	}
 }

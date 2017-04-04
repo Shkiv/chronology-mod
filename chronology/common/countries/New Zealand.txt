@@ -101,138 +101,31 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Нью Зиланд"
-	"Ахилл"
-	"Аякс"
-	"Линдер"
-	"Нептун"
-	"Орион"
-	"Веллингтон"
-	"Окленд"
-	"Саутленд"
-	"Нортленд"
-	"Джеймс Кук"
-	"Маори"
-	"Киви"
-	"Нейпир"
-	"Нельсон"
-}
+		"New Zealand" Achilles Ajax Leander Neptune Orion Wellington Auckland Southland Northland "James Cook" Maori Kiwi Napier Nelson
 
-
+	}
 	ironclad = {
-	"Нью Зиланд"
-	"Ахилл"
-	"Аякс"
-	"Линдер"
-	"Нептун"
-	"Орион"
-	"Веллингтон"
-	"Окленд"
-	"Саутленд"
-	"Нортленд"
-	"Джеймс Кук"
-	"Маори"
-	"Киви"
-	"Нейпир"
-	"Нельсон"
-}
-
-
+		"New Zealand" Achilles Ajax Leander Neptune Orion Wellington Auckland Southland Northland "James Cook" Maori Kiwi Napier Nelson
+	}
 	manowar = {
-	"Нью Зиланд"
-	"Ахилл"
-	"Аякс"
-	"Линдер"
-	"Нептун"
-	"Орион"
-	"Веллингтон"
-	"Окленд"
-	"Саутленд"
-	"Нортленд"
-	"Джеймс Кук"
-	"Маори"
-	"Киви"
-	"Нейпир"
-	"Нельсон"
-}
-
-
+		"New Zealand" Achilles Ajax Leander Neptune Orion Wellington Auckland Southland Northland "James Cook" Maori Kiwi Napier Nelson
+	}
 	cruiser = {
-	"Нью Зиланд"
-	"Ахилл"
-	"Аякс"
-	"Линдер"
-	"Нептун"
-	"Орион"
-	"Веллингтон"
-	"Окленд"
-	"Саутленд"
-	"Нортленд"
-	"Джеймс Кук"
-	"Маори"
-	"Киви"
-	"Нейпир"
-	"Нельсон"
-}
-
-
+		"New Zealand" Achilles Ajax Leander Neptune Orion Wellington Auckland Southland Northland "James Cook" Maori Kiwi Napier Nelson
+	}
 	frigate = {
-	"Нью Зиланд"
-	"Ахилл"
-	"Аякс"
-	"Линдер"
-	"Нептун"
-	"Орион"
-	"Веллингтон"
-	"Окленд"
-	"Саутленд"
-	"Нортленд"
-	"Джеймс Кук"
-	"Маори"
-	"Киви"
-	"Нейпир"
-	"Нельсон"
-}
-
-
+		"New Zealand" Achilles Ajax Leander Neptune Orion Wellington Auckland Southland Northland "James Cook" Maori Kiwi Napier Nelson
+	}
 	monitor = {
-	"Нью Зиланд"
-	"Ахилл"
-	"Аякс"
-	"Линдер"
-	"Нептун"
-	"Орион"
-	"Веллингтон"
-	"Окленд"
-	"Саутленд"
-	"Нортленд"
-	"Джеймс Кук"
-	"Маори"
-	"Киви"
-	"Нейпир"
-	"Нельсон"
-}
+		"New Zealand" Achilles Ajax Leander Neptune Orion Wellington Auckland Southland Northland "James Cook" Maori Kiwi Napier Nelson
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Нью Зиланд"
-	"Ахилл"
-	"Аякс"
-	"Линдер"
-	"Нептун"
-	"Орион"
-	"Веллингтон"
-	"Окленд"
-	"Саутленд"
-	"Нортленд"
-	"Джеймс Кук"
-	"Маори"
-	"Киви"
-	"Нейпир"
-	"Нельсон"
-}
-
-
+		"New Zealand" Achilles Ajax Leander Neptune Orion Wellington Auckland Southland Northland "James Cook" Maori Kiwi Napier Nelson
+	}
 }

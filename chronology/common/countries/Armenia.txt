@@ -128,196 +128,46 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Араму"
-	"Аргиштис"
-	"Арарат"
-	"Ани"
-	"Артсах"
-	"Двин"
-	"Эримена"
-	"Хайк"
-	"Халди"
-	"Ишпуинис"
-	"Карс"
-	"Лутипри"
-	"Мусасир"
-	"Менуас"
-	"Манцикерт"
-	"Парисос"
-	"Русас II"
-	"Сивини"
-	"Селарди"
-	"Сардури I"
-	"Сардури II"
-	"Васпуракан"
-	"Ереван"
-}
+		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
 
-
+	}
 	ironclad = {
-	"Араму"
-	"Аргиштис"
-	"Арарат"
-	"Ани"
-	"Артсах"
-	"Двин"
-	"Эримена"
-	"Хайк"
-	"Халди"
-	"Ишпуинис"
-	"Карс"
-	"Лутипри"
-	"Мусасир"
-	"Менуас"
-	"Манцикерт"
-	"Парисос"
-	"Русас II"
-	"Сивини"
-	"Селарди"
-	"Сардури I"
-	"Сардури II"
-	"Васпуракан"
-	"Ереван"
-}
-
-
+		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
+	}
 	manowar = {
-	"Араму"
-	"Аргиштис"
-	"Арарат"
-	"Ани"
-	"Артсах"
-	"Двин"
-	"Эримена"
-	"Хайк"
-	"Халди"
-	"Ишпуинис"
-	"Карс"
-	"Лутипри"
-	"Мусасир"
-	"Менуас"
-	"Манцикерт"
-	"Парисос"
-	"Русас II"
-	"Сивини"
-	"Селарди"
-	"Сардури I"
-	"Сардури II"
-	"Васпуракан"
-	"Ереван"
-}
+		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
 
 
+	}
 	cruiser = {
-	"Араму"
-	"Аргиштис"
-	"Арарат"
-	"Ани"
-	"Артсах"
-	"Двин"
-	"Эримена"
-	"Хайк"
-	"Халди"
-	"Ишпуинис"
-	"Карс"
-	"Лутипри"
-	"Мусасир"
-	"Менуас"
-	"Манцикерт"
-	"Парисос"
-	"Русас II"
-	"Сивини"
-	"Селарди"
-	"Сардури I"
-	"Сардури II"
-	"Васпуракан"
-	"Ереван"
-}
+		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
 
-
+	}
 	frigate = {
-	"Араму"
-	"Аргиштис"
-	"Арарат"
-	"Ани"
-	"Артсах"
-	"Двин"
-	"Эримена"
-	"Хайк"
-	"Халди"
-	"Ишпуинис"
-	"Карс"
-	"Лутипри"
-	"Мусасир"
-	"Менуас"
-	"Манцикерт"
-	"Парисос"
-	"Русас II"
-	"Сивини"
-	"Селарди"
-	"Сардури I"
-	"Сардури II"
-	"Васпуракан"
-	"Ереван"
-}
+		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
 
-
+	}
 	monitor = {
-	"Араму"
-	"Аргиштис"
-	"Арарат"
-	"Ани"
-	"Артсах"
-	"Двин"
-	"Эримена"
-	"Хайк"
-	"Халди"
-	"Ишпуинис"
-	"Карс"
-	"Лутипри"
-	"Мусасир"
-	"Менуас"
-	"Манцикерт"
-	"Парисос"
-	"Русас II"
-	"Сивини"
-	"Селарди"
-	"Сардури I"
-	"Сардури II"
-	"Васпуракан"
-	"Ереван"
-}
+		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Араму"
-	"Аргиштис"
-	"Арарат"
-	"Ани"
-	"Артсах"
-	"Двин"
-	"Эримена"
-	"Хайк"
-	"Халди"
-	"Ишпуинис"
-	"Карс"
-	"Лутипри"
-	"Мусасир"
-	"Менуас"
-	"Манцикерт"
-	"Парисос"
-	"Русас II"
-	"Сивини"
-	"Селарди"
-	"Сардури I"
-	"Сардури II"
-	"Васпуракан"
-	"Ереван"
-}
+		Aramu Argishtis Ararat Ani Artsakh Dvin Erimena Haik Haldi Ishpuinis Kars Lutipri Musasir Menuas Manzikert Parisos
+		"Rusas II" Siwini Selardi "Sarduri I" "Sarduris II" Vaspurakan Yerevan
 
-
+	}
 }
 
 party = {
@@ -347,4 +197,3 @@ party = {
 	citizenship_policy = residency
 	war_policy = jingoism
 }
-

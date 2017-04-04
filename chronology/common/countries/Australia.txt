@@ -128,75 +128,31 @@ party = {
 }
 
 unit_names = {
-	dreadnought = {
-	"Биг Брюс"
-	"Тасмания"
-	"Куинсленд"
-	"Нью Саут Уэлс"
-	"Коммонвелт"
-}
+	dreadnought = { "Big Bruce" Tasmania Queensland "New South Wales" Commonwealth
 
+	}
+	ironclad = { Victoria Paluma Fantome "Alf Stewart" Perth
 
-	ironclad = {
-	"Виктория"
-	"Палума"
-	"Фантом"
-	"Альф Стюарт"
-	"Перт"
-}
+	}
+	manowar = { Spitfire Adelaide "Gold Coast" Murray Sheila
 
+	}
+	cruiser = { Australia Melbourne Sydney Encounter Brisbane Pioneer Protector
 
-	manowar = {
-	"Спитфайр"
-	"Эдлейд"
-	"Золотой Берег"
-	"Мюррей"
-	"Шейла"
-}
+	}
+	frigate = { Darwin Darling Diamantina Dawson Dee
 
+	}
+	monitor = { Cerberus Nelson Gayunda "Bass Strait" "Mount Kosciuszko"
 
-	cruiser = {
-	"Австралия"
-	"Мельбурн"
-	"Сидней"
-	"Энкаунтер"
-	"Брисбейн"
-	"Пайонир"
-	"Протектор"
-}
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = { Kanowna
 
-	frigate = {
-	"Дарвин"
-	"Дарлинг"
-	"Диамантина"
-	"Доусон"
-	"Дее"
-}
+	}
+	commerce_raider = { Alexander Charlotte "Lady Penrhyn" "Prince of Wales" Scarborough
 
-
-	monitor = {
-	"Цербер"
-	"Нельсон"
-	"Гайунда"
-	"Бассов пролив"
-	"Маунт Косцюшко"
-}
-
-
-	
-	steam_transport = {
-	"Каноуна"
-}
-
-
-	commerce_raider = {
-	"Александер"
-	"Шарлотта"
-	"Леди Пенрин"
-	"Принс оф Уэлс"
-	"Скарборо"
-}
-
-
+	}
 }

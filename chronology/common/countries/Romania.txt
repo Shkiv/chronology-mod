@@ -157,208 +157,58 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Романия"
-	"Стефан чел Маре"
-	"Тудор Владимиреску"
-	"Молдова"
-	"Михаил Стурдза"
-	"Дракула"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Молдова"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor"
 
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "RГўul Prut" Suceava
+		"TГўrgul Moldovei" Vaslui
 
+	}
 	ironclad = {
-	"Романия"
-	"Стефан чел Маре"
-	"Тудор Владимиреску"
-	"Молдова"
-	"Михаил Стурдза"
-	"Дракула"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Молдова"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor"
 
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "RГўul Prut" Suceava
+		"TГўrgul Moldovei" Vaslui
 
+	}
 	manowar = {
-	"Романия"
-	"Стефан чел Маре"
-	"Тудор Владимиреску"
-	"Молдова"
-	"Михаил Стурдза"
-	"Дракула"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Молдова"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor"
 
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "RГўul Prut" Suceava
+		"TГўrgul Moldovei" Vaslui
 
+	}
 	cruiser = {
-	"Романия"
-	"Стефан чел Маре"
-	"Тудор Владимиреску"
-	"Молдова"
-	"Михаил Стурдза"
-	"Дракула"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Молдова"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor"
 
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "RГўul Prut" Suceava
+		"TГўrgul Moldovei" Vaslui
 
+	}
 	frigate = {
-	"Романия"
-	"Стефан чел Маре"
-	"Тудор Владимиреску"
-	"Молдова"
-	"Михаил Стурдза"
-	"Дракула"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Молдова"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor"
 
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "RГўul Prut" Suceava
+		"TГўrgul Moldovei" Vaslui
 
+	}
 	monitor = {
-	"Романия"
-	"Стефан чел Маре"
-	"Тудор Владимиреску"
-	"Молдова"
-	"Михаил Стурдза"
-	"Дракула"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Молдова"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor"
 
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "RГўul Prut" Suceava
+		"TГўrgul Moldovei" Vaslui
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Романия"
-	"Стефан чел Маре"
-	"Тудор Владимиреску"
-	"Молдова"
-	"Михаил Стурдза"
-	"Дракула"
-	"Витязул"
-	"Путера мари"
-	"Сперитоария"
-	"Фрумусяца валурилор"
-	"Росада"
-	"Кэлугэрени"
-	"Ровине"
-	"Сирмиум"
-	"Атакуль де ноапте"
-	"Литовой"
-	"Атлета Кристи"
-	"Байя"
-	"Богдан I"
-	"Юга"
-	"Молдова"
-	"Реул Прут"
-	"Сучава"
-	"Тергул Молдовей"
-	"Васлуй"
-}
+		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor"
 
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "RГўul Prut" Suceava
+		"TГўrgul Moldovei" Vaslui
 
+	}
 }

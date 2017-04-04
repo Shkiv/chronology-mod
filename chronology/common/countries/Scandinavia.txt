@@ -159,235 +159,41 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Клас Эрикссон Флеминг"
-	"Аксель Нильссон Рюнинг"
-	"Карл Карлссон Юлленъельм"
-	"Густав Отто Стенбок"
-	"Лоренц Кройц"
-	"Ханс Вахтмайстер аф Йоханнисус"
-	"Хенрик аф Тролле"
-	"Карл Аугуст Эренсверд"
-	"Фредерик"
-	"Йохан"
-	"Манлигетен"
-	"Дристигетен"
-	"Свериге"
-	"Асс"
-	"Ванр"
-	"Альфр"
-	"Йотенн"
-	"Ульрик Кристиан Гильденлеве"
-	"Копенгаген"
-	"Орхус"
-	"Ольборг"
-	"Оденсе"
-	"Фредриксберг"
-	"Эсбьерг"
-	"Норрейске Э"
-	"Фюн"
-	"Йотландшаф"
-}
-
-
+		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus"
+		"Henrik af Trolle" "Carl August Ehrensvдrd" Fredrik Johan "Manligheten" "Dristigheten" "Sverige" Бss Vanr Бlfr Jцtunn
+		"Ulrik Christian Gyldenlшve" Kшbenhavn Еrhus Еlborg Odense Fredriksberg Esbjerg "Nшrrejyske Ш" Fyn Jуtlandshaf
+	}
 	ironclad = {
-	"Гетеборг"
-	"Мальмё"
-	"Уппсала"
-	"Вастерас"
-	"Оребро"
-	"Линчепинг"
-	"Хельсингборг"
-	"Нюнесхамн"
-	"Карслхамн"
-	"Хальмстад"
-	"Бленда"
-	"Астрид"
-	"Эллида"
-	"Слейпнер"
-	"Викинг"
-	"Фритьоф"
-	"Рюкан"
-	"Сарпен"
-	"Луген"
-	"Гломмен"
-	"Гельголанд"
-	"Данмарк"
-	"Горм"
-	"Линдормен"
-	"Один"
-	"Рольф Краке"
-	"Торденшельд"
-	"Педер Скрам"
-	"Даннеборг"
-	"Горм"
-	"Ольферт Фишер"
-	"Абсалон"
-}
-
-
+		Gцteborg Malmц Uppsala Vдsterеs Цrebro Linkцping Helsingborg Nynдshamn Karlshamn Halmstad Blenda Astrid Ellida Sleipner Viking Frithjof
+		Rjukan Sarpen Lougen Glommen Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon
+	}
 	manowar = {
-	"Карл XIII"
-	"Карл XIV Юхан"
-	"Принс Оскар"
-	"Густав II Адольф"
-	"Стокгольм"
-	"Ферсиктигетен"
-	"Тапперхетен"
-	"Кунг Адольф Фредрик"
-	"Генрих"
-	"Томас"
-	"Фрея"
-	"Дезидейра"
-	"Сент-Олаф"
-	"Конг Сверре"
-	"Эллида"
-	"Нордстернен"
-	"Норнен"
-	"Нидарос"
-	"Ернен"
-	"Принс Кристиан Фредерик"
-	"Шельд"
-	"Абсалон"
-	"Ингольф"
-	"Даннеборг"
-	"Дагмар"
-	"Гесьер"
-	"Дроннинг Мари"
-	"Вальдемар"
-	"Фредерик"
-}
-
-
+		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" Stockholm Fцrsiktigheten Tapperheten "Kung Adolph Fredric" Henrik Tomas
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Шrnen
+		"Prins Christian Frederik" Skjold Absalon Ingolf Dannebrog Dagmar Gesjer "Dronning Marie" Waldemar Fredrik
+	}
 	cruiser = {
-	"Клаэс Уггла"
-	"Псиландер"
-	"Клаэс Горн"
-	"Якоб Бакке"
-	"Орнен"
-	"Фюльгя"
-	"Тре Кронор"
-	"Гете Лейон"
-	"Эстерсунд"
-	"Боргхольм"
-	"Тор"
-	"Один"
-	"Ньорд"
-	"Фрейр"
-	"Тюр"
-	"Брагль"
-	"Хеймдалль"
-	"Ходер"
-	"Видар"
-	"Але"
-	"Ульр"
-	"Форсети"
-	"Фюен"
-	"Гейзер"
-	"Хеймдаль"
-	"Хекла"
-	"Св. Томас"
-	"Валькириен"
-	"Герлуф Тролле"
-	"Сееормен"
-	"Сусоэн"
-	"Гуденоэн"
-}
-
-
+		"Claes Uggla" Psilander "Claes Horn" "Jacob Bakke" Ornen Fylgia "Tre Kronor" "Gцta Lejon" Цstersund Borgholm
+		Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti
+		Fyen Geiser Heimdal Hekla "St. Thomas" Valkyrien "Herluf Trolle" Sшeormen Susеen Gudenеen
+	}
 	frigate = {
-	"Пакка"
-	"Сварта Эрн"
-	"Яррамас"
-	"Вайнквер"
-	"Дельфин"
-	"Иллерим"
-	"Лилла Феникс"
-	"Вексьё"
-	"Евле"
-	"Барон Густав Бонде"
-	"Фрея"
-	"Дезидейра"
-	"Сент-Олаф"
-	"Конг Сверре"
-	"Эллида"
-	"Нордстернен"
-	"Норнен"
-	"Нидарос"
-	"Ернен"
-	"Наяден"
-	"Хуммер"
-	"Штральзунд"
-	"Сериддер"
-	"Леопард"
-	"Раае"
-	"Эсберн Снаре"
-	"Ернен"
-	"Зеландия"
-	"Гефион"
-	"Тетис"
-	"Нильс Юэль"
-	"Рота"
-}
-
-
+		Packa "Svarta Цrn" Jarramas Vainqueur Delphin Illerim "Lilla Phoenix" Vдxjц Gдvle "Baron Gustaf Bonde"
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Шrnen
+		Najaden Hummer Stralsund Sшridder Leopard Raae "Esbern Snare" Шrnen Sjжlland Gefion Thetis "Niels Juel" Rota
+	}
 	monitor = {
-	"Йон Эрикссон"
-	"Локе"
-	"Шельд"
-	"Тирфинг"
-	"Торден"
-	"Берсерк"
-	"Бьорн"
-	"Фольке"
-	"Сельве"
-	"Ульф"
-	"Фенрис"
-	"Гармер"
-	"Герда"
-	"Хильдур"
-	"Скорпионен"
-	"Мельнер"
-	"Трудванг"
-	"Фрея"
-	"Диана"
-	"Линдормен"
-	"Стерен"
-	"Стубберкебинг"
-	"Гейзер"
-	"Киль"
-	"Фальстер"
-	"Нархвален"
-	"Тумлерен"
-}
-
-
-	
-	
+		"John Ericsson" Loke Skцld Tirfing Tordцn Berserk Bjцrn Folke Sцlve Ulf Fenris Garmer Gerda Hildur
+		Skorpionen Mjшlner Thrudvang
+		Freia Diana Lindormen Stшren Stubberkшbing Gejser Kiel Falster Narhvalen Tumleren
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Бьерн Йернсида"
-	"Эрик Серегселл"
-	"Гардар Сваварссон"
-	"Бирка"
-	"Асгард"
-	"Кракен"
-	"Беккахест"
-	"Сторшен"
-	"Венерн"
-	"Веттерн"
-	"Хеймдаль"
-	"Фритьоф Нансен"
-	"Нордкап"
-	"Эсберн Снаре"
-	"Фюлла"
-	"Фарерне"
-	"Гренланд"
-	"Викингр"
-	"Харальд Клак"
-	"Свенд Твескег"
-	"Каттегат"
-	"Эресунд"
-	"Силькеборг"
-}
-
-
+		"Bjцrn Jдrnsida" "Erik Segersдll" "Gardarr Svavarsson" Birka Asgеrd Kraken Bдckahдst Storsjцn Vдnern Vдttern
+		Heimdal "Fridtjof Nansen" Nordkapp
+		"Esbern Snare" Fylla Fжrшerne Grшnland Vнkingr "Harald Klak" "Svend Tveskжg" Kattegat Шresund Silkeborg
+	}
 }

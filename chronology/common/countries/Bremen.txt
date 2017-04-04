@@ -185,178 +185,39 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ваппен фон Бремен"
-	"Хансештадт Бремен"
-	"Бремерхафен"
-	"Везер"
-	"Эрцбишоф"
-	"Ролан"
-	"Ансгар"
-	"Графин Эмма"
-	"Арнд фон Грепелинген"
-	"Санкт-Стефан"
-	"Санкт-Мартин"
-	"Хайнрих фон Цютфен"
-	"Даниэль фон Бюрен"
-	"Бальтазар фон Эсенс"
-	"Хайнрих Крефтинг"
-	"Иоганн Шмидт"
-	"Фердинанд Донандт"
-}
-
-
+		"Wappen von Bremen" "Hansestadt Bremen" Bremerhaven Weser Erzbischof Roland Ansgar "Grдfin Emma" "Arnd von Grцpelingen" "Sankt Stephan"
+		"Sankt Martin" "Heinrich von Zьtphen" "Daniel von Bьren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt"
+	}
 	ironclad = {
-	"Ваппен фон Бремен"
-	"Хансештадт Бремен"
-	"Бремерхафен"
-	"Везер"
-	"Эрцбишоф"
-	"Ролан"
-	"Ансгар"
-	"Графин Эмма"
-	"Арнд фон Грепелинген"
-	"Санкт-Стефан"
-	"Санкт-Мартин"
-	"Хайнрих фон Цютфен"
-	"Даниэль фон Бюрен"
-	"Бальтазар фон Эсенс"
-	"Хайнрих Крефтинг"
-	"Иоганн Шмидт"
-	"Фердинанд Донандт"
-}
-
-
+		"Wappen von Bremen" "Hansestadt Bremen" Bremerhaven Weser Erzbischof Roland Ansgar "Grдfin Emma" "Arnd von Grцpelingen" "Sankt Stephan"
+		"Sankt Martin" "Heinrich von Zьtphen" "Daniel von Bьren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt"
+	}
 	manowar = {
-	"Ваппен фон Бремен"
-	"Хансештадт Бремен"
-	"Бремерхафен"
-	"Везер"
-	"Эрцбишоф"
-	"Ролан"
-	"Ансгар"
-	"Графин Эмма"
-	"Арнд фон Грепелинген"
-	"Санкт-Стефан"
-	"Санкт-Мартин"
-	"Хайнрих фон Цютфен"
-	"Даниэль фон Бюрен"
-	"Бальтазар фон Эсенс"
-	"Хайнрих Крефтинг"
-	"Иоганн Шмидт"
-	"Фердинанд Донандт"
-}
-
-
+		"Wappen von Bremen" "Hansestadt Bremen" Bremerhaven Weser Erzbischof Roland Ansgar "Grдfin Emma" "Arnd von Grцpelingen" "Sankt Stephan"
+		"Sankt Martin" "Heinrich von Zьtphen" "Daniel von Bьren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt"
+	}
 	cruiser = {
-	"Ваппен фон Бремен"
-	"Хансештадт Бремен"
-	"Бремерхафен"
-	"Везер"
-	"Эрцбишоф"
-	"Ролан"
-	"Ансгар"
-	"Графин Эмма"
-	"Арнд фон Грепелинген"
-	"Санкт-Стефан"
-	"Санкт-Мартин"
-	"Хайнрих фон Цютфен"
-	"Даниэль фон Бюрен"
-	"Бальтазар фон Эсенс"
-	"Хайнрих Крефтинг"
-	"Иоганн Шмидт"
-	"Фердинанд Донандт"
-}
-
-
+		"Wappen von Bremen" "Hansestadt Bremen" Bremerhaven Weser Erzbischof Roland Ansgar "Grдfin Emma" "Arnd von Grцpelingen" "Sankt Stephan"
+		"Sankt Martin" "Heinrich von Zьtphen" "Daniel von Bьren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt"
+	}
 	frigate = {
-	"Ваппен фон Бремен"
-	"Хансештадт Бремен"
-	"Бремерхафен"
-	"Везер"
-	"Эрцбишоф"
-	"Ролан"
-	"Ансгар"
-	"Графин Эмма"
-	"Арнд фон Грепелинген"
-	"Санкт-Стефан"
-	"Санкт-Мартин"
-	"Хайнрих фон Цютфен"
-	"Даниэль фон Бюрен"
-	"Бальтазар фон Эсенс"
-	"Хайнрих Крефтинг"
-	"Иоганн Шмидт"
-	"Фердинанд Донандт"
-}
-
-
+		"Wappen von Bremen" "Hansestadt Bremen" Bremerhaven Weser Erzbischof Roland Ansgar "Grдfin Emma" "Arnd von Grцpelingen" "Sankt Stephan"
+		"Sankt Martin" "Heinrich von Zьtphen" "Daniel von Bьren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt"
+	}
 	monitor = {
-	"Ваппен фон Бремен"
-	"Хансештадт Бремен"
-	"Бремерхафен"
-	"Везер"
-	"Эрцбишоф"
-	"Ролан"
-	"Ансгар"
-	"Графин Эмма"
-	"Арнд фон Грепелинген"
-	"Санкт-Стефан"
-	"Санкт-Мартин"
-	"Хайнрих фон Цютфен"
-	"Даниэль фон Бюрен"
-	"Бальтазар фон Эсенс"
-	"Хайнрих Крефтинг"
-	"Иоганн Шмидт"
-	"Фердинанд Донандт"
-}
-
-
+		"Wappen von Bremen" "Hansestadt Bremen" Bremerhaven Weser Erzbischof Roland Ansgar "Grдfin Emma" "Arnd von Grцpelingen" "Sankt Stephan"
+		"Sankt Martin" "Heinrich von Zьtphen" "Daniel von Bьren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt"
+	}
 	clipper_transport = {
-	"Херманн Майер"
-	"Эдуард Крюземанн"
-	"Иоганн Ломанн"
-	"Аугуст Нейнабер"
-	"Бремерманн"
-	"Карл Лайст"
-	"Фридрих Ахелис"
-	"Карл Полак"
-	"Карл Штимминг"
-	"Арнольд Петцет"
-}
-
-
+		"Hermann Meier" "Eduard Crьsemann" "Johann Lohmann" "August Neynaber" "Bremermann" "Carl Leist" "Friedrich Achelis" "Charles Polak"
+		"Carl Stimming" "Arnold Petzet"
+	}
 	steam_transport = {
-	"Херманн Майер"
-	"Эдуард Крюземанн"
-	"Иоганн Ломанн"
-	"Аугуст Нейнабер"
-	"Бремерманн"
-	"Карл Лайст"
-	"Фридрих Ахелис"
-	"Карл Полак"
-	"Карл Штимминг"
-	"Арнольд Петцет"
-}
-
-
+		"Hermann Meier" "Eduard Crьsemann" "Johann Lohmann" "August Neynaber" "Bremermann" "Carl Leist" "Friedrich Achelis" "Charles Polak"
+		"Carl Stimming" "Arnold Petzet"
+	}
 	commerce_raider = {
-	"Ваппен фон Бремен"
-	"Хансештадт Бремен"
-	"Бремерхафен"
-	"Везер"
-	"Эрцбишоф"
-	"Ролан"
-	"Ансгар"
-	"Графин Эмма"
-	"Арнд фон Грепелинген"
-	"Санкт-Стефан"
-	"Санкт-Мартин"
-	"Хайнрих фон Цютфен"
-	"Даниэль фон Бюрен"
-	"Бальтазар фон Эсенс"
-	"Хайнрих Крефтинг"
-	"Иоганн Шмидт"
-	"Фердинанд Донандт"
-}
-
-
+		"Wappen von Bremen" "Hansestadt Bremen" Bremerhaven Weser Erzbischof Roland Ansgar "Grдfin Emma" "Arnd von Grцpelingen" "Sankt Stephan"
+		"Sankt Martin" "Heinrich von Zьtphen" "Daniel von Bьren" "Balthasar von Esens" "Heinrich Krefting" "Johann Schmidt" "Ferdinand Donandt"
+	}
 }

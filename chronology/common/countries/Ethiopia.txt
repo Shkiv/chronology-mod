@@ -101,110 +101,44 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Йодит"
-	"Шева"
-	"Мара Такла"
-	"Лалибела"
-	"Йекуно Амлак"
-	"Тиграй"
-	"Татадум"
-	"Сейюм"
-	"Кедус Харбе"
-	"Наакето Лааб"
-	"Йетбарак"
-}
+		  Yodit Shewa "Mara Takla" Lalibela "Yekuno Amlak" Tigray Tatadum Seyum "Kedus Harbe" "Na'akueto La'ab" Yetbarak
 
-
+	}
 	ironclad = {
-	"Йодит"
-	"Шева"
-	"Мара Такла"
-	"Лалибела"
-	"Йекуно Амлак"
-	"Тиграй"
-	"Татадум"
-	"Сейюм"
-	"Кедус Харбе"
-	"Наакето Лааб"
-	"Йетбарак"
-}
+		Yodit Shewa "Mara Takla" Lalibela "Yekuno Amlak" Tigray Tatadum Seyum  "Kedus Harbe" "Na'akueto La'ab" Yetbarak
 
 
+
+	}
 	manowar = {
-	"Йодит"
-	"Шева"
-	"Мара Такла"
-	"Лалибела"
-	"Йекуно Амлак"
-	"Тиграй"
-	"Татадум"
-	"Сейюм"
-	"Кедус Харбе"
-	"Наакето Лааб"
-	"Йетбарак"
-}
+		Yodit Shewa "Mara Takla" Lalibela "Yekuno Amlak" Tigray Tatadum Seyum  "Kedus Harbe" "Na'akueto La'ab" Yetbarak
 
 
+	}
 	cruiser = {
-	"Йодит"
-	"Шева"
-	"Мара Такла"
-	"Лалибела"
-	"Йекуно Амлак"
-	"Тиграй"
-	"Татадум"
-	"Сейюм"
-	"Кедус Харбе"
-	"Наакето Лааб"
-	"Йетбарак"
-}
+		Yodit Shewa "Mara Takla" Lalibela "Yekuno Amlak" Tigray Tatadum Seyum  "Kedus Harbe" "Na'akueto La'ab" Yetbarak
 
 
+	}
 	frigate = {
-	"Йодит"
-	"Шева"
-	"Мара Такла"
-	"Лалибела"
-	"Йекуно Амлак"
-	"Тиграй"
-	"Татадум"
-	"Сейюм"
-	"Кедус Харбе"
-	"Наакето Лааб"
-	"Йетбарак"
-}
+		Yodit Shewa "Mara Takla" Lalibela "Yekuno Amlak" Tigray Tatadum Seyum  "Kedus Harbe" "Na'akueto La'ab" Yetbarak
 
 
+	}
 	monitor = {
-	"Йодит"
-	"Шева"
-	"Мара Такла"
-	"Лалибела"
-	"Йекуно Амлак"
-	"Тиграй"
-	"Татадум"
-	"Сейюм"
-	"Кедус Харбе"
-	"Наакето Лааб"
-	"Йетбарак"
-}
+		Yodit Shewa "Mara Takla" Lalibela "Yekuno Amlak" Tigray Tatadum Seyum  "Kedus Harbe" "Na'akueto La'ab" Yetbarak
 
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Йодит"
-	"Шева"
-	"Мара Такла"
-	"Лалибела"
-	"Йекуно Амлак"
-	"Тиграй"
-	"Татадум"
-	"Сейюм"
-	"Кедус Харбе"
-	"Наакето Лааб"
-	"Йетбарак"
-}
+		Yodit Shewa "Mara Takla" Lalibela "Yekuno Amlak" Tigray Tatadum Seyum  "Kedus Harbe" "Na'akueto La'ab" Yetbarak
 
 
+	}
 }

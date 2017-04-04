@@ -185,134 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Вюртемберг"
-	"Швабия"
-	"Кениг Фридрих"
-	"Кенигин Шарлотт"
-	"Король Вильгельм"
-	"Принц Альбрехт"
-	"Алемания"
-	"Херцог фон Урах"
-	"Фон Цеппелин"
-}
-
-
+		Wьrttemberg Schwaben "Kцnig Friedrich" "Kцnigin Charlotte" "Kцnig Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin"
+	}
 	ironclad = {
-	"Вюртемберг"
-	"Швабия"
-	"Кениг Фридрих"
-	"Кенигин Шарлотт"
-	"Король Вильгельм"
-	"Принц Альбрехт"
-	"Алемания"
-	"Херцог фон Урах"
-	"Фон Цеппелин"
-}
-
-
+		Wьrttemberg Schwaben "Kцnig Friedrich" "Kцnigin Charlotte" "Kцnig Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin"
+	}
 	manowar = {
-	"Штуттгарт"
-	"Ульм"
-	"Геппинген"
-	"Равенсбург"
-	"Фридрихсхафен"
-	"Эльванген"
-	"Холл"
-	"Хайльбронн"
-	"Ротвайль"
-	"Тюбинген"
-}
-
-
+		Stuttgart Ulm Gцppingen Ravensburg Friedrichshafen Ellwangen Hall Heilbronn Rottweil Tьbingen
+	}
 	cruiser = {
-	"Штуттгарт"
-	"Ульм"
-	"Геппинген"
-	"Равенсбург"
-	"Фридрихсхафен"
-	"Эльванген"
-	"Холл"
-	"Хайльбронн"
-	"Ротвайль"
-	"Тюбинген"
-}
-
-
+		Stuttgart Ulm Gцppingen Ravensburg Friedrichshafen Ellwangen Hall Heilbronn Rottweil Tьbingen
+	}
 	frigate = {
-	"Фон Берольдинген"
-	"Таубе"
-	"Фон Хардегг"
-	"Фридрих Шиллер"
-	"Якоб Фридрих Реш"
-	"Граф фон Вальдбург"
-	"Карл фон Кернер"
-	"Принц Гогенлоэ"
-}
-
-
+		"Von Beroldingen" Taube "Von Hardegg" "Friedrich Schiller" "Jakob Friedrich Rцsch" "Graf von Waldburg" "Karl von Kerner" "Prinz Hohenlohe"
+	}
 	monitor = {
-	"Вюртемберг"
-	"Швабия"
-	"Кениг Фридрих"
-	"Кенигин Шарлотт"
-	"Король Вильгельм"
-	"Принц Альбрехт"
-	"Алемания"
-	"Херцог фон Урах"
-	"Фон Цеппелин"
-}
-
-
+		Wьrttemberg Schwaben "Kцnig Friedrich" "Kцnigin Charlotte" "Kцnig Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin"
+	}
 	clipper_transport = {
-	"Адлер"
-	"Альбатросс"
-	"Амазонка"
-	"Бремзе"
-	"Бруммер"
-	"Донау"
-	"Драхе"
-	"Фельдберг"
-	"Фрауэнлоб"
-	"Грайф"
-	"Карлсруэ"
-	"Наттер"
-	"Некар"
-	"Саламандер"
-	"Зееадлер"
-	"Рейн"
-}
-
-
+		 Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein
+	}
 	steam_transport = {
-	"Адлер"
-	"Альбатросс"
-	"Амазонка"
-	"Бремзе"
-	"Бруммер"
-	"Донау"
-	"Драхе"
-	"Фельдберг"
-	"Фрауэнлоб"
-	"Грайф"
-	"Карлсруэ"
-	"Наттер"
-	"Некар"
-	"Саламандер"
-	"Зееадлер"
-	"Рейн"
-}
-
-
+		Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein
+	}
 	commerce_raider = {
-	"Фон Берольдинген"
-	"Таубе"
-	"Фон Хардегг"
-	"Фридрих Шиллер"
-	"Якоб Фридрих Реш"
-	"Граф фон Вальдбург"
-	"Карл фон Кернер"
-	"Принц Гогенлоэ"
-}
-
-
+		"Von Beroldingen" Taube "Von Hardegg" "Friedrich Schiller" "Jakob Friedrich Rцsch" "Graf von Waldburg" "Karl von Kerner" "Prinz Hohenlohe"
+	}
 }

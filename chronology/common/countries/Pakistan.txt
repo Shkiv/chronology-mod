@@ -101,166 +101,156 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
+		Beas
+		Chenab
+		Devi
+		Gayatri
+		Guru
+		Hindu
+		Jalsen
+		Jhelum
+		Lakshmi
+		Naoussen
+		"Navka Yudh"
+		Parvati
+		Radha
+		Ratri
+		Ravi
+		Sagar
+		Satli
+		Saraswati
+		Sita
+	}
 
 	ironclad = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
+		Beas
+		Chenab
+		Devi
+		Gayatri
+		Guru
+		Hindu
+		Jalsen
+		Jhelum
+		Lakshmi
+		Naoussen
+		"Navka Yudh"
+		Parvati
+		Radha
+		Ratri
+		Ravi
+		Sagar
+		Satli
+		Saraswati
+		Sita
+	}
 
 	manowar = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
+		Beas
+		Chenab
+		Devi
+		Gayatri
+		Guru
+		Hindu
+		Jalsen
+		Jhelum
+		Lakshmi
+		Naoussen
+		"Navka Yudh"
+		Parvati
+		Radha
+		Ratri
+		Ravi
+		Sagar
+		Satli
+		Saraswati
+		Sita
+	}
 
 	cruiser = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
+		Beas
+		Chenab
+		Devi
+		Gayatri
+		Guru
+		Hindu
+		Jalsen
+		Jhelum
+		Lakshmi
+		Naoussen
+		"Navka Yudh"
+		Parvati
+		Radha
+		Ratri
+		Ravi
+		Sagar
+		Satli
+		Saraswati
+		Sita
+	}
 
 	frigate = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
+		Beas
+		Chenab
+		Devi
+		Gayatri
+		Guru
+		Hindu
+		Jalsen
+		Jhelum
+		Lakshmi
+		Naoussen
+		"Navka Yudh"
+		Parvati
+		Radha
+		Ratri
+		Ravi
+		Sagar
+		Satli
+		Saraswati
+		Sita
+	}
 
 	monitor = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
+		Beas
+		Chenab
+		Devi
+		Gayatri
+		Guru
+		Hindu
+		Jalsen
+		Jhelum
+		Lakshmi
+		Naoussen
+		"Navka Yudh"
+		Parvati
+		Radha
+		Ratri
+		Ravi
+		Sagar
+		Satli
+		Saraswati
+		Sita
+	}
 
-
-	
-	
 	commerce_raider = {
-	"Беас"
-	"Ченаб"
-	"Деви"
-	"Гаятри"
-	"Гуру"
-	"Индус"
-	"Джалсена"
-	"Джелум"
-	"Лакшми"
-	"Наусена"
-	"Навка Юдх"
-	"Парвати"
-	"Радха"
-	"Ратри"
-	"Рави"
-	"Сагар"
-	"Сатли"
-	"Сарасвати"
-	"Сита"
-}
-
-
+		Beas
+		Chenab
+		Devi
+		Gayatri
+		Guru
+		Hindu
+		Jalsen
+		Jhelum
+		Lakshmi
+		Naoussen
+		"Navka Yudh"
+		Parvati
+		Radha
+		Ratri
+		Ravi
+		Sagar
+		Satli
+		Saraswati
+		Sita
+	}
 }

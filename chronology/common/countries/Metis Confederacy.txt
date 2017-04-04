@@ -101,117 +101,37 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Луи Риэль"
-	"Габриэль Дюмон"
-	"Жан-Батис Уилки"
-	"Питикваханапивийин"
-	"Камиокисихквев"
-	"Саскачеван"
-	"Сен-Лорен"
-	"Фиш Крик"
-	"Дюк Лейк"
-	"Кат Найф"
-	"Курьер де Буа"
-	"Вояджер"
-}
-
-
+		"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" Pitikwahanapiwiyin Kamiokisihkwew  Saskatchewan "St. Laurent"
+		"Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" Voyageur
+	}
 	ironclad = {
-	"Луи Риэль"
-	"Габриэль Дюмон"
-	"Жан-Батис Уилки"
-	"Питикваханапивийин"
-	"Камиокисихквев"
-	"Саскачеван"
-	"Сен-Лорен"
-	"Фиш Крик"
-	"Дюк Лейк"
-	"Кат Найф"
-	"Курьер де Буа"
-	"Вояджер"
-}
-
-
+		"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" Pitikwahanapiwiyin Kamiokisihkwew  Saskatchewan "St. Laurent"
+		"Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" Voyageur
+	}
 	manowar = {
-	"Луи Риэль"
-	"Габриэль Дюмон"
-	"Жан-Батис Уилки"
-	"Питикваханапивийин"
-	"Камиокисихквев"
-	"Саскачеван"
-	"Сен-Лорен"
-	"Фиш Крик"
-	"Дюк Лейк"
-	"Кат Найф"
-	"Курьер де Буа"
-	"Вояджер"
-}
-
-
+		"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" Pitikwahanapiwiyin Kamiokisihkwew  Saskatchewan "St. Laurent"
+		"Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" Voyageur
+	}
 	cruiser = {
-	"Луи Риэль"
-	"Габриэль Дюмон"
-	"Жан-Батис Уилки"
-	"Питикваханапивийин"
-	"Камиокисихквев"
-	"Саскачеван"
-	"Сен-Лорен"
-	"Фиш Крик"
-	"Дюк Лейк"
-	"Кат Найф"
-	"Курьер де Буа"
-	"Вояджер"
-}
-
-
+		"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" Pitikwahanapiwiyin Kamiokisihkwew  Saskatchewan "St. Laurent"
+		"Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" Voyageur
+	}
 	frigate = {
-	"Луи Риэль"
-	"Габриэль Дюмон"
-	"Жан-Батис Уилки"
-	"Питикваханапивийин"
-	"Камиокисихквев"
-	"Саскачеван"
-	"Сен-Лорен"
-	"Фиш Крик"
-	"Дюк Лейк"
-	"Кат Найф"
-	"Курьер де Буа"
-	"Вояджер"
-}
-
-
+		"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" Pitikwahanapiwiyin Kamiokisihkwew  Saskatchewan "St. Laurent"
+		"Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" Voyageur
+	}
 	monitor = {
-	"Луи Риэль"
-	"Габриэль Дюмон"
-	"Жан-Батис Уилки"
-	"Питикваханапивийин"
-	"Камиокисихквев"
-	"Саскачеван"
-	"Сен-Лорен"
-	"Фиш Крик"
-	"Дюк Лейк"
-	"Кат Найф"
-	"Курьер де Буа"
-	"Вояджер"
-}
+		"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" Pitikwahanapiwiyin Kamiokisihkwew  Saskatchewan "St. Laurent"
+		"Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" Voyageur
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Луи Риэль"
-	"Габриэль Дюмон"
-	"Жан-Батис Уилки"
-	"Питикваханапивийин"
-	"Камиокисихквев"
-	"Саскачеван"
-	"Сен-Лорен"
-	"Фиш Крик"
-	"Дюк Лейк"
-	"Кат Найф"
-	"Курьер де Буа"
-	"Вояджер"
-}
-
-
+		"Louis Riel" "Gabriel Dumont" "Jean-Baptiste Wilkie" Pitikwahanapiwiyin Kamiokisihkwew  Saskatchewan "St. Laurent"
+		"Fish Creek" "Duck Lake" "Cut Knife" "Coureur des bois" Voyageur
+	}
 }

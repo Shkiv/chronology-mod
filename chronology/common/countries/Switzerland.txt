@@ -143,157 +143,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Вернер Штауффахер"
-	"Вальтер Фюрст"
-	"Арнольд фон Мельхталь"
-	"Вильгельм Телль"
-}
-
-
+			"Werner Stauffacher" "Walter Fьrst" "Arnold von Melchtal" "Wilhelm Tell"
+	}
 	ironclad = {
-	"Аргау"
-	"Баден"
-	"Базель"
-	"Беллинцона"
-	"Берн"
-	"Фрайбург"
-	"Фрикталь"
-	"Леман"
-	"Линт"
-	"Лугано"
-	"Люцерн"
-	"Оберланд"
-	"Ретиен"
-	"Сентис"
-	"Шаффхаузен"
-	"Солотурн"
-	"Тургау"
-	"Вальдштатт"
-	"Валлис"
-	"Цюрих"
-}
-
-
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lйman Linth Lugano Luzern Oberland Rдtien Sдntis Schaffhausen Solothurn Thurgau Waldstдtte Wallis Zьrich
+	}
 	manowar = {
-	"Аргау"
-	"Баден"
-	"Базель"
-	"Беллинцона"
-	"Берн"
-	"Фрайбург"
-	"Фрикталь"
-	"Леман"
-	"Линт"
-	"Лугано"
-	"Люцерн"
-	"Оберланд"
-	"Ретиен"
-	"Сентис"
-	"Шаффхаузен"
-	"Солотурн"
-	"Тургау"
-	"Вальдштатт"
-	"Валлис"
-	"Цюрих"
-}
-
-
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lйman Linth Lugano Luzern Oberland Rдtien Sдntis Schaffhausen Solothurn Thurgau Waldstдtte Wallis Zьrich
+	}
 	cruiser = {
-	"Аргау"
-	"Баден"
-	"Базель"
-	"Беллинцона"
-	"Берн"
-	"Фрайбург"
-	"Фрикталь"
-	"Леман"
-	"Линт"
-	"Лугано"
-	"Люцерн"
-	"Оберланд"
-	"Ретиен"
-	"Сентис"
-	"Шаффхаузен"
-	"Солотурн"
-	"Тургау"
-	"Вальдштатт"
-	"Валлис"
-	"Цюрих"
-}
-
-
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lйman Linth Lugano Luzern Oberland Rдtien Sдntis Schaffhausen Solothurn Thurgau Waldstдtte Wallis Zьrich
+	}
 	frigate = {
-	"Аргау"
-	"Баден"
-	"Базель"
-	"Беллинцона"
-	"Берн"
-	"Фрайбург"
-	"Фрикталь"
-	"Леман"
-	"Линт"
-	"Лугано"
-	"Люцерн"
-	"Оберланд"
-	"Ретиен"
-	"Сентис"
-	"Шаффхаузен"
-	"Солотурн"
-	"Тургау"
-	"Вальдштатт"
-	"Валлис"
-	"Цюрих"
-}
-
-
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lйman Linth Lugano Luzern Oberland Rдtien Sдntis Schaffhausen Solothurn Thurgau Waldstдtte Wallis Zьrich
+	}
 	monitor = {
-	"Аргау"
-	"Баден"
-	"Базель"
-	"Беллинцона"
-	"Берн"
-	"Фрайбург"
-	"Фрикталь"
-	"Леман"
-	"Линт"
-	"Лугано"
-	"Люцерн"
-	"Оберланд"
-	"Ретиен"
-	"Сентис"
-	"Шаффхаузен"
-	"Солотурн"
-	"Тургау"
-	"Вальдштатт"
-	"Валлис"
-	"Цюрих"
-}
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lйman Linth Lugano Luzern Oberland Rдtien Sдntis Schaffhausen Solothurn Thurgau Waldstдtte Wallis Zьrich
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Аргау"
-	"Баден"
-	"Базель"
-	"Беллинцона"
-	"Берн"
-	"Фрайбург"
-	"Фрикталь"
-	"Леман"
-	"Линт"
-	"Лугано"
-	"Люцерн"
-	"Оберланд"
-	"Ретиен"
-	"Сентис"
-	"Шаффхаузен"
-	"Солотурн"
-	"Тургау"
-	"Вальдштатт"
-	"Валлис"
-	"Цюрих"
-}
-
-
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Lйman Linth Lugano Luzern Oberland Rдtien Sдntis Schaffhausen Solothurn Thurgau Waldstдtte Wallis Zьrich
+	}
 }

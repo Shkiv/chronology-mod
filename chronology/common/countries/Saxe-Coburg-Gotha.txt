@@ -184,104 +184,31 @@ party = {
 }
 
 unit_names = {
-	dreadnought = {
-	"Кобург"
-	"Гота"
-	"Тюрингия"
-	"Херцог Эрнст"
-	"Принцессион Луиза"
-	"Карл Эдуард"
-	"Виктория"
-	"Фон Карловиц"
-	"Фрайхерр"
-	"Ландграф"
-}
+	dreadnought = { Coburg Gotha Thьringen "Herzog Ernst" "Prinzession Luise" "Carl Eduard" Victoria "Von Carlowitz" Freiherr Landgraf
 
-
+	}
 	ironclad = {
-	"Кобург"
-	"Гота"
-	"Тюрингия"
-	"Херцог Эрнст"
-	"Принцессион Луиза"
-	"Карл Эдуард"
-	"Виктория"
-	"Фон Карловиц"
-	"Фрайхерр"
-	"Ландграф"
-}
-
-
+		 Coburg Gotha Thьringen "Herzog Ernst" "Prinzession Luise" "Carl Eduard" Victoria "Von Carlowitz" Freiherr Landgraf
+	}
 	manowar = {
-	"Кобург"
-	"Гота"
-	"Тюрингия"
-	"Херцог Эрнст"
-	"Принцессион Луиза"
-	"Карл Эдуард"
-	"Виктория"
-	"Фон Карловиц"
-	"Фрайхерр"
-	"Ландграф"
-}
-
-
+		 Coburg Gotha Thьringen "Herzog Ernst" "Prinzession Luise" "Carl Eduard" Victoria "Von Carlowitz" Freiherr Landgraf
+	}
 	cruiser = {
-	"Кобург"
-	"Гота"
-	"Тюрингия"
-	"Херцог Эрнст"
-	"Принцессион Луиза"
-	"Карл Эдуард"
-	"Виктория"
-	"Фон Карловиц"
-	"Фрайхерр"
-	"Ландграф"
-}
-
-
+		 Coburg Gotha Thьringen "Herzog Ernst" "Prinzession Luise" "Carl Eduard" Victoria "Von Carlowitz" Freiherr Landgraf
+	}
 	frigate = {
-	"Кобург"
-	"Гота"
-	"Тюрингия"
-	"Херцог Эрнст"
-	"Принцессион Луиза"
-	"Карл Эдуард"
-	"Виктория"
-	"Фон Карловиц"
-	"Фрайхерр"
-	"Ландграф"
-}
-
-
+		 Coburg Gotha Thьringen "Herzog Ernst" "Prinzession Luise" "Carl Eduard" Victoria "Von Carlowitz" Freiherr Landgraf
+	}
 	monitor = {
-	"Кобург"
-	"Гота"
-	"Тюрингия"
-	"Херцог Эрнст"
-	"Принцессион Луиза"
-	"Карл Эдуард"
-	"Виктория"
-	"Фон Карловиц"
-	"Фрайхерр"
-	"Ландграф"
-}
+		 Coburg Gotha Thьringen "Herzog Ernst" "Prinzession Luise" "Carl Eduard" Victoria "Von Carlowitz" Freiherr Landgraf
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Кобург"
-	"Гота"
-	"Тюрингия"
-	"Херцог Эрнст"
-	"Принцессион Луиза"
-	"Карл Эдуард"
-	"Виктория"
-	"Фон Карловиц"
-	"Фрайхерр"
-	"Ландграф"
-}
-
-
+		 Coburg Gotha Thьringen "Herzog Ernst" "Prinzession Luise" "Carl Eduard" Victoria "Von Carlowitz" Freiherr Landgraf
+	}
 }

@@ -101,131 +101,31 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Шака Зулу"
-	"Ква Зулу"
-	"Ассегай"
-	"Дингане"
-	"Дзива"
-	"Мвари"
-	"Дзивагуру"
-	"Мулунгу"
-	"Мбонга"
-	"Свикиро"
-	"Мазендере"
-	"Маи Веду"
-	"Мусикавану"
-	"Муторва"
-}
+		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
 
-
+	}
 	ironclad = {
-	"Шака Зулу"
-	"Ква Зулу"
-	"Ассегай"
-	"Дингане"
-	"Дзива"
-	"Мвари"
-	"Дзивагуру"
-	"Мулунгу"
-	"Мбонга"
-	"Свикиро"
-	"Мазендере"
-	"Маи Веду"
-	"Мусикавану"
-	"Муторва"
-}
-
-
+		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+	}
 	manowar = {
-	"Шака Зулу"
-	"Ква Зулу"
-	"Ассегай"
-	"Дингане"
-	"Дзива"
-	"Мвари"
-	"Дзивагуру"
-	"Мулунгу"
-	"Мбонга"
-	"Свикиро"
-	"Мазендере"
-	"Маи Веду"
-	"Мусикавану"
-	"Муторва"
-}
-
-
+		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+	}
 	cruiser = {
-	"Шака Зулу"
-	"Ква Зулу"
-	"Ассегай"
-	"Дингане"
-	"Дзива"
-	"Мвари"
-	"Дзивагуру"
-	"Мулунгу"
-	"Мбонга"
-	"Свикиро"
-	"Мазендере"
-	"Маи Веду"
-	"Мусикавану"
-	"Муторва"
-}
-
-
+		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+	}
 	frigate = {
-	"Шака Зулу"
-	"Ква Зулу"
-	"Ассегай"
-	"Дингане"
-	"Дзива"
-	"Мвари"
-	"Дзивагуру"
-	"Мулунгу"
-	"Мбонга"
-	"Свикиро"
-	"Мазендере"
-	"Маи Веду"
-	"Мусикавану"
-	"Муторва"
-}
-
-
+		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+	}
 	monitor = {
-	"Шака Зулу"
-	"Ква Зулу"
-	"Ассегай"
-	"Дингане"
-	"Дзива"
-	"Мвари"
-	"Дзивагуру"
-	"Мулунгу"
-	"Мбонга"
-	"Свикиро"
-	"Мазендере"
-	"Маи Веду"
-	"Мусикавану"
-	"Муторва"
-}
+		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Шака Зулу"
-	"Ква Зулу"
-	"Ассегай"
-	"Дингане"
-	"Дзива"
-	"Мвари"
-	"Дзивагуру"
-	"Мулунгу"
-	"Мбонга"
-	"Свикиро"
-	"Мазендере"
-	"Маи Веду"
-	"Мусикавану"
-	"Муторва"
-}
-
-
+		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+	}
 }

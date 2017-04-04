@@ -115,124 +115,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Афганистан"
-	"Шер Али Хан"
-	"Якуб Хан"
-	"Абдурахман"
-	"Паштун"
-	"Файзабад"
-	"Кабул"
-	"Газни"
-	"Герат"
-	"Джалалабад"
-	"Кандагар"
-	"Маймене"
-	"Мазар-и-Шариф"
-}
-
-
+		Afghanistan "Sher Ali Khan" "Yakub Khan" Abdurrahman Pashtun Faizabad Kabul Ghazni Herat Jalalabad Kandahar Maymeneh Mazar-i-Sharif
+	}
 	ironclad = {
-	"Афганистан"
-	"Шер Али Хан"
-	"Якуб Хан"
-	"Абдурахман"
-	"Паштун"
-	"Файзабад"
-	"Кабул"
-	"Газни"
-	"Герат"
-	"Джалалабад"
-	"Кандагар"
-	"Маймене"
-	"Мазар-и-Шариф"
-}
-
-
+		Afghanistan "Sher Ali Khan" "Yakub Khan" Abdurrahman Pashtun Faizabad Kabul Ghazni Herat Jalalabad Kandahar Maymeneh Mazar-i-Sharif
+	}
 	manowar = {
-	"Афганистан"
-	"Шер Али Хан"
-	"Якуб Хан"
-	"Абдурахман"
-	"Паштун"
-	"Файзабад"
-	"Кабул"
-	"Газни"
-	"Герат"
-	"Джалалабад"
-	"Кандагар"
-	"Маймене"
-	"Мазар-и-Шариф"
-}
-
-
+		Afghanistan "Sher Ali Khan" "Yakub Khan" Abdurrahman Pashtun Faizabad Kabul Ghazni Herat Jalalabad Kandahar Maymeneh Mazar-i-Sharif
+	}
 	cruiser = {
-	"Афганистан"
-	"Шер Али Хан"
-	"Якуб Хан"
-	"Абдурахман"
-	"Паштун"
-	"Файзабад"
-	"Кабул"
-	"Газни"
-	"Герат"
-	"Джалалабад"
-	"Кандагар"
-	"Маймене"
-	"Мазар-и-Шариф"
-}
-
-
+		Afghanistan "Sher Ali Khan" "Yakub Khan" Abdurrahman Pashtun Faizabad Kabul Ghazni Herat Jalalabad Kandahar Maymeneh Mazar-i-Sharif
+	}
 	frigate = {
-	"Афганистан"
-	"Шер Али Хан"
-	"Якуб Хан"
-	"Абдурахман"
-	"Паштун"
-	"Файзабад"
-	"Кабул"
-	"Газни"
-	"Герат"
-	"Джалалабад"
-	"Кандагар"
-	"Маймене"
-	"Мазар-и-Шариф"
-}
-
-
+		Afghanistan "Sher Ali Khan" "Yakub Khan" Abdurrahman Pashtun Faizabad Kabul Ghazni Herat Jalalabad Kandahar Maymeneh Mazar-i-Sharif
+	}
 	monitor = {
-	"Афганистан"
-	"Шер Али Хан"
-	"Якуб Хан"
-	"Абдурахман"
-	"Паштун"
-	"Файзабад"
-	"Кабул"
-	"Газни"
-	"Герат"
-	"Джалалабад"
-	"Кандагар"
-	"Маймене"
-	"Мазар-и-Шариф"
-}
+		Afghanistan "Sher Ali Khan" "Yakub Khan" Abdurrahman Pashtun Faizabad Kabul Ghazni Herat Jalalabad Kandahar Maymeneh Mazar-i-Sharif
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Афганистан"
-	"Шер Али Хан"
-	"Якуб Хан"
-	"Абдурахман"
-	"Паштун"
-	"Файзабад"
-	"Кабул"
-	"Газни"
-	"Герат"
-	"Джалалабад"
-	"Кандагар"
-	"Маймене"
-	"Мазар-и-Шариф"
-}
-
-
+		Afghanistan "Sher Ali Khan" "Yakub Khan" Abdurrahman Pashtun Faizabad Kabul Ghazni Herat Jalalabad Kandahar Maymeneh Mazar-i-Sharif
+	}
 }

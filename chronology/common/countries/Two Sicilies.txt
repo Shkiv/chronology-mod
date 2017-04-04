@@ -129,125 +129,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Альфонсо I"
-	"Дука ди Калабрия"
-	"Дука ди Кастро"
-	"Дука ди Ното"
-	"Дуэ Сичилие"
-	"Фердинандо III"
-	"Реале"
-	"Реджина"
-	"Реньо ди Наполи"
-	"Реньо ди Сичилия"
-}
-
-
+		"Alfonso I" "Duca di Calabria" "Duca di Castro" "Duca di Noto" "Due Sicilie" "Ferdinando III" Reale Regina "Regno di Napoli" "Regno di Sicilia"
+	}
 	ironclad = {
-	"Архимед"
-	"Конте делль'Акуила"
-	"Конте ди Бари"
-	"Конте ди Джирдженти"
-	"Конте ди Лечче"
-	"Конте ди Трани"
-	"Конте ди Трапани"
-	"Дука делла Пулье"
-	"Фердинандо I"
-	"Принчипе ди Капуа"
-}
-
-
+		Archimede "Conte dell'Aquila" "Conte di Bari" "Conte di Girgenti" "Conte di Lecce" "Conte di Trani" "Conte di Trapani" "Duca delle Puglie" "Ferdinando I" "Principe di Capua"
+	}
 	manowar = {
-	"Амалия"
-	"Кристина"
-	"Интрэпидо"
-	"Изабелла"
-	"Минерва"
-	"Монарка"
-	"Партенопе"
-	"Реджина"
-	"Сан-Дженнаро"
-	"Везувио"
-}
-
-
+		Amalia Cristina Intrepido Isabella Minerva Monarca Partenope Regina "San Gennaro" Vesuvio
+	}
 	cruiser = {
-	"Абруццо"
-	"Бари"
-	"Базиликата"
-	"Калабрия"
-	"Капитаната"
-	"Франческо II"
-	"Молизе"
-	"Отранто"
-	"Принчипато"
-}
-
-
+		Abruzzo Bari Basilicata Calabria Capitanata "Franceso II" Molise Otranto Principato
+	}
 	frigate = {
-	"Борбоне"
-	"Эрколе"
-	"Этторе Фиерамоска"
-	"Фарнезе"
-	"Фердинандо II"
-	"Фульминанте"
-	"Монарка"
-	"Наполи"
-	"Роберто"
-	"Урания"
-}
-
-
+		Borbone Ercole "Ettore Fieramosca" Farnese "Ferdinando II" Fulminante Monarca Napoli Roberto Urania
+	}
 	monitor = {
-	"Альтавилла"
-	"Анджо"
-	"Арагона"
-	"Аустрия"
-	"Фредерико II"
-	"Гуисгардо"
-	"Пьетро I"
-	"Руджеро"
-	"Свевия"
-	"Танкреди"
-}
-
-
+		Altavilla Angiт Aragona Austria "Federico II" Guiscardo "Pietro I" Ruggiero Svevia Tancredi
+	}
 	clipper_transport = {
-	"Аврора"
-	"Этна"
-	"Фама"
-	"Флора"
-	"Фортуна"
-	"Галатея"
-	"Сан-Антонио"
-	"Сан-Карло"
-	"Сан-Фердинандо"
-	"Сан-Филиппо"
-	"Сан-Габриэле"
-	"Сан-Джованни"
-	"Сан-Луиджи"
-	"Сан-Луиджи Гонцага"
-	"Сан-Паскуале"
-	"Саннита"
-	"Санта-Элизабетта"
-	"Спартивьеро"
-	"Стабия"
-	"Вулкано"
-}
-
-
-	
+		Aurora Etna Fama Flora Fortuna Galatea "San Antonio" "San Carlo" "San Ferdinando" "San Filippo"
+		"San Gabriele" "San Giovanni" "San Luigi" "San Luigi Gonzaga" "San Pasquale" Sannita "Santa Elisabetta" Spartiviero Stabia Vulcano
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Аретуза"
-	"Черер"
-	"Корона"
-	"Леона"
-	"Минерва"
-	"Палладе"
-	"Санта-Лючия"
-	"Сибилла"
-	"Сирена"
-	"Венере"
-}
-
-
+		Aretusa Cerere Corona Leona Minerva Pallade "Santa Lucia" Sibilla Sirena Venere
+	}
 }

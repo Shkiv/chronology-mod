@@ -185,103 +185,34 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Гессен"
-	"Гроссхерцог Людвиг"
-	"Майнц"
-	"Дармштадт"
-	"Гиссен"
-	"Ландграф"
-	"Вормс"
-	"фон Гагерн"
-	"Филипп де Гроссмютиг"
-	"Фридерикус"
-}
+		Hessen "GroЯherzog Ludwig" Mainz Darmstadt GieЯen Landgraf Worms "Von Gagern" "Philipp der GroЯmьtige" Fridericus
 
-
+	}
 	ironclad = {
-	"Гессен"
-	"Гроссхерцог Людвиг"
-	"Майнц"
-	"Дармштадт"
-	"Гиссен"
-	"Ландграф"
-	"Вормс"
-	"фон Гагерн"
-	"Филипп де Гроссмютиг"
-	"Фридерикус"
-}
+		Hessen "GroЯherzog Ludwig" Mainz Darmstadt GieЯen Landgraf Worms "Von Gagern" "Philipp der GroЯmьtige" Fridericus
 
-
+	}
 	manowar = {
-	"Гессен"
-	"Гроссхерцог Людвиг"
-	"Майнц"
-	"Дармштадт"
-	"Гиссен"
-	"Ландграф"
-	"Вормс"
-	"фон Гагерн"
-	"Филипп де Гроссмютиг"
-	"Фридерикус"
-}
-
-
+		Hessen "GroЯherzog Ludwig" Mainz Darmstadt GieЯen Landgraf Worms "Von Gagern" "Philipp der GroЯmьtige" Fridericus
+	}
 	cruiser = {
-	"Гессен"
-	"Гроссхерцог Людвиг"
-	"Майнц"
-	"Дармштадт"
-	"Гиссен"
-	"Ландграф"
-	"Вормс"
-	"фон Гагерн"
-	"Филипп де Гроссмютиг"
-	"Фридерикус"
-}
+		Hessen "GroЯherzog Ludwig" Mainz Darmstadt GieЯen Landgraf Worms "Von Gagern" "Philipp der GroЯmьtige" Fridericus
 
-
+	}
 	frigate = {
-	"Гессен"
-	"Гроссхерцог Людвиг"
-	"Майнц"
-	"Дармштадт"
-	"Гиссен"
-	"Ландграф"
-	"Вормс"
-	"фон Гагерн"
-	"Филипп де Гроссмютиг"
-	"Фридерикус"
-}
-
-
+		Hessen "GroЯherzog Ludwig" Mainz Darmstadt GieЯen Landgraf Worms "Von Gagern" "Philipp der GroЯmьtige" Fridericus
+	}
 	monitor = {
-	"Гессен"
-	"Гроссхерцог Людвиг"
-	"Майнц"
-	"Дармштадт"
-	"Гиссен"
-	"Ландграф"
-	"Вормс"
-	"фон Гагерн"
-	"Филипп де Гроссмютиг"
-	"Фридерикус"
-}
+		Hessen "GroЯherzog Ludwig" Mainz Darmstadt GieЯen Landgraf Worms "Von Gagern" "Philipp der GroЯmьtige" Fridericus
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Гессен"
-	"Гроссхерцог Людвиг"
-	"Майнц"
-	"Дармштадт"
-	"Гиссен"
-	"Ландграф"
-	"Вормс"
-	"фон Гагерн"
-	"Филипп де Гроссмютиг"
-	"Фридерикус"
-}
+		Hessen "GroЯherzog Ludwig" Mainz Darmstadt GieЯen Landgraf Worms "Von Gagern" "Philipp der GroЯmьtige" Fridericus
 
-
+	}
 }

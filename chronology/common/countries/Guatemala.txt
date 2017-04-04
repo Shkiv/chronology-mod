@@ -101,149 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Конститусьон"
-	"Гватемала"
-	"Хосе Каррера Турсиос"
-	"Хосе Мария Рейна"
-	"Хусто Барриос"
-	"Мануэль Эстрада"
-	"Марьяно Ривера"
-	"Педро Полина"
-	"Президенте"
-	"Висенте Серна"
-}
-
-
+		Constituciуn Guatemala "Josй Carrera Turcios" "Josй Marнa Reina" "Justo Barrios" "Manuel Estrada" "Mariano Rivera" "Pedro Molina" Presidente "Vicente Cerna"
+	}
 	ironclad = {
-	"Белисе"
-	"Дульсе"
-	"Ондо"
-	"Лемпа"
-	"Лос Эсклавос"
-	"Мария Линда"
-	"Мотагуа"
-	"Мауалете"
-	"Пас"
-	"Сучиате"
-}
-
-
+		Belice Dulce Hondo Lempa "Los Esclavos" "Marнa Linda" Motagua Nahualete Paz Suchiate
+	}
 	manowar = {
-	"Аудас"
-	"Конкиста"
-	"Индепенденсия"
-	"Сальвадор"
-	"Сан-Хосе"
-	"Сан-Хусто"
-	"Сан-Педро"
-	"Сан-Висенте"
-	"Санта-Мария"
-	"Венседора"
-}
-
-
+		Audaz Conquista Independencia Salvador "San Josй" "San Justo" "San Pedro" "San Vicente" "Santa Marнa" Vencedora
+	}
 	cruiser = {
-	"Барригонес"
-	"Бартоломе де лас Касас"
-	"Какчикель"
-	"Итса"
-	"Киче"
-	"Нуэва Севилья"
-	"Ольмека"
-	"Педро де Альварадо"
-	"Кекчи"
-	"сапотитлан"
-}
-
-
+		Barrigones "Bartolomй de las Casas" Cakchiquel Itzб Kiche "Nueva Sevilla" Olmeca "Pedro de Alvarado" Qeqchi Zapotitlбn
+	}
 	frigate = {
-	"Сьюдад де Гватемала"
-	"Флорес"
-	"Гуастатоя"
-	"Уэуэтенанго"
-	"Халапа"
-	"Кетцальтенанго"
-	"Реталулеу"
-	"Салама"
-	"Санта-Крус"
-	"Тотоникапан"
-}
-
-
+		"Ciudad de Guatemala" Flores Guastatoya Huehuetenango Jalapa Quetzaltenango Retalhuleu Salamб "Santa Cruz" Totonicapбn
+	}
 	monitor = {
-	"Акатенаго"
-	"Агуа"
-	"Альмонолонга"
-	"Атитлан"
-	"Фуэго"
-	"Санта-Мария"
-	"Санто-Томас"
-	"Такана"
-	"Тахумулько"
-	"Толиман"
-}
-
-
+		Acatenago Agua Almolonga Atitlбn Fuego "Santa Marнa" "Santo Tomбs" Tacanб Tajumulco Tolimбn
+	}
 	clipper_transport = {
-	"Адорасьон"
-	"Антлантика"
-	"Эмпрендедора"
-	"Грасия"
-	"Уракан"
-	"Майя"
-	"Мовиль"
-	"Нептуно"
-	"Ноктурна"
-	"Осеаника"
-	"Пасифика"
-	"Ромпеолас"
-	"Сан-Косме"
-	"Сан-Хорхе"
-	"Сан-Пабло"
-	"Сирена"
-	"Тикаль"
-	"Тормента"
-	"Тритон"
-	"Вентиска"
-}
-
-
+		Adoraciуn Atlбntica Emprendedora Gracia Huracбn Maya Mуvil Neptuno Nocturna Oceбnica
+		Pacнfica Rompeolas "San Cosme" "San Jorge" "San Pablo" Sirena Tikal Tormenta Tritуn Ventisca
+	}
 	steam_transport = {
-	"Адорасьон"
-	"Антлантика"
-	"Эмпрендедора"
-	"Грасия"
-	"Уракан"
-	"Майя"
-	"Мовиль"
-	"Нептуно"
-	"Ноктурна"
-	"Осеаника"
-	"Пасифика"
-	"Ромпеолас"
-	"Сан-Косме"
-	"Сан-Хорхе"
-	"Сан-Пабло"
-	"Сирена"
-	"Тикаль"
-	"Тормента"
-	"Тритон"
-	"Вентиска"
-}
-
-
+		Adoraciуn Atlбntica Emprendedora Gracia Huracбn Maya Mуvil Neptuno Nocturna Oceбnica
+		Pacнfica Rompeolas "San Cosme" "San Jorge" "San Pablo" Sirena Tikal Tormenta Tritуn Ventisca
+	}
 	commerce_raider = {
-	"Чинго"
-	"Чикимула"
-	"Деструктор"
-	"Флорес"
-	"Гольпеадор"
-	"Гуатемальтеко"
-	"Икстепеке"
-	"Лансадор"
-	"Сан-Патрисио"
-	"Сучитан"
-}
-
-
+		Chingo Chiquimula Destructor Flores Golpeador Guatemalteco Ixtepeque Lanzador "San Patricio" Suchitбn
+	}
 }

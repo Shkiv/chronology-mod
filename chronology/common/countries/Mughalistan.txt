@@ -101,194 +101,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Алия"
-	"Аруса"
-	"Чамбал"
-	"Фатима"
-	"Джалсена"
-	"Ганг"
-	"Кала Джахази"
-	"Хан"
-	"Лал Джахази"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нила Джахази"
-	"Нилуфа"
-	"Нур"
-	"Сагар"
-	"Салима"
-	"Шамина"
-	"Спити"
-	"Сухалия"
-	"Ямуна"
-	"Ясмин"
-	"Захира"
-}
+		Alia Arusa Chambal Fatimah Jalsena Ganges "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi"
+		Niloufa Noor Sagar Salima Shameena Spiti Suhalia Yamuna Yasmine Zahira
 
-
+	}
 	ironclad = {
-	"Алия"
-	"Аруса"
-	"Чамбал"
-	"Фатима"
-	"Джалсена"
-	"Ганг"
-	"Кала Джахази"
-	"Хан"
-	"Лал Джахази"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нила Джахази"
-	"Нилуфа"
-	"Нур"
-	"Сагар"
-	"Салима"
-	"Шамина"
-	"Спити"
-	"Сухалия"
-	"Ямуна"
-	"Ясмин"
-	"Захира"
-}
-
-
+		Alia Arusa Chambal Fatimah Jalsena Ganges "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi"
+		Niloufa Noor Sagar Salima Shameena Spiti Suhalia Yamuna Yasmine Zahira
+	}
 	manowar = {
-	"Алия"
-	"Аруса"
-	"Чамбал"
-	"Фатима"
-	"Джалсена"
-	"Ганг"
-	"Кала Джахази"
-	"Хан"
-	"Лал Джахази"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нила Джахази"
-	"Нилуфа"
-	"Нур"
-	"Сагар"
-	"Салима"
-	"Шамина"
-	"Спити"
-	"Сухалия"
-	"Ямуна"
-	"Ясмин"
-	"Захира"
-}
-
-
+		Alia Arusa Chambal Fatimah Jalsena Ganges "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi"
+		Niloufa Noor Sagar Salima Shameena Spiti Suhalia Yamuna Yasmine Zahira
+	}
 	cruiser = {
-	"Алия"
-	"Аруса"
-	"Чамбал"
-	"Фатима"
-	"Джалсена"
-	"Ганг"
-	"Кала Джахази"
-	"Хан"
-	"Лал Джахази"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нила Джахази"
-	"Нилуфа"
-	"Нур"
-	"Сагар"
-	"Салима"
-	"Шамина"
-	"Спити"
-	"Сухалия"
-	"Ямуна"
-	"Ясмин"
-	"Захира"
-}
-
-
+		Alia Arusa Chambal Fatimah Jalsena Ganges "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi"
+		Niloufa Noor Sagar Salima Shameena Spiti Suhalia Yamuna Yasmine Zahira
+	}
 	frigate = {
-	"Алия"
-	"Аруса"
-	"Чамбал"
-	"Фатима"
-	"Джалсена"
-	"Ганг"
-	"Кала Джахази"
-	"Хан"
-	"Лал Джахази"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нила Джахази"
-	"Нилуфа"
-	"Нур"
-	"Сагар"
-	"Салима"
-	"Шамина"
-	"Спити"
-	"Сухалия"
-	"Ямуна"
-	"Ясмин"
-	"Захира"
-}
-
-
+		Alia Arusa Chambal Fatimah Jalsena Ganges "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi"
+		Niloufa Noor Sagar Salima Shameena Spiti Suhalia Yamuna Yasmine Zahira
+	}
 	monitor = {
-	"Алия"
-	"Аруса"
-	"Чамбал"
-	"Фатима"
-	"Джалсена"
-	"Ганг"
-	"Кала Джахази"
-	"Хан"
-	"Лал Джахази"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нила Джахази"
-	"Нилуфа"
-	"Нур"
-	"Сагар"
-	"Салима"
-	"Шамина"
-	"Спити"
-	"Сухалия"
-	"Ямуна"
-	"Ясмин"
-	"Захира"
-}
+		Alia Arusa Chambal Fatimah Jalsena Ganges "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi"
+		Niloufa Noor Sagar Salima Shameena Spiti Suhalia Yamuna Yasmine Zahira
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Алия"
-	"Аруса"
-	"Чамбал"
-	"Фатима"
-	"Джалсена"
-	"Ганг"
-	"Кала Джахази"
-	"Хан"
-	"Лал Джахази"
-	"Наусена"
-	"Навка Юдх"
-	"Никназ"
-	"Нила Джахази"
-	"Нилуфа"
-	"Нур"
-	"Сагар"
-	"Салима"
-	"Шамина"
-	"Спити"
-	"Сухалия"
-	"Ямуна"
-	"Ясмин"
-	"Захира"
-}
-
-
+		Alia Arusa Chambal Fatimah Jalsena Ganges "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi"
+		Niloufa Noor Sagar Salima Shameena Spiti Suhalia Yamuna Yasmine Zahira
+	}
 }

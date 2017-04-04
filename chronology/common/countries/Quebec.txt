@@ -129,138 +129,38 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Квебек"
-	"Монреаль"
-	"Акадия"
-	"Канада"
-	"Картье"
-	"Монкальм"
-	"Де ла Саль"
-	"Детройт"
-	"Водрой"
-	"Фронтенак"
-	"Шевалье"
-	"Сен-Лорен"
-	"Труа-Ривьер"
-	"Шамплен"
-	"Ришелье"
-}
+		Quйbec Montrйal Acadie Canada Cartier Montcalm "De la Salle" Dйtroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+		"Trois-Riviиres" Champlain Richelieu
 
-
+	}
 	ironclad = {
-	"Квебек"
-	"Монреаль"
-	"Акадия"
-	"Канада"
-	"Картье"
-	"Монкальм"
-	"Де ла Саль"
-	"Детройт"
-	"Водрой"
-	"Фронтенак"
-	"Шевалье"
-	"Сен-Лорен"
-	"Труа-Ривьер"
-	"Шамплен"
-	"Ришелье"
-}
-
-
+		Quйbec Montrйal Acadie Canada Cartier Montcalm "De la Salle" Dйtroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+		"Trois-Riviиres" Champlain Richelieu
+	}
 	manowar = {
-	"Квебек"
-	"Монреаль"
-	"Акадия"
-	"Канада"
-	"Картье"
-	"Монкальм"
-	"Де ла Саль"
-	"Детройт"
-	"Водрой"
-	"Фронтенак"
-	"Шевалье"
-	"Сен-Лорен"
-	"Труа-Ривьер"
-	"Шамплен"
-	"Ришелье"
-}
-
-
+		Quйbec Montrйal Acadie Canada Cartier Montcalm "De la Salle" Dйtroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+		"Trois-Riviиres" Champlain Richelieu
+	}
 	cruiser = {
-	"Квебек"
-	"Монреаль"
-	"Акадия"
-	"Канада"
-	"Картье"
-	"Монкальм"
-	"Де ла Саль"
-	"Детройт"
-	"Водрой"
-	"Фронтенак"
-	"Шевалье"
-	"Сен-Лорен"
-	"Труа-Ривьер"
-	"Шамплен"
-	"Ришелье"
-}
-
-
+		Quйbec Montrйal Acadie Canada Cartier Montcalm "De la Salle" Dйtroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+		"Trois-Riviиres" Champlain Richelieu
+	}
 	frigate = {
-	"Квебек"
-	"Монреаль"
-	"Акадия"
-	"Канада"
-	"Картье"
-	"Монкальм"
-	"Де ла Саль"
-	"Детройт"
-	"Водрой"
-	"Фронтенак"
-	"Шевалье"
-	"Сен-Лорен"
-	"Труа-Ривьер"
-	"Шамплен"
-	"Ришелье"
-}
-
-
+		Quйbec Montrйal Acadie Canada Cartier Montcalm "De la Salle" Dйtroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+		"Trois-Riviиres" Champlain Richelieu
+	}
 	monitor = {
-	"Квебек"
-	"Монреаль"
-	"Акадия"
-	"Канада"
-	"Картье"
-	"Монкальм"
-	"Де ла Саль"
-	"Детройт"
-	"Водрой"
-	"Фронтенак"
-	"Шевалье"
-	"Сен-Лорен"
-	"Труа-Ривьер"
-	"Шамплен"
-	"Ришелье"
-}
+		Quйbec Montrйal Acadie Canada Cartier Montcalm "De la Salle" Dйtroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+		"Trois-Riviиres" Champlain Richelieu
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Квебек"
-	"Монреаль"
-	"Акадия"
-	"Канада"
-	"Картье"
-	"Монкальм"
-	"Де ла Саль"
-	"Детройт"
-	"Водрой"
-	"Фронтенак"
-	"Шевалье"
-	"Сен-Лорен"
-	"Труа-Ривьер"
-	"Шамплен"
-	"Ришелье"
-}
-
-
+		Quйbec Montrйal Acadie Canada Cartier Montcalm "De la Salle" Dйtroit Vaudreuil Frontenac Chevalier "Saint-Laurent"
+		"Trois-Riviиres" Champlain Richelieu
+	}
 }

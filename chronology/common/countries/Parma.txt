@@ -129,208 +129,48 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Алессандро Фарнезе"
-	"Мария-Луиза"
-	"д'Асбурго"
-	"Парма"
-	"Пьяченца"
-	"Борбоне"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Alessandro Farnese" "Maria Luisa" "d'Asburgo" Parma Piacenza Borbone Aquila Aurora Azzardoso Beroldo Condottiero Carloforte
 
+		Colombo Daino Eridano Euridice Falco Favorita Nereide  Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	ironclad = {
-	"Алессандро Фарнезе"
-	"Мария-Луиза"
-	"д'Асбурго"
-	"Парма"
-	"Пьяченца"
-	"Борбоне"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Alessandro Farnese" "Maria Luisa" "d'Asburgo" Parma Piacenza Borbone Aquila Aurora Azzardoso Beroldo Condottiero Carloforte
 
+		Colombo Daino Eridano Euridice Falco Favorita Nereide  Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 	manowar = {
-	"Алессандро Фарнезе"
-	"Мария-Луиза"
-	"д'Асбурго"
-	"Парма"
-	"Пьяченца"
-	"Борбоне"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Alessandro Farnese" "Maria Luisa" "d'Asburgo" Parma Piacenza Borbone Aquila Aurora Azzardoso Beroldo Condottiero Carloforte
 
-
+		Colombo Daino Eridano Euridice Falco Favorita Nereide  Patrona Serpente Tritone Veloce Vigilante Zeffiro
+	}
 	cruiser = {
-	"Алессандро Фарнезе"
-	"Мария-Луиза"
-	"д'Асбурго"
-	"Парма"
-	"Пьяченца"
-	"Борбоне"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Alessandro Farnese" "Maria Luisa" "d'Asburgo" Parma Piacenza Borbone Aquila Aurora Azzardoso Beroldo Condottiero Carloforte
 
-
+		Colombo Daino Eridano Euridice Falco Favorita Nereide  Patrona Serpente Tritone Veloce Vigilante Zeffiro
+	}
 	frigate = {
-	"Алессандро Фарнезе"
-	"Мария-Луиза"
-	"д'Асбурго"
-	"Парма"
-	"Пьяченца"
-	"Борбоне"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Alessandro Farnese" "Maria Luisa" "d'Asburgo" Parma Piacenza Borbone Aquila Aurora Azzardoso Beroldo Condottiero Carloforte
 
-
+		Colombo Daino Eridano Euridice Falco Favorita Nereide  Patrona Serpente Tritone Veloce Vigilante Zeffiro
+	}
 	monitor = {
-	"Алессандро Фарнезе"
-	"Мария-Луиза"
-	"д'Асбурго"
-	"Парма"
-	"Пьяченца"
-	"Борбоне"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Alessandro Farnese" "Maria Luisa" "d'Asburgo" Parma Piacenza Borbone Aquila Aurora Azzardoso Beroldo Condottiero Carloforte
 
+		Colombo Daino Eridano Euridice Falco Favorita Nereide  Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
-	
-	
+	}
+	clipper_transport = {
+
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Алессандро Фарнезе"
-	"Мария-Луиза"
-	"д'Асбурго"
-	"Парма"
-	"Пьяченца"
-	"Борбоне"
-	"Аквила"
-	"Аврора"
-	"Адзардозо"
-	"Берольдо"
-	"Кондоттьеро"
-	"Карлофорте"
-	"Коломбо"
-	"Даино"
-	"Эридано"
-	"Эвридика"
-	"Фалько"
-	"Фаворита"
-	"Нереида"
-	"Патрона"
-	"Серпенте"
-	"Тритоне"
-	"Велоче"
-	"Вихиланте"
-	"Дзеффиро"
-}
+		"Alessandro Farnese" "Maria Luisa" "d'Asburgo" Parma Piacenza Borbone Aquila Aurora Azzardoso Beroldo Condottiero Carloforte
 
+		Colombo Daino Eridano Euridice Falco Favorita Nereide  Patrona Serpente Tritone Veloce Vigilante Zeffiro
 
+	}
 }

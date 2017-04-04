@@ -101,110 +101,35 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Гюла"
-	"Роланд Борца"
-	"Ладислав Кан"
-	"Анталь Будай Надь"
-	"Янош Хуньяди"
-	"Дьердь Ракоци"
-	"Васкапу"
-	"Варна"
-	"Меркуриус"
-	"Лойштахиус"
-	"Легфорус"
-}
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rбkуczi" Vaskapu Varna Mercurius Leustachius Legforus
 
-
+	}
 	ironclad = {
-	"Гюла"
-	"Роланд Борца"
-	"Ладислав Кан"
-	"Анталь Будай Надь"
-	"Янош Хуньяди"
-	"Дьердь Ракоци"
-	"Васкапу"
-	"Варна"
-	"Меркуриус"
-	"Лойштахиус"
-	"Легфорус"
-}
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rбkуczi" Vaskapu Varna Mercurius Leustachius Legforus
 
-
+	}
 	manowar = {
-	"Гюла"
-	"Роланд Борца"
-	"Ладислав Кан"
-	"Анталь Будай Надь"
-	"Янош Хуньяди"
-	"Дьердь Ракоци"
-	"Васкапу"
-	"Варна"
-	"Меркуриус"
-	"Лойштахиус"
-	"Легфорус"
-}
-
-
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rбkуczi" Vaskapu Varna Mercurius Leustachius Legforus
+	}
 	cruiser = {
-	"Гюла"
-	"Роланд Борца"
-	"Ладислав Кан"
-	"Анталь Будай Надь"
-	"Янош Хуньяди"
-	"Дьердь Ракоци"
-	"Васкапу"
-	"Варна"
-	"Меркуриус"
-	"Лойштахиус"
-	"Легфорус"
-}
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rбkуczi" Vaskapu Varna Mercurius Leustachius Legforus
 
-
+	}
 	frigate = {
-	"Гюла"
-	"Роланд Борца"
-	"Ладислав Кан"
-	"Анталь Будай Надь"
-	"Янош Хуньяди"
-	"Дьердь Ракоци"
-	"Васкапу"
-	"Варна"
-	"Меркуриус"
-	"Лойштахиус"
-	"Легфорус"
-}
-
-
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rбkуczi" Vaskapu Varna Mercurius Leustachius Legforus
+	}
 	monitor = {
-	"Гюла"
-	"Роланд Борца"
-	"Ладислав Кан"
-	"Анталь Будай Надь"
-	"Янош Хуньяди"
-	"Дьердь Ракоци"
-	"Васкапу"
-	"Варна"
-	"Меркуриус"
-	"Лойштахиус"
-	"Легфорус"
-}
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rбkуczi" Vaskapu Varna Mercurius Leustachius Legforus
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Гюла"
-	"Роланд Борца"
-	"Ладислав Кан"
-	"Анталь Будай Надь"
-	"Янош Хуньяди"
-	"Дьердь Ракоци"
-	"Васкапу"
-	"Варна"
-	"Меркуриус"
-	"Лойштахиус"
-	"Легфорус"
-}
+		Gyula "Roland Borsza" "Ladislas Kan" "Antal Budai Nagy" "Hunyadi Janos" "Georg Rбkуczi" Vaskapu Varna Mercurius Leustachius Legforus
 
-
+	}
 }

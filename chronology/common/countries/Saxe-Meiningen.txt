@@ -185,103 +185,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Саксония"
-	"Майнинген"
-	"Хильдбургхаузен"
-	"Херцог Георг"
-	"Херцог Бернхард"
-	"Принцессин Шарлотт"
-	"Заале"
-	"Верра"
-	"Зоннеберг"
-	"Заафельд"
-}
-
-
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld
+	}
 	ironclad = {
-	"Саксония"
-	"Майнинген"
-	"Хильдбургхаузен"
-	"Херцог Георг"
-	"Херцог Бернхард"
-	"Принцессин Шарлотт"
-	"Заале"
-	"Верра"
-	"Зоннеберг"
-	"Заафельд"
-}
-
-
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld
+	}
 	manowar = {
-	"Саксония"
-	"Майнинген"
-	"Хильдбургхаузен"
-	"Херцог Георг"
-	"Херцог Бернхард"
-	"Принцессин Шарлотт"
-	"Заале"
-	"Верра"
-	"Зоннеберг"
-	"Заафельд"
-}
-
-
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld
+	}
 	cruiser = {
-	"Саксония"
-	"Майнинген"
-	"Хильдбургхаузен"
-	"Херцог Георг"
-	"Херцог Бернхард"
-	"Принцессин Шарлотт"
-	"Заале"
-	"Верра"
-	"Зоннеберг"
-	"Заафельд"
-}
-
-
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld
+	}
 	frigate = {
-	"Саксония"
-	"Майнинген"
-	"Хильдбургхаузен"
-	"Херцог Георг"
-	"Херцог Бернхард"
-	"Принцессин Шарлотт"
-	"Заале"
-	"Верра"
-	"Зоннеберг"
-	"Заафельд"
-}
-
-
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld
+	}
 	monitor = {
-	"Саксония"
-	"Майнинген"
-	"Хильдбургхаузен"
-	"Херцог Георг"
-	"Херцог Бернхард"
-	"Принцессин Шарлотт"
-	"Заале"
-	"Верра"
-	"Зоннеберг"
-	"Заафельд"
-}
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Саксония"
-	"Майнинген"
-	"Хильдбургхаузен"
-	"Херцог Георг"
-	"Херцог Бернхард"
-	"Принцессин Шарлотт"
-	"Заале"
-	"Верра"
-	"Зоннеберг"
-	"Заафельд"
-}
-
-
+		Sachsen Meiningen Hildburghausen "Herzorg Georg" "Herzog Bernhard" "Prinzessin Charlotte" Saale Werra Sonneberg Saalfeld
+	}
 }

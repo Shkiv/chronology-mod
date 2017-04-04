@@ -129,186 +129,40 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Драгут Рейс"
-	"Хамидие"
-	"Решадие"
-	"Барбарос Хайреддин"
-	"Месудие"
-	"Абдулкадер"
-	"Абдулазиз"
-	"Сулейман Кануни"
-	"Мехмед Фатих"
-	"Осман I"
-	"Баязид I"
-	"Ахмед I"
-	"Селим"
-	"Абдул-Меджид"
-	"Селим III"
-	"Махмуд I"
-	"Махмуд II"
-	"Мурат Худавенгидар"
-	"Топкапи"
-	"Девлет-и-Алие"
-	"Чальдиран"
-}
-
-
+		"Turgut Reis" Hamidiye Reshadiye "Barbaros Hayreddin" Mesudiye
+		Abdьlkader Abdьlaziz "Suleyman Kanuni" "Mehmet Fatih" "I. Osman" "I. Bayezid" "I. Ahmed" "Selim Yavuz"
+		Abdьlmecid "III. Selim" "I Mahmud" "II. Mahmud" "Murat Hudavendigar" Topkapi "Devlet-i Aliye" Зaldiran
+	}
 	ironclad = {
-	"Худавендигар"
-	"Бига"
-	"Румели"
-	"Ардган"
-	"Ментеше"
-	"Анадолу"
-	"Кбирис"
-	"Гермиян"
-	"Халеп"
-	"Багдад"
-	"Сам"
-	"Сехризор"
-	"Руха"
-	"Гирит"
-	"Янья"
-	"Эфлак"
-	"Озю"
-	"Босна"
-	"Ичел"
-	"Родос"
-	"Силистре"
-	"Мисир"
-	"Траблусгарп"
-}
-
-
+		Hudavendigar Biga Rumeli Ardahan Mentese Anadolu Kibris Germiyan Halep Bagdat Sam Sehrizor Ruha Girit
+		Yanya Eflak Цzь Bosna Iзel Rodos Silistre Misir Trablusgarp
+	}
 	manowar = {
-	"Османие"
-	"Махмудие"
-	"Орхание"
-	"Абдулазиз"
-	"Асари Тевфик"
-	"Асари Севкет"
-	"Нижими Севкет"
-	"Авни Иллах"
-	"Иджалиех"
-	"Фетхи Белунд"
-	"Мукаддеме-и-Хайир"
-	"Гайрет-и-Ватание"
-	"Ядигар-и-Миллет"
-	"Муаванет-и-Миллет"
-	"Нумуне-и-Хамиет"
-	"Адатепе"
-	"Коджатепе"
-	"Тиназтепе"
-	"Зафер"
-	"Демирхисар"
-	"Султанхизар"
-}
-
-
+		Osmaniye Mahmudiye Orhaniye Abdьlaziz "Asar-i Tevfik" "Asar-i Sevket" "Nijimi Sevket"
+		"Avni Illah" Idjalieh "Fethi Belund" "Mukaddeme-i Hayir" "Gayret-i Vataniye" "Yadigar-i Millet"
+		"Muavenet-i Millet" "Numune-i Hamiyet" Adatepe Kocatepe Tinaztepe Zafer Demirhisar Sultanhisar
+	}
 	cruiser = {
-	"Явуз Султан Селим"
-	"Адатепе"
-	"Коджатепе"
-	"Мехмед Селим"
-	"Хеибетнума"
-	"Лутф-и-Хумаюн"
-	"Абдул-Гамид"
-	"Меджидие"
-	"Мукаддем-и-Хайир"
-	"Беркефсан"
-	"Басра"
-	"Тайяр"
-	"Самсун"
-	"Муаванет-и-Миллие"
-	"Мидилли"
-	"Константиние"
-	"Анкара"
-	"Эдирне"
-	"Ускюдар"
-	"Измир"
-	"Бурса"
-	"Севрес"
-	"Измит"
-	"Конья"
-}
-
-
+		"Yavuz Sultan Selim" Adatepe Kocatepe "Mehmet Selim" Heibetnuma "Lutf-i Humayun" "Abdul Hamid"
+		Medjidieh "Mukaddem-i Hayir" Berkefsan Basra Tayyar Samsun "Muavanet-i Milliye" Midilli
+		Konstantiniyye Ancyra Edirne Uskьdar Izmir Bursa Sevres Izmit Konya
+	}
 	frigate = {
-	"Тимсах"
-	"Симир-и-Хидсум"
-	"Гилиом"
-	"Насир"
-	"Эждер"
-	"Юнус"
-	"Драч"
-	"Сиврихисар"
-	"Нилюфер"
-	"Рана"
-	"Дорук Рейс"
-	"Хизир Рейс"
-	"Тимур Хисар"
-	"Кос"
-	"Нурибар"
-	"Пеленк-и-Деря"
-	"Сейхан"
-	"Яр Хисар"
-	"Махмуд Севкет Паша"
-	"Малатья"
-	"Кютахья"
-	"Йозгат"
-}
-
-
+		Timsah "Simir-i Hidsum" Gilyom Nasir Ejder Yunus Draз Sivrihisar Nilьfer Rana
+		"Doruk Reis" "Hizir Reis" "Timur Hisar" Kos Nuribar "Pelenk-i Derya" Ceyhan "Yar Hisar"
+		"Mahmud Sevket Pasha" Malatya Kьtahya Yozgat
+	}
 	monitor = {
-	"Херсекли Ахмад"
-	"Гедик Ахмед"
-	"Рум Мехмед"
-	"Камар"
-	"Челеби Лутфи"
-	"Рустем"
-	"Соколлу Мехмед"
-	"Коджа Синан"
-	"Оздемироглу Осман"
-	"Дамат Ибрагим"
-	"Филибели Хафиз"
-	"Кепрюлю Мехмед"
-	"Мерзифонлу Кара Мустафа"
-	"Амказаде Кепрюлю Хусейн"
-	"Ирмисекизаде Мехмед Саид"
-	"Джезаирли Гази Хасан"
-	"Коджа Юсуф"
-}
-
-
-	
-	
+		"Hersekli Ahmad" "Gedik Ahmad" "Rum Mehmed" Ishak "Зelebi Lutfi" Rustem "Sokollu Mehmed" "Koca Sinan"
+		"Ozdemiroglu Osman" "Damat Ibrahim" "Filibeli Hafiz" "Koprulu Mehmed" "Merzifonlu Kara Mustafa" "Amcazade Koprulu Huseyin"
+		"Yirmisekizade Mehmed Said" "Cezayirli Gazi Hasan" "Koca Yusuf"
+	}
+	clipper_transport = {
+	}
+	steam_transport = {
+	}
 	commerce_raider = {
-	"Анкара"
-	"Багдад"
-	"Эрзурум"
-	"Карс"
-	"Селаник"
-	"Монастир"
-	"Ускуп"
-	"Измир"
-	"Кудюс-у-Сериф"
-	"Дамаск"
-	"Сарайбосна"
-	"Эдирне"
-	"Сивас"
-	"Кайсери"
-	"Ван"
-	"Траблусгарп"
-	"Ускудар"
-	"Синоп"
-	"Маниса"
-	"Филибе"
-	"Бендер"
-	"Трабзон"
-	"Мерсин"
-	"Халеп"
-	"Кастамону"
-}
-
-
+		Ankara Bagdat Erzurum Kars Selanik Monastir Uskup Izmir "Kudьs-ь Serif" Dimashq Saraybosna Edirne Sivas Kayseri Van
+		Trablusgarp Uskudar Sinop Manisa Filibe Bender Trabzon Mersin Halep Kastamonu
+	}
 }

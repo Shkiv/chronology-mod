@@ -101,68 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Антон Бернолак"
-	"Людовит Штур"
-	"Михаль Милослав Ходжа"
-	"Ян Холли"
-	"Повстание"
-}
-
-
+		"Anton Bernolбk" "Ludovнt Љtъr" "Michal Miloslav Hodћa" "Jбn Hollэ" Povstanie
+	}
 	ironclad = {
-	"Братислава"
-	"Кошице"
-	"Прешов"
-	"Жилина"
-	"Нитра"
-}
-
-
+		Bratislava Koљice Preљov Ћilina Nitra
+	}
 	manowar = {
-	"Бескидок"
-	"Герлаховский Штит"
-	"Рышы"
-	"Остра"
-	"Зарубы"
-}
-
-
+		Beskydok "Gerlachovskэ љtнt" Rysy Ostrб Zбruby
+	}
 	cruiser = {
-	"Бескидок"
-	"Герлаховский Штит"
-	"Рышы"
-	"Остра"
-	"Зарубы"
-}
-
-
+		Beskydok "Gerlachovskэ љtнt" Rysy Ostrб Zбruby
+	}
 	frigate = {
-	"Грон"
-	"Бодрог"
-	"Дунаец"
-	"Ипель"
-	"Тиса"
-}
-
-
+		Hron Bodrog Dunajec Ipel Tisa
+	}
 	monitor = {
-	"Майстер кошицкего ольтара"
-	"Йозеф Чаучик"
-	"Лайош Чордак"
-	"Кароль Людовит Либай"
-	"Юлиус Якоби"
-}
+		"Majster koљickйho oltбra" "Josef Czauczik" "Lajos Csordбk" "Karol Ludovнt Libay" "Jъlius Jakoby"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Бойницкий змок"
-	"Братиславский град"
-	"Девински град"
-	"Новый замок"
-	"Старый замок"
-}
-
-
+		"Bojnickэ zбmok" "Bratislavsky hrad" "Devнnsky hrad" "Novэ zбmok" "Starэ zбmok"
+	}
 }

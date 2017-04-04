@@ -145,150 +145,35 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Сатсума"
-	"Кавачи"
-	"Фусо"
-	"Ямасиро"
-	"Исе"
-	"Хьюга"
-	"Нагато"
-	"Муцу"
-	"Тоса"
-	"Мусаси"
-	"Синано"
-	"Того"
-	"Эномото"
-	"Саиго"
-	"Идзуин"
-	"Кага"
-	"Кири"
-	"Овари"
-	"Сагами"
-	"Ното"
-	"Ямато"
-}
-
-
+		Satsuma Kawachi Fuso Yamashiro Ise Hyuga Nagato Mutsu Tosa Musashi Shinano Togo Enomoto Saigo Ijuin Kaga Kiri Owari Sagami Noto Yamato
+	}
+	battleship = {
+		Fuji Yashima Shikishima Hatsuse Asaki Mikasa Iki Tango Sagami Suwo Hizen Iwami Mishima Okinoshima Katori Kashima Satsuma Aki Kawachi Settsu
+	}
 	ironclad = {
-	"Котецу"
-	"Тиедагата"
-	"Рюдзо Мару"
-	"Фусо"
-	"Синсоку"
-	"Теибо"
-	"Ходзу"
-	"Адзума"
-	"Кабаяма"
-	"Тее"
-	"Косеи"
-	"Косин"
-	"Тиньен"
-	"Анегава"
-	"Цусима"
-	"Фудзи"
-	"Хэиэн"
-	"Микаса"
-	"Оки"
-}
-
-
+		Kotetsu Chiyodagata "Ryujo Maru" Fuso Shinsoku Teibo Hozu Azuma Kabayama Choyo Kosei Koshin Chin'en Anegawa Tshushima Fuji Heien Mikasa Oki
+	}
 	manowar = {
-	"Сохэй Мару"
-	"Каие Мару"
-	"Унье"
-	"Хоо Мару"
-	"Асахи Мару"
-	"Банрю"
-	"Фудзисан"
-	"Яри"
-	"Ибараки"
-	"Миэ"
-	"Эхиме"
-	"Вакаяма"
-	"Гифу"
-	"Ава"
-	"Тамба"
-}
-
-
+		"Shohei Maru" "Kaiyo Maru" Un'yo "Hoo Maru" "Asahi Maru" Banryu Fujisan Yari Ibaraki Mie Ehime Wakayama Gifu Awa Tamba
+	}
 	cruiser = {
-	"Нанива"
-	"Такачихо"
-	"Мацусима"
-	"Ицукусима"
-	"Хасидате"
-	"Тиеда"
-	"Яэяма"
-	"Ёсино"
-	"Хией"
-	"Харуна"
-	"Кирисима"
-	"Читосэ"
-	"Касаги"
-	"Ниитака"
-	"Юра"
-	"Кину"
-	"Ёсино"
-}
-
-
+		Naniwa Takachiho Matsushima Itsukushima Hashidate Chiyoda Yaeyama Yoshino Hiei Haruna Kirishima Chitose Kasagi Niitaka Yura Kinu Yoshino
+	}
 	frigate = {
-	"Такао"
-	"Ависо"
-	"Фудзисан"
-	"Момо"
-	"Кири"
-	"Сакура"
-	"Кеяки"
-	"Ниссин"
-	"Ибуки"
-	"Курама"
-	"Каэде"
-	"Тоне"
-	"Чикума"
-	"Сузуйя"
-	"Юкикадзе"
-	"Ийо"
-	"Бунго"
-}
-
-
+		Takao Aviso Fujisan Momo Kiri Sakura Keyaki Nisshin Ibuki Kurama Kaede Tone Chikuma Suzuya Yukikaze Iyo Bungo
+	}
 	monitor = {
-	"Канко Мару"
-	"Каитен"
-	"Касуга"
-	"Хирю"
-	"Катада"
-	"Сумида"
-	"Цукуси"
-	"Мосун"
-	"Идзу Осима"
-	"Окиноторисима"
-	"Вакканай"
-	"Бива"
-	"Хамана"
-}
+		"Kanko Maru" Kaiten Kasuga Hiryu Katada Sumida Tsukushi Moshun "Izu Oshima" Okinotorishima Wakkanai Biwa Hamana
+	}
+	clipper_transport = {
 
 
-	
-	
+	}
+	steam_transport = {
+
+
+	}
 	commerce_raider = {
-	"Вокоу"
-	"Хиэцу"
-	"Дзегадзи"
-	"Ойта"
-	"Сага"
-	"Симоносеки"
-	"Тоттори"
-	"Фукуи"
-	"Хида"
-	"Кисо"
-	"Акаиси"
-	"Сарома"
-	"Тадзава"
-	"Икэда"
-	"Идзу-ханто"
-}
-
-
+		Wokou Hietsu Joganji Oita Saga Shimonoseki Tottori Fukui Hida Kiso Akaishi Saroma Tazawa Ikeda "Izu-hanto"
+	}
 }

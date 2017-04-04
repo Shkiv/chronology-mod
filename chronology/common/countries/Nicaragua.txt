@@ -101,149 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Христофор Колумб"
-	"Дирианген"
-	"Эмилиано Чаморро"
-	"Фруто Чаморро"
-	"Хосе Нуньес"
-	"Либертад"
-	"Мануэль де ла Серда"
-	"Никарагуа"
-	"Никарао"
-	"Патрисио Ривас"
-}
-
-
+		"Cristуbal Colуn" Diriangйn "Emiliano Chamorro" "Fruto Chamorro" "Josй Nъсez" Libertad "Manuel de la Cerda" Nicaragua Nicarao "Patricio Rivas"
+	}
 	ironclad = {
-	"Карибе"
-	"Косиболька"
-	"Коко"
-	"Эскондидо"
-	"Эрнандес де Кордоба"
-	"Интенденсия"
-	"Принсаполька"
-	"Рио Гранде"
-	"Сан-Хуан"
-	"Ксолотлан"
-}
-
-
+		Caribe Cocibolca Coco Escondido "Hernбndez de Cуrdoba" Intendencia Prinzapolka "Rнo Grande" "San Juan" Xolotlбn
+	}
 	manowar = {
-	"Авансе"
-	"Колон"
-	"Флорида"
-	"Навеганте"
-	"Саграда Фамилия"
-	"Сан-Хосе"
-	"Санта-Мария"
-	"Сантьяго"
-	"Вентосо"
-	"Вентура"
-}
-
-
+		Avance Colуn Florida Navegante "Sagrada Familia" "San Josй" "Santa Marнa" Santiago Ventoso Ventura
+	}
 	cruiser = {
-	"Кариби"
-	"Чоротега"
-	"Дескубридор"
-	"Дириан"
-	"Матагальпа"
-	"Мискито"
-	"Награндано"
-	"Никирано"
-	"Рама"
-	"Сумо"
-}
-
-
+		Caribн Chorotega Descubridor Diriбn Matagalpa Miskito Nagrandano Niquirano Rama Sumo
+	}
 	frigate = {
-	"Боако"
-	"Карасо"
-	"Эстели"
-	"Гранада"
-	"Хинотега"
-	"Леон"
-	"Мадрис"
-	"Манагуа"
-	"Масая"
-	"Сан-Карлос"
-}
-
-
+		Boaco Carazo Estelн Granada Jinotega Leуn Madriz Managua Masaya "San Carlos"
+	}
 	monitor = {
-	"Консепсьон"
-	"Консигина"
-	"Лас Лахас"
-	"Лас Пилас"
-	"Мадерас"
-	"Момбахо"
-	"Момотомбо"
-	"Рота"
-	"Сан-Кристобаль"
-	"Телика"
-}
-
-
+		Concepciуn Consiguina "Las Lajas" "Las Pilas" Maderas Mombacho Momotombo Rota "San Cristуbal" Telica
+	}
 	clipper_transport = {
-	"Беатрис"
-	"Сентроамерикана"
-	"Чокое"
-	"Фауна"
-	"Флора"
-	"Гуардабарранко"
-	"Индеспласабле"
-	"Инмакулада"
-	"Ягуар"
-	"Лаура"
-	"Моно Аранья"
-	"Никарагуита"
-	"Оселоте"
-	"Патрисия"
-	"Ракель"
-	"Сальвахе"
-	"Сирена"
-	"Титанико"
-	"Тортуга"
-	"Тукан"
-}
-
-
+		Beatriz Centroamericana Chocoyo Fauna Flora Guardabarranco Indesplazable Inmaculada Jaguar Laura
+		"Mono Araсa" Nicaragьita Ocelote Patricia Raquel Salvaje Sirena Titбnico Tortuga Tucбn
+	}
 	steam_transport = {
-	"Беатрис"
-	"Сентроамерикана"
-	"Чокое"
-	"Фауна"
-	"Флора"
-	"Гуардабарранко"
-	"Индеспласабле"
-	"Инмакулада"
-	"Ягуар"
-	"Лаура"
-	"Моно Аранья"
-	"Никарагуита"
-	"Оселоте"
-	"Патрисия"
-	"Ракель"
-	"Сальвахе"
-	"Сирена"
-	"Титанико"
-	"Тортуга"
-	"Тукан"
-}
-
-
+		Beatriz Centroamericana Chocoyo Fauna Flora Guardabarranco Indesplazable Inmaculada Jaguar Laura
+		"Mono Araсa" Nicaragьita Ocelote Patricia Raquel Salvaje Sirena Titбnico Tortuga Tucбn
+	}
 	commerce_raider = {
-	"Деструктор"
-	"Ферос"
-	"Инвенсибле"
-	"Морталь"
-	"Нептуно"
-	"Никарагуэнсе"
-	"Република"
-	"Сирена"
-	"Терремото"
-	"Тритон"
-}
-
-
+		Destructor Feroz Invencible Mortal Neptuno Nicaragьense Repъblica Sirena Terremoto Tritуn
+	}
 }

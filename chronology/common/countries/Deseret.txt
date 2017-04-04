@@ -101,138 +101,42 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Бригем Янг"
-	"Джозеф Смит"
-	"Дезерет"
-	"Зион"
-	"Сейнт-Джон"
-	"Сейнт-Петер"
-	"Сейнт-Джеймс"
-	"Сент-Джон"
-	"Морони"
-	"Новый Иерусалим"
-	"Нимрод"
-	"Зедекия"
-	"Гидеон"
-	"Зе Холи Сиприт"
-	"Апостл"
-}
-
-
+		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni
+		"New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+	}
 	ironclad = {
-	"Бригем Янг"
-	"Джозеф Смит"
-	"Дезерет"
-	"Зион"
-	"Сейнт-Джон"
-	"Сейнт-Петер"
-	"Сейнт-Джеймс"
-	"Сент-Джон"
-	"Морони"
-	"Новый Иерусалим"
-	"Нимрод"
-	"Зедекия"
-	"Гидеон"
-	"Зе Холи Сиприт"
-	"Апостл"
-}
+		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni
+		"New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
 
-
+	}
 	manowar = {
-	"Бригем Янг"
-	"Джозеф Смит"
-	"Дезерет"
-	"Зион"
-	"Сейнт-Джон"
-	"Сейнт-Петер"
-	"Сейнт-Джеймс"
-	"Сент-Джон"
-	"Морони"
-	"Новый Иерусалим"
-	"Нимрод"
-	"Зедекия"
-	"Гидеон"
-	"Зе Холи Сиприт"
-	"Апостл"
-}
-
-
+		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni
+		"New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
+	}
 	cruiser = {
-	"Бригем Янг"
-	"Джозеф Смит"
-	"Дезерет"
-	"Зион"
-	"Сейнт-Джон"
-	"Сейнт-Петер"
-	"Сейнт-Джеймс"
-	"Сент-Джон"
-	"Морони"
-	"Новый Иерусалим"
-	"Нимрод"
-	"Зедекия"
-	"Гидеон"
-	"Зе Холи Сиприт"
-	"Апостл"
-}
+		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni
+		"New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
 
-
+	}
 	frigate = {
-	"Бригем Янг"
-	"Джозеф Смит"
-	"Дезерет"
-	"Зион"
-	"Сейнт-Джон"
-	"Сейнт-Петер"
-	"Сейнт-Джеймс"
-	"Сент-Джон"
-	"Морони"
-	"Новый Иерусалим"
-	"Нимрод"
-	"Зедекия"
-	"Гидеон"
-	"Зе Холи Сиприт"
-	"Апостл"
-}
+		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni
+		"New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
 
-
+	}
 	monitor = {
-	"Бригем Янг"
-	"Джозеф Смит"
-	"Дезерет"
-	"Зион"
-	"Сейнт-Джон"
-	"Сейнт-Петер"
-	"Сейнт-Джеймс"
-	"Сент-Джон"
-	"Морони"
-	"Новый Иерусалим"
-	"Нимрод"
-	"Зедекия"
-	"Гидеон"
-	"Зе Холи Сиприт"
-	"Апостл"
-}
+		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni
+		"New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Бригем Янг"
-	"Джозеф Смит"
-	"Дезерет"
-	"Зион"
-	"Сейнт-Джон"
-	"Сейнт-Петер"
-	"Сейнт-Джеймс"
-	"Сент-Джон"
-	"Морони"
-	"Новый Иерусалим"
-	"Нимрод"
-	"Зедекия"
-	"Гидеон"
-	"Зе Холи Сиприт"
-	"Апостл"
-}
+		"Brigham Young" "Joseph Smith" Deseret Zion "St. John the Baptist" "Saint Peter" "Saint James" "Saint John" Moroni
+		"New Jerusalem" Nimrod Zedekiah Gideon "The Holy Spirit" "The Apostle"
 
-
+	}
 }

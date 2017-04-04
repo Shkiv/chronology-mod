@@ -185,103 +185,35 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Франкфурт"
-	"Карл Теодор"
-	"Эрцбишоф"
-	"Курфюрст"
-	"Фульда"
-	"Ханау"
-	"Ашаффенбург"
-	"Вецлар"
-	"Фридрих Юхо"
-	"Хайнрих фон Гагерн"
-}
+		Frankfurt "Karl Theodor" Erzbischof Kurfьrst Fulda Hanau Aschaffenburg Wetzlar "Friedrich Jucho" "Heinrich von Gagern"
 
-
+	}
 	ironclad = {
-	"Франкфурт"
-	"Карл Теодор"
-	"Эрцбишоф"
-	"Курфюрст"
-	"Фульда"
-	"Ханау"
-	"Ашаффенбург"
-	"Вецлар"
-	"Фридрих Юхо"
-	"Хайнрих фон Гагерн"
-}
+		Frankfurt "Karl Theodor" Erzbischof Kurfьrst Fulda Hanau Aschaffenburg Wetzlar "Friedrich Jucho" "Heinrich von Gagern"
 
-
+	}
 	manowar = {
-	"Франкфурт"
-	"Карл Теодор"
-	"Эрцбишоф"
-	"Курфюрст"
-	"Фульда"
-	"Ханау"
-	"Ашаффенбург"
-	"Вецлар"
-	"Фридрих Юхо"
-	"Хайнрих фон Гагерн"
-}
+		Frankfurt "Karl Theodor" Erzbischof Kurfьrst Fulda Hanau Aschaffenburg Wetzlar "Friedrich Jucho" "Heinrich von Gagern"
 
-
+	}
 	cruiser = {
-	"Франкфурт"
-	"Карл Теодор"
-	"Эрцбишоф"
-	"Курфюрст"
-	"Фульда"
-	"Ханау"
-	"Ашаффенбург"
-	"Вецлар"
-	"Фридрих Юхо"
-	"Хайнрих фон Гагерн"
-}
+		Frankfurt "Karl Theodor" Erzbischof Kurfьrst Fulda Hanau Aschaffenburg Wetzlar "Friedrich Jucho" "Heinrich von Gagern"
 
-
+	}
 	frigate = {
-	"Франкфурт"
-	"Карл Теодор"
-	"Эрцбишоф"
-	"Курфюрст"
-	"Фульда"
-	"Ханау"
-	"Ашаффенбург"
-	"Вецлар"
-	"Фридрих Юхо"
-	"Хайнрих фон Гагерн"
-}
-
-
+		Frankfurt "Karl Theodor" Erzbischof Kurfьrst Fulda Hanau Aschaffenburg Wetzlar "Friedrich Jucho" "Heinrich von Gagern"
+	}
 	monitor = {
-	"Франкфурт"
-	"Карл Теодор"
-	"Эрцбишоф"
-	"Курфюрст"
-	"Фульда"
-	"Ханау"
-	"Ашаффенбург"
-	"Вецлар"
-	"Фридрих Юхо"
-	"Хайнрих фон Гагерн"
-}
+		Frankfurt "Karl Theodor" Erzbischof Kurfьrst Fulda Hanau Aschaffenburg Wetzlar "Friedrich Jucho" "Heinrich von Gagern"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Франкфурт"
-	"Карл Теодор"
-	"Эрцбишоф"
-	"Курфюрст"
-	"Фульда"
-	"Ханау"
-	"Ашаффенбург"
-	"Вецлар"
-	"Фридрих Юхо"
-	"Хайнрих фон Гагерн"
-}
+		Frankfurt "Karl Theodor" Erzbischof Kurfьrst Fulda Hanau Aschaffenburg Wetzlar "Friedrich Jucho" "Heinrich von Gagern"
 
-
+	}
 }

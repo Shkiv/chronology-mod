@@ -101,76 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"София"
-	"Варна"
-	"Бургас"
-	"Пловдив"
-	"Стара"
-	"Загора"
-}
-
-
+		Sofia Varna Burgas Plovdiv "Stara Zagora"
+	}
 	ironclad = {
-	"Крум"
-	"Иван"
-	"Александар"
-	"Левски"
-	"Ботев"
-	"Александров"
-}
-
-
+		Krum "Ivan Aleksandar" Levski Botev Aleksandrov
+	}
 	manowar = {
-	"Любен"
-	"Каравелов"
-	"Стойков"
-	"Раковски"
-	"Панайот"
-	"Хитов"
-	"Каравело"
-	"Стефан"
-	"Караджа"
-}
-
-
+		"Lyuben Karavelov" "Stoykov Rakovski" "Panayot Hitov" Karavelo "Stefan Karadzha"
+	}
 	cruiser = {
-	"Марица"
-	"Искар"
-	"Вит"
-	"Осам"
-	"Янтра"
-}
-
-
+		Maritsa Iskar Vit Osam Yantra
+	}
 	frigate = {
-	"Мусала"
-	"Руи"
-	"Беласика"
-	"Вра"
-	"Ботева"
-	"Било"
-}
-
-
+		Musala Ruy Belasica "Vrah Botev" Bilo
+	}
 	monitor = {
-	"Константинов"
-	"Дальчев"
-	"Дебелянов"
-	"Войкиков"
-	"Вазов"
-}
+		Konstantinov Dalchev Debelyanov Voykikov Vazov
+	}
+	clipper_transport = {
 
 
-	
-	
+	}
+	steam_transport = {
+
+
+	}
 	commerce_raider = {
-	"Калиакра"
-	"Враца"
-	"Велико"
-	"Тырново"
-	"Сливен"
-	"Коприва"
-}
-
-
+		Kaliakra Vratsa "Veliko Turnovo" Sliven Kopriva
+	}
 }

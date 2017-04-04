@@ -145,205 +145,35 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Данте Алигьери"
-	"Конти ди Кавур"
-	"Джулио Чезаре"
-	"Леонардо да Винче"
-	"Андреа Дория"
-	"Дуилио"
-	"Франческо Караччиоло"
-	"Литторио"
-	"Рома"
-	"Террибиле"
-	"Формидабиле"
-	"Принчипе ди Кариньяно"
-	"Мессина"
-	"Конте Верде"
-	"Ре д'Италиа"
-	"Ре ди Портогалло"
-	"Реджина Мариа Пиа"
-	"Сан-Мартино"
-	"Кастельфиджаро"
-	"Анкона"
-	"Аффондаторе"
-	"Принчипе Амедео"
-	"Италия"
-	"Лепанто"
-	"Руджеро ди Лауриа"
-	"Франческо Морозини"
-	"Эммануил Филиберт"
-}
-
-
+		"Dante Alighieri" "Conti di Cavour" "Giulio Cesare" "Leonarda da Vince" "Andrea Doria" Duilio "Francesco Caracciolo" Littorio Roma Terribile Formidabile "Principe di Carignano" Messina "Conte Verde" "Re d'Italia" "Re di Portogallo" "Regina Maria Pia" "San Martino" Castelfidardo Ancona Affondatore "Principe Amedeo" Italia Lepanto "Ruggiero di Lauria" "Francesco Morosini" "Emanuele Filiberto"
+	}
+	battleship = {
+		"Caio Duilio" "Enrico Dandolo" Italia Lepanto "Ruggiero di Lauria" "Francesco Morosini" "Andrea Doria" "Re Umberto" Sicilia Sardegna "Ammiraglio di Saint Bon" "Emanuele Filiberto" "Regina Margherita" "Benedetto Brin" "Regina Elena" "Vittorio Emanuele" Napoli Roma
+	}
 	ironclad = {
-	"Данте Алигьери"
-	"Конти ди Кавур"
-	"Джулио Чезаре"
-	"Леонардо да Винче"
-	"Андреа Дория"
-	"Дуилио"
-	"Франческо Караччиоло"
-	"Литторио"
-	"Рома"
-	"Террибиле"
-	"Формидабиле"
-	"Принчипе ди Кариньяно"
-	"Мессина"
-	"Конте Верде"
-	"Ре д'Италиа"
-	"Ре ди Портогалло"
-	"Реджина Мариа Пиа"
-	"Сан-Мартино"
-	"Кастельфиджаро"
-	"Анкона"
-	"Аффондаторе"
-	"Принчипе Амедео"
-	"Италия"
-	"Лепанто"
-	"Руджеро ди Лауриа"
-	"Франческо Морозини"
-	"Эммануил Филиберт"
-}
-
-
+		"Dante Alighieri" "Conti di Cavour" "Giulio Cesare" "Leonarda da Vince" "Andrea Doria" Duilio "Francesco Caracciolo" Littorio Roma Terribile Formidabile "Principe di Carignano" Messina "Conte Verde" "Re d'Italia" "Re di Portogallo" "Regina Maria Pia" "San Martino" Castelfidardo Ancona Affondatore "Principe Amedeo" Italia Lepanto "Ruggiero di Lauria" "Francesco Morosini" "Emanuele Filiberto"
+	}
 	manowar = {
-	"Сицилия"
-	"Сардиния"
-	"Пулья"
-	"Либия"
-	"Кампания"
-	"Базиликата"
-	"Куарто"
-	"Венеция"
-	"Тренто"
-	"Валле д'Аоста"
-	"Пьемонте"
-	"Лигурия"
-	"Ломбардия"
-	"Венето"
-	"Трентино"
-	"Фриули"
-	"Эмилия-Романья"
-	"Тоскана"
-	"Марке"
-	"Умбрия"
-	"Лацио"
-	"Абруццо"
-	"Молизе"
-	"Калабрия"
-}
-
-
+		Sicilia Sardegna Puglia Libia Campania Basilicata Quarto Venezia Trento "Valle d'Aosta" Piemonte Liguria Lombardia Veneto Trentino Friuli "Emilia-Romagna" Toscana Marche Umbria Lazio Abruzzo Molise Calabria
+	}
 	cruiser = {
-	"Марко Поло"
-	"Карло Альберто"
-	"Веттор Пизани"
-	"Дженераль Гарибальди"
-	"Дженераль Сан-Мартин"
-	"Хенераль Бельграно"
-	"Дженераль Пуэйрредон"
-	"Амальфи"
-	"Пиза"
-	"Сан-Джорджо"
-	"Сан-Марко"
-	"Нино Биксио"
-	"Марсала"
-	"Таранто"
-	"Бриндизи"
-	"Бари"
-	"Триесте"
-	"Фиуме"
-	"Гориция"
-	"Пола"
-	"Зара"
-	"Больцано"
-}
-
-
+		"Marco Polo" "Carlo Alberto" "Vettor Pisani" "General Garibaldi" "General San Martin" "General Belgrano" "General Pueyrredon" Amalfi Pisa "San Giorgio" "San Marco" "Nino Bixio" Marsala Taranto Brindisi Bari Trieste Fiume Gorizia Pola Zara Bolzano
+	}
 	frigate = {
-	"Фульмине"
-	"Лампо"
-	"Фреччия"
-	"Дардо"
-	"Страле"
-	"Эуро"
-	"Остро"
-	"Нембо"
-	"Турбине"
-	"Акуилоне"
-	"Бореа"
-	"Дзеффиро"
-	"Эсперо"
-	"Артильере"
-	"Берсальере"
-	"Корацциере"
-	"Гарибальдино"
-	"Гранатmере"
-	"Ланчиере"
-	"Альпино"
-	"Фучильере"
-	"Понтьере"
-	"Аскаро"
-	"Индомито"
-	"Импавидо"
-	"Импетуозо"
-	"Инсидиозо"
-	"Интрэпидо"
-	"Иррекуието"
-	"Ардито"
-	"Арденте"
-	"Аудаче"
-	"Анимозо"
-}
-
-
+		Fulmine Lampo Freccia Dardo Strale Euro Ostro Nembo Turbine Aquilone Borea Zeffiro Espero Artigliere Bersagliere Corazziere Garibaldino
+		Granatiere Lanciere Alpino Fuciliere Pontiere Ascaro Indomito Impavido Impetuoso Insidioso Intrepido Irrequieto Ardito Ardente Audace Animoso
+	}
 	monitor = {
-	"Данте Алигьери"
-	"Конти ди Кавур"
-	"Джулио Чезаре"
-	"Леонардо да Винче"
-	"Андреа Дория"
-	"Дуилио"
-	"Франческо Караччиоло"
-	"Литторио"
-	"Рома"
-	"Террибиле"
-	"Формидабиле"
-	"Принчипе ди Кариньяно"
-	"Мессина"
-	"Конте Верде"
-	"Ре д'Италиа"
-	"Ре ди Портогалло"
-	"Реджина Мариа Пиа"
-	"Сан-Мартино"
-	"Кастельфиджаро"
-	"Анкона"
-	"Аффондаторе"
-	"Принчипе Амедео"
-	"Италия"
-	"Лепанто"
-	"Руджеро ди Лауриа"
-	"Франческо Морозини"
-	"Эммануил Филиберт"
-}
+		"Dante Alighieri" "Conti di Cavour" "Giulio Cesare" "Leonarda da Vince" "Andrea Doria" Duilio "Francesco Caracciolo" Littorio Roma Terribile Formidabile "Principe di Carignano" Messina "Conte Verde" "Re d'Italia" "Re di Portogallo" "Regina Maria Pia" "San Martino" Castelfidardo Ancona Affondatore "Principe Amedeo" Italia Lepanto "Ruggiero di Lauria" "Francesco Morosini" "Emanuele Filiberto"
 
+	}
+	clipper_transport = {
 
-	
-	
+	}
+	steam_transport = {
+
+	}
 	commerce_raider = {
-	"Розолино Пило"
-	"Джузеппе Чезаре Альба"
-	"Пиладе Бронцетти"
-	"Джузеппе Миссори"
-	"Антонио Мосто"
-	"Ипполито Ниево"
-	"Франческо Нулло"
-	"Симоне Скьяффино"
-	"Джузеппе Сиртори"
-	"Джованни Ачерби"
-	"Винченцо Джордано Орсини"
-	"Франческо Стукко"
-}
-
-
+		"Rosolino Pilo" "Giuseppe Cesare Abba" "Pilade Bronzetti" "Giuseppe Missori" "Antonio Mosto" "Ippolito Nievo" "Francesco Nullo" "Simone Schiaffino" "Giuseppe Sirtori" "Giovanni Acerbi" "Vincenzo Giordano Orsini" "Francesco Stucco"
+	}
 }

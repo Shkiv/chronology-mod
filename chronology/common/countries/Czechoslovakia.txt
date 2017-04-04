@@ -7,7 +7,7 @@ party = {
 	end_date = 2000.1.1
 
 	ideology = reactionary
-	
+
 	economic_policy = state_capitalism
 	trade_policy = protectionism
 	religious_policy = moralism
@@ -101,68 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ян Гус"
-	"Карл IV"
-	"Прокоп Великий"
-	"Антон Бернолак"
-	"Людовит Штур"
-}
-
-
+		"Jan Hus" "Karel IV" "Prokop Velikэ" "Anton Bernolбk" "Ludovнt Љtъr"
+	}
 	ironclad = {
-	"Прага"
-	"Брно"
-	"Острава"
-	"Братислава"
-	"Кошице"
-}
-
-
+		Praha Brno Ostrava Bratislava Koљice
+	}
 	manowar = {
-	"Милешовка"
-	"Ловос"
-	"Хазмбрук"
-	"Бескидок"
-	"Герлаховский Штит"
-}
-
-
+		Mileљovka Lovos Hazmburk Beskydok "Gerlachovskэ љtнt"
+	}
 	cruiser = {
-	"Жизера"
-	"Метуже"
-	"Морава"
-	"Грон"
-	"Бодрог"
-}
-
-
+		Jizera Metuje Morava Hron Bodrog
+	}
 	frigate = {
-	"Ян Дисмас Зеленка"
-	"Симон Брикси"
-	"Франтишек Тума"
-	"Ян Шимбрацкий"
-	"Захариаш Заревутиус"
-}
-
-
+		"Jan Dismas Zelenka" "Љimon Brixi" "Frantiљek Tuma" "Jбn Љimbrackэ" "Zachariбљ Zarewutius"
+	}
 	monitor = {
-	"Петр Брандль"
-	"Вацлав Холлар"
-	"Иоганн Ян"
-	"Майстер кошицкего ольтара"
-	"Йозеф Чаучик"
-}
+		"Petr Brandl" "Vбclav Hollar" "Jan Jahn" "Majster koљickйho oltбra" "Josef Czauczik"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Пражский град"
-	"Вышеград"
-	"Збраслав"
-	"Бойницкий змок"
-	"Братиславский град"
-}
-
-
+		"Praћskэ hrad" Vyљehrad Zbraslav "Bojnickэ zбmok" "Bratislavsky hrad"
+	}
 }

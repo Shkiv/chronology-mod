@@ -101,67 +101,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Црна Гора"
-	"Подгорица"
-	"Никшич"
-	"Плевля"
-	"Биело"
-	"Полье"
-}
-
-
+		"Crna Gora" Podgorica Nikљic Pljevlja Bijelo Polje
+	}
 	ironclad = {
-	"Михаил"
-	"Константин Бодин"
-	"Петар II"
-	"Никола"
-}
-
-
+		Mihailo "Konstantin Bodin" "Petar II" Nikola
+	}
 	manowar = {
-	"Марко Иванович"
-	"Иво Визин"
-	"Петар Замбелич"
-	"Матья Змаевич"
-}
-
-
+		"Marko Ivanovic" "Ivo Vizin" "Petar Zambelic" "Matija Zmajevic"
+	}
 	cruiser = {
-	"Бока Которска"
-	"Зета"
-	"Бьелопавличи"
-	"Боботов Кук"
-	"Дурмитор"
-}
-
-
+		"Boka Kotorska" Zeta Bjelopavlici "Bobotov Kuk" Durmitor
+	}
 	frigate = {
-	"Мирко"
-	"Марко"
-	"Витомир"
-	"Борислав"
-	"Йован"
-}
-
-
+		Mirko Marko Vitomir Borislav Jovan
+	}
 	monitor = {
-	"Ольга"
-	"Нина"
-	"Милла"
-	"Дубравка"
-	"Милена"
-}
+		Olga Nina Milla Dubravka Milena
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Мамула"
-	"Превлака"
-	"Свети Марко"
-	"Госпа од Шкрпьела"
-	"Свети Дорде"
-}
-
-
+		Mamula Prevlaka "Sveti Marko" "Gospa od Љkrpjela" "Sveti Рorde"
+	}
 }

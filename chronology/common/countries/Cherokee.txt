@@ -115,173 +115,46 @@ party = {
 
 unit_names = {
 	dreadnought = {
-	"Ани-кутани"
-	"Ахнигатогеви"
-	"Ахнигилохи"
-	"Ахникави"
-	"Ахнисисаква"
-	"Ахнисахони"
-	"Ахниводи"
-	"Ахнивая"
-	"Канати"
-	"Селу"
-	"Тсул Калу"
-	"Оонавейх Унгги"
-	"Ани Юнтикваласки"
-	"Асгая Гигагей"
-	"Инаге-утасвхи"
-	"Анисгая Тсунсди"
-	"Нвдауноле"
-	"Нвдакола"
-	"Нвдаканавога"
-	"Нвдагутиха"
-}
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
 
-
+	}
 	ironclad = {
-	"Ани-кутани"
-	"Ахнигатогеви"
-	"Ахнигилохи"
-	"Ахникави"
-	"Ахнисисаква"
-	"Ахнисахони"
-	"Ахниводи"
-	"Ахнивая"
-	"Канати"
-	"Селу"
-	"Тсул Калу"
-	"Оонавейх Унгги"
-	"Ани Юнтикваласки"
-	"Асгая Гигагей"
-	"Инаге-утасвхи"
-	"Анисгая Тсунсди"
-	"Нвдауноле"
-	"Нвдакола"
-	"Нвдаканавога"
-	"Нвдагутиха"
-}
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
 
-
+	}
 	manowar = {
-	"Ани-кутани"
-	"Ахнигатогеви"
-	"Ахнигилохи"
-	"Ахникави"
-	"Ахнисисаква"
-	"Ахнисахони"
-	"Ахниводи"
-	"Ахнивая"
-	"Канати"
-	"Селу"
-	"Тсул Калу"
-	"Оонавейх Унгги"
-	"Ани Юнтикваласки"
-	"Асгая Гигагей"
-	"Инаге-утасвхи"
-	"Анисгая Тсунсди"
-	"Нвдауноле"
-	"Нвдакола"
-	"Нвдаканавога"
-	"Нвдагутиха"
-}
-
-
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
 	cruiser = {
-	"Ани-кутани"
-	"Ахнигатогеви"
-	"Ахнигилохи"
-	"Ахникави"
-	"Ахнисисаква"
-	"Ахнисахони"
-	"Ахниводи"
-	"Ахнивая"
-	"Канати"
-	"Селу"
-	"Тсул Калу"
-	"Оонавейх Унгги"
-	"Ани Юнтикваласки"
-	"Асгая Гигагей"
-	"Инаге-утасвхи"
-	"Анисгая Тсунсди"
-	"Нвдауноле"
-	"Нвдакола"
-	"Нвдаканавога"
-	"Нвдагутиха"
-}
-
-
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
 	frigate = {
-	"Ани-кутани"
-	"Ахнигатогеви"
-	"Ахнигилохи"
-	"Ахникави"
-	"Ахнисисаква"
-	"Ахнисахони"
-	"Ахниводи"
-	"Ахнивая"
-	"Канати"
-	"Селу"
-	"Тсул Калу"
-	"Оонавейх Унгги"
-	"Ани Юнтикваласки"
-	"Асгая Гигагей"
-	"Инаге-утасвхи"
-	"Анисгая Тсунсди"
-	"Нвдауноле"
-	"Нвдакола"
-	"Нвдаканавога"
-	"Нвдагутиха"
-}
-
-
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
 	monitor = {
-	"Ани-кутани"
-	"Ахнигатогеви"
-	"Ахнигилохи"
-	"Ахникави"
-	"Ахнисисаква"
-	"Ахнисахони"
-	"Ахниводи"
-	"Ахнивая"
-	"Канати"
-	"Селу"
-	"Тсул Калу"
-	"Оонавейх Унгги"
-	"Ани Юнтикваласки"
-	"Асгая Гигагей"
-	"Инаге-утасвхи"
-	"Анисгая Тсунсди"
-	"Нвдауноле"
-	"Нвдакола"
-	"Нвдаканавога"
-	"Нвдагутиха"
-}
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
+	clipper_transport = {
 
+	}
+	steam_transport = {
 
-	
-	
+	}
 	commerce_raider = {
-	"Ани-кутани"
-	"Ахнигатогеви"
-	"Ахнигилохи"
-	"Ахникави"
-	"Ахнисисаква"
-	"Ахнисахони"
-	"Ахниводи"
-	"Ахнивая"
-	"Канати"
-	"Селу"
-	"Тсул Калу"
-	"Оонавейх Унгги"
-	"Ани Юнтикваласки"
-	"Асгая Гигагей"
-	"Инаге-утасвхи"
-	"Анисгая Тсунсди"
-	"Нвдауноле"
-	"Нвдакола"
-	"Нвдаканавога"
-	"Нвдагутиха"
-}
-
-
+		"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" "Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" Kana'ti Selu
+		"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" "I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+		"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	}
 }
