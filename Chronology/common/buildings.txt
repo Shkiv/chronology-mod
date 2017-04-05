@@ -4,7 +4,7 @@
 # Order in here matters for selection priority if icons are overlapping,
 # so leave bases on top
 
-# 
+#
 # cost = x #==> extra construction cost (added to goods cost estimations)
 # time = x #==> number of days to build.
 #
@@ -211,6 +211,8 @@ fuel_refinery = {
 steamer_shipyard = {
 	type = factory
 
+	steam = yes
+
 	on_completion = factory
 	completion_size = 0.2
 	max_level = 99
@@ -230,6 +232,8 @@ steamer_shipyard = {
 
 clipper_shipyard = {
 	type = factory
+
+	sail = yes
 
 	on_completion = factory
 	completion_size = 0.2
@@ -307,7 +311,7 @@ steel_factory = {
 	time = 365
 	visibility = yes
 	onmap = no
-	
+
 	production_type = steel_factory
 	pop_build_factory = yes
 }
@@ -386,7 +390,7 @@ paper_mill = {
 	time = 730
 	visibility = yes
 	onmap = no
-	
+
 	production_type = paper_mill
 	pop_build_factory = yes
 }
@@ -506,8 +510,8 @@ liquor_distillery = {
 	time = 730
 	visibility = yes
 	onmap = no
-	
-	default_enabled = yes	
+
+	default_enabled = yes
 	production_type = liquor_distillery
 	pop_build_factory = yes
 }
@@ -527,7 +531,7 @@ winery = {
 	visibility = yes
 	onmap = no
 
-	default_enabled = yes	
+	default_enabled = yes
 	production_type = winery
 	pop_build_factory = yes
 }
@@ -605,8 +609,8 @@ glass_factory = {
 	time = 365
 	visibility = yes
 	onmap = no
-	
-	default_enabled = yes	
+
+	default_enabled = yes
 	production_type = glass_factory
 	pop_build_factory = yes
 }
@@ -630,7 +634,7 @@ fertilizer_factory = {
 	pop_build_factory = yes
 }
 
-fort = {      
+fort = {
 	type = fort
 	goods_cost =
 	{
@@ -640,7 +644,7 @@ fort = {
 		small_arms = 50
 		artillery = 40
 	}
-	time = 1080 
+	time = 1080
 	visibility = yes
 	onmap = yes
 	max_level = 6
@@ -648,7 +652,7 @@ fort = {
 	fort_level = 1
 }
 
-naval_base = {    
+naval_base = {
 	type = naval_base
 	cost = 15000
 	goods_cost =
@@ -672,8 +676,8 @@ naval_base = {
 	colonial_range = 50
 	local_ship_build = -0.10
 }
-       
-railroad = {   
+
+railroad = {
 	type = infrastructure
 	goods_cost =
 	{
@@ -686,10 +690,10 @@ railroad = {
 	onmap = yes
 	max_level = 8
 	province = yes
-	
+
 	infrastructure = 0.16
 	movement_cost = -0.05
-	
+
 	pop_build_factory = yes
 	spawn_railway_track = yes
 }
